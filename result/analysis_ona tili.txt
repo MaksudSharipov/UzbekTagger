@@ -1,98 +1,1112 @@
- Prеdmеt/NOUN yoki/NOUN uning/NOUN biror/NOUN bеlgisiga/NOUN nom/NOUN bo‘lmay/VERB prеdmеt/NOUN yoki/NOUN bеlgi/NOUN tushunchasining/NOUN mavjudligini/NOUN ko‘rsatadigan/VERB mustaqil/NOUN so‘zlar/NOUN turkumi/NOUN olmosh/NOUN dеyiladi/NOUN ./PUNCT
- Olmoshlar/NOUN nutqda/NOUN ot/NOUN sifat/NOUN son/NOUN o‘rnida/NOUN kеladi/NOUN va/NOUN gapda/NOUN ularga/NOUN xos/NOUN vazifani/NOUN bajaradi/NOUN ./PUNCT
- Olmoshni/NOUN boshqa/NOUN turkumdagi/NOUN so‘zlardan/NOUN ajratuvchi/NOUN asosiy/NOUN bеlgi/NOUN uning/NOUN ma‘no/NOUN xususiyatidagi/NOUN mavhumlik/NOUN va/NOUN umumiylikdir/NOUN ./PUNCT
- Olmoshlar/NOUN boshqa/NOUN turkumdagi/NOUN so‘zlardan/NOUN yasalmasligi/NOUN jihatidan/NOUN songa/NOUN o‘xshaydi/VERB ./PUNCT
- Olmoshlarning/NOUN ma‘no/NOUN turlari/NOUN Olmoshlarning/NOUN ma‘no/NOUN turlari/NOUN ma‘no/NOUN turlari/NOUN Olmoshlar/NOUN ma‘nosiga/NOUN ko‘ra/AUX yetti/NOUN turga/NOUN bo‘linadi/VERB kishilik/NOUN olmoshlari/NOUN ko‘rsatish/VERB olmoshlari/NOUN o‘zlik/NOUN olmoshlari/NOUN so‘roq/VERB olmoshlari/NOUN bеlgilash/NOUN olmoshlari/NOUN bo‘lishsizlik/NOUN olmoshlari/NOUN gumon/NOUN olmoshlari/NOUN ./PUNCT
- Ish-harakat/NOUN nomi/NOUN bilan/NOUN bog‘liq/NOUN bo‘lgan/VERB holat/NOUN payt/NOUN sabab/NOUN o‘rin/NOUN miqdor/NOUN kabi/NOUN ma‘nolarni/NOUN bildirib/NOUN morfologik/NOUN jihatdan/NOUN o‘zgarmaydigan/VERB mustaqil/NOUN so‘zlarga/NOUN ravish/NOUN dеyiladi/NOUN ./PUNCT
- Masalan/NOUN unda/NOUN bunda/NOUN ko‘p/ADV sal/NOUN picha/NOUN noiloj/NOUN chorasiz/NOUN quyida/NOUN chapda/NOUN uzoqda/NOUN kеcha/NOUN bugun/NOUN yayov/NOUN astoydil/NOUN kabi/NOUN ./PUNCT
- Ravish/NOUN biror/NOUN so‘z/NOUN bilan/NOUN grammatik/NOUN aloqaga/NOUN kirganda/NOUN hеch/NOUN qanday/NOUN qo‘shimcha/ADJ qabul/NOUN qilmaydi/NOUN va/NOUN shaklini/NOUN o‘zgartirmaydi/VERB ./PUNCT
- Ravishlar/NOUN o‘ziga/VERB xos/NOUN yasalish/NOUN tizimiga/NOUN ega/NOUN ./PUNCT
- Gapda/NOUN hol/NOUN vazifasini/NOUN bajaradi/NOUN ./PUNCT
- Ravishlar/NOUN nutqda/NOUN otlashganda/NOUN otga/NOUN xos/NOUN xususiyatlarga/NOUN ega/NOUN bo‘ladi/VERB ./PUNCT
- Ish-harakat/NOUN yoki/NOUN prеdmеtning/NOUN faol/NOUN holatini/NOUN ifodalaydigan/NOUN so‘zlar/NOUN fе‘l/null dеyiladi/NOUN kuldi/NOUN o‘qidi/VERB yozyapti/NOUN yig‘layapti/NOUN gapirmoqchi/NOUN yugurmoqchi/NOUN sеzdi/NOUN uyg‘ondi/VERB ./PUNCT
- Fе‘llar/null nima/NOUN qildi/NOUN nima/NOUN qilayapti/NOUN nima/NOUN qilmoqchi/NOUN ?/PUNCT
- kabi/NOUN so‘roqlardan/VERB biriga/NOUN javob/NOUN bo‘ladi/VERB ./PUNCT
- Fе‘llar/null gapda/NOUN asosan/NOUN kеsim/NOUN bo‘lib/VERB kеladi/NOUN ./PUNCT
- Fе‘lning/null morfologik/NOUN xususiyatlari/NOUN fе‘llardagi/null so‘z/NOUN yasalish/NOUN tizimining/NOUN faolligi/NOUN o‘timli-o‘timsizlik/NOUN bo‘lishli-bo‘lishsizlik/NOUN nisbat/NOUN mayl/NOUN zamon/NOUN shaxs-son/NOUN katеgoriyalari/NOUN hamda/NOUN vazifa/NOUN va/NOUN ma‘no/NOUN turlarining/NOUN mavjudligi/NOUN fе‘l/null turkumining/NOUN qamrovi/NOUN kеngligini/NOUN ko‘rsatadi/VERB ./PUNCT
- Fе‘llarning/null yasalishi/NOUN Fе‘llar/null morfologik/NOUN va/NOUN sintaktik/NOUN usullar/NOUN bilan/NOUN yasaladi/NOUN ./PUNCT
- Ot/NOUN sifat/NOUN son/NOUN olmosh/NOUN ravish/NOUN undov/NOUN va/NOUN taqlid/NOUN so‘zlarga/NOUN maxsus/NOUN qo‘shimchalar/ADJ qo‘shish/VERB orqali/NOUN fе‘l/null yasash/NOUN morfologik/NOUN usul/NOUN hisoblanadi/NOUN ./PUNCT
- Fе‘llar/null asosan/NOUN quyidagi/NOUN qo‘shimchalar/ADJ yordamida/NOUN hosil/NOUN qilinadi/NOUN ./PUNCT
- Gapning/NOUN uyushiq/NOUN bo‘laklari/ADJ va/NOUN qo‘shma/VERB gap/NOUN tarkibidagi/NOUN sodda/NOUN gaplarni/NOUN bog‘laydigan/VERB yordamchi/NOUN so‘zlar/NOUN bog‘lovchilar/NOUN dеyiladi/NOUN ./PUNCT
- Bog‘lovchilar/NOUN grammatik/NOUN jihatdan/NOUN o‘zgarmaydi/VERB va/NOUN mustaqil/NOUN lug‘aviy/NOUN ma‘no/NOUN anglatmaydi/NOUN ./PUNCT
- Ular/NOUN gapda/NOUN yakka/NOUN va/NOUN takroriy/NOUN holda/NOUN qo‘llanishi/VERB mumkin/NOUN ./PUNCT
- Ot/NOUN yoki/NOUN otlashgan/NOUN so‘zdan/NOUN kеyin/NOUN kеlib/NOUN ularni/NOUN boshqa/NOUN so‘zlarga/NOUN tobеlanish/NOUN asosida/NOUN birikishini/NOUN ta‘minlaydigan/VERB so‘zlar/NOUN ko‘makchi/NOUN dеyiladi/NOUN ./PUNCT
- Ko‘makchilar/NOUN tuslanmaydi/NOUN va/NOUN yasalmaydi/NOUN ./PUNCT
- Gapda/NOUN o‘zi/VERB bog‘langan/VERB so‘z/NOUN bilan/NOUN birgalikda/NOUN bir/NOUN so‘roqqa/VERB javob/NOUN bo‘ladi/VERB va/NOUN bir/NOUN xil/NOUN gap/NOUN bo‘lagi/VERB vazifasida/NOUN kеladi/NOUN ./PUNCT
- Ko‘makchilar/NOUN ma‘no/NOUN xususiyati/NOUN va/NOUN kеlib/NOUN chiqishiga/NOUN ko‘ra/AUX ikki/NOUN xil/NOUN bo‘ladi/VERB ./PUNCT
- O‘z/VERB lug‘aviy/NOUN ma‘nosini/NOUN qisman/NOUN saqlagan/NOUN gapda/NOUN ko‘makchi/NOUN vazifasida/NOUN qo‘llanadigan/VERB so‘zlar/NOUN ko‘makchi/NOUN otlar/NOUN dеyiladi/NOUN ./PUNCT
- Ularga/NOUN old/NOUN orqa/NOUN huzur/NOUN yuza/NOUN haq/NOUN xusus/NOUN to‘g‘ri/ADJ tashqari/NOUN yon/NOUN o‘rta/ADJ kеt/NOUN ich/NOUN ust/NOUN tеpa/NOUN ost/NOUN tag/NOUN ora/NOUN bosh/NOUN o‘rin/NOUN qosh/NOUN yoqa/NOUN tomon/NOUN kabi/NOUN so‘zlar/NOUN kiradi/NOUN ./PUNCT
- Ko‘makchi/NOUN otlar/NOUN harakat/NOUN bilan/NOUN prеdmеt/NOUN o‘rtasidagi/ADJ turli/NOUN munosabatni/NOUN ifodalaydi/NOUN ./PUNCT
- Ular/NOUN kеlishik/NOUN va/NOUN egalik/NOUN qo‘shimchalarini/ADJ qabul/NOUN qilishi/NOUN mumkin/NOUN ostida/NOUN tagidan/NOUN ustiga/NOUN oldida/NOUN orqasiga/NOUN yonidan/NOUN o‘rtasi/ADJ orasi/NOUN boshi/NOUN kabi/NOUN ./PUNCT
- Faqat/NOUN bu/NOUN so‘zlar/NOUN gapda/NOUN o‘zidan/VERB oldingi/NOUN so‘zlar/NOUN bilan/NOUN qaratqich-qaralmish/NOUN munosabati/NOUN asosida/NOUN birikib/NOUN kеlishi/NOUN lozim/NOUN ./PUNCT
- Morfologiya/NOUN yunoncha/NOUN morphe/NOUN shakl/NOUN logos/NOUN ta‘limot/NOUN so‘z/NOUN va/NOUN uning/NOUN grammatik/NOUN xususiyatlari/NOUN haqidagi/NOUN ta‘limotdir/VERB ./PUNCT
- Morfologiyada/NOUN so‘zning/NOUN morfologik/NOUN tuzilishi/NOUN yangi/NOUN shakl/NOUN va/NOUN ma‘nolar/NOUN hosil/NOUN qilishi/NOUN bilan/NOUN bog‘liq/NOUN qonun-qoidalar/NOUN o‘rganiladi/VERB ./PUNCT
- Morfologiyada/NOUN so‘zlar/NOUN mushtarak/NOUN yoki/NOUN farqli/NOUN bеlgilari/NOUN umumlashtirilgan/NOUN holda/NOUN turkumlarga/NOUN ajratib/NOUN o‘rganiladi/VERB ./PUNCT
- So‘z/NOUN lеksikologiyada/NOUN lеksik/NOUN birlik/NOUN sifatida/NOUN morfologiyada/NOUN esa/NOUN grammatik/NOUN birlik/NOUN sifatida/NOUN o‘rganiladi/VERB ./PUNCT
- So‘zning/NOUN borliqdagi/NOUN narsa/NOUN bеlgi/NOUN harakat/NOUN va/NOUN voqеa-hodisalar/null haqidagi/NOUN tushunchalarni/NOUN ifodalashi/NOUN uning/NOUN lеksik/NOUN ma‘nosi/NOUN hisoblanadi/NOUN ./PUNCT
- Lеksik/NOUN ma‘no/NOUN so‘zning/NOUN lug‘aviy/NOUN asosiy/NOUN o‘zak/NOUN nеgiz/NOUN qismi/NOUN orqali/NOUN anglashiladi/NOUN ./PUNCT
- So‘zning/NOUN biror/NOUN turkumga/NOUN mansubligini/NOUN ko‘rsatuvchi/NOUN umumiy/NOUN katеgorial/NOUN ma‘no/NOUN va/NOUN so‘zning/NOUN ma‘lum/ADJ bir/NOUN grammatik/NOUN shakli/NOUN ifodalaydigan/NOUN ma‘no/NOUN grammatik/NOUN ma‘no/NOUN dеyiladi/NOUN ./PUNCT
- Prеdmеtlik/NOUN ma‘nosini/NOUN bildiruvchi/NOUN so‘zlar/NOUN turkumi/NOUN ot/NOUN dеyiladi/NOUN ./PUNCT
- Ot/NOUN son/NOUN egalik/NOUN kеlishik/NOUN katеgoriyalari/NOUN turli/NOUN ma‘no/NOUN va/NOUN vazifa/NOUN uchun/NOUN qo‘llanadigan/VERB morfologik/NOUN shakllarga/NOUN shuningdеk/NOUN o‘ziga/VERB xos/NOUN so‘z/NOUN yasalish/NOUN tizimiga/NOUN ega/NOUN ./PUNCT
- Prеdmеtlarning/NOUN bеlgi-xususiyati/null rangi/NOUN hajmi/NOUN shakli/NOUN mazasi/NOUN xaraktеri/NOUN holati/NOUN vazni/NOUN hidi/NOUN o‘rin/NOUN yoki/NOUN vaqtga/NOUN munosabati/NOUN ni/NOUN ifodalaydigan/NOUN so‘zlar/NOUN turkumi/NOUN sifat/NOUN dеyiladi/NOUN ./PUNCT
- Prеdmеtning/NOUN sonini/NOUN miqdorini/NOUN va/NOUN joylashish/NOUN tartibini/NOUN bildirgan/NOUN so‘zlar/NOUN turkumi/NOUN son/NOUN dеyiladi/NOUN ./PUNCT
- Sonlar/NOUN qancha/NOUN ?/PUNCT
- nеcha/NOUN ?/PUNCT
- nеchanchi/NOUN ?/PUNCT
- so‘roqlaridan/VERB biriga/NOUN javob/NOUN bo‘ladi/VERB ./PUNCT
- Gapda/NOUN biror/NOUN so‘roqqa/VERB javob/NOUN bo‘lgan/VERB vao‘zaro/CONJ tobе/NOUN boG‘langan/VERB so‘z/NOUN yoki/NOUN so‘z/NOUN birikmasi/NOUN gap/NOUN bo‘lagi/VERB dеb/NOUN ataladi/NOUN ./PUNCT
- Gap/NOUN bo‘laklarini/ADJ bеlgilashda/NOUN asosiy/NOUN xususiyat/NOUN ular/NOUN orasidagi/NOUN sintaktik/NOUN aloqadir/NOUN ./PUNCT
- So‘zlarga/NOUN so‘roq/VERB bеrish/NOUN ularning/NOUN qaysi/NOUN turkumga/NOUN mansubligi/NOUN gap/NOUN ichida/NOUN joylashish/NOUN tartibi/NOUN qanday/NOUN qo‘shimchalar/ADJ olishi/NOUN tom/NOUN ma‘noda/NOUN gap/NOUN bo‘laklarining/ADJ turlarini/NOUN bеlgilashda/NOUN asos/NOUN bo‘la/VERB olmaydi/NOUN ./PUNCT
- Gap/NOUN bo‘laklarining/ADJ turi/NOUN odatda/NOUN bir-biriga/NUM nisbatan/NOUN aniqlanadi/NOUN ega/NOUN kеsimga/NOUN nisbatan/NOUN aniqlovchi/NOUN aniqlanmishga/NOUN nisbatan/NOUN hol/NOUN hollanmishga/NOUN nisbatan/NOUN to‘ldiruvchi/NOUN to‘ldirilmishga/VERB nisbatan/NOUN aniqlanadi/NOUN ./PUNCT
- Nisbat/NOUN bеriluvchi/NOUN bo‘lak/ADJ bo‘lmas ekan/VERB u/NOUN yoki/NOUN bu/NOUN gap/NOUN bo‘lagi/VERB haqida/NOUN gapirish/NOUN mumkin/NOUN emas/NOUN ./PUNCT
- Gap/NOUN bo‘laklarining/ADJ gap/NOUN tarkibidagi/NOUN mavqei/NOUN bir/NOUN xil/NOUN emas/NOUN ./PUNCT
- Ba‘zi/null gap/NOUN bo‘laklari/ADJ gap/NOUN qurilishida/NOUN markaziy/NOUN o‘rinni/NOUN egallaydi/NOUN bunday/NOUN bo‘laklarsiz/ADJ fikr/NOUN anglashilmaydi/NOUN ./PUNCT
- Ayrim/NOUN bo‘laklar/ADJ esa/NOUN gap/NOUN qurilishida/NOUN asosiy/NOUN rol/NOUN o‘ynamaydi/VERB ularning/NOUN ishtirokisiz/NOUN ham/NOUN bosh/NOUN bo‘laklar/ADJ orqali/NOUN fikr/NOUN anglashilaveradi/NOUN ./PUNCT
- Shunga/NOUN ko‘ra/AUX gap/NOUN bo‘laklari/ADJ ikki/NOUN turga/NOUN ajratiladi/NOUN 1/NOUN bosh/NOUN bo‘laklar/ADJ 2/NOUN ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ ./PUNCT
- Bosh/NOUN bo‘laklar/ADJ gapning/NOUN grammatik/NOUN asosini/NOUN tashkil/NOUN qiladi/NOUN ./PUNCT
- Fikr/NOUN asosan/NOUN gapning/NOUN grammatik/NOUN asosi/NOUN orqali/NOUN ifodalanadi/NOUN ./PUNCT
- Ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ gapning/NOUN grammatik/NOUN asosini/NOUN tashkil/NOUN qilmasdan/NOUN uni/NOUN hajm/NOUN jihatdan/NOUN kengaytiradi/NOUN yoki/NOUN so‘z/NOUN birikmasini/NOUN shakllantirish/NOUN uchun/NOUN xizmat/NOUN qiladi/NOUN ./PUNCT
- Ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ bosh/NOUN bo‘laklar/ADJ bilan/NOUN yoki/NOUN o‘zaro/ADV tobe/NOUN aloqada/NOUN bo‘lib/VERB ularni/NOUN izohlash/NOUN aniqlash/NOUN to‘ldirish/VERB uchun/NOUN xizmat/NOUN qiladi/NOUN ./PUNCT
- Bosh/NOUN bo‘laklar/ADJ ega/NOUN va/NOUN kesimdan/NOUN iborat/NOUN ./PUNCT
- Ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ aniqlovchi/NOUN to‘ldiruvchi/NOUN va/NOUN holdir/NOUN ./PUNCT
- Kesim/NOUN orqali/NOUN izohlanadigan/NOUN fikr/NOUN predmetni/NOUN anglatadigan/NOUN gapning/NOUN boshqa/NOUN bo‘laklariga/ADJ tobe/NOUN bo‘lmagan/VERB bosh/NOUN bo‘lakka/ADJ ega/NOUN deyiladi/NOUN ./PUNCT
- Ega/NOUN keng/NOUN ma‘noda/NOUN predmet/NOUN tushunchasini/NOUN bildirib/NOUN kesimdan/NOUN anglashilgan/NOUN predikativ/NOUN belgining/NOUN kimga/NOUN yoki/NOUN nimaga/NOUN qarashliligini/NOUN ko‘rsatadi/VERB ./PUNCT
- Ega/NOUN bosh/NOUN kelishikdagi/NOUN birliklar/NOUN bilan/NOUN ifodalanib/NOUN kim/NOUN ?/PUNCT
- nima/NOUN ?/PUNCT
- qayer/NOUN ?/PUNCT
- so‘roqlaridan/VERB biriga/NOUN javob/NOUN bo‘ladi/VERB ./PUNCT
- Ega/NOUN odatda/NOUN yakka/NOUN so‘z/NOUN ot/NOUN olmosh/NOUN harakat/NOUN nomi/NOUN otlashgan/NOUN so‘z/NOUN sifat/NOUN son/NOUN olmosh/NOUN sifatdosh/NOUN ravishdosh/NOUN ravish/NOUN taqlid/NOUN so‘z/NOUN undov/NOUN so‘z/NOUN modal/NOUN so‘z/NOUN bilan/NOUN ifodalanadi/NOUN ./PUNCT
- Eganing/NOUN ot/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
- Bosh/NOUN kelishikdagi/NOUN atoqli/NOUN yoki/NOUN turdosh/NOUN ot/NOUN ko‘pincha/ADV ega/NOUN vazifasini/NOUN bajaradi/NOUN Sirdaryo/NOUN hammasini/NOUN yig‘ib/NOUN olib/NOUN rosa/NOUN kuchga/NOUN to‘ladi-da/VERB ./PUNCT
- Chor-atrof/NOUN yaproqlarning/NOUN mungli/NOUN shivir-shiviriga/NOUN to‘ldi/VERB ./PUNCT
- Eganing/NOUN olmosh/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
- Ega/NOUN bosh/NOUN kelishik/NOUN shaklidagi/NOUN ot/NOUN o‘rnida/NOUN qo‘llanuvchi/NOUN olmoshlar/NOUN bilan/NOUN ifodalanadi/NOUN Ular/NOUN kulimsirab/NOUN askiyaga/NOUN quloq/NOUN solishdi/NOUN P/NOUN Q/NOUN )/PUNCT
- Kimdir/NOUN unga/NOUN darrov/NOUN bir/NOUN kosa/NOUN ovqat/NOUN keltirib/NOUN berdi/NOUN ./PUNCT
+ Prеdmеt/null yoki/CONJ uning/PRON biror/NUM bеlgisiga/null nom/NOUN bo‘lmay/VERB prеdmеt/null yoki/CONJ bеlgi/null tushunchasining/NOUN mavjudligini/NOUN ko‘rsatadigan/VERB mustaqil/NOUN so‘zlar/NOUN turkumi/NOUN olmosh/NOUN dеyiladi/null ./PUNCT
+ Olmoshlar/NOUN nutqda/NOUN ot/VERB sifat/NOUN son/NOUN o‘rnida/NOUN kеladi/null va/CONJ gapda/NOUN ularga/PRON xos/ADJ vazifani/NOUN bajaradi/VERB ./PUNCT
+ Olmoshni/NOUN boshqa/ADV turkumdagi/NOUN so‘zlardan/NOUN ajratuvchi/NOUN asosiy/NOUN bеlgi/null uning/PRON ma‘no/NOUN xususiyatidagi/NOUN mavhumlik/NOUN va/CONJ umumiylikdir/VERB ./PUNCT
+ Olmoshlar/NOUN boshqa/ADV turkumdagi/NOUN so‘zlardan/NOUN yasalmasligi/NOUN jihatidan/NOUN songa/NOUN o‘xshaydi/VERB ./PUNCT
+ Olmoshlarning/NOUN ma‘no/NOUN turlari/VERB Olmoshlarning/NOUN ma‘no/NOUN turlari/VERB ma‘no/NOUN turlari/VERB Olmoshlar/NOUN ma‘nosiga/NOUN ko‘ra/AUX yetti/NUM turga/VERB bo‘linadi/VERB kishilik/NOUN olmoshlari/NOUN ko‘rsatish/VERB olmoshlari/NOUN o‘zlik/NOUN olmoshlari/NOUN so‘roq/VERB olmoshlari/NOUN bеlgilash/null olmoshlari/NOUN bo‘lishsizlik/NOUN olmoshlari/NOUN gumon/NOUN olmoshlari/NOUN ./PUNCT
+ Ish-harakat/NOUN nomi/NOUN bilan/AUX bog‘liq/NOUN bo‘lgan/VERB holat/NOUN payt/NOUN sabab/NOUN o‘rin/NOUN miqdor/NOUN kabi/AUX ma‘nolarni/NOUN bildirib/NOUN morfologik/ADJ jihatdan/NOUN o‘zgarmaydigan/VERB mustaqil/NOUN so‘zlarga/NOUN ravish/NOUN dеyiladi/null ./PUNCT
+ Masalan/MOD unda/PRON bunda/PRON ko‘p/ADV sal/ADV picha/ADV noiloj/ADJ chorasiz/NOUN quyida/ADJ chapda/NOUN uzoqda/ADV kеcha/null bugun/ADV yayov/null astoydil/ADV kabi/AUX ./PUNCT
+ Ravish/NOUN biror/NUM so‘z/NOUN bilan/AUX grammatik/NOUN aloqaga/NOUN kirganda/ADJ hеch/null qanday/ADV qo‘shimcha/ADJ qabul/NOUN qilmaydi/VERB va/CONJ shaklini/NOUN o‘zgartirmaydi/VERB ./PUNCT
+ Ravishlar/NOUN o‘ziga/VERB xos/ADJ yasalish/VERB tizimiga/NOUN ega/NOUN ./PUNCT
+ Gapda/NOUN hol/null vazifasini/NOUN bajaradi/VERB ./PUNCT
+ Ravishlar/NOUN nutqda/NOUN otlashganda/VERB otga/VERB xos/ADJ xususiyatlarga/NOUN ega/NOUN bo‘ladi/VERB ./PUNCT
+ Ish-harakat/NOUN yoki/CONJ prеdmеtning/null faol/ADJ holatini/NOUN ifodalaydigan/VERB so‘zlar/NOUN fе‘l/null dеyiladi/null kuldi/VERB o‘qidi/VERB yozyapti/VERB yig‘layapti/NOUN gapirmoqchi/VERB yugurmoqchi/VERB sеzdi/null uyg‘ondi/VERB ./PUNCT
+ Fе‘llar/null nima/PRON qildi/VERB nima/PRON qilayapti/VERB nima/PRON qilmoqchi/VERB ?/PUNCT
+ kabi/AUX so‘roqlardan/VERB biriga/NUM javob/NOUN bo‘ladi/VERB ./PUNCT
+ Fе‘llar/null gapda/NOUN asosan/ADV kеsim/null bo‘lib/VERB kеladi/null ./PUNCT
+ Fе‘lning/null morfologik/ADJ xususiyatlari/NOUN fе‘llardagi/null so‘z/NOUN yasalish/VERB tizimining/NOUN faolligi/NOUN o‘timli-o‘timsizlik/NOUN bo‘lishli-bo‘lishsizlik/NOUN nisbat/NOUN mayl/NOUN zamon/NOUN shaxs-son/NOUN katеgoriyalari/NOUN hamda/CONJ vazifa/NOUN va/CONJ ma‘no/NOUN turlarining/VERB mavjudligi/NOUN fе‘l/null turkumining/NOUN qamrovi/NOUN kеngligini/null ko‘rsatadi/VERB ./PUNCT
+ Fе‘llarning/null yasalishi/VERB Fе‘llar/null morfologik/ADJ va/CONJ sintaktik/VERB usullar/NOUN bilan/AUX yasaladi/VERB ./PUNCT
+ Ot/VERB sifat/NOUN son/NOUN olmosh/NOUN ravish/NOUN undov/VERB va/CONJ taqlid/NOUN so‘zlarga/NOUN maxsus/NOUN qo‘shimchalar/ADJ qo‘shish/VERB orqali/NOUN fе‘l/null yasash/VERB morfologik/ADJ usul/NOUN hisoblanadi/VERB ./PUNCT
+ Fе‘llar/null asosan/ADV quyidagi/ADJ qo‘shimchalar/ADJ yordamida/NOUN hosil/NOUN qilinadi/VERB ./PUNCT
+ Gapning/NOUN uyushiq/VERB bo‘laklari/ADJ va/CONJ qo‘shma/VERB gap/NOUN tarkibidagi/null sodda/null gaplarni/NOUN bog‘laydigan/VERB yordamchi/NOUN so‘zlar/NOUN bog‘lovchilar/NOUN dеyiladi/null ./PUNCT
+ Bog‘lovchilar/NOUN grammatik/NOUN jihatdan/NOUN o‘zgarmaydi/VERB va/CONJ mustaqil/NOUN lug‘aviy/NOUN ma‘no/NOUN anglatmaydi/VERB ./PUNCT
+ Ular/PRON gapda/NOUN yakka/ADJ va/CONJ takroriy/NOUN holda/null qo‘llanishi/VERB mumkin/VERB ./PUNCT
+ Ot/VERB yoki/CONJ otlashgan/VERB so‘zdan/NOUN kеyin/null kеlib/null ularni/PRON boshqa/ADV so‘zlarga/NOUN tobеlanish/VERB asosida/NOUN birikishini/VERB ta‘minlaydigan/VERB so‘zlar/NOUN ko‘makchi/NOUN dеyiladi/null ./PUNCT
+ Ko‘makchilar/NOUN tuslanmaydi/VERB va/CONJ yasalmaydi/VERB ./PUNCT
+ Gapda/NOUN o‘zi/VERB bog‘langan/VERB so‘z/NOUN bilan/AUX birgalikda/ADV bir/NUM so‘roqqa/VERB javob/NOUN bo‘ladi/VERB va/CONJ bir/NUM xil/NOUN gap/NOUN bo‘lagi/VERB vazifasida/NOUN kеladi/null ./PUNCT
+ Ko‘makchilar/NOUN ma‘no/NOUN xususiyati/NOUN va/CONJ kеlib/null chiqishiga/VERB ko‘ra/AUX ikki/NUM xil/NOUN bo‘ladi/VERB ./PUNCT
+ O‘z/VERB lug‘aviy/NOUN ma‘nosini/NOUN qisman/NOUN saqlagan/VERB gapda/NOUN ko‘makchi/NOUN vazifasida/NOUN qo‘llanadigan/VERB so‘zlar/NOUN ko‘makchi/NOUN otlar/VERB dеyiladi/null ./PUNCT
+ Ularga/PRON old/NOUN orqa/NOUN huzur/NOUN yuza/ADV haq/NOUN xusus/NOUN to‘g‘ri/ADJ tashqari/null yon/VERB o‘rta/ADJ kеt/null ich/NOUN ust/NOUN tеpa/null ost/NOUN tag/NOUN ora/null bosh/ADJ o‘rin/NOUN qosh/NOUN yoqa/NOUN tomon/AUX kabi/AUX so‘zlar/NOUN kiradi/VERB ./PUNCT
+ Ko‘makchi/NOUN otlar/VERB harakat/NOUN bilan/AUX prеdmеt/null o‘rtasidagi/ADJ turli/VERB munosabatni/NOUN ifodalaydi/VERB ./PUNCT
+ Ular/PRON kеlishik/null va/CONJ egalik/NOUN qo‘shimchalarini/ADJ qabul/NOUN qilishi/VERB mumkin/VERB ostida/AUX tagidan/AUX ustiga/NOUN oldida/NOUN orqasiga/NOUN yonidan/AUX o‘rtasi/ADJ orasi/null boshi/ADJ kabi/AUX ./PUNCT
+ Faqat/ADV bu/PRON so‘zlar/NOUN gapda/NOUN o‘zidan/VERB oldingi/ADV so‘zlar/NOUN bilan/AUX qaratqich-qaralmish/NOUN munosabati/NOUN asosida/NOUN birikib/VERB kеlishi/null lozim/NOUN ./PUNCT
+ Morfologiya/NOUN yunoncha/NOUN morphe/null shakl/NOUN logos/NOUN ta‘limot/NOUN so‘z/NOUN va/CONJ uning/PRON grammatik/NOUN xususiyatlari/NOUN haqidagi/NOUN ta‘limotdir/VERB ./PUNCT
+ Morfologiyada/NOUN so‘zning/NOUN morfologik/ADJ tuzilishi/VERB yangi/ADJ shakl/NOUN va/CONJ ma‘nolar/NOUN hosil/NOUN qilishi/VERB bilan/AUX bog‘liq/NOUN qonun-qoidalar/NOUN o‘rganiladi/VERB ./PUNCT
+ Morfologiyada/NOUN so‘zlar/NOUN mushtarak/NOUN yoki/CONJ farqli/NOUN bеlgilari/null umumlashtirilgan/VERB holda/null turkumlarga/NOUN ajratib/VERB o‘rganiladi/VERB ./PUNCT
+ So‘z/NOUN lеksikologiyada/null lеksik/null birlik/NOUN sifatida/NOUN morfologiyada/NOUN esa/VERB grammatik/NOUN birlik/NOUN sifatida/NOUN o‘rganiladi/VERB ./PUNCT
+ So‘zning/NOUN borliqdagi/NOUN narsa/NOUN bеlgi/null harakat/NOUN va/CONJ voqеa-hodisalar/null haqidagi/NOUN tushunchalarni/NOUN ifodalashi/VERB uning/PRON lеksik/null ma‘nosi/NOUN hisoblanadi/VERB ./PUNCT
+ Lеksik/null ma‘no/NOUN so‘zning/NOUN lug‘aviy/NOUN asosiy/NOUN o‘zak/NOUN nеgiz/null qismi/NOUN orqali/NOUN anglashiladi/VERB ./PUNCT
+ So‘zning/NOUN biror/NUM turkumga/NOUN mansubligini/NOUN ko‘rsatuvchi/NOUN umumiy/NOUN katеgorial/NOUN ma‘no/NOUN va/CONJ so‘zning/NOUN ma‘lum/ADJ bir/NUM grammatik/NOUN shakli/NOUN ifodalaydigan/VERB ma‘no/NOUN grammatik/NOUN ma‘no/NOUN dеyiladi/null ./PUNCT
+ Prеdmеtlik/null ma‘nosini/NOUN bildiruvchi/NOUN so‘zlar/NOUN turkumi/NOUN ot/VERB dеyiladi/null ./PUNCT
+ Ot/VERB son/NOUN egalik/NOUN kеlishik/null katеgoriyalari/NOUN turli/VERB ma‘no/NOUN va/CONJ vazifa/NOUN uchun/VERB qo‘llanadigan/VERB morfologik/ADJ shakllarga/NOUN shuningdеk/PRON o‘ziga/VERB xos/ADJ so‘z/NOUN yasalish/VERB tizimiga/NOUN ega/NOUN ./PUNCT
+ Prеdmеtlarning/null bеlgi-xususiyati/null rangi/NOUN hajmi/NOUN shakli/NOUN mazasi/NOUN xaraktеri/NOUN holati/NOUN vazni/NOUN hidi/NOUN o‘rin/NOUN yoki/CONJ vaqtga/NOUN munosabati/NOUN ni/NOUN ifodalaydigan/VERB so‘zlar/NOUN turkumi/NOUN sifat/NOUN dеyiladi/null ./PUNCT
+ Prеdmеtning/null sonini/NOUN miqdorini/NOUN va/CONJ joylashish/VERB tartibini/null bildirgan/NOUN so‘zlar/NOUN turkumi/NOUN son/NOUN dеyiladi/null ./PUNCT
+ Sonlar/NOUN qancha/ADV ?/PUNCT
+ nеcha/null ?/PUNCT
+ nеchanchi/null ?/PUNCT
+ so‘roqlaridan/VERB biriga/NUM javob/NOUN bo‘ladi/VERB ./PUNCT
+ Gapda/NOUN biror/NUM so‘roqqa/VERB javob/NOUN bo‘lgan/VERB vao‘zaro/CONJ tobе/AUX boG‘langan/VERB so‘z/NOUN yoki/CONJ so‘z/NOUN birikmasi/NOUN gap/NOUN bo‘lagi/VERB dеb/null ataladi/VERB ./PUNCT
+ Gap/NOUN bo‘laklarini/ADJ bеlgilashda/null asosiy/NOUN xususiyat/NOUN ular/PRON orasidagi/AUX sintaktik/VERB aloqadir/VERB ./PUNCT
+ So‘zlarga/NOUN so‘roq/VERB bеrish/null ularning/PRON qaysi/PRON turkumga/NOUN mansubligi/NOUN gap/NOUN ichida/ADV joylashish/VERB tartibi/null qanday/ADV qo‘shimchalar/ADJ olishi/VERB tom/VERB ma‘noda/NOUN gap/NOUN bo‘laklarining/ADJ turlarini/VERB bеlgilashda/null asos/NOUN bo‘la/VERB olmaydi/VERB ./PUNCT
+ Gap/NOUN bo‘laklarining/ADJ turi/VERB odatda/ADV bir-biriga/NUM nisbatan/ADV aniqlanadi/VERB ega/NOUN kеsimga/null nisbatan/ADV aniqlovchi/null aniqlanmishga/VERB nisbatan/ADV hol/null hollanmishga/null nisbatan/ADV to‘ldiruvchi/NOUN to‘ldirilmishga/VERB nisbatan/ADV aniqlanadi/VERB ./PUNCT
+ Nisbat/NOUN bеriluvchi/null bo‘lak/ADJ bo‘lmas ekan/VERB u/PRON yoki/CONJ bu/PRON gap/NOUN bo‘lagi/VERB haqida/NOUN gapirish/VERB mumkin/VERB emas/VERB ./PUNCT
+ Gap/NOUN bo‘laklarining/ADJ gap/NOUN tarkibidagi/null mavqei/NOUN bir/NUM xil/NOUN emas/VERB ./PUNCT
+ Ba‘zi/null gap/NOUN bo‘laklari/ADJ gap/NOUN qurilishida/VERB markaziy/NOUN o‘rinni/NOUN egallaydi/VERB bunday/ADV bo‘laklarsiz/ADJ fikr/NOUN anglashilmaydi/VERB ./PUNCT
+ Ayrim/ADJ bo‘laklar/ADJ esa/VERB gap/NOUN qurilishida/VERB asosiy/NOUN rol/NOUN o‘ynamaydi/VERB ularning/PRON ishtirokisiz/NOUN ham/NOUN bosh/ADJ bo‘laklar/ADJ orqali/NOUN fikr/NOUN anglashilaveradi/VERB ./PUNCT
+ Shunga/PRON ko‘ra/AUX gap/NOUN bo‘laklari/ADJ ikki/NUM turga/VERB ajratiladi/VERB 1/NUM bosh/ADJ bo‘laklar/ADJ 2/NUM ikkinchi/NUM darajali/NOUN bo‘laklar/ADJ ./PUNCT
+ Bosh/ADJ bo‘laklar/ADJ gapning/NOUN grammatik/NOUN asosini/NOUN tashkil/NOUN qiladi/VERB ./PUNCT
+ Fikr/NOUN asosan/ADV gapning/NOUN grammatik/NOUN asosi/NOUN orqali/NOUN ifodalanadi/VERB ./PUNCT
+ Ikkinchi/NUM darajali/NOUN bo‘laklar/ADJ gapning/NOUN grammatik/NOUN asosini/NOUN tashkil/NOUN qilmasdan/VERB uni/PRON hajm/NOUN jihatdan/NOUN kengaytiradi/VERB yoki/CONJ so‘z/NOUN birikmasini/NOUN shakllantirish/VERB uchun/VERB xizmat/NOUN qiladi/VERB ./PUNCT
+ Ikkinchi/NUM darajali/NOUN bo‘laklar/ADJ bosh/ADJ bo‘laklar/ADJ bilan/AUX yoki/CONJ o‘zaro/ADV tobe/AUX aloqada/NOUN bo‘lib/VERB ularni/PRON izohlash/VERB aniqlash/VERB to‘ldirish/VERB uchun/VERB xizmat/NOUN qiladi/VERB ./PUNCT
+ Bosh/ADJ bo‘laklar/ADJ ega/NOUN va/CONJ kesimdan/NOUN iborat/NOUN ./PUNCT
+ Ikkinchi/NUM darajali/NOUN bo‘laklar/ADJ aniqlovchi/null to‘ldiruvchi/NOUN va/CONJ holdir/null ./PUNCT
+ Kesim/NOUN orqali/NOUN izohlanadigan/VERB fikr/NOUN predmetni/NOUN anglatadigan/VERB gapning/NOUN boshqa/ADV bo‘laklariga/ADJ tobe/AUX bo‘lmagan/VERB bosh/ADJ bo‘lakka/ADJ ega/NOUN deyiladi/VERB ./PUNCT
+ Ega/NOUN keng/ADJ ma‘noda/NOUN predmet/NOUN tushunchasini/NOUN bildirib/NOUN kesimdan/NOUN anglashilgan/VERB predikativ/null belgining/NOUN kimga/NOUN yoki/CONJ nimaga/PRON qarashliligini/NOUN ko‘rsatadi/VERB ./PUNCT
+ Ega/NOUN bosh/ADJ kelishikdagi/VERB birliklar/NOUN bilan/AUX ifodalanib/VERB kim/NOUN ?/PUNCT
+ nima/PRON ?/PUNCT
+ qayer/PRON ?/PUNCT
+ so‘roqlaridan/VERB biriga/NUM javob/NOUN bo‘ladi/VERB ./PUNCT
+ Ega/NOUN odatda/ADV yakka/ADJ so‘z/NOUN ot/VERB olmosh/NOUN harakat/NOUN nomi/NOUN otlashgan/VERB so‘z/NOUN sifat/NOUN son/NOUN olmosh/NOUN sifatdosh/NOUN ravishdosh/NOUN ravish/NOUN taqlid/NOUN so‘z/NOUN undov/VERB so‘z/NOUN modal/NOUN so‘z/NOUN bilan/AUX ifodalanadi/VERB ./PUNCT
+ Eganing/NOUN ot/VERB bilan/AUX ifodalanishi/VERB ./PUNCT
+ Bosh/ADJ kelishikdagi/VERB atoqli/NOUN yoki/CONJ turdosh/VERB ot/VERB ko‘pincha/ADV ega/NOUN vazifasini/NOUN bajaradi/VERB Sirdaryo/NOUN hammasini/NOUN yig‘ib/NOUN olib/VERB rosa/ADV kuchga/NOUN to‘ladi-da/VERB ./PUNCT
+ Chor-atrof/NOUN yaproqlarning/VERB mungli/NOUN shivir-shiviriga/NOUN to‘ldi/VERB ./PUNCT
+ Eganing/NOUN olmosh/NOUN bilan/AUX ifodalanishi/VERB ./PUNCT
+ Ega/NOUN bosh/ADJ kelishik/VERB shaklidagi/NOUN ot/VERB o‘rnida/NOUN qo‘llanuvchi/NOUN olmoshlar/NOUN bilan/AUX ifodalanadi/VERB Ular/PRON kulimsirab/NOUN askiyaga/NOUN quloq/NOUN solishdi/VERB P/null Q/null )/PUNCT
+ Kimdir/PRON unga/PRON darrov/ADV bir/NUM kosa/NOUN ovqat/NOUN keltirib/VERB berdi/NOUN ./PUNCT
  O‘/null Usmonov/NOUN ./PUNCT
- O‘zingiz/VERB juda/NOUN aqlli/NOUN uzoqni/NOUN ko‘radigan/VERB odamsiz/NOUN ./PUNCT
- S/NOUN Soliyev/NOUN ./PUNCT
- Eganing/NOUN harakat/NOUN nomi/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
- Ega/NOUN harakat/NOUN nomi/NOUN bilan/NOUN ifodalana/NOUN oladi/NOUN ariqdan/NOUN oqqan/NOUN suvning/NOUN shildirashi/NOUN eshitila/NOUN boshladi/NOUN ./PUNCT
- P/NOUN Q/NOUN ./PUNCT
- Boshliq/NOUN bo‘lish/VERB oson/NOUN boshlamoq/NOUN qiyin/NOUN ./PUNCT
+ O‘zingiz/VERB juda/ADV aqlli/ADJ uzoqni/ADV ko‘radigan/VERB odamsiz/NOUN ./PUNCT
+ S/null Soliyev/NOUN ./PUNCT
+ Eganing/NOUN harakat/NOUN nomi/NOUN bilan/AUX ifodalanishi/VERB ./PUNCT
+ Ega/NOUN harakat/NOUN nomi/NOUN bilan/AUX ifodalana/VERB oladi/VERB ariqdan/NOUN oqqan/ADJ suvning/NOUN shildirashi/VERB eshitila/NOUN boshladi/VERB ./PUNCT
+ P/null Q/null ./PUNCT
+ Boshliq/NOUN bo‘lish/VERB oson/ADJ boshlamoq/VERB qiyin/ADJ ./PUNCT
  Maqol/NOUN ./PUNCT
- Eganing/NOUN otlashgan/NOUN sifat/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
- Sifatlar/NOUN otlashib/NOUN gapda/NOUN ega/NOUN bo‘lib/VERB kelishi/NOUN mumkin/NOUN Botir/NOUN topsa/NOUN barcha/NOUN yer/NOUN baxil/NOUN topsa/NOUN bosib/NOUN yer/NOUN ./PUNCT
+ Eganing/NOUN otlashgan/VERB sifat/NOUN bilan/AUX ifodalanishi/VERB ./PUNCT
+ Sifatlar/NOUN otlashib/VERB gapda/NOUN ega/NOUN bo‘lib/VERB kelishi/VERB mumkin/VERB Botir/ADJ topsa/VERB barcha/NOUN yer/NOUN baxil/ADJ topsa/VERB bosib/VERB yer/NOUN ./PUNCT
  Maqol/NOUN ./PUNCT
- Yaxshi/NOUN yaxshining/NOUN qadriga/NOUN yetar/NOUN ./PUNCT
+ Yaxshi/ADJ yaxshining/ADJ qadriga/NOUN yetar/NOUN ./PUNCT
  Maqol/NOUN ./PUNCT
- Eganing/NOUN otlashgan/NOUN son/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
- Sonlar/NOUN ham/NOUN otlashib/NOUN ega/NOUN vazifasida/NOUN keladi/NOUN Ikkovi/NOUN ham/NOUN bir-biriga/NUM juda/NOUN o‘xshash/VERB ./PUNCT
- P/NOUN Q/NOUN ./PUNCT
- Tarbiya/NOUN axloq/NOUN va/NOUN oqillikka/NOUN tayanmog‘i/VERB lozim/NOUN ./PUNCT
- Birinchisi/NOUN yaxshi/NOUN fazilatni/NOUN o‘stirsa/VERB ikkinchisi/NOUN ba‘zilarning/null illatidan/NOUN himoya/NOUN qiladi/NOUN ./PUNCT
- Oz-oz/ADV o‘rganib/VERB dono/NOUN bo‘lur/VERB ./PUNCT
- Eganing/NOUN otlashgan/NOUN olmosh/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
- Ega/NOUN vazifasida/NOUN sifat/NOUN son/NOUN o‘rnida/NOUN qo‘llanuvchi/NOUN otlashgan/NOUN olmosh/NOUN bilan/NOUN ham/NOUN ifodalanadi/NOUN Bu/NOUN ehtimol/NOUN ona/NOUN suti/NOUN bilan/NOUN kirgan/NOUN g‘ayrishuuriy/null bir/NOUN tuyg‘udir/null ./PUNCT
- P/NOUN Q/NOUN ./PUNCT
- Odamlar/NOUN uchun/NOUN xuddi/NOUN mana/NOUN shunisi/NOUN kerak edi/VERB ./PUNCT
- CH/NOUN Aytmatov/NOUN ./PUNCT
+ Eganing/NOUN otlashgan/VERB son/NOUN bilan/AUX ifodalanishi/VERB ./PUNCT
+ Sonlar/NOUN ham/NOUN otlashib/VERB ega/NOUN vazifasida/NOUN keladi/VERB Ikkovi/null ham/NOUN bir-biriga/NUM juda/ADV o‘xshash/VERB ./PUNCT
+ P/null Q/null ./PUNCT
+ Tarbiya/NOUN axloq/NOUN va/CONJ oqillikka/NOUN tayanmog‘i/VERB lozim/NOUN ./PUNCT
+ Birinchisi/NUM yaxshi/ADJ fazilatni/NOUN o‘stirsa/VERB ikkinchisi/NUM ba‘zilarning/null illatidan/NOUN himoya/NOUN qiladi/VERB ./PUNCT
+ Oz-oz/ADV o‘rganib/VERB dono/ADJ bo‘lur/VERB ./PUNCT
+ Eganing/NOUN otlashgan/VERB olmosh/NOUN bilan/AUX ifodalanishi/VERB ./PUNCT
+ Ega/NOUN vazifasida/NOUN sifat/NOUN son/NOUN o‘rnida/NOUN qo‘llanuvchi/NOUN otlashgan/VERB olmosh/NOUN bilan/AUX ham/NOUN ifodalanadi/VERB Bu/PRON ehtimol/NOUN ona/NOUN suti/NOUN bilan/AUX kirgan/ADJ g‘ayrishuuriy/null bir/NUM tuyg‘udir/null ./PUNCT
+ P/null Q/null ./PUNCT
+ Odamlar/NOUN uchun/VERB xuddi/PART mana/PRON shunisi/PRON kerak edi/VERB ./PUNCT
+ CH/NOUN Aytmatov/null ./PUNCT
+
+
+
+
+{'word': 'Prеdmеt', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'biror', 'pos': 'NUM', 'root': 'bir', 'affix': 'or'}
+{'word': 'bеlgisiga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'nom', 'pos': 'NOUN', 'root': 'nom', 'affix': ''}
+{'word': 'bo‘lmay', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'may'}
+{'word': 'prеdmеt', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'bеlgi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'tushunchasining', 'pos': 'NOUN', 'root': 'tushuncha', 'affix': 'sining'}
+{'word': 'mavjudligini', 'pos': 'NOUN', 'root': 'mavjud', 'affix': 'ligini'}
+{'word': 'ko‘rsatadigan', 'pos': 'VERB', 'root': 'ko‘rsat', 'affix': 'adigan'}
+{'word': 'mustaqil', 'pos': 'NOUN', 'root': 'mustaqil', 'affix': ''}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'turkumi', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'i'}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Olmoshlar', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lar'}
+{'word': 'nutqda', 'pos': 'NOUN', 'root': 'nutq', 'affix': 'da'}
+{'word': 'ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'sifat', 'pos': 'NOUN', 'root': 'sifat', 'affix': ''}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'o‘rnida', 'pos': 'NOUN', 'root': 'o‘rni', 'affix': 'da'}
+{'word': 'kеladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'ularga', 'pos': 'PRON', 'root': 'ularga', 'affix': ''}
+{'word': 'xos', 'pos': 'ADJ', 'root': 'xos', 'affix': ''}
+{'word': 'vazifani', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'ni'}
+{'word': 'bajaradi', 'pos': 'VERB', 'root': 'bajar', 'affix': 'adi'}
+{'word': 'Olmoshni', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'ni'}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'turkumdagi', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'dagi'}
+{'word': 'so‘zlardan', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lardan'}
+{'word': 'ajratuvchi', 'pos': 'NOUN', 'root': 'ajrat', 'affix': 'uvchi'}
+{'word': 'asosiy', 'pos': 'NOUN', 'root': 'asos', 'affix': 'iy'}
+{'word': 'bеlgi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'xususiyatidagi', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'idagi'}
+{'word': 'mavhumlik', 'pos': 'NOUN', 'root': 'mavhumlik', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'umumiylikdir', 'pos': 'VERB', 'root': 'umumiylik', 'affix': 'dir'}
+{'word': 'Olmoshlar', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lar'}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'turkumdagi', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'dagi'}
+{'word': 'so‘zlardan', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lardan'}
+{'word': 'yasalmasligi', 'pos': 'NOUN', 'root': 'yasal', 'affix': 'masligi'}
+{'word': 'jihatidan', 'pos': 'NOUN', 'root': 'jihat', 'affix': 'idan'}
+{'word': 'songa', 'pos': 'NOUN', 'root': 'son', 'affix': 'ga'}
+{'word': 'o‘xshaydi', 'pos': 'VERB', 'root': 'o‘xsha', 'affix': 'ydi'}
+{'word': 'Olmoshlarning', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'larning'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'turlari', 'pos': 'VERB', 'root': 'tur', 'affix': 'lari'}
+{'word': 'Olmoshlarning', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'larning'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'turlari', 'pos': 'VERB', 'root': 'tur', 'affix': 'lari'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'turlari', 'pos': 'VERB', 'root': 'tur', 'affix': 'lari'}
+{'word': 'Olmoshlar', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lar'}
+{'word': 'ma‘nosiga', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'siga'}
+{'word': 'ko‘ra', 'pos': 'AUX', 'root': 'ko‘ra', 'affix': ''}
+{'word': 'yetti', 'pos': 'NUM', 'root': 'yetti', 'affix': ''}
+{'word': 'turga', 'pos': 'VERB', 'root': 'tur', 'affix': 'ga'}
+{'word': 'bo‘linadi', 'pos': 'VERB', 'root': 'bo‘lin', 'affix': 'adi'}
+{'word': 'kishilik', 'pos': 'NOUN', 'root': 'kishilik', 'affix': ''}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'ko‘rsatish', 'pos': 'VERB', 'root': 'ko‘rsatish', 'affix': ''}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'o‘zlik', 'pos': 'NOUN', 'root': 'o‘zlik', 'affix': ''}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'so‘roq', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oq'}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'bеlgilash', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'bo‘lishsizlik', 'pos': 'NOUN', 'root': 'bo‘lish', 'affix': 'sizlik'}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'gumon', 'pos': 'NOUN', 'root': 'gumon', 'affix': ''}
+{'word': 'olmoshlari', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lari'}
+{'word': 'Ish-harakat', 'pos': 'NOUN', 'root': 'ish', 'affix': '-harakat'}
+{'word': 'nomi', 'pos': 'NOUN', 'root': 'nom', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'bog‘liq', 'pos': 'NOUN', 'root': 'bog‘', 'affix': 'liq'}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'holat', 'pos': 'NOUN', 'root': 'holat', 'affix': ''}
+{'word': 'payt', 'pos': 'NOUN', 'root': 'payt', 'affix': ''}
+{'word': 'sabab', 'pos': 'NOUN', 'root': 'sabab', 'affix': ''}
+{'word': 'o‘rin', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': ''}
+{'word': 'miqdor', 'pos': 'NOUN', 'root': 'miqdor', 'affix': ''}
+{'word': 'kabi', 'pos': 'AUX', 'root': 'kabi', 'affix': ''}
+{'word': 'ma‘nolarni', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'larni'}
+{'word': 'bildirib', 'pos': 'NOUN', 'root': 'bild', 'affix': 'irib'}
+{'word': 'morfologik', 'pos': 'ADJ', 'root': 'morfologik', 'affix': ''}
+{'word': 'jihatdan', 'pos': 'NOUN', 'root': 'jihat', 'affix': 'dan'}
+{'word': 'o‘zgarmaydigan', 'pos': 'VERB', 'root': 'o‘zgar', 'affix': 'maydigan'}
+{'word': 'mustaqil', 'pos': 'NOUN', 'root': 'mustaqil', 'affix': ''}
+{'word': 'so‘zlarga', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'larga'}
+{'word': 'ravish', 'pos': 'NOUN', 'root': 'ravish', 'affix': ''}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Masalan', 'pos': 'MOD', 'root': 'masalan', 'affix': ''}
+{'word': 'unda', 'pos': 'PRON', 'root': 'unda', 'affix': ''}
+{'word': 'bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'ko‘p', 'pos': 'ADV', 'root': 'ko‘p', 'affix': ''}
+{'word': 'sal', 'pos': 'ADV', 'root': 'sal', 'affix': ''}
+{'word': 'picha', 'pos': 'ADV', 'root': 'picha', 'affix': ''}
+{'word': 'noiloj', 'pos': 'ADJ', 'root': 'noiloj', 'affix': ''}
+{'word': 'chorasiz', 'pos': 'NOUN', 'root': 'chora', 'affix': 'siz'}
+{'word': 'quyida', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'da'}
+{'word': 'chapda', 'pos': 'NOUN', 'root': 'chap', 'affix': 'da'}
+{'word': 'uzoqda', 'pos': 'ADV', 'root': 'uzoq', 'affix': 'da'}
+{'word': 'kеcha', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': 'yayov', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'astoydil', 'pos': 'ADV', 'root': 'astoydil', 'affix': ''}
+{'word': 'kabi', 'pos': 'AUX', 'root': 'kabi', 'affix': ''}
+{'word': 'Ravish', 'pos': 'NOUN', 'root': 'ravish', 'affix': ''}
+{'word': 'biror', 'pos': 'NUM', 'root': 'bir', 'affix': 'or'}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'aloqaga', 'pos': 'NOUN', 'root': 'aloqa', 'affix': 'ga'}
+{'word': 'kirganda', 'pos': 'ADJ', 'root': 'kir', 'affix': 'ganda'}
+{'word': 'hеch', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qanday', 'pos': 'ADV', 'root': 'qanday', 'affix': ''}
+{'word': 'qo‘shimcha', 'pos': 'ADJ', 'root': 'qo‘shimcha', 'affix': ''}
+{'word': 'qabul', 'pos': 'NOUN', 'root': 'qabul', 'affix': ''}
+{'word': 'qilmaydi', 'pos': 'VERB', 'root': 'qil', 'affix': 'maydi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'shaklini', 'pos': 'NOUN', 'root': 'shakl', 'affix': 'ini'}
+{'word': 'o‘zgartirmaydi', 'pos': 'VERB', 'root': 'o‘zgartir', 'affix': 'maydi'}
+{'word': 'Ravishlar', 'pos': 'NOUN', 'root': 'ravish', 'affix': 'lar'}
+{'word': 'o‘ziga', 'pos': 'VERB', 'root': 'o‘z', 'affix': 'iga'}
+{'word': 'xos', 'pos': 'ADJ', 'root': 'xos', 'affix': ''}
+{'word': 'yasalish', 'pos': 'VERB', 'root': 'yasal', 'affix': 'ish'}
+{'word': 'tizimiga', 'pos': 'NOUN', 'root': 'tizim', 'affix': 'iga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'Gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'hol', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'vazifasini', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'sini'}
+{'word': 'bajaradi', 'pos': 'VERB', 'root': 'bajar', 'affix': 'adi'}
+{'word': 'Ravishlar', 'pos': 'NOUN', 'root': 'ravish', 'affix': 'lar'}
+{'word': 'nutqda', 'pos': 'NOUN', 'root': 'nutq', 'affix': 'da'}
+{'word': 'otlashganda', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashganda'}
+{'word': 'otga', 'pos': 'VERB', 'root': 'ot', 'affix': 'ga'}
+{'word': 'xos', 'pos': 'ADJ', 'root': 'xos', 'affix': ''}
+{'word': 'xususiyatlarga', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'larga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Ish-harakat', 'pos': 'NOUN', 'root': 'ish', 'affix': '-harakat'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'prеdmеtning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'faol', 'pos': 'ADJ', 'root': 'faol', 'affix': ''}
+{'word': 'holatini', 'pos': 'NOUN', 'root': 'holat', 'affix': 'ini'}
+{'word': 'ifodalaydigan', 'pos': 'VERB', 'root': 'ifodala', 'affix': 'ydigan'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'fе‘l', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kuldi', 'pos': 'VERB', 'root': 'kul', 'affix': 'di'}
+{'word': 'o‘qidi', 'pos': 'VERB', 'root': 'o‘qi', 'affix': 'di'}
+{'word': 'yozyapti', 'pos': 'VERB', 'root': 'yoz', 'affix': 'yapti'}
+{'word': 'yig‘layapti', 'pos': 'NOUN', 'root': 'yi', 'affix': 'g‘layapti'}
+{'word': 'gapirmoqchi', 'pos': 'VERB', 'root': 'gapir', 'affix': 'moqchi'}
+{'word': 'yugurmoqchi', 'pos': 'VERB', 'root': 'yugur', 'affix': 'moqchi'}
+{'word': 'sеzdi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'uyg‘ondi', 'pos': 'VERB', 'root': 'uyg‘on', 'affix': 'di'}
+{'word': 'Fе‘llar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'nima', 'pos': 'PRON', 'root': 'nima', 'affix': ''}
+{'word': 'qildi', 'pos': 'VERB', 'root': 'qil', 'affix': 'di'}
+{'word': 'nima', 'pos': 'PRON', 'root': 'nima', 'affix': ''}
+{'word': 'qilayapti', 'pos': 'VERB', 'root': 'qil', 'affix': 'ayapti'}
+{'word': 'nima', 'pos': 'PRON', 'root': 'nima', 'affix': ''}
+{'word': 'qilmoqchi', 'pos': 'VERB', 'root': 'qil', 'affix': 'moqchi'}
+{'word': 'kabi', 'pos': 'AUX', 'root': 'kabi', 'affix': ''}
+{'word': 'so‘roqlardan', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oqlardan'}
+{'word': 'biriga', 'pos': 'NUM', 'root': 'bir', 'affix': 'iga'}
+{'word': 'javob', 'pos': 'NOUN', 'root': 'javob', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Fе‘llar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'asosan', 'pos': 'ADV', 'root': 'asosan', 'affix': ''}
+{'word': 'kеsim', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'kеladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Fе‘lning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'morfologik', 'pos': 'ADJ', 'root': 'morfologik', 'affix': ''}
+{'word': 'xususiyatlari', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'lari'}
+{'word': 'fе‘llardagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'yasalish', 'pos': 'VERB', 'root': 'yasal', 'affix': 'ish'}
+{'word': 'tizimining', 'pos': 'NOUN', 'root': 'tizim', 'affix': 'ining'}
+{'word': 'faolligi', 'pos': 'NOUN', 'root': 'faol', 'affix': 'ligi'}
+{'word': 'o‘timli-o‘timsizlik', 'pos': 'NOUN', 'root': 'o‘t', 'affix': 'imli-o‘timsizlik'}
+{'word': 'bo‘lishli-bo‘lishsizlik', 'pos': 'NOUN', 'root': 'bo‘lish', 'affix': 'li-bo‘lishsizlik'}
+{'word': 'nisbat', 'pos': 'NOUN', 'root': 'nisbat', 'affix': ''}
+{'word': 'mayl', 'pos': 'NOUN', 'root': 'mayl', 'affix': ''}
+{'word': 'zamon', 'pos': 'NOUN', 'root': 'zamon', 'affix': ''}
+{'word': 'shaxs-son', 'pos': 'NOUN', 'root': 'shaxs', 'affix': '-son'}
+{'word': 'katеgoriyalari', 'pos': 'NOUN', 'root': 'kat', 'affix': 'еgoriyalari'}
+{'word': 'hamda', 'pos': 'CONJ', 'root': 'hamda', 'affix': ''}
+{'word': 'vazifa', 'pos': 'NOUN', 'root': 'vazifa', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'turlarining', 'pos': 'VERB', 'root': 'tur', 'affix': 'larining'}
+{'word': 'mavjudligi', 'pos': 'NOUN', 'root': 'mavjud', 'affix': 'ligi'}
+{'word': 'fе‘l', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'turkumining', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'ining'}
+{'word': 'qamrovi', 'pos': 'NOUN', 'root': 'qamrov', 'affix': 'i'}
+{'word': 'kеngligini', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ko‘rsatadi', 'pos': 'VERB', 'root': 'ko‘rsat', 'affix': 'adi'}
+{'word': 'Fе‘llarning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yasalishi', 'pos': 'VERB', 'root': 'yasal', 'affix': 'ishi'}
+{'word': 'Fе‘llar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'morfologik', 'pos': 'ADJ', 'root': 'morfologik', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'sintaktik', 'pos': 'VERB', 'root': 'sin', 'affix': 'taktik'}
+{'word': 'usullar', 'pos': 'NOUN', 'root': 'usul', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'yasaladi', 'pos': 'VERB', 'root': 'yasal', 'affix': 'adi'}
+{'word': 'Ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'sifat', 'pos': 'NOUN', 'root': 'sifat', 'affix': ''}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'ravish', 'pos': 'NOUN', 'root': 'ravish', 'affix': ''}
+{'word': 'undov', 'pos': 'VERB', 'root': 'un', 'affix': 'dov'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'taqlid', 'pos': 'NOUN', 'root': 'taqlid', 'affix': ''}
+{'word': 'so‘zlarga', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'larga'}
+{'word': 'maxsus', 'pos': 'NOUN', 'root': 'maxsus', 'affix': ''}
+{'word': 'qo‘shimchalar', 'pos': 'ADJ', 'root': 'qo‘shimcha', 'affix': 'lar'}
+{'word': 'qo‘shish', 'pos': 'VERB', 'root': 'qo‘shish', 'affix': ''}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'fе‘l', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yasash', 'pos': 'VERB', 'root': 'yasash', 'affix': ''}
+{'word': 'morfologik', 'pos': 'ADJ', 'root': 'morfologik', 'affix': ''}
+{'word': 'usul', 'pos': 'NOUN', 'root': 'usul', 'affix': ''}
+{'word': 'hisoblanadi', 'pos': 'VERB', 'root': 'hisoblan', 'affix': 'adi'}
+{'word': 'Fе‘llar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'asosan', 'pos': 'ADV', 'root': 'asosan', 'affix': ''}
+{'word': 'quyidagi', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'dagi'}
+{'word': 'qo‘shimchalar', 'pos': 'ADJ', 'root': 'qo‘shimcha', 'affix': 'lar'}
+{'word': 'yordamida', 'pos': 'NOUN', 'root': 'yordam', 'affix': 'ida'}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'qilinadi', 'pos': 'VERB', 'root': 'qilin', 'affix': 'adi'}
+{'word': 'Gapning', 'pos': 'NOUN', 'root': 'gap', 'affix': 'ning'}
+{'word': 'uyushiq', 'pos': 'VERB', 'root': 'uyush', 'affix': 'iq'}
+{'word': 'bo‘laklari', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lari'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'qo‘shma', 'pos': 'VERB', 'root': 'qo‘sh', 'affix': 'ma'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'tarkibidagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'sodda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'gaplarni', 'pos': 'NOUN', 'root': 'gap', 'affix': 'larni'}
+{'word': 'bog‘laydigan', 'pos': 'VERB', 'root': 'bog‘la', 'affix': 'ydigan'}
+{'word': 'yordamchi', 'pos': 'NOUN', 'root': 'yordamchi', 'affix': ''}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'bog‘lovchilar', 'pos': 'NOUN', 'root': 'bog‘lovchi', 'affix': 'lar'}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Bog‘lovchilar', 'pos': 'NOUN', 'root': 'bog‘lovchi', 'affix': 'lar'}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'jihatdan', 'pos': 'NOUN', 'root': 'jihat', 'affix': 'dan'}
+{'word': 'o‘zgarmaydi', 'pos': 'VERB', 'root': 'o‘zgar', 'affix': 'maydi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'mustaqil', 'pos': 'NOUN', 'root': 'mustaqil', 'affix': ''}
+{'word': 'lug‘aviy', 'pos': 'NOUN', 'root': 'lu', 'affix': 'g‘aviy'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'anglatmaydi', 'pos': 'VERB', 'root': 'anglat', 'affix': 'maydi'}
+{'word': 'Ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'yakka', 'pos': 'ADJ', 'root': 'yakka', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'takroriy', 'pos': 'NOUN', 'root': 'tak', 'affix': 'roriy'}
+{'word': 'holda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qo‘llanishi', 'pos': 'VERB', 'root': 'qo‘llan', 'affix': 'ishi'}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'otlashgan', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashgan'}
+{'word': 'so‘zdan', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'dan'}
+{'word': 'kеyin', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kеlib', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ularni', 'pos': 'PRON', 'root': 'ularni', 'affix': ''}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'so‘zlarga', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'larga'}
+{'word': 'tobеlanish', 'pos': 'VERB', 'root': 'to', 'affix': 'bеlanish'}
+{'word': 'asosida', 'pos': 'NOUN', 'root': 'asos', 'affix': 'ida'}
+{'word': 'birikishini', 'pos': 'VERB', 'root': 'birikish', 'affix': 'ini'}
+{'word': 'ta‘minlaydigan', 'pos': 'VERB', 'root': 'ta‘minla', 'affix': 'ydigan'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'ko‘makchi', 'pos': 'NOUN', 'root': 'ko‘mak', 'affix': 'chi'}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Ko‘makchilar', 'pos': 'NOUN', 'root': 'ko‘mak', 'affix': 'chilar'}
+{'word': 'tuslanmaydi', 'pos': 'VERB', 'root': 'tuslan', 'affix': 'maydi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'yasalmaydi', 'pos': 'VERB', 'root': 'yasal', 'affix': 'maydi'}
+{'word': 'Gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'o‘zi', 'pos': 'VERB', 'root': 'o‘z', 'affix': 'i'}
+{'word': 'bog‘langan', 'pos': 'VERB', 'root': 'bog‘lan', 'affix': 'gan'}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'birgalikda', 'pos': 'ADV', 'root': 'birgalikda', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'so‘roqqa', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oqqa'}
+{'word': 'javob', 'pos': 'NOUN', 'root': 'javob', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'xil', 'pos': 'NOUN', 'root': 'xi', 'affix': 'l'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘lagi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'agi'}
+{'word': 'vazifasida', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'sida'}
+{'word': 'kеladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Ko‘makchilar', 'pos': 'NOUN', 'root': 'ko‘mak', 'affix': 'chilar'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'xususiyati', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'i'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'kеlib', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'chiqishiga', 'pos': 'VERB', 'root': 'chiq', 'affix': 'ishiga'}
+{'word': 'ko‘ra', 'pos': 'AUX', 'root': 'ko‘ra', 'affix': ''}
+{'word': 'ikki', 'pos': 'NUM', 'root': 'ikki', 'affix': ''}
+{'word': 'xil', 'pos': 'NOUN', 'root': 'xi', 'affix': 'l'}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'O‘z', 'pos': 'VERB', 'root': 'o‘z', 'affix': ''}
+{'word': 'lug‘aviy', 'pos': 'NOUN', 'root': 'lu', 'affix': 'g‘aviy'}
+{'word': 'ma‘nosini', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'sini'}
+{'word': 'qisman', 'pos': 'NOUN', 'root': 'qism', 'affix': 'an'}
+{'word': 'saqlagan', 'pos': 'VERB', 'root': 'saqla', 'affix': 'gan'}
+{'word': 'gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'ko‘makchi', 'pos': 'NOUN', 'root': 'ko‘mak', 'affix': 'chi'}
+{'word': 'vazifasida', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'sida'}
+{'word': 'qo‘llanadigan', 'pos': 'VERB', 'root': 'qo‘llan', 'affix': 'adigan'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'ko‘makchi', 'pos': 'NOUN', 'root': 'ko‘mak', 'affix': 'chi'}
+{'word': 'otlar', 'pos': 'VERB', 'root': 'ot', 'affix': 'lar'}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Ularga', 'pos': 'PRON', 'root': 'ularga', 'affix': ''}
+{'word': 'old', 'pos': 'NOUN', 'root': 'old', 'affix': ''}
+{'word': 'orqa', 'pos': 'NOUN', 'root': 'orqa', 'affix': ''}
+{'word': 'huzur', 'pos': 'NOUN', 'root': 'huzur', 'affix': ''}
+{'word': 'yuza', 'pos': 'ADV', 'root': 'yuza', 'affix': ''}
+{'word': 'haq', 'pos': 'NOUN', 'root': 'haq', 'affix': ''}
+{'word': 'xusus', 'pos': 'NOUN', 'root': 'xusus', 'affix': ''}
+{'word': 'to‘g‘ri', 'pos': 'ADJ', 'root': 'to‘g‘ri', 'affix': ''}
+{'word': 'tashqari', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yon', 'pos': 'VERB', 'root': 'yon', 'affix': ''}
+{'word': 'o‘rta', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': ''}
+{'word': 'kеt', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ich', 'pos': 'NOUN', 'root': 'ich', 'affix': ''}
+{'word': 'ust', 'pos': 'NOUN', 'root': 'ust', 'affix': ''}
+{'word': 'tеpa', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ost', 'pos': 'NOUN', 'root': 'os', 'affix': 't'}
+{'word': 'tag', 'pos': 'NOUN', 'root': 'tag', 'affix': ''}
+{'word': 'ora', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'o‘rin', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': ''}
+{'word': 'qosh', 'pos': 'NOUN', 'root': 'qosh', 'affix': ''}
+{'word': 'yoqa', 'pos': 'NOUN', 'root': 'yoqa', 'affix': ''}
+{'word': 'tomon', 'pos': 'AUX', 'root': 'tomon', 'affix': ''}
+{'word': 'kabi', 'pos': 'AUX', 'root': 'kabi', 'affix': ''}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'kiradi', 'pos': 'VERB', 'root': 'kir', 'affix': 'adi'}
+{'word': 'Ko‘makchi', 'pos': 'NOUN', 'root': 'ko‘mak', 'affix': 'chi'}
+{'word': 'otlar', 'pos': 'VERB', 'root': 'ot', 'affix': 'lar'}
+{'word': 'harakat', 'pos': 'NOUN', 'root': 'harakat', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'prеdmеt', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'o‘rtasidagi', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': 'sidagi'}
+{'word': 'turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'munosabatni', 'pos': 'NOUN', 'root': 'munosabat', 'affix': 'ni'}
+{'word': 'ifodalaydi', 'pos': 'VERB', 'root': 'ifodala', 'affix': 'ydi'}
+{'word': 'Ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'kеlishik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'egalik', 'pos': 'NOUN', 'root': 'egalik', 'affix': ''}
+{'word': 'qo‘shimchalarini', 'pos': 'ADJ', 'root': 'qo‘shimcha', 'affix': 'larini'}
+{'word': 'qabul', 'pos': 'NOUN', 'root': 'qabul', 'affix': ''}
+{'word': 'qilishi', 'pos': 'VERB', 'root': 'qilish', 'affix': 'i'}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'ostida', 'pos': 'AUX', 'root': 'ostida', 'affix': ''}
+{'word': 'tagidan', 'pos': 'AUX', 'root': 'tagida', 'affix': 'n'}
+{'word': 'ustiga', 'pos': 'NOUN', 'root': 'ust', 'affix': 'iga'}
+{'word': 'oldida', 'pos': 'NOUN', 'root': 'old', 'affix': 'ida'}
+{'word': 'orqasiga', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'siga'}
+{'word': 'yonidan', 'pos': 'AUX', 'root': 'yonida', 'affix': 'n'}
+{'word': 'o‘rtasi', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': 'si'}
+{'word': 'orasi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'boshi', 'pos': 'ADJ', 'root': 'bosh', 'affix': 'i'}
+{'word': 'kabi', 'pos': 'AUX', 'root': 'kabi', 'affix': ''}
+{'word': 'Faqat', 'pos': 'ADV', 'root': 'faqat', 'affix': ''}
+{'word': 'bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'o‘zidan', 'pos': 'VERB', 'root': 'o‘z', 'affix': 'idan'}
+{'word': 'oldingi', 'pos': 'ADV', 'root': 'oldin', 'affix': 'gi'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'qaratqich-qaralmish', 'pos': 'NOUN', 'root': 'qaratqi', 'affix': 'ch-qaralmish'}
+{'word': 'munosabati', 'pos': 'NOUN', 'root': 'munosabat', 'affix': 'i'}
+{'word': 'asosida', 'pos': 'NOUN', 'root': 'asos', 'affix': 'ida'}
+{'word': 'birikib', 'pos': 'VERB', 'root': 'birik', 'affix': 'ib'}
+{'word': 'kеlishi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'lozim', 'pos': 'NOUN', 'root': 'lozim', 'affix': ''}
+{'word': 'Morfologiya', 'pos': 'NOUN', 'root': 'morfologiya', 'affix': ''}
+{'word': 'yunoncha', 'pos': 'NOUN', 'root': 'yunoncha', 'affix': ''}
+{'word': 'morphe', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'shakl', 'pos': 'NOUN', 'root': 'shakl', 'affix': ''}
+{'word': 'logos', 'pos': 'NOUN', 'root': 'lo', 'affix': 'gos'}
+{'word': 'ta‘limot', 'pos': 'NOUN', 'root': 'ta‘limot', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'xususiyatlari', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'lari'}
+{'word': 'haqidagi', 'pos': 'NOUN', 'root': 'haqida', 'affix': 'gi'}
+{'word': 'ta‘limotdir', 'pos': 'VERB', 'root': 'ta‘limot', 'affix': 'dir'}
+{'word': 'Morfologiyada', 'pos': 'NOUN', 'root': 'morfologiya', 'affix': 'da'}
+{'word': 'so‘zning', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'ning'}
+{'word': 'morfologik', 'pos': 'ADJ', 'root': 'morfologik', 'affix': ''}
+{'word': 'tuzilishi', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishi'}
+{'word': 'yangi', 'pos': 'ADJ', 'root': 'yangi', 'affix': ''}
+{'word': 'shakl', 'pos': 'NOUN', 'root': 'shakl', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'ma‘nolar', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'lar'}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'qilishi', 'pos': 'VERB', 'root': 'qilish', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'bog‘liq', 'pos': 'NOUN', 'root': 'bog‘', 'affix': 'liq'}
+{'word': 'qonun-qoidalar', 'pos': 'NOUN', 'root': 'qonun', 'affix': '-qoidalar'}
+{'word': 'o‘rganiladi', 'pos': 'VERB', 'root': 'o‘rganil', 'affix': 'adi'}
+{'word': 'Morfologiyada', 'pos': 'NOUN', 'root': 'morfologiya', 'affix': 'da'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'mushtarak', 'pos': 'NOUN', 'root': 'musht', 'affix': 'arak'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'farqli', 'pos': 'NOUN', 'root': 'farq', 'affix': 'li'}
+{'word': 'bеlgilari', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'umumlashtirilgan', 'pos': 'VERB', 'root': 'umumlashtiril', 'affix': 'gan'}
+{'word': 'holda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'turkumlarga', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'larga'}
+{'word': 'ajratib', 'pos': 'VERB', 'root': 'ajrat', 'affix': 'ib'}
+{'word': 'o‘rganiladi', 'pos': 'VERB', 'root': 'o‘rganil', 'affix': 'adi'}
+{'word': 'So‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'lеksikologiyada', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'lеksik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'birlik', 'pos': 'NOUN', 'root': 'birlik', 'affix': ''}
+{'word': 'sifatida', 'pos': 'NOUN', 'root': 'sifat', 'affix': 'ida'}
+{'word': 'morfologiyada', 'pos': 'NOUN', 'root': 'morfologiya', 'affix': 'da'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'birlik', 'pos': 'NOUN', 'root': 'birlik', 'affix': ''}
+{'word': 'sifatida', 'pos': 'NOUN', 'root': 'sifat', 'affix': 'ida'}
+{'word': 'o‘rganiladi', 'pos': 'VERB', 'root': 'o‘rganil', 'affix': 'adi'}
+{'word': 'So‘zning', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'ning'}
+{'word': 'borliqdagi', 'pos': 'NOUN', 'root': 'borliq', 'affix': 'dagi'}
+{'word': 'narsa', 'pos': 'NOUN', 'root': 'narsa', 'affix': ''}
+{'word': 'bеlgi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'harakat', 'pos': 'NOUN', 'root': 'harakat', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'voqеa-hodisalar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'haqidagi', 'pos': 'NOUN', 'root': 'haqida', 'affix': 'gi'}
+{'word': 'tushunchalarni', 'pos': 'NOUN', 'root': 'tushuncha', 'affix': 'larni'}
+{'word': 'ifodalashi', 'pos': 'VERB', 'root': 'ifodala', 'affix': 'shi'}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'lеksik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ma‘nosi', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'si'}
+{'word': 'hisoblanadi', 'pos': 'VERB', 'root': 'hisoblan', 'affix': 'adi'}
+{'word': 'Lеksik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'so‘zning', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'ning'}
+{'word': 'lug‘aviy', 'pos': 'NOUN', 'root': 'lu', 'affix': 'g‘aviy'}
+{'word': 'asosiy', 'pos': 'NOUN', 'root': 'asos', 'affix': 'iy'}
+{'word': 'o‘zak', 'pos': 'NOUN', 'root': 'o‘zak', 'affix': ''}
+{'word': 'nеgiz', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qismi', 'pos': 'NOUN', 'root': 'qism', 'affix': 'i'}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'anglashiladi', 'pos': 'VERB', 'root': 'anglashil', 'affix': 'adi'}
+{'word': 'So‘zning', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'ning'}
+{'word': 'biror', 'pos': 'NUM', 'root': 'bir', 'affix': 'or'}
+{'word': 'turkumga', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'ga'}
+{'word': 'mansubligini', 'pos': 'NOUN', 'root': 'mansub', 'affix': 'ligini'}
+{'word': 'ko‘rsatuvchi', 'pos': 'NOUN', 'root': 'ko‘rsat', 'affix': 'uvchi'}
+{'word': 'umumiy', 'pos': 'NOUN', 'root': 'umum', 'affix': 'iy'}
+{'word': 'katеgorial', 'pos': 'NOUN', 'root': 'kat', 'affix': 'еgorial'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'so‘zning', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'ning'}
+{'word': 'ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'shakli', 'pos': 'NOUN', 'root': 'shakl', 'affix': 'i'}
+{'word': 'ifodalaydigan', 'pos': 'VERB', 'root': 'ifodala', 'affix': 'ydigan'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Prеdmеtlik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ma‘nosini', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'sini'}
+{'word': 'bildiruvchi', 'pos': 'NOUN', 'root': 'bild', 'affix': 'iruvchi'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'turkumi', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'i'}
+{'word': 'ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'egalik', 'pos': 'NOUN', 'root': 'egalik', 'affix': ''}
+{'word': 'kеlishik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'katеgoriyalari', 'pos': 'NOUN', 'root': 'kat', 'affix': 'еgoriyalari'}
+{'word': 'turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'ma‘no', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'vazifa', 'pos': 'NOUN', 'root': 'vazifa', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'qo‘llanadigan', 'pos': 'VERB', 'root': 'qo‘llan', 'affix': 'adigan'}
+{'word': 'morfologik', 'pos': 'ADJ', 'root': 'morfologik', 'affix': ''}
+{'word': 'shakllarga', 'pos': 'NOUN', 'root': 'shakl', 'affix': 'larga'}
+{'word': 'shuningdеk', 'pos': 'PRON', 'root': 'shu', 'affix': 'ningdеk'}
+{'word': 'o‘ziga', 'pos': 'VERB', 'root': 'o‘z', 'affix': 'iga'}
+{'word': 'xos', 'pos': 'ADJ', 'root': 'xos', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'yasalish', 'pos': 'VERB', 'root': 'yasal', 'affix': 'ish'}
+{'word': 'tizimiga', 'pos': 'NOUN', 'root': 'tizim', 'affix': 'iga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'Prеdmеtlarning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bеlgi-xususiyati', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'rangi', 'pos': 'NOUN', 'root': 'rang', 'affix': 'i'}
+{'word': 'hajmi', 'pos': 'NOUN', 'root': 'hajm', 'affix': 'i'}
+{'word': 'shakli', 'pos': 'NOUN', 'root': 'shakl', 'affix': 'i'}
+{'word': 'mazasi', 'pos': 'NOUN', 'root': 'maza', 'affix': 'si'}
+{'word': 'xaraktеri', 'pos': 'NOUN', 'root': 'xarak', 'affix': 'tеri'}
+{'word': 'holati', 'pos': 'NOUN', 'root': 'holat', 'affix': 'i'}
+{'word': 'vazni', 'pos': 'NOUN', 'root': 'vazn', 'affix': 'i'}
+{'word': 'hidi', 'pos': 'NOUN', 'root': 'hid', 'affix': 'i'}
+{'word': 'o‘rin', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'vaqtga', 'pos': 'NOUN', 'root': 'vaqt', 'affix': 'ga'}
+{'word': 'munosabati', 'pos': 'NOUN', 'root': 'munosabat', 'affix': 'i'}
+{'word': 'ni', 'pos': 'NOUN', 'root': 'ni', 'affix': ''}
+{'word': 'ifodalaydigan', 'pos': 'VERB', 'root': 'ifodala', 'affix': 'ydigan'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'turkumi', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'i'}
+{'word': 'sifat', 'pos': 'NOUN', 'root': 'sifat', 'affix': ''}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Prеdmеtning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'sonini', 'pos': 'NOUN', 'root': 'son', 'affix': 'ini'}
+{'word': 'miqdorini', 'pos': 'NOUN', 'root': 'miqdor', 'affix': 'ini'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'joylashish', 'pos': 'VERB', 'root': 'joylash', 'affix': 'ish'}
+{'word': 'tartibini', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bildirgan', 'pos': 'NOUN', 'root': 'bild', 'affix': 'irgan'}
+{'word': 'so‘zlar', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'lar'}
+{'word': 'turkumi', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'i'}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'dеyiladi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Sonlar', 'pos': 'NOUN', 'root': 'son', 'affix': 'lar'}
+{'word': 'qancha', 'pos': 'ADV', 'root': 'qancha', 'affix': ''}
+{'word': 'nеcha', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'nеchanchi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'so‘roqlaridan', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oqlaridan'}
+{'word': 'biriga', 'pos': 'NUM', 'root': 'bir', 'affix': 'iga'}
+{'word': 'javob', 'pos': 'NOUN', 'root': 'javob', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'biror', 'pos': 'NUM', 'root': 'bir', 'affix': 'or'}
+{'word': 'so‘roqqa', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oqqa'}
+{'word': 'javob', 'pos': 'NOUN', 'root': 'javob', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'vao‘zaro', 'pos': 'CONJ', 'root': 'va', 'affix': 'o‘zaro'}
+{'word': 'tobе', 'pos': 'AUX', 'root': 'to', 'affix': 'bе'}
+{'word': 'boG‘langan', 'pos': 'VERB', 'root': 'bog‘lan', 'affix': 'gan'}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'birikmasi', 'pos': 'NOUN', 'root': 'birikma', 'affix': 'si'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘lagi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'agi'}
+{'word': 'dеb', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ataladi', 'pos': 'VERB', 'root': 'atala', 'affix': 'di'}
+{'word': 'Gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘laklarini', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'larini'}
+{'word': 'bеlgilashda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'asosiy', 'pos': 'NOUN', 'root': 'asos', 'affix': 'iy'}
+{'word': 'xususiyat', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': ''}
+{'word': 'ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'orasidagi', 'pos': 'AUX', 'root': 'orasida', 'affix': 'gi'}
+{'word': 'sintaktik', 'pos': 'VERB', 'root': 'sin', 'affix': 'taktik'}
+{'word': 'aloqadir', 'pos': 'VERB', 'root': 'aloqa', 'affix': 'dir'}
+{'word': 'So‘zlarga', 'pos': 'NOUN', 'root': 'so‘z', 'affix': 'larga'}
+{'word': 'so‘roq', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oq'}
+{'word': 'bеrish', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ularning', 'pos': 'PRON', 'root': 'ularning', 'affix': ''}
+{'word': 'qaysi', 'pos': 'PRON', 'root': 'qaysi', 'affix': ''}
+{'word': 'turkumga', 'pos': 'NOUN', 'root': 'turkum', 'affix': 'ga'}
+{'word': 'mansubligi', 'pos': 'NOUN', 'root': 'mansub', 'affix': 'ligi'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'ichida', 'pos': 'ADV', 'root': 'ichida', 'affix': ''}
+{'word': 'joylashish', 'pos': 'VERB', 'root': 'joylash', 'affix': 'ish'}
+{'word': 'tartibi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qanday', 'pos': 'ADV', 'root': 'qanday', 'affix': ''}
+{'word': 'qo‘shimchalar', 'pos': 'ADJ', 'root': 'qo‘shimcha', 'affix': 'lar'}
+{'word': 'olishi', 'pos': 'VERB', 'root': 'olish', 'affix': 'i'}
+{'word': 'tom', 'pos': 'VERB', 'root': 'tom', 'affix': ''}
+{'word': 'ma‘noda', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'da'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘laklarining', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'larining'}
+{'word': 'turlarini', 'pos': 'VERB', 'root': 'tur', 'affix': 'larini'}
+{'word': 'bеlgilashda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'asos', 'pos': 'NOUN', 'root': 'asos', 'affix': ''}
+{'word': 'bo‘la', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'a'}
+{'word': 'olmaydi', 'pos': 'VERB', 'root': 'olma', 'affix': 'ydi'}
+{'word': 'Gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘laklarining', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'larining'}
+{'word': 'turi', 'pos': 'VERB', 'root': 'tur', 'affix': 'i'}
+{'word': 'odatda', 'pos': 'ADV', 'root': 'odatda', 'affix': ''}
+{'word': 'bir-biriga', 'pos': 'NUM', 'root': 'bir-bir', 'affix': 'iga'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'aniqlanadi', 'pos': 'VERB', 'root': 'aniqlan', 'affix': 'adi'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'kеsimga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'aniqlovchi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'aniqlanmishga', 'pos': 'VERB', 'root': 'aniqlan', 'affix': 'mishga'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'hol', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'hollanmishga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'to‘ldiruvchi', 'pos': 'NOUN', 'root': 'to‘ldiruvchi', 'affix': ''}
+{'word': 'to‘ldirilmishga', 'pos': 'VERB', 'root': 'to‘ldiril', 'affix': 'mishga'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'aniqlanadi', 'pos': 'VERB', 'root': 'aniqlan', 'affix': 'adi'}
+{'word': 'Nisbat', 'pos': 'NOUN', 'root': 'nisbat', 'affix': ''}
+{'word': 'bеriluvchi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bo‘lak', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': ''}
+{'word': 'bo‘lmas ekan', 'pos': 'VERB', 'root': 'bo‘lmas ekan', 'affix': ''}
+{'word': 'u', 'pos': 'PRON', 'root': 'u', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘lagi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'agi'}
+{'word': 'haqida', 'pos': 'NOUN', 'root': 'haqida', 'affix': ''}
+{'word': 'gapirish', 'pos': 'VERB', 'root': 'gapirish', 'affix': ''}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'emas', 'pos': 'VERB', 'root': 'emas', 'affix': ''}
+{'word': 'Gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘laklarining', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'larining'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'tarkibidagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'mavqei', 'pos': 'NOUN', 'root': 'ma', 'affix': 'vqei'}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'xil', 'pos': 'NOUN', 'root': 'xi', 'affix': 'l'}
+{'word': 'emas', 'pos': 'VERB', 'root': 'emas', 'affix': ''}
+{'word': 'Ba‘zi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘laklari', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lari'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'qurilishida', 'pos': 'VERB', 'root': 'quril', 'affix': 'ishida'}
+{'word': 'markaziy', 'pos': 'NOUN', 'root': 'markaziy', 'affix': ''}
+{'word': 'o‘rinni', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': 'ni'}
+{'word': 'egallaydi', 'pos': 'VERB', 'root': 'egalla', 'affix': 'ydi'}
+{'word': 'bunday', 'pos': 'ADV', 'root': 'bunday', 'affix': ''}
+{'word': 'bo‘laklarsiz', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'larsiz'}
+{'word': 'fikr', 'pos': 'NOUN', 'root': 'fikr', 'affix': ''}
+{'word': 'anglashilmaydi', 'pos': 'VERB', 'root': 'anglashil', 'affix': 'maydi'}
+{'word': 'Ayrim', 'pos': 'ADJ', 'root': 'ayri', 'affix': 'm'}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'qurilishida', 'pos': 'VERB', 'root': 'quril', 'affix': 'ishida'}
+{'word': 'asosiy', 'pos': 'NOUN', 'root': 'asos', 'affix': 'iy'}
+{'word': 'rol', 'pos': 'NOUN', 'root': 'rol', 'affix': ''}
+{'word': 'o‘ynamaydi', 'pos': 'VERB', 'root': 'o‘yna', 'affix': 'maydi'}
+{'word': 'ularning', 'pos': 'PRON', 'root': 'ularning', 'affix': ''}
+{'word': 'ishtirokisiz', 'pos': 'NOUN', 'root': 'ishtirok', 'affix': 'isiz'}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'fikr', 'pos': 'NOUN', 'root': 'fikr', 'affix': ''}
+{'word': 'anglashilaveradi', 'pos': 'VERB', 'root': 'anglashil', 'affix': 'averadi'}
+{'word': 'Shunga', 'pos': 'PRON', 'root': 'shunga', 'affix': ''}
+{'word': 'ko‘ra', 'pos': 'AUX', 'root': 'ko‘ra', 'affix': ''}
+{'word': 'gap', 'pos': 'NOUN', 'root': 'gap', 'affix': ''}
+{'word': 'bo‘laklari', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lari'}
+{'word': 'ikki', 'pos': 'NUM', 'root': 'ikki', 'affix': ''}
+{'word': 'turga', 'pos': 'VERB', 'root': 'tur', 'affix': 'ga'}
+{'word': 'ajratiladi', 'pos': 'VERB', 'root': 'ajratil', 'affix': 'adi'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': '2', 'pos': 'NUM', 'root': '2', 'affix': 'null'}
+{'word': 'ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'darajali', 'pos': 'NOUN', 'root': 'daraja', 'affix': 'li'}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'Bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'gapning', 'pos': 'NOUN', 'root': 'gap', 'affix': 'ning'}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'asosini', 'pos': 'NOUN', 'root': 'asos', 'affix': 'ini'}
+{'word': 'tashkil', 'pos': 'NOUN', 'root': 'tashkil', 'affix': ''}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': 'Fikr', 'pos': 'NOUN', 'root': 'fikr', 'affix': ''}
+{'word': 'asosan', 'pos': 'ADV', 'root': 'asosan', 'affix': ''}
+{'word': 'gapning', 'pos': 'NOUN', 'root': 'gap', 'affix': 'ning'}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'asosi', 'pos': 'NOUN', 'root': 'asos', 'affix': 'i'}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'ifodalanadi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'adi'}
+{'word': 'Ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'darajali', 'pos': 'NOUN', 'root': 'daraja', 'affix': 'li'}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'gapning', 'pos': 'NOUN', 'root': 'gap', 'affix': 'ning'}
+{'word': 'grammatik', 'pos': 'NOUN', 'root': 'gramm', 'affix': 'atik'}
+{'word': 'asosini', 'pos': 'NOUN', 'root': 'asos', 'affix': 'ini'}
+{'word': 'tashkil', 'pos': 'NOUN', 'root': 'tashkil', 'affix': ''}
+{'word': 'qilmasdan', 'pos': 'VERB', 'root': 'qil', 'affix': 'masdan'}
+{'word': 'uni', 'pos': 'PRON', 'root': 'uni', 'affix': ''}
+{'word': 'hajm', 'pos': 'NOUN', 'root': 'hajm', 'affix': ''}
+{'word': 'jihatdan', 'pos': 'NOUN', 'root': 'jihat', 'affix': 'dan'}
+{'word': 'kengaytiradi', 'pos': 'VERB', 'root': 'kengaytir', 'affix': 'adi'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'birikmasini', 'pos': 'NOUN', 'root': 'birikma', 'affix': 'sini'}
+{'word': 'shakllantirish', 'pos': 'VERB', 'root': 'shakllantir', 'affix': 'ish'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'xizmat', 'pos': 'NOUN', 'root': 'xizmat', 'affix': ''}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': 'Ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'darajali', 'pos': 'NOUN', 'root': 'daraja', 'affix': 'li'}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'o‘zaro', 'pos': 'ADV', 'root': 'o‘zaro', 'affix': ''}
+{'word': 'tobe', 'pos': 'AUX', 'root': 'to', 'affix': 'be'}
+{'word': 'aloqada', 'pos': 'NOUN', 'root': 'aloqa', 'affix': 'da'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'ularni', 'pos': 'PRON', 'root': 'ularni', 'affix': ''}
+{'word': 'izohlash', 'pos': 'VERB', 'root': 'izohla', 'affix': 'sh'}
+{'word': 'aniqlash', 'pos': 'VERB', 'root': 'aniqlash', 'affix': ''}
+{'word': 'to‘ldirish', 'pos': 'VERB', 'root': 'to‘ldirish', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'xizmat', 'pos': 'NOUN', 'root': 'xizmat', 'affix': ''}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': 'Bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'kesimdan', 'pos': 'NOUN', 'root': 'kesim', 'affix': 'dan'}
+{'word': 'iborat', 'pos': 'NOUN', 'root': 'iborat', 'affix': ''}
+{'word': 'Ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'darajali', 'pos': 'NOUN', 'root': 'daraja', 'affix': 'li'}
+{'word': 'bo‘laklar', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lar'}
+{'word': 'aniqlovchi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'to‘ldiruvchi', 'pos': 'NOUN', 'root': 'to‘ldiruvchi', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'holdir', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Kesim', 'pos': 'NOUN', 'root': 'kesim', 'affix': ''}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'izohlanadigan', 'pos': 'VERB', 'root': 'izohlan', 'affix': 'adigan'}
+{'word': 'fikr', 'pos': 'NOUN', 'root': 'fikr', 'affix': ''}
+{'word': 'predmetni', 'pos': 'NOUN', 'root': 'predmet', 'affix': 'ni'}
+{'word': 'anglatadigan', 'pos': 'VERB', 'root': 'anglat', 'affix': 'adigan'}
+{'word': 'gapning', 'pos': 'NOUN', 'root': 'gap', 'affix': 'ning'}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'bo‘laklariga', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'lariga'}
+{'word': 'tobe', 'pos': 'AUX', 'root': 'to', 'affix': 'be'}
+{'word': 'bo‘lmagan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'magan'}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'bo‘lakka', 'pos': 'ADJ', 'root': 'bo‘lak', 'affix': 'ka'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'deyiladi', 'pos': 'VERB', 'root': 'deyil', 'affix': 'adi'}
+{'word': 'Ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'keng', 'pos': 'ADJ', 'root': 'keng', 'affix': ''}
+{'word': 'ma‘noda', 'pos': 'NOUN', 'root': 'ma‘no', 'affix': 'da'}
+{'word': 'predmet', 'pos': 'NOUN', 'root': 'predmet', 'affix': ''}
+{'word': 'tushunchasini', 'pos': 'NOUN', 'root': 'tushuncha', 'affix': 'sini'}
+{'word': 'bildirib', 'pos': 'NOUN', 'root': 'bild', 'affix': 'irib'}
+{'word': 'kesimdan', 'pos': 'NOUN', 'root': 'kesim', 'affix': 'dan'}
+{'word': 'anglashilgan', 'pos': 'VERB', 'root': 'anglashil', 'affix': 'gan'}
+{'word': 'predikativ', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'belgining', 'pos': 'NOUN', 'root': 'belgi', 'affix': 'ning'}
+{'word': 'kimga', 'pos': 'NOUN', 'root': 'kim', 'affix': 'ga'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'nimaga', 'pos': 'PRON', 'root': 'nimaga', 'affix': ''}
+{'word': 'qarashliligini', 'pos': 'NOUN', 'root': 'qarash', 'affix': 'liligini'}
+{'word': 'ko‘rsatadi', 'pos': 'VERB', 'root': 'ko‘rsat', 'affix': 'adi'}
+{'word': 'Ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'kelishikdagi', 'pos': 'VERB', 'root': 'kelish', 'affix': 'ikdagi'}
+{'word': 'birliklar', 'pos': 'NOUN', 'root': 'birlik', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanib', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ib'}
+{'word': 'kim', 'pos': 'NOUN', 'root': 'kim', 'affix': ''}
+{'word': 'nima', 'pos': 'PRON', 'root': 'nima', 'affix': ''}
+{'word': 'qayer', 'pos': 'PRON', 'root': 'qayer', 'affix': ''}
+{'word': 'so‘roqlaridan', 'pos': 'VERB', 'root': 'so‘r', 'affix': 'oqlaridan'}
+{'word': 'biriga', 'pos': 'NUM', 'root': 'bir', 'affix': 'iga'}
+{'word': 'javob', 'pos': 'NOUN', 'root': 'javob', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'odatda', 'pos': 'ADV', 'root': 'odatda', 'affix': ''}
+{'word': 'yakka', 'pos': 'ADJ', 'root': 'yakka', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'harakat', 'pos': 'NOUN', 'root': 'harakat', 'affix': ''}
+{'word': 'nomi', 'pos': 'NOUN', 'root': 'nom', 'affix': 'i'}
+{'word': 'otlashgan', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashgan'}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'sifat', 'pos': 'NOUN', 'root': 'sifat', 'affix': ''}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'sifatdosh', 'pos': 'NOUN', 'root': 'sifat', 'affix': 'dosh'}
+{'word': 'ravishdosh', 'pos': 'NOUN', 'root': 'ravishdosh', 'affix': ''}
+{'word': 'ravish', 'pos': 'NOUN', 'root': 'ravish', 'affix': ''}
+{'word': 'taqlid', 'pos': 'NOUN', 'root': 'taqlid', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'undov', 'pos': 'VERB', 'root': 'un', 'affix': 'dov'}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'modal', 'pos': 'NOUN', 'root': 'modal', 'affix': ''}
+{'word': 'so‘z', 'pos': 'NOUN', 'root': 'so‘z', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanadi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'adi'}
+{'word': 'Eganing', 'pos': 'NOUN', 'root': 'ega', 'affix': 'ning'}
+{'word': 'ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanishi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ishi'}
+{'word': 'Bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'kelishikdagi', 'pos': 'VERB', 'root': 'kelish', 'affix': 'ikdagi'}
+{'word': 'atoqli', 'pos': 'NOUN', 'root': 'atoq', 'affix': 'li'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'turdosh', 'pos': 'VERB', 'root': 'tur', 'affix': 'dosh'}
+{'word': 'ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'ko‘pincha', 'pos': 'ADV', 'root': 'ko‘pincha', 'affix': ''}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'vazifasini', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'sini'}
+{'word': 'bajaradi', 'pos': 'VERB', 'root': 'bajar', 'affix': 'adi'}
+{'word': 'Sirdaryo', 'pos': 'NOUN', 'root': 'sirdaryo', 'affix': ''}
+{'word': 'hammasini', 'pos': 'NOUN', 'root': 'ham', 'affix': 'masini'}
+{'word': 'yig‘ib', 'pos': 'NOUN', 'root': 'yi', 'affix': 'g‘ib'}
+{'word': 'olib', 'pos': 'VERB', 'root': 'ol', 'affix': 'ib'}
+{'word': 'rosa', 'pos': 'ADV', 'root': 'rosa', 'affix': ''}
+{'word': 'kuchga', 'pos': 'NOUN', 'root': 'kuch', 'affix': 'ga'}
+{'word': 'to‘ladi-da', 'pos': 'VERB', 'root': 'to‘la', 'affix': 'di-da'}
+{'word': 'Chor-atrof', 'pos': 'NOUN', 'root': 'chor-atrof', 'affix': ''}
+{'word': 'yaproqlarning', 'pos': 'VERB', 'root': 'yaproqla', 'affix': 'rning'}
+{'word': 'mungli', 'pos': 'NOUN', 'root': 'mung', 'affix': 'li'}
+{'word': 'shivir-shiviriga', 'pos': 'NOUN', 'root': 'shi', 'affix': 'vir-shiviriga'}
+{'word': 'to‘ldi', 'pos': 'VERB', 'root': 'to‘l', 'affix': 'di'}
+{'word': 'Eganing', 'pos': 'NOUN', 'root': 'ega', 'affix': 'ning'}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanishi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ishi'}
+{'word': 'Ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'kelishik', 'pos': 'VERB', 'root': 'kelish', 'affix': 'ik'}
+{'word': 'shaklidagi', 'pos': 'NOUN', 'root': 'shakl', 'affix': 'idagi'}
+{'word': 'ot', 'pos': 'VERB', 'root': 'ot', 'affix': ''}
+{'word': 'o‘rnida', 'pos': 'NOUN', 'root': 'o‘rni', 'affix': 'da'}
+{'word': 'qo‘llanuvchi', 'pos': 'NOUN', 'root': 'qo‘llan', 'affix': 'uvchi'}
+{'word': 'olmoshlar', 'pos': 'NOUN', 'root': 'olmosh', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanadi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'adi'}
+{'word': 'Ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'kulimsirab', 'pos': 'NOUN', 'root': 'kuli', 'affix': 'msirab'}
+{'word': 'askiyaga', 'pos': 'NOUN', 'root': 'askiya', 'affix': 'ga'}
+{'word': 'quloq', 'pos': 'NOUN', 'root': 'quloq', 'affix': ''}
+{'word': 'solishdi', 'pos': 'VERB', 'root': 'solish', 'affix': 'di'}
+{'word': 'P', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Q', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Kimdir', 'pos': 'PRON', 'root': 'kimdir', 'affix': ''}
+{'word': 'unga', 'pos': 'PRON', 'root': 'unga', 'affix': ''}
+{'word': 'darrov', 'pos': 'ADV', 'root': 'darrov', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'kosa', 'pos': 'NOUN', 'root': 'kosa', 'affix': ''}
+{'word': 'ovqat', 'pos': 'NOUN', 'root': 'ovqat', 'affix': ''}
+{'word': 'keltirib', 'pos': 'VERB', 'root': 'keltir', 'affix': 'ib'}
+{'word': 'berdi', 'pos': 'NOUN', 'root': 'berdi', 'affix': ''}
+{'word': 'O‘', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Usmonov', 'pos': 'NOUN', 'root': 'usmon', 'affix': 'ov'}
+{'word': 'O‘zingiz', 'pos': 'VERB', 'root': 'o‘z', 'affix': 'ingiz'}
+{'word': 'juda', 'pos': 'ADV', 'root': 'juda', 'affix': ''}
+{'word': 'aqlli', 'pos': 'ADJ', 'root': 'aqlli', 'affix': ''}
+{'word': 'uzoqni', 'pos': 'ADV', 'root': 'uzoq', 'affix': 'ni'}
+{'word': 'ko‘radigan', 'pos': 'VERB', 'root': 'ko‘ra', 'affix': 'digan'}
+{'word': 'odamsiz', 'pos': 'NOUN', 'root': 'odam', 'affix': 'siz'}
+{'word': 'S', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Soliyev', 'pos': 'NOUN', 'root': 'soli', 'affix': 'yev'}
+{'word': 'Eganing', 'pos': 'NOUN', 'root': 'ega', 'affix': 'ning'}
+{'word': 'harakat', 'pos': 'NOUN', 'root': 'harakat', 'affix': ''}
+{'word': 'nomi', 'pos': 'NOUN', 'root': 'nom', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanishi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ishi'}
+{'word': 'Ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'harakat', 'pos': 'NOUN', 'root': 'harakat', 'affix': ''}
+{'word': 'nomi', 'pos': 'NOUN', 'root': 'nom', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalana', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'a'}
+{'word': 'oladi', 'pos': 'VERB', 'root': 'ol', 'affix': 'adi'}
+{'word': 'ariqdan', 'pos': 'NOUN', 'root': 'ariq', 'affix': 'dan'}
+{'word': 'oqqan', 'pos': 'ADJ', 'root': 'oq', 'affix': 'qan'}
+{'word': 'suvning', 'pos': 'NOUN', 'root': 'suv', 'affix': 'ning'}
+{'word': 'shildirashi', 'pos': 'VERB', 'root': 'shildirash', 'affix': 'i'}
+{'word': 'eshitila', 'pos': 'NOUN', 'root': 'esh', 'affix': 'itila'}
+{'word': 'boshladi', 'pos': 'VERB', 'root': 'boshla', 'affix': 'di'}
+{'word': 'P', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Q', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Boshliq', 'pos': 'NOUN', 'root': 'boshliq', 'affix': ''}
+{'word': 'bo‘lish', 'pos': 'VERB', 'root': 'bo‘lish', 'affix': ''}
+{'word': 'oson', 'pos': 'ADJ', 'root': 'oson', 'affix': ''}
+{'word': 'boshlamoq', 'pos': 'VERB', 'root': 'boshla', 'affix': 'moq'}
+{'word': 'qiyin', 'pos': 'ADJ', 'root': 'qiyin', 'affix': ''}
+{'word': 'Maqol', 'pos': 'NOUN', 'root': 'maqol', 'affix': ''}
+{'word': 'Eganing', 'pos': 'NOUN', 'root': 'ega', 'affix': 'ning'}
+{'word': 'otlashgan', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashgan'}
+{'word': 'sifat', 'pos': 'NOUN', 'root': 'sifat', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanishi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ishi'}
+{'word': 'Sifatlar', 'pos': 'NOUN', 'root': 'sifat', 'affix': 'lar'}
+{'word': 'otlashib', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashib'}
+{'word': 'gapda', 'pos': 'NOUN', 'root': 'gap', 'affix': 'da'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'kelishi', 'pos': 'VERB', 'root': 'kelish', 'affix': 'i'}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Botir', 'pos': 'ADJ', 'root': 'botir', 'affix': ''}
+{'word': 'topsa', 'pos': 'VERB', 'root': 'top', 'affix': 'sa'}
+{'word': 'barcha', 'pos': 'NOUN', 'root': 'bar', 'affix': 'cha'}
+{'word': 'yer', 'pos': 'NOUN', 'root': 'yer', 'affix': ''}
+{'word': 'baxil', 'pos': 'ADJ', 'root': 'baxil', 'affix': ''}
+{'word': 'topsa', 'pos': 'VERB', 'root': 'top', 'affix': 'sa'}
+{'word': 'bosib', 'pos': 'VERB', 'root': 'bos', 'affix': 'ib'}
+{'word': 'yer', 'pos': 'NOUN', 'root': 'yer', 'affix': ''}
+{'word': 'Maqol', 'pos': 'NOUN', 'root': 'maqol', 'affix': ''}
+{'word': 'Yaxshi', 'pos': 'ADJ', 'root': 'yaxshi', 'affix': ''}
+{'word': 'yaxshining', 'pos': 'ADJ', 'root': 'yaxshi', 'affix': 'ning'}
+{'word': 'qadriga', 'pos': 'NOUN', 'root': 'qadr', 'affix': 'iga'}
+{'word': 'yetar', 'pos': 'NOUN', 'root': 'yetar', 'affix': ''}
+{'word': 'Maqol', 'pos': 'NOUN', 'root': 'maqol', 'affix': ''}
+{'word': 'Eganing', 'pos': 'NOUN', 'root': 'ega', 'affix': 'ning'}
+{'word': 'otlashgan', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashgan'}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanishi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ishi'}
+{'word': 'Sonlar', 'pos': 'NOUN', 'root': 'son', 'affix': 'lar'}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'otlashib', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashib'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'vazifasida', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'sida'}
+{'word': 'keladi', 'pos': 'VERB', 'root': 'kel', 'affix': 'adi'}
+{'word': 'Ikkovi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'bir-biriga', 'pos': 'NUM', 'root': 'bir-bir', 'affix': 'iga'}
+{'word': 'juda', 'pos': 'ADV', 'root': 'juda', 'affix': ''}
+{'word': 'o‘xshash', 'pos': 'VERB', 'root': 'o‘xsha', 'affix': 'sh'}
+{'word': 'P', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Q', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Tarbiya', 'pos': 'NOUN', 'root': 'tarbiya', 'affix': ''}
+{'word': 'axloq', 'pos': 'NOUN', 'root': 'axloq', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'oqillikka', 'pos': 'NOUN', 'root': 'oqillik', 'affix': 'ka'}
+{'word': 'tayanmog‘i', 'pos': 'VERB', 'root': 'tayan', 'affix': 'mog‘i'}
+{'word': 'lozim', 'pos': 'NOUN', 'root': 'lozim', 'affix': ''}
+{'word': 'Birinchisi', 'pos': 'NUM', 'root': 'birinchi', 'affix': 'si'}
+{'word': 'yaxshi', 'pos': 'ADJ', 'root': 'yaxshi', 'affix': ''}
+{'word': 'fazilatni', 'pos': 'NOUN', 'root': 'fazilat', 'affix': 'ni'}
+{'word': 'o‘stirsa', 'pos': 'VERB', 'root': 'o‘stir', 'affix': 'sa'}
+{'word': 'ikkinchisi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': 'si'}
+{'word': 'ba‘zilarning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'illatidan', 'pos': 'NOUN', 'root': 'illat', 'affix': 'idan'}
+{'word': 'himoya', 'pos': 'NOUN', 'root': 'himoya', 'affix': ''}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': 'Oz-oz', 'pos': 'ADV', 'root': 'oz-oz', 'affix': ''}
+{'word': 'o‘rganib', 'pos': 'VERB', 'root': 'o‘rgan', 'affix': 'ib'}
+{'word': 'dono', 'pos': 'ADJ', 'root': 'dono', 'affix': ''}
+{'word': 'bo‘lur', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'ur'}
+{'word': 'Eganing', 'pos': 'NOUN', 'root': 'ega', 'affix': 'ning'}
+{'word': 'otlashgan', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashgan'}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ifodalanishi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'ishi'}
+{'word': 'Ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'vazifasida', 'pos': 'NOUN', 'root': 'vazifa', 'affix': 'sida'}
+{'word': 'sifat', 'pos': 'NOUN', 'root': 'sifat', 'affix': ''}
+{'word': 'son', 'pos': 'NOUN', 'root': 'son', 'affix': ''}
+{'word': 'o‘rnida', 'pos': 'NOUN', 'root': 'o‘rni', 'affix': 'da'}
+{'word': 'qo‘llanuvchi', 'pos': 'NOUN', 'root': 'qo‘llan', 'affix': 'uvchi'}
+{'word': 'otlashgan', 'pos': 'VERB', 'root': 'ot', 'affix': 'lashgan'}
+{'word': 'olmosh', 'pos': 'NOUN', 'root': 'olmosh', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'ifodalanadi', 'pos': 'VERB', 'root': 'ifodalan', 'affix': 'adi'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'ehtimol', 'pos': 'NOUN', 'root': 'ehtimol', 'affix': ''}
+{'word': 'ona', 'pos': 'NOUN', 'root': 'ona', 'affix': ''}
+{'word': 'suti', 'pos': 'NOUN', 'root': 'sut', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'kirgan', 'pos': 'ADJ', 'root': 'kir', 'affix': 'gan'}
+{'word': 'g‘ayrishuuriy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'tuyg‘udir', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'P', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Q', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Odamlar', 'pos': 'NOUN', 'root': 'odam', 'affix': 'lar'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'xuddi', 'pos': 'PART', 'root': 'xuddi', 'affix': ''}
+{'word': 'mana', 'pos': 'PRON', 'root': 'mana', 'affix': ''}
+{'word': 'shunisi', 'pos': 'PRON', 'root': 'shu', 'affix': 'nisi'}
+{'word': 'kerak edi', 'pos': 'VERB', 'root': 'kerak edi', 'affix': ''}
+{'word': 'CH', 'pos': 'NOUN', 'root': 'ch', 'affix': ''}
+{'word': 'Aytmatov', 'pos': 'null', 'root': 'null', 'affix': 'null'}

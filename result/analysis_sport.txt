@@ -1,78 +1,1090 @@
- Bugun/NOUN 25/NOUN noyabr/NOUN kuni/NOUN Isroilning/NOUN Quddus/NOUN shahrida/NOUN shaxmat/NOUN bo‘yicha/AUX FIDE/NOUN jamoalari/NOUN o‘rtasidagi/ADJ Jahon/NOUN chempionati/NOUN bahslari/NOUN yakunlanadi/NOUN ./PUNCT
- O‘zbekiston/NOUN jamoasi/NOUN yirik/NOUN musobaqa/NOUN g‘olibligi/NOUN uchun/NOUN bahsga/NOUN kirishadi/NOUN ./PUNCT
- Bu/NOUN haqda/NOUN Sportni/NOUN rivojlantirish/NOUN vazirligi/NOUN matbuot/NOUN xizmati/NOUN xabar/NOUN qildi/NOUN ./PUNCT
- Ma‘lum/ADJ qilinishicha/NOUN O‘zbekistonlik/NOUN shaxmatchilarga/NOUN hal/NOUN qiluvchi/NOUN bellashuvda/NOUN Xitoy/NOUN vakillari/NOUN raqiblik/NOUN qiladi/NOUN ./PUNCT
- Xitoyliklar/NOUN yarim/NOUN finalda/NOUN Ispaniyadan/NOUN ustun/NOUN kelishgandi/NOUN ./PUNCT
- O‘zbek/NOUN shaxmatchilari/NOUN esa/NOUN yarim/NOUN finalda/NOUN Hindiston/NOUN jamoasini/NOUN dog‘da/NOUN qoldirdi/NOUN ./PUNCT
- O‘zbekiston/NOUN va/NOUN Xitoy/NOUN o‘rtasidagi/ADJ final/NOUN partiyasi/NOUN bugun/NOUN Toshkent/NOUN vaqti/NOUN bilan/NOUN soat/NOUN 18/NOUN 00da/NOUN start/NOUN oladi/NOUN ./PUNCT
- AQSh/NOUN va/NOUN Uels/NOUN terma/NOUN jamoalari/NOUN futbolchilari/NOUN Qatarda/NOUN bo‘lib/VERB o‘tayotgan/VERB jahon/NOUN chempionatining/NOUN guruh/NOUN bosqichining/NOUN birinchi/NOUN o‘yinida/NOUN durang/NOUN o‘ynadi/VERB ./PUNCT
- Uchrashuv/NOUN 1/NOUN 1/NOUN hisobida/NOUN yakunlandi/NOUN ./PUNCT
- AQSh/NOUN terma/NOUN jamoasi/NOUN uchun/NOUN birinchi/NOUN golni/NOUN Liberiya/NOUN prezidenti/NOUN Jorj/NOUN Veaning/NOUN o‘g‘li/null Timoti/NOUN Vea/NOUN 36-daqiqada/null kiritdi/NOUN ./PUNCT
- Uels/NOUN terma/NOUN jamoasi/NOUN uchrashuvning/NOUN 82-daqiqasida/null Garet/NOUN Beyl/NOUN penaltini/NOUN golga/NOUN aylantirib/NOUN hisobni/NOUN tenglashtirgan/NOUN ./PUNCT
- 22/NOUN yoshli/NOUN Timoti/NOUN Vea/NOUN AQSh/NOUN fuqarosi/NOUN ./PUNCT
- Uning/NOUN otasi/NOUN Jorj/NOUN -/null Monako/NOUN Pari/NOUN Sen-Jermen/PRON Milan/NOUN Chelsi/NOUN va/NOUN Manchester/NOUN Siti/NOUN klublarida/NOUN o‘ynagan/VERB sobiq/NOUN professional/NOUN futbolchi/NOUN hisoblanadi/NOUN ./PUNCT
- Jorj/NOUN Vea/NOUN Italiya/NOUN va/NOUN Fransiya/NOUN chempioni/NOUN Oltin/NOUN to‘p/NOUN sohibi/NOUN 1995/NOUN yil/NOUN Afrika/NOUN qit‘asining/NOUN bu/NOUN sovrinni/NOUN qo‘lga/NOUN kiritgan/NOUN yagona/NOUN vakili/NOUN ./PUNCT
- U/NOUN futbolchilik/NOUN faoliyatidan/NOUN so‘ng/ADJ siyosiy/NOUN faoliyat/NOUN bilan/NOUN shug‘ullana/VERB boshlagan/NOUN ./PUNCT
- 2015-2018/null yillarda/NOUN Liberiya/NOUN senatori/NOUN 2018/NOUN yilda/NOUN esa/NOUN prezident/NOUN etib/NOUN saylangan/NOUN ./PUNCT
- Ma‘lumot/NOUN uchun/NOUN AQSh/NOUN terma/NOUN jamoasi/NOUN jahon/NOUN chempionatida/NOUN 11-marta/null ishtirok/NOUN etmoqda/NOUN ./PUNCT
- 2018/NOUN yil/NOUN Rossiyada/NOUN bo‘lib/VERB o‘tgan/VERB jahon/NOUN chempionati/NOUN uchun/NOUN amerikaliklar/NOUN saralashdan/NOUN o‘ta/VERB olishmagan/NOUN ./PUNCT
- Amerika/NOUN jamoasining/NOUN chempionatdagi/NOUN eng/NOUN yaxshi/NOUN yutug‘i/VERB 1930/NOUN yilda/NOUN bo‘lgan/VERB ./PUNCT
- O‘shanda/ADV jamoa/NOUN uchinchi/NOUN o‘rinni/NOUN egallagan/NOUN ./PUNCT
- Bugun/NOUN 20/NOUN noyabr/NOUN kuni/NOUN Qatar/NOUN poytaxti/NOUN Dohada/NOUN har/NOUN to‘rt/NUM yillikning/NOUN eng/NOUN yirik/NOUN futbol/NOUN bayrami/NOUN 2022/NOUN yilgi/NOUN jahon/NOUN chempionati/NOUN ochilish/NOUN marosimi/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
- JCh-2022ni/null Dohadan/NOUN turib/NOUN yoritib/NOUN borayotganlarning/NOUN ma‘lum/ADJ qilishicha/NOUN Al-Bayt/null stadionida/NOUN o‘tgan/VERB marosim/NOUN yuqori/NOUN tashkilotchilik/NOUN va/NOUN tayyorlangan/NOUN turli/NOUN sahna/NOUN ko‘rinishlari/VERB bilan/NOUN o‘tgan/VERB ./PUNCT
- Marosimda/NOUN janubiy/NOUN koreyalik/NOUN qo‘shiqchi/NOUN va/NOUN BTS/NOUN guruhi/NOUN a‘zosi/NOUN Chonguk/NOUN va/NOUN qatarlik/NOUN qo‘shiqchi/NOUN Fahad/NOUN Al-Kubaysi/null Dreamers/NOUN kompozitsiyasi/NOUN bilan/NOUN chiqish/NOUN qilishgan/NOUN ./PUNCT
- Qatar/NOUN amiri/NOUN Tamim/NOUN bin/NOUN Hamad/NOUN At-Tani/null ochilish/NOUN nutqi/NOUN bilan/NOUN chiqish/NOUN qilib/NOUN barchani/NOUN mundial/NOUN bilan/NOUN tabriklagan/NOUN ./PUNCT
- Qatardan/NOUN arab/NOUN mamlakatidan/NOUN barchani/NOUN jahon/NOUN chempionatidan/NOUN qutlayman/NOUN ./PUNCT
- Biz/NOUN bu/NOUN turnirni/NOUN jahon/NOUN chempionatlari/NOUN tarixidagi/NOUN eng/NOUN muvaffaqiyatlisi/NOUN bo‘lishi/VERB uchun/NOUN birgalikda/NOUN mehnat/NOUN qildik/NOUN ./PUNCT
- Buyuk/NOUN futbol/NOUN festivalidamiz/NOUN ./PUNCT
- Turli/NOUN irq/NOUN millat/NOUN e‘tiqod/NOUN va/NOUN qarashlardan/NOUN qat‘i/NOUN nazar/NOUN futbol/NOUN barchamizni/NOUN birlashtiradi/NOUN ./PUNCT
- Bu/NOUN yerda/NOUN butun/NOUN insoniyat/NOUN manfaati/NOUN uchun/NOUN ham/NOUN bor/NOUN kuchimizni/NOUN sarflab/NOUN sarmoya/NOUN kiritdik/NOUN ./PUNCT
- Nihoyat/NOUN bugun/NOUN biz-u/PRON siz/NOUN kutgan/NOUN damlarga/NOUN yetib/NOUN keldik/NOUN ./PUNCT
- Bugundan/NOUN boshlab/NOUN Xudo/NOUN xohlasa/NOUN 28/NOUN kun/NOUN davomida/NOUN butun/NOUN dunyo/NOUN biz/NOUN bilan/NOUN ajoyib/NOUN futbol/NOUN bayramini/NOUN kuzatib/NOUN boradi/NOUN ./PUNCT
- Barcha/NOUN ishtirokchi/NOUN jamoalar/NOUN muxlislarni/NOUN qutlayman/NOUN -/null deydi/NOUN Qatar/NOUN amiri/NOUN o‘z/VERB nutqida/NOUN ./PUNCT
- Eng/NOUN e‘tiborli/ADJ jihati/NOUN JCh-2022/null ochilish/NOUN marosimida/NOUN qatarlik/NOUN qori/NOUN yigit/NOUN G‘anim/NOUN Mufah/NOUN Qur‘oni/VERB Karim/NOUN oyatlaridan/NOUN tilovat/NOUN qildi/NOUN ./PUNCT
- Shuningdek/NOUN Gollivudning/NOUN mashhur/NOUN aktyori/NOUN Morgan/NOUN Friman/NOUN JCh/NOUN ochilishida/NOUN chiqish/NOUN qilib/NOUN futbol/NOUN insoniyatni/NOUN birlashtirishi/NOUN haqida/NOUN gapirgan/NOUN ./PUNCT
- Ochilish/NOUN marosimidan/NOUN keyin/NOUN Qatar/NOUN -/null Ekvador/NOUN uchrashuvi/NOUN startidan/NOUN avval/NOUN Al-Bayt/null stadioniga/NOUN JCh/NOUN bosh/NOUN sovrini/NOUN maketi/NOUN ko‘rsatildi/VERB ./PUNCT
- Shu/NOUN tariqa/NOUN ushbu/NOUN o‘yin/NOUN bilan/NOUN JCh-2022/null rasman/NOUN start/NOUN oldi/NOUN ./PUNCT
- Biroq/NOUN Qatar/NOUN o‘z/VERB uyida/NOUN musobaqaning/NOUN dastlabki/NOUN o‘yinida/NOUN mag‘lub/NOUN bo‘ldi/VERB ./PUNCT
- Ochilish/NOUN bahsida/NOUN Ekvador/NOUN mezbonlarga/NOUN umuman/NOUN imkoniyat/NOUN qoldirmadi/NOUN ./PUNCT
- Fenerbahche/NOUN hujumchisi/NOUN Enner/NOUN Valensiyaning/NOUN dubli/NOUN Lotin/NOUN Amerikasi/NOUN vakiliga/NOUN g‘alaba/NOUN keltirdi/NOUN ./PUNCT
- Quyida/NOUN esa/NOUN ochilish/NOUN marosimidan/NOUN olingan/NOUN suratlar/NOUN bilan/NOUN tanishing/NOUN ./PUNCT
- Tarixda/NOUN ilk/NOUN bor/NOUN futbol/NOUN bo‘yicha/AUX Jahon/NOUN chempionatining/NOUN ochilish/NOUN marosimi/NOUN oldidan/NOUN Qur‘on/VERB oyatlaridan/NOUN tilovat/NOUN qilindi/NOUN ./PUNCT
- Yigirma/NOUN yoshli/NOUN G‘anim/NOUN Al/NOUN Muftoh/NOUN FIFA/NOUN Jahon/NOUN chempionati/NOUN ochilish/NOUN marosimising/NOUN qorisi/NOUN bo‘ldi/VERB ./PUNCT
- Jarayon/NOUN bugun/NOUN yakshanba/NOUN kuni/NOUN mahalliy/NOUN vaqt/NOUN bilan/NOUN soat/NOUN 17/NOUN 00da/NOUN Al-Xor/null shahridagi/NOUN Al/NOUN Bayt/NOUN stadionida/NOUN tashkil/NOUN etildi/NOUN ./PUNCT
- Ma‘lumot/NOUN uchun/NOUN G‘anim/NOUN Al/NOUN Muftoh/NOUN arab/NOUN dunyosidagi/NOUN ko‘plab/ADV yoshlar/NOUN uchun/NOUN namuna/NOUN bo‘lib/VERB u/NOUN umurtqa/NOUN pog‘onasining/NOUN pastki/NOUN qismi/NOUN rivojlanishiga/NOUN putur/NOUN etkazadigan/NOUN kam/NOUN uchraydigan/NOUN kasallik/NOUN bo‘lgan/VERB kaudal/NOUN regressiya/NOUN sindromiga/NOUN ega/NOUN bo‘lishiga/VERB qaramay/NOUN ko‘plab/ADV yutuqlarga/NOUN erishgan/NOUN ./PUNCT
- Futbol/NOUN bo‘yicha/AUX 2022/NOUN yilgi/NOUN jahon/NOUN chempionati/NOUN 20/NOUN noyabrdan/NOUN 18/NOUN dekabrga/NOUN qadar/NOUN Qatarda/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
- Jahon/NOUN chempionatning/NOUN barcha/NOUN o‘yinlari/NOUN beshta/NOUN Doha/NOUN Lusail/NOUN El-Xaur/NOUN Er-Rayyan/NOUN El/NOUN Vakra/NOUN shaharlardagi/NOUN sakkizta/NOUN stadionda/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
- Meksikada/NOUN o‘tkazilayotgan/VERB taekvondo/NOUN bo‘yicha/AUX jahon/NOUN chempionatining/NOUN yana/NOUN bir/NOUN kuni/NOUN O‘zbekiston/NOUN terma/NOUN jamoasi/NOUN uchun/NOUN omadli/NOUN o‘tdi/VERB ./PUNCT
- 73/NOUN kg/NOUN vazn/NOUN toifasida/NOUN bahs/NOUN olib/NOUN borgan/NOUN hamyurtimiz/NOUN Svetlana/NOUN Osipova/NOUN jahon/NOUN chempionligini/NOUN qo‘lga/NOUN kiritdi/NOUN !/PUNCT
- Final/NOUN bellashuvida/NOUN Osipova/NOUN isroillik/NOUN Dana/NOUN Arzanni/NOUN 3/NOUN raundda/NOUN 2/NOUN 1/NOUN mag‘lubiyatga/NOUN uchratdi/NOUN ./PUNCT
- Bu/NOUN bilan/NOUN Osipova/NOUN jahon/NOUN chempionatlarida/NOUN g‘alaba/NOUN qozongan/NOUN birinchi/NOUN taekvondochi/NOUN o‘zbekistonlik/NOUN qiz/NOUN sifatida/NOUN tarixda/NOUN qolmoqda/NOUN ./PUNCT
- Joriy/NOUN yil/NOUN 11-13/null noyabr/NOUN kunlari/NOUN Qozon/NOUN shahrida/NOUN qo‘l/NOUN jangi/NOUN bo‘yicha/AUX Osiyo/NOUN chempionati/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
- Mazkur/NOUN musobaqada/NOUN qo‘l/NOUN jangi/NOUN bo‘yicha/AUX O‘zbekiston/NOUN terma/NOUN jamoasi/NOUN umumjamoa/NOUN hisobida/NOUN 1-o‘rinni/null qo‘lga/NOUN kiritdi/NOUN ./PUNCT
- Bu/NOUN haqda/NOUN Sportni/NOUN rivojlantirish/NOUN vazirligi/NOUN xabar/NOUN berdi/NOUN ./PUNCT
- Ta‘kidlanishicha/VERB ushbu/NOUN turnirda/NOUN dunyoning/NOUN turli/NOUN davlatlaridan/NOUN 15/NOUN dan/NOUN ortiq/NOUN jamoalar/NOUN ishtirok/NOUN etishgan/NOUN ./PUNCT
- Qo‘l/NOUN jangi/NOUN bo‘yicha/AUX Osiyo/NOUN chempionatining/NOUN ikkinchi/NOUN kunida/NOUN duel/NOUN yo‘nalishi/VERB bo‘yicha/AUX 6/NOUN ta/NOUN vazn/NOUN toifasida/NOUN g‘oliblar/ADJ va/NOUN sovrindorlar/NOUN bilan/NOUN tanishing/NOUN Bugun/NOUN O‘zbekiston/NOUN Superligasining/NOUN so‘ngi/ADJ tur/NOUN bahslari/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
- Avvalgi/NOUN mavsumlarga/NOUN nazar/NOUN tashlaydigan/NOUN bo‘lsak/VERB ko‘p/ADV xollarda/NOUN chempion/NOUN nomi/NOUN so‘ngi/ADJ turdan/NOUN ancha/NOUN avval/NOUN ma‘lum/ADJ bo‘lardi/VERB ./PUNCT
- Bu/NOUN yilgi/NOUN mavsum/NOUN esa/NOUN muxlislar/NOUN sabrini/NOUN so‘ngi/ADJ turgacha/NOUN sinovdan/NOUN o‘tkazdi/VERB ./PUNCT
- Bugun/NOUN 7/NOUN ta/NOUN stadionda/NOUN o‘tadigan/VERB o‘yinlaridan/NOUN keyin/NOUN chempion/NOUN sovrindorlar/NOUN va/NOUN Pro/NOUN ligaga/NOUN yo‘l/NOUN oladigan/NOUN jamoa/NOUN nomi/NOUN aniq/NOUN bo‘ladi/VERB ./PUNCT
- Turnir/NOUN jadvaliga/NOUN e‘tibor/NOUN qaratadigan/NOUN bo‘lsak/VERB Paxtakor/NOUN 51/NOUN ochko/NOUN bilan/NOUN peshqadam/NOUN bo‘lib/VERB turibdi/NOUN ./PUNCT
- Paxtakor/NOUN ning/NOUN g‘alabasi/NOUN oriqcha/NOUN hisob-kitoblarsiz/NOUN klubni/NOUN chempionlik/NOUN shohsupasiga/NOUN olib/NOUN chiqadi/NOUN ./PUNCT
- Durangdan/NOUN Navbahor/NOUN faqat/NOUN AGMKni/NOUN yutish/NOUN orqali/NOUN foydalanib/NOUN qolishi/NOUN mumkin/NOUN ./PUNCT
- Chunki/NOUN namanganliklar/NOUN hisobida/NOUN 50/NOUN ochko/NOUN mavjud/NOUN va/NOUN ikkinchi/NOUN o‘rinda/NOUN ketmoqda/NOUN ./PUNCT
- Agarda/NOUN Paxtakor/NOUN mag‘lubiyatga/NOUN uchrab/NOUN Navbahor/NOUN durang/NOUN qayd/NOUN etsa/NOUN ochkolar/NOUN tenglashadi/NOUN ./PUNCT
- Joriy/NOUN yilgi/NOUN o‘zaro/ADV uchrashuvlarda/NOUN ustunlik/NOUN Paxtakor/NOUN tomonida/NOUN ./PUNCT
- Bunday/NOUN holat/NOUN ro‘y/NOUN bergan/NOUN taqdirda/NOUN Maksim/NOUN Shaskix/NOUN shogirdlari/NOUN birinchi/NOUN o‘rinda/NOUN qolishadi/NOUN ./PUNCT
- Nasaf/NOUN futbolchilari/NOUN Olimpik/NOUN ni/NOUN mag‘lubiyatga/NOUN uchratishlari/NOUN evaziga/NOUN Paxtakor/NOUN ga/NOUN yetib/NOUN olishadi/NOUN va/NOUN ikki/NOUN jamoada/NOUN ham/NOUN bir/NOUN xil/NOUN 52/NOUN ochkodan/NOUN bo‘ladi/VERB ./PUNCT
- O‘zaro/ADV o‘yinlarda/NOUN qarshiliklar/NOUN 4/NOUN poytaxt/NOUN klubi/NOUN 1/NOUN ochko/NOUN ishlagan/NOUN ./PUNCT
- Bunda/NOUN Nasaf/NOUN chempionlikni/NOUN rasmiylashtiradi/NOUN ./PUNCT
- Kecha/NOUN Xalqaro/NOUN boks/NOUN assotsiatsiyasi/NOUN IBA/NOUN prezidenti/NOUN Umar/NOUN Kremlyov/NOUN ishtirokida/NOUN bo‘lib/VERB o‘tgan/VERB matbuot/NOUN anjumanida/NOUN 2023/NOUN yilgi/NOUN jahon/NOUN chempionati/NOUN 1-14/null may/NOUN kunlari/NOUN Toshkentda/NOUN o‘tkazilishi/VERB tasdiqladi/NOUN ./PUNCT
- Bu/NOUN haqda/NOUN O‘zbekiston/NOUN boks/NOUN federatsiyasining/NOUN rasmiy/NOUN kanalida/NOUN ma‘lum/ADJ qilindi/NOUN ./PUNCT
- Ishonamanki/NOUN boks/NOUN bo‘yicha/AUX erkaklar/NOUN o‘rtasidagi/ADJ jahon/NOUN chempionati/NOUN yuqori/NOUN darajada/NOUN o‘tkaziladi/VERB va/NOUN tarixdagi/NOUN eng/NOUN zo‘rlaridan/ADJ biri/NOUN bo‘ladi/VERB ./PUNCT
- Men/NOUN O‘zbekistonda/NOUN bo‘lganman/VERB va/NOUN u/NOUN yerda/NOUN musobaqalar/NOUN qanday/NOUN tashkil/NOUN etilishini/NOUN ko‘rganman/ADJ ./PUNCT
- U/NOUN yerdagi/NOUN professionalizim/NOUN va/NOUN boksga/NOUN bo‘lgan/VERB mehr/NOUN ko‘p/ADV mamlakatlar/NOUN uchun/NOUN namuna/NOUN bo‘ladi/VERB ./PUNCT
- Toshkentda/NOUN yangi/NOUN chempionlarni/NOUN ko‘rishni/VERB sabrsizlik/NOUN bilan/NOUN kutmoqdaman/NOUN ./PUNCT
- Tarixda/NOUN ilk/NOUN bora/NOUN bizda/NOUN rekord/NOUN miqdordagi/NOUN mukofot/NOUN jamg‘armasi/NOUN bo‘ladi/VERB -/null 5/NOUN 2/NOUN million/NOUN AQSh/NOUN dollari/NOUN ./PUNCT
- Birinchi/NOUN o‘rin/NOUN uchun/NOUN 200/NOUN ming/NOUN AQSh/NOUN dollari/NOUN ikkinchi/NOUN o‘ringa/NOUN 100/NOUN 000/NOUN AQSh/NOUN dollari/NOUN bronza/NOUN medali/NOUN sohiblariga/NOUN esa/NOUN 50/NOUN ming/NOUN dollardan/NOUN beriladi/NOUN -/null dedi/NOUN IBA/NOUN prezidenti/NOUN Umar/NOUN Kremlyov/NOUN ./PUNCT
- Bu/NOUN tasodifan/NOUN bo‘lib/VERB qolgani/NOUN yo‘q/MOD O‘zbekistonda/NOUN uzoq/NOUN yillardan/NOUN beri/NOUN saqlanib/NOUN kelinayotgan/NOUN boy/NOUN boks/NOUN an‘analari/NOUN bunga/NOUN sababdir/NOUN ./PUNCT
- O‘zbekiston/NOUN boks/NOUN oilasi/NOUN nomidan/NOUN shuni/NOUN aytishim/NOUN mumkinki/NOUN mamlakatimiz/NOUN boks/NOUN bo‘yicha/AUX erkaklar/NOUN o‘rtasidagi/ADJ jahon/NOUN chempionatini/NOUN yuqori/NOUN saviyada/NOUN o‘tkazish/VERB uchun/NOUN barcha/NOUN ishni/NOUN qiladi/NOUN -/null dedi/NOUN Saken/NOUN Polatov/NOUN ./PUNCT
+ Bugun/ADV 25/NUM noyabr/NOUN kuni/NOUN Isroilning/NOUN Quddus/NOUN shahrida/NOUN shaxmat/NOUN bo‘yicha/AUX FIDE/null jamoalari/NOUN o‘rtasidagi/ADJ Jahon/NOUN chempionati/NOUN bahslari/NOUN yakunlanadi/VERB ./PUNCT
+ O‘zbekiston/NOUN jamoasi/NOUN yirik/ADJ musobaqa/NOUN g‘olibligi/NOUN uchun/VERB bahsga/NOUN kirishadi/VERB ./PUNCT
+ Bu/PRON haqda/NOUN Sportni/NOUN rivojlantirish/VERB vazirligi/NOUN matbuot/NOUN xizmati/NOUN xabar/NOUN qildi/VERB ./PUNCT
+ Ma‘lum/ADJ qilinishicha/VERB O‘zbekistonlik/NOUN shaxmatchilarga/NOUN hal/NOUN qiluvchi/NOUN bellashuvda/NOUN Xitoy/NOUN vakillari/NOUN raqiblik/NOUN qiladi/VERB ./PUNCT
+ Xitoyliklar/NOUN yarim/NUM finalda/null Ispaniyadan/NOUN ustun/NOUN kelishgandi/VERB ./PUNCT
+ O‘zbek/NOUN shaxmatchilari/NOUN esa/VERB yarim/NUM finalda/null Hindiston/NOUN jamoasini/NOUN dog‘da/NOUN qoldirdi/VERB ./PUNCT
+ O‘zbekiston/NOUN va/CONJ Xitoy/NOUN o‘rtasidagi/ADJ final/null partiyasi/NOUN bugun/ADV Toshkent/NOUN vaqti/NOUN bilan/AUX soat/NOUN 18/NUM 00da/null start/NOUN oladi/VERB ./PUNCT
+ AQSh/null va/CONJ Uels/NOUN terma/ADJ jamoalari/NOUN futbolchilari/NOUN Qatarda/NOUN bo‘lib/VERB o‘tayotgan/VERB jahon/NOUN chempionatining/NOUN guruh/NOUN bosqichining/NOUN birinchi/NUM o‘yinida/NOUN durang/null o‘ynadi/VERB ./PUNCT
+ Uchrashuv/VERB 1/NUM 1/NUM hisobida/NOUN yakunlandi/VERB ./PUNCT
+ AQSh/null terma/ADJ jamoasi/NOUN uchun/VERB birinchi/NUM golni/NOUN Liberiya/NOUN prezidenti/NOUN Jorj/NOUN Veaning/null o‘g‘li/null Timoti/NOUN Vea/null 36-daqiqada/null kiritdi/VERB ./PUNCT
+ Uels/NOUN terma/ADJ jamoasi/NOUN uchrashuvning/VERB 82-daqiqasida/null Garet/CONJ Beyl/null penaltini/NOUN golga/NOUN aylantirib/NOUN hisobni/NOUN tenglashtirgan/VERB ./PUNCT
+ 22/NUM yoshli/ADJ Timoti/NOUN Vea/null AQSh/null fuqarosi/NOUN ./PUNCT
+ Uning/PRON otasi/NOUN Jorj/NOUN -/null Monako/NOUN Pari/NOUN Sen-Jermen/PRON Milan/NOUN Chelsi/NOUN va/CONJ Manchester/NOUN Siti/VERB klublarida/NOUN o‘ynagan/VERB sobiq/ADJ professional/null futbolchi/NOUN hisoblanadi/VERB ./PUNCT
+ Jorj/NOUN Vea/null Italiya/NOUN va/CONJ Fransiya/NOUN chempioni/NOUN Oltin/ADJ to‘p/NOUN sohibi/NOUN 1995/NUM yil/NOUN Afrika/NOUN qit‘asining/NOUN bu/PRON sovrinni/NOUN qo‘lga/NOUN kiritgan/VERB yagona/ADJ vakili/NOUN ./PUNCT
+ U/PRON futbolchilik/NOUN faoliyatidan/ADJ so‘ng/ADJ siyosiy/NOUN faoliyat/ADJ bilan/AUX shug‘ullana/VERB boshlagan/VERB ./PUNCT
+ 2015-2018/null yillarda/NOUN Liberiya/NOUN senatori/NOUN 2018/NUM yilda/NOUN esa/VERB prezident/NOUN etib/VERB saylangan/VERB ./PUNCT
+ Ma‘lumot/NOUN uchun/VERB AQSh/null terma/ADJ jamoasi/NOUN jahon/NOUN chempionatida/NOUN 11-marta/null ishtirok/NOUN etmoqda/VERB ./PUNCT
+ 2018/NUM yil/NOUN Rossiyada/NOUN bo‘lib/VERB o‘tgan/VERB jahon/NOUN chempionati/NOUN uchun/VERB amerikaliklar/NOUN saralashdan/VERB o‘ta/VERB olishmagan/VERB ./PUNCT
+ Amerika/NOUN jamoasining/NOUN chempionatdagi/NOUN eng/VERB yaxshi/ADJ yutug‘i/VERB 1930/NUM yilda/NOUN bo‘lgan/VERB ./PUNCT
+ O‘shanda/ADV jamoa/NOUN uchinchi/NUM o‘rinni/NOUN egallagan/VERB ./PUNCT
+ Bugun/ADV 20/NUM noyabr/NOUN kuni/NOUN Qatar/NOUN poytaxti/NOUN Dohada/NOUN har/PRON to‘rt/NUM yillikning/NOUN eng/VERB yirik/ADJ futbol/NOUN bayrami/NOUN 2022/NUM yilgi/NOUN jahon/NOUN chempionati/NOUN ochilish/VERB marosimi/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
+ JCh-2022ni/null Dohadan/NOUN turib/VERB yoritib/VERB borayotganlarning/NOUN ma‘lum/ADJ qilishicha/VERB Al-Bayt/null stadionida/NOUN o‘tgan/VERB marosim/NOUN yuqori/ADJ tashkilotchilik/NOUN va/CONJ tayyorlangan/VERB turli/VERB sahna/NOUN ko‘rinishlari/VERB bilan/AUX o‘tgan/VERB ./PUNCT
+ Marosimda/NOUN janubiy/NOUN koreyalik/NOUN qo‘shiqchi/NOUN va/CONJ BTS/null guruhi/NOUN a‘zosi/NOUN Chonguk/NOUN va/CONJ qatarlik/NOUN qo‘shiqchi/NOUN Fahad/NOUN Al-Kubaysi/null Dreamers/NOUN kompozitsiyasi/NOUN bilan/AUX chiqish/VERB qilishgan/VERB ./PUNCT
+ Qatar/NOUN amiri/NOUN Tamim/null bin/NOUN Hamad/NOUN At-Tani/null ochilish/VERB nutqi/NOUN bilan/AUX chiqish/VERB qilib/VERB barchani/NOUN mundial/VERB bilan/AUX tabriklagan/VERB ./PUNCT
+ Qatardan/NOUN arab/NOUN mamlakatidan/NOUN barchani/NOUN jahon/NOUN chempionatidan/NOUN qutlayman/VERB ./PUNCT
+ Biz/PRON bu/PRON turnirni/NOUN jahon/NOUN chempionatlari/NOUN tarixidagi/NOUN eng/VERB muvaffaqiyatlisi/ADJ bo‘lishi/VERB uchun/VERB birgalikda/ADV mehnat/NOUN qildik/VERB ./PUNCT
+ Buyuk/NOUN futbol/NOUN festivalidamiz/null ./PUNCT
+ Turli/VERB irq/NOUN millat/NOUN e‘tiqod/NOUN va/CONJ qarashlardan/VERB qat‘i/NOUN nazar/NOUN futbol/NOUN barchamizni/NOUN birlashtiradi/VERB ./PUNCT
+ Bu/PRON yerda/NOUN butun/NUM insoniyat/NOUN manfaati/NOUN uchun/VERB ham/NOUN bor/VERB kuchimizni/NOUN sarflab/VERB sarmoya/NOUN kiritdik/VERB ./PUNCT
+ Nihoyat/NOUN bugun/ADV biz-u/PRON siz/VERB kutgan/VERB damlarga/NOUN yetib/VERB keldik/NOUN ./PUNCT
+ Bugundan/ADV boshlab/ADV Xudo/NOUN xohlasa/VERB 28/NUM kun/NOUN davomida/NOUN butun/NUM dunyo/NOUN biz/PRON bilan/AUX ajoyib/ADJ futbol/NOUN bayramini/NOUN kuzatib/VERB boradi/VERB ./PUNCT
+ Barcha/NOUN ishtirokchi/NOUN jamoalar/NOUN muxlislarni/NOUN qutlayman/VERB -/null deydi/VERB Qatar/NOUN amiri/NOUN o‘z/VERB nutqida/NOUN ./PUNCT
+ Eng/VERB e‘tiborli/ADJ jihati/NOUN JCh-2022/null ochilish/VERB marosimida/NOUN qatarlik/NOUN qori/NOUN yigit/NOUN G‘anim/NOUN Mufah/NOUN Qur‘oni/VERB Karim/NOUN oyatlaridan/NOUN tilovat/NOUN qildi/VERB ./PUNCT
+ Shuningdek/MOD Gollivudning/NOUN mashhur/ADJ aktyori/NOUN Morgan/null Friman/null JCh/null ochilishida/VERB chiqish/VERB qilib/VERB futbol/NOUN insoniyatni/NOUN birlashtirishi/VERB haqida/NOUN gapirgan/VERB ./PUNCT
+ Ochilish/VERB marosimidan/NOUN keyin/ADV Qatar/NOUN -/null Ekvador/NOUN uchrashuvi/VERB startidan/NOUN avval/NOUN Al-Bayt/null stadioniga/NOUN JCh/null bosh/ADJ sovrini/NOUN maketi/NOUN ko‘rsatildi/VERB ./PUNCT
+ Shu/PRON tariqa/NOUN ushbu/PRON o‘yin/NOUN bilan/AUX JCh-2022/null rasman/ADV start/NOUN oldi/NOUN ./PUNCT
+ Biroq/CONJ Qatar/NOUN o‘z/VERB uyida/VERB musobaqaning/NOUN dastlabki/ADJ o‘yinida/NOUN mag‘lub/NOUN bo‘ldi/VERB ./PUNCT
+ Ochilish/VERB bahsida/NOUN Ekvador/NOUN mezbonlarga/NOUN umuman/ADV imkoniyat/NOUN qoldirmadi/VERB ./PUNCT
+ Fenerbahche/NOUN hujumchisi/NOUN Enner/VERB Valensiyaning/NOUN dubli/NOUN Lotin/NOUN Amerikasi/NOUN vakiliga/NOUN g‘alaba/NOUN keltirdi/VERB ./PUNCT
+ Quyida/ADJ esa/VERB ochilish/VERB marosimidan/NOUN olingan/VERB suratlar/NOUN bilan/AUX tanishing/ADJ ./PUNCT
+ Tarixda/NOUN ilk/ADJ bor/VERB futbol/NOUN bo‘yicha/AUX Jahon/NOUN chempionatining/NOUN ochilish/VERB marosimi/NOUN oldidan/NOUN Qur‘on/VERB oyatlaridan/NOUN tilovat/NOUN qilindi/VERB ./PUNCT
+ Yigirma/NUM yoshli/ADJ G‘anim/NOUN Al/null Muftoh/NOUN FIFA/NOUN Jahon/NOUN chempionati/NOUN ochilish/VERB marosimising/NOUN qorisi/NOUN bo‘ldi/VERB ./PUNCT
+ Jarayon/NOUN bugun/ADV yakshanba/NOUN kuni/NOUN mahalliy/NOUN vaqt/NOUN bilan/AUX soat/NOUN 17/NUM 00da/null Al-Xor/null shahridagi/NOUN Al/null Bayt/NOUN stadionida/NOUN tashkil/NOUN etildi/VERB ./PUNCT
+ Ma‘lumot/NOUN uchun/VERB G‘anim/NOUN Al/null Muftoh/NOUN arab/NOUN dunyosidagi/NOUN ko‘plab/ADV yoshlar/NOUN uchun/VERB namuna/NOUN bo‘lib/VERB u/PRON umurtqa/NOUN pog‘onasining/NOUN pastki/ADJ qismi/NOUN rivojlanishiga/VERB putur/NOUN etkazadigan/VERB kam/null uchraydigan/VERB kasallik/NOUN bo‘lgan/VERB kaudal/null regressiya/null sindromiga/VERB ega/NOUN bo‘lishiga/VERB qaramay/AUX ko‘plab/ADV yutuqlarga/VERB erishgan/VERB ./PUNCT
+ Futbol/NOUN bo‘yicha/AUX 2022/NUM yilgi/NOUN jahon/NOUN chempionati/NOUN 20/NUM noyabrdan/NOUN 18/NUM dekabrga/NOUN qadar/NOUN Qatarda/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
+ Jahon/NOUN chempionatning/NOUN barcha/NOUN o‘yinlari/NOUN beshta/NOUN Doha/NOUN Lusail/NOUN El-Xaur/NOUN Er-Rayyan/NOUN El/NOUN Vakra/CONJ shaharlardagi/NOUN sakkizta/NUM stadionda/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
+ Meksikada/NOUN o‘tkazilayotgan/VERB taekvondo/NOUN bo‘yicha/AUX jahon/NOUN chempionatining/NOUN yana/ADV bir/NUM kuni/NOUN O‘zbekiston/NOUN terma/ADJ jamoasi/NOUN uchun/VERB omadli/ADJ o‘tdi/VERB ./PUNCT
+ 73/NUM kg/null vazn/NOUN toifasida/NOUN bahs/NOUN olib/VERB borgan/VERB hamyurtimiz/NOUN Svetlana/NOUN Osipova/NOUN jahon/NOUN chempionligini/NOUN qo‘lga/NOUN kiritdi/VERB !/PUNCT
+ Final/null bellashuvida/NOUN Osipova/NOUN isroillik/NOUN Dana/NOUN Arzanni/NOUN 3/NUM raundda/NOUN 2/NUM 1/NUM mag‘lubiyatga/NOUN uchratdi/VERB ./PUNCT
+ Bu/PRON bilan/AUX Osipova/NOUN jahon/NOUN chempionatlarida/NOUN g‘alaba/NOUN qozongan/NOUN birinchi/NUM taekvondochi/NOUN o‘zbekistonlik/NOUN qiz/NOUN sifatida/NOUN tarixda/NOUN qolmoqda/VERB ./PUNCT
+ Joriy/null yil/NOUN 11-13/null noyabr/NOUN kunlari/NOUN Qozon/NOUN shahrida/NOUN qo‘l/NOUN jangi/NOUN bo‘yicha/AUX Osiyo/NOUN chempionati/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
+ Mazkur/NOUN musobaqada/NOUN qo‘l/NOUN jangi/NOUN bo‘yicha/AUX O‘zbekiston/NOUN terma/ADJ jamoasi/NOUN umumjamoa/NOUN hisobida/NOUN 1-o‘rinni/null qo‘lga/NOUN kiritdi/VERB ./PUNCT
+ Bu/PRON haqda/NOUN Sportni/NOUN rivojlantirish/VERB vazirligi/NOUN xabar/NOUN berdi/NOUN ./PUNCT
+ Ta‘kidlanishicha/VERB ushbu/PRON turnirda/NOUN dunyoning/NOUN turli/VERB davlatlaridan/NOUN 15/NUM dan/NOUN ortiq/ADV jamoalar/NOUN ishtirok/NOUN etishgan/VERB ./PUNCT
+ Qo‘l/NOUN jangi/NOUN bo‘yicha/AUX Osiyo/NOUN chempionatining/NOUN ikkinchi/NUM kunida/NOUN duel/NOUN yo‘nalishi/VERB bo‘yicha/AUX 6/NUM ta/null vazn/NOUN toifasida/NOUN g‘oliblar/ADJ va/CONJ sovrindorlar/NOUN bilan/AUX tanishing/ADJ Bugun/ADV O‘zbekiston/NOUN Superligasining/NOUN so‘ngi/ADJ tur/VERB bahslari/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
+ Avvalgi/ADJ mavsumlarga/NOUN nazar/NOUN tashlaydigan/VERB bo‘lsak/VERB ko‘p/ADV xollarda/NOUN chempion/NOUN nomi/NOUN so‘ngi/ADJ turdan/VERB ancha/ADV avval/NOUN ma‘lum/ADJ bo‘lardi/VERB ./PUNCT
+ Bu/PRON yilgi/NOUN mavsum/NOUN esa/VERB muxlislar/NOUN sabrini/NOUN so‘ngi/ADJ turgacha/VERB sinovdan/NOUN o‘tkazdi/VERB ./PUNCT
+ Bugun/ADV 7/NUM ta/null stadionda/NOUN o‘tadigan/VERB o‘yinlaridan/NOUN keyin/ADV chempion/NOUN sovrindorlar/NOUN va/CONJ Pro/null ligaga/NOUN yo‘l/NOUN oladigan/VERB jamoa/NOUN nomi/NOUN aniq/null bo‘ladi/VERB ./PUNCT
+ Turnir/NOUN jadvaliga/NOUN e‘tibor/NOUN qaratadigan/VERB bo‘lsak/VERB Paxtakor/NOUN 51/NUM ochko/NOUN bilan/AUX peshqadam/ADJ bo‘lib/VERB turibdi/VERB ./PUNCT
+ Paxtakor/NOUN ning/NOUN g‘alabasi/NOUN oriqcha/null hisob-kitoblarsiz/NOUN klubni/NOUN chempionlik/NOUN shohsupasiga/NOUN olib/VERB chiqadi/VERB ./PUNCT
+ Durangdan/null Navbahor/NOUN faqat/ADV AGMKni/null yutish/VERB orqali/NOUN foydalanib/VERB qolishi/VERB mumkin/VERB ./PUNCT
+ Chunki/CONJ namanganliklar/NOUN hisobida/NOUN 50/NUM ochko/NOUN mavjud/NOUN va/CONJ ikkinchi/NUM o‘rinda/NOUN ketmoqda/VERB ./PUNCT
+ Agarda/CONJ Paxtakor/NOUN mag‘lubiyatga/NOUN uchrab/VERB Navbahor/NOUN durang/null qayd/null etsa/VERB ochkolar/NOUN tenglashadi/VERB ./PUNCT
+ Joriy/null yilgi/NOUN o‘zaro/ADV uchrashuvlarda/VERB ustunlik/NOUN Paxtakor/NOUN tomonida/AUX ./PUNCT
+ Bunday/ADV holat/NOUN ro‘y/NOUN bergan/NOUN taqdirda/NOUN Maksim/NOUN Shaskix/null shogirdlari/NOUN birinchi/NUM o‘rinda/NOUN qolishadi/VERB ./PUNCT
+ Nasaf/NOUN futbolchilari/NOUN Olimpik/ADJ ni/NOUN mag‘lubiyatga/NOUN uchratishlari/VERB evaziga/NOUN Paxtakor/NOUN ga/null yetib/VERB olishadi/VERB va/CONJ ikki/NUM jamoada/NOUN ham/NOUN bir/NUM xil/NOUN 52/NUM ochkodan/NOUN bo‘ladi/VERB ./PUNCT
+ O‘zaro/ADV o‘yinlarda/NOUN qarshiliklar/NOUN 4/NUM poytaxt/NOUN klubi/NOUN 1/NUM ochko/NOUN ishlagan/VERB ./PUNCT
+ Bunda/PRON Nasaf/NOUN chempionlikni/NOUN rasmiylashtiradi/VERB ./PUNCT
+ Kecha/VERB Xalqaro/ADJ boks/NOUN assotsiatsiyasi/NOUN IBA/null prezidenti/NOUN Umar/NOUN Kremlyov/NOUN ishtirokida/NOUN bo‘lib/VERB o‘tgan/VERB matbuot/NOUN anjumanida/NOUN 2023/NUM yilgi/NOUN jahon/NOUN chempionati/NOUN 1-14/null may/NOUN kunlari/NOUN Toshkentda/NOUN o‘tkazilishi/VERB tasdiqladi/VERB ./PUNCT
+ Bu/PRON haqda/NOUN O‘zbekiston/NOUN boks/NOUN federatsiyasining/NOUN rasmiy/ADV kanalida/NOUN ma‘lum/ADJ qilindi/VERB ./PUNCT
+ Ishonamanki/VERB boks/NOUN bo‘yicha/AUX erkaklar/NOUN o‘rtasidagi/ADJ jahon/NOUN chempionati/NOUN yuqori/ADJ darajada/NOUN o‘tkaziladi/VERB va/CONJ tarixdagi/NOUN eng/VERB zo‘rlaridan/ADJ biri/NUM bo‘ladi/VERB ./PUNCT
+ Men/NOUN O‘zbekistonda/NOUN bo‘lganman/VERB va/CONJ u/PRON yerda/NOUN musobaqalar/NOUN qanday/ADV tashkil/NOUN etilishini/VERB ko‘rganman/ADJ ./PUNCT
+ U/PRON yerdagi/NOUN professionalizim/null va/CONJ boksga/NOUN bo‘lgan/VERB mehr/NOUN ko‘p/ADV mamlakatlar/NOUN uchun/VERB namuna/NOUN bo‘ladi/VERB ./PUNCT
+ Toshkentda/NOUN yangi/ADJ chempionlarni/NOUN ko‘rishni/VERB sabrsizlik/NOUN bilan/AUX kutmoqdaman/VERB ./PUNCT
+ Tarixda/NOUN ilk/ADJ bora/NOUN bizda/PRON rekord/null miqdordagi/NOUN mukofot/NOUN jamg‘armasi/NOUN bo‘ladi/VERB -/null 5/NUM 2/NUM million/NUM AQSh/null dollari/NOUN ./PUNCT
+ Birinchi/NUM o‘rin/NOUN uchun/VERB 200/NUM ming/NUM AQSh/null dollari/NOUN ikkinchi/NUM o‘ringa/NOUN 100/NUM 000/NUM AQSh/null dollari/NOUN bronza/NOUN medali/NOUN sohiblariga/NOUN esa/VERB 50/NUM ming/NUM dollardan/NOUN beriladi/VERB -/null dedi/VERB IBA/null prezidenti/NOUN Umar/NOUN Kremlyov/NOUN ./PUNCT
+ Bu/PRON tasodifan/ADV bo‘lib/VERB qolgani/VERB yo‘q/MOD O‘zbekistonda/NOUN uzoq/ADV yillardan/NOUN beri/ADV saqlanib/VERB kelinayotgan/NOUN boy/ADJ boks/NOUN an‘analari/NOUN bunga/PRON sababdir/VERB ./PUNCT
+ O‘zbekiston/NOUN boks/NOUN oilasi/NOUN nomidan/NOUN shuni/PRON aytishim/null mumkinki/VERB mamlakatimiz/NOUN boks/NOUN bo‘yicha/AUX erkaklar/NOUN o‘rtasidagi/ADJ jahon/NOUN chempionatini/NOUN yuqori/ADJ saviyada/NOUN o‘tkazish/VERB uchun/VERB barcha/NOUN ishni/NOUN qiladi/VERB -/null dedi/VERB Saken/NOUN Polatov/NOUN ./PUNCT
+
+
+
+
+{'word': 'Bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': '25', 'pos': 'NUM', 'root': '25', 'affix': 'null'}
+{'word': 'noyabr', 'pos': 'NOUN', 'root': 'noyabr', 'affix': ''}
+{'word': 'kuni', 'pos': 'NOUN', 'root': 'kun', 'affix': 'i'}
+{'word': 'Isroilning', 'pos': 'NOUN', 'root': 'isroil', 'affix': 'ning'}
+{'word': 'Quddus', 'pos': 'NOUN', 'root': 'quddus', 'affix': ''}
+{'word': 'shahrida', 'pos': 'NOUN', 'root': 'shahri', 'affix': 'da'}
+{'word': 'shaxmat', 'pos': 'NOUN', 'root': 'shaxmat', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'FIDE', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'jamoalari', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'lari'}
+{'word': 'o‘rtasidagi', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': 'sidagi'}
+{'word': 'Jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': 'bahslari', 'pos': 'NOUN', 'root': 'bahs', 'affix': 'lari'}
+{'word': 'yakunlanadi', 'pos': 'VERB', 'root': 'yakunlan', 'affix': 'adi'}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'jamoasi', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'si'}
+{'word': 'yirik', 'pos': 'ADJ', 'root': 'yirik', 'affix': ''}
+{'word': 'musobaqa', 'pos': 'NOUN', 'root': 'musobaqa', 'affix': ''}
+{'word': 'g‘olibligi', 'pos': 'NOUN', 'root': 'g‘olib', 'affix': 'ligi'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'bahsga', 'pos': 'NOUN', 'root': 'bahs', 'affix': 'ga'}
+{'word': 'kirishadi', 'pos': 'VERB', 'root': 'kirish', 'affix': 'adi'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'haqda', 'pos': 'NOUN', 'root': 'haq', 'affix': 'da'}
+{'word': 'Sportni', 'pos': 'NOUN', 'root': 'sport', 'affix': 'ni'}
+{'word': 'rivojlantirish', 'pos': 'VERB', 'root': 'rivojlantir', 'affix': 'ish'}
+{'word': 'vazirligi', 'pos': 'NOUN', 'root': 'vazir', 'affix': 'ligi'}
+{'word': 'matbuot', 'pos': 'NOUN', 'root': 'matbuot', 'affix': ''}
+{'word': 'xizmati', 'pos': 'NOUN', 'root': 'xizmat', 'affix': 'i'}
+{'word': 'xabar', 'pos': 'NOUN', 'root': 'xabar', 'affix': ''}
+{'word': 'qildi', 'pos': 'VERB', 'root': 'qil', 'affix': 'di'}
+{'word': 'Ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'qilinishicha', 'pos': 'VERB', 'root': 'qilin', 'affix': 'ishicha'}
+{'word': 'O‘zbekistonlik', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'istonlik'}
+{'word': 'shaxmatchilarga', 'pos': 'NOUN', 'root': 'shaxmatchi', 'affix': 'larga'}
+{'word': 'hal', 'pos': 'NOUN', 'root': 'ha', 'affix': 'l'}
+{'word': 'qiluvchi', 'pos': 'NOUN', 'root': 'qil', 'affix': 'uvchi'}
+{'word': 'bellashuvda', 'pos': 'NOUN', 'root': 'bellashuv', 'affix': 'da'}
+{'word': 'Xitoy', 'pos': 'NOUN', 'root': 'xitoy', 'affix': ''}
+{'word': 'vakillari', 'pos': 'NOUN', 'root': 'vakil', 'affix': 'lari'}
+{'word': 'raqiblik', 'pos': 'NOUN', 'root': 'raqiblik', 'affix': ''}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': 'Xitoyliklar', 'pos': 'NOUN', 'root': 'xitoy', 'affix': 'liklar'}
+{'word': 'yarim', 'pos': 'NUM', 'root': 'yarim', 'affix': ''}
+{'word': 'finalda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Ispaniyadan', 'pos': 'NOUN', 'root': 'ispaniya', 'affix': 'dan'}
+{'word': 'ustun', 'pos': 'NOUN', 'root': 'ustun', 'affix': ''}
+{'word': 'kelishgandi', 'pos': 'VERB', 'root': 'kelish', 'affix': 'gandi'}
+{'word': 'O‘zbek', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': ''}
+{'word': 'shaxmatchilari', 'pos': 'NOUN', 'root': 'shaxmatchi', 'affix': 'lari'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'yarim', 'pos': 'NUM', 'root': 'yarim', 'affix': ''}
+{'word': 'finalda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Hindiston', 'pos': 'NOUN', 'root': 'hindiston', 'affix': ''}
+{'word': 'jamoasini', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'sini'}
+{'word': 'dog‘da', 'pos': 'NOUN', 'root': 'dog‘', 'affix': 'da'}
+{'word': 'qoldirdi', 'pos': 'VERB', 'root': 'qoldir', 'affix': 'di'}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'Xitoy', 'pos': 'NOUN', 'root': 'xitoy', 'affix': ''}
+{'word': 'o‘rtasidagi', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': 'sidagi'}
+{'word': 'final', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'partiyasi', 'pos': 'NOUN', 'root': 'partiya', 'affix': 'si'}
+{'word': 'bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': 'Toshkent', 'pos': 'NOUN', 'root': 'toshkent', 'affix': ''}
+{'word': 'vaqti', 'pos': 'NOUN', 'root': 'vaqt', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'soat', 'pos': 'NOUN', 'root': 'soat', 'affix': ''}
+{'word': '18', 'pos': 'NUM', 'root': '18', 'affix': 'null'}
+{'word': '00da', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'start', 'pos': 'NOUN', 'root': 'star', 'affix': 't'}
+{'word': 'oladi', 'pos': 'VERB', 'root': 'ol', 'affix': 'adi'}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'Uels', 'pos': 'NOUN', 'root': 'uels', 'affix': ''}
+{'word': 'terma', 'pos': 'ADJ', 'root': 'terma', 'affix': ''}
+{'word': 'jamoalari', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'lari'}
+{'word': 'futbolchilari', 'pos': 'NOUN', 'root': 'futbolchi', 'affix': 'lari'}
+{'word': 'Qatarda', 'pos': 'NOUN', 'root': 'qatar', 'affix': 'da'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tayotgan', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'yotgan'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatining', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ining'}
+{'word': 'guruh', 'pos': 'NOUN', 'root': 'guruh', 'affix': ''}
+{'word': 'bosqichining', 'pos': 'NOUN', 'root': 'bosqich', 'affix': 'ining'}
+{'word': 'birinchi', 'pos': 'NUM', 'root': 'birinchi', 'affix': ''}
+{'word': 'o‘yinida', 'pos': 'NOUN', 'root': 'o‘yin', 'affix': 'ida'}
+{'word': 'durang', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'o‘ynadi', 'pos': 'VERB', 'root': 'o‘yna', 'affix': 'di'}
+{'word': 'Uchrashuv', 'pos': 'VERB', 'root': 'uchrash', 'affix': 'uv'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': 'hisobida', 'pos': 'NOUN', 'root': 'hisob', 'affix': 'ida'}
+{'word': 'yakunlandi', 'pos': 'VERB', 'root': 'yakunlan', 'affix': 'di'}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'terma', 'pos': 'ADJ', 'root': 'terma', 'affix': ''}
+{'word': 'jamoasi', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'si'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'birinchi', 'pos': 'NUM', 'root': 'birinchi', 'affix': ''}
+{'word': 'golni', 'pos': 'NOUN', 'root': 'go', 'affix': 'lni'}
+{'word': 'Liberiya', 'pos': 'NOUN', 'root': 'liberiya', 'affix': ''}
+{'word': 'prezidenti', 'pos': 'NOUN', 'root': 'prezident', 'affix': 'i'}
+{'word': 'Jorj', 'pos': 'NOUN', 'root': 'jorj', 'affix': ''}
+{'word': 'Veaning', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'o‘g‘li', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Timoti', 'pos': 'NOUN', 'root': 'timo', 'affix': 'ti'}
+{'word': 'Vea', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': '36-daqiqada', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kiritdi', 'pos': 'VERB', 'root': 'kirit', 'affix': 'di'}
+{'word': 'Uels', 'pos': 'NOUN', 'root': 'uels', 'affix': ''}
+{'word': 'terma', 'pos': 'ADJ', 'root': 'terma', 'affix': ''}
+{'word': 'jamoasi', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'si'}
+{'word': 'uchrashuvning', 'pos': 'VERB', 'root': 'uchrash', 'affix': 'uvning'}
+{'word': '82-daqiqasida', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Garet', 'pos': 'CONJ', 'root': 'gar', 'affix': 'et'}
+{'word': 'Beyl', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'penaltini', 'pos': 'NOUN', 'root': 'penal', 'affix': 'tini'}
+{'word': 'golga', 'pos': 'NOUN', 'root': 'go', 'affix': 'lga'}
+{'word': 'aylantirib', 'pos': 'NOUN', 'root': 'ayla', 'affix': 'ntirib'}
+{'word': 'hisobni', 'pos': 'NOUN', 'root': 'hisob', 'affix': 'ni'}
+{'word': 'tenglashtirgan', 'pos': 'VERB', 'root': 'tenglashtir', 'affix': 'gan'}
+{'word': '22', 'pos': 'NUM', 'root': '22', 'affix': 'null'}
+{'word': 'yoshli', 'pos': 'ADJ', 'root': 'yosh', 'affix': 'li'}
+{'word': 'Timoti', 'pos': 'NOUN', 'root': 'timo', 'affix': 'ti'}
+{'word': 'Vea', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'fuqarosi', 'pos': 'NOUN', 'root': 'fuqaro', 'affix': 'si'}
+{'word': 'Uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'otasi', 'pos': 'NOUN', 'root': 'ota', 'affix': 'si'}
+{'word': 'Jorj', 'pos': 'NOUN', 'root': 'jorj', 'affix': ''}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Monako', 'pos': 'NOUN', 'root': 'monako', 'affix': ''}
+{'word': 'Pari', 'pos': 'NOUN', 'root': 'pari', 'affix': ''}
+{'word': 'Sen-Jermen', 'pos': 'PRON', 'root': 'sen', 'affix': '-Jermen'}
+{'word': 'Milan', 'pos': 'NOUN', 'root': 'milan', 'affix': ''}
+{'word': 'Chelsi', 'pos': 'NOUN', 'root': 'chel', 'affix': 'si'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'Manchester', 'pos': 'NOUN', 'root': 'manchester', 'affix': ''}
+{'word': 'Siti', 'pos': 'VERB', 'root': 'sit', 'affix': 'i'}
+{'word': 'klublarida', 'pos': 'NOUN', 'root': 'klub', 'affix': 'larida'}
+{'word': 'o‘ynagan', 'pos': 'VERB', 'root': 'o‘yna', 'affix': 'gan'}
+{'word': 'sobiq', 'pos': 'ADJ', 'root': 'sobiq', 'affix': ''}
+{'word': 'professional', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'futbolchi', 'pos': 'NOUN', 'root': 'futbolchi', 'affix': ''}
+{'word': 'hisoblanadi', 'pos': 'VERB', 'root': 'hisoblan', 'affix': 'adi'}
+{'word': 'Jorj', 'pos': 'NOUN', 'root': 'jorj', 'affix': ''}
+{'word': 'Vea', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Italiya', 'pos': 'NOUN', 'root': 'italiya', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'Fransiya', 'pos': 'NOUN', 'root': 'fransiya', 'affix': ''}
+{'word': 'chempioni', 'pos': 'NOUN', 'root': 'chempion', 'affix': 'i'}
+{'word': 'Oltin', 'pos': 'ADJ', 'root': 'oltin', 'affix': ''}
+{'word': 'to‘p', 'pos': 'NOUN', 'root': 'to‘p', 'affix': ''}
+{'word': 'sohibi', 'pos': 'NOUN', 'root': 'sohib', 'affix': 'i'}
+{'word': '1995', 'pos': 'NUM', 'root': '1995', 'affix': 'null'}
+{'word': 'yil', 'pos': 'NOUN', 'root': 'yil', 'affix': ''}
+{'word': 'Afrika', 'pos': 'NOUN', 'root': 'afrika', 'affix': ''}
+{'word': 'qit‘asining', 'pos': 'NOUN', 'root': 'qit‘a', 'affix': 'sining'}
+{'word': 'bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'sovrinni', 'pos': 'NOUN', 'root': 'sovrin', 'affix': 'ni'}
+{'word': 'qo‘lga', 'pos': 'NOUN', 'root': 'qo‘l', 'affix': 'ga'}
+{'word': 'kiritgan', 'pos': 'VERB', 'root': 'kirit', 'affix': 'gan'}
+{'word': 'yagona', 'pos': 'ADJ', 'root': 'yagona', 'affix': ''}
+{'word': 'vakili', 'pos': 'NOUN', 'root': 'vakil', 'affix': 'i'}
+{'word': 'U', 'pos': 'PRON', 'root': 'u', 'affix': ''}
+{'word': 'futbolchilik', 'pos': 'NOUN', 'root': 'futbolchi', 'affix': 'lik'}
+{'word': 'faoliyatidan', 'pos': 'ADJ', 'root': 'faol', 'affix': 'iyatidan'}
+{'word': 'so‘ng', 'pos': 'ADJ', 'root': 'so‘ng', 'affix': ''}
+{'word': 'siyosiy', 'pos': 'NOUN', 'root': 'siyo', 'affix': 'siy'}
+{'word': 'faoliyat', 'pos': 'ADJ', 'root': 'faol', 'affix': 'iyat'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'shug‘ullana', 'pos': 'VERB', 'root': 'shug‘ullan', 'affix': 'a'}
+{'word': 'boshlagan', 'pos': 'VERB', 'root': 'boshla', 'affix': 'gan'}
+{'word': '2015-2018', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yillarda', 'pos': 'NOUN', 'root': 'yil', 'affix': 'larda'}
+{'word': 'Liberiya', 'pos': 'NOUN', 'root': 'liberiya', 'affix': ''}
+{'word': 'senatori', 'pos': 'NOUN', 'root': 'senat', 'affix': 'ori'}
+{'word': '2018', 'pos': 'NUM', 'root': '2018', 'affix': 'null'}
+{'word': 'yilda', 'pos': 'NOUN', 'root': 'yil', 'affix': 'da'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'prezident', 'pos': 'NOUN', 'root': 'prezident', 'affix': ''}
+{'word': 'etib', 'pos': 'VERB', 'root': 'et', 'affix': 'ib'}
+{'word': 'saylangan', 'pos': 'VERB', 'root': 'saylan', 'affix': 'gan'}
+{'word': 'Ma‘lumot', 'pos': 'NOUN', 'root': 'ma‘lumot', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'terma', 'pos': 'ADJ', 'root': 'terma', 'affix': ''}
+{'word': 'jamoasi', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'si'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatida', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ida'}
+{'word': '11-marta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ishtirok', 'pos': 'NOUN', 'root': 'ishtirok', 'affix': ''}
+{'word': 'etmoqda', 'pos': 'VERB', 'root': 'et', 'affix': 'moqda'}
+{'word': '2018', 'pos': 'NUM', 'root': '2018', 'affix': 'null'}
+{'word': 'yil', 'pos': 'NOUN', 'root': 'yil', 'affix': ''}
+{'word': 'Rossiyada', 'pos': 'NOUN', 'root': 'rossiya', 'affix': 'da'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tgan', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'gan'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'amerikaliklar', 'pos': 'NOUN', 'root': 'amerikalik', 'affix': 'lar'}
+{'word': 'saralashdan', 'pos': 'VERB', 'root': 'saralash', 'affix': 'dan'}
+{'word': 'o‘ta', 'pos': 'VERB', 'root': 'o‘ta', 'affix': ''}
+{'word': 'olishmagan', 'pos': 'VERB', 'root': 'olish', 'affix': 'magan'}
+{'word': 'Amerika', 'pos': 'NOUN', 'root': 'amerika', 'affix': ''}
+{'word': 'jamoasining', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'sining'}
+{'word': 'chempionatdagi', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'dagi'}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'yaxshi', 'pos': 'ADJ', 'root': 'yaxshi', 'affix': ''}
+{'word': 'yutug‘i', 'pos': 'VERB', 'root': 'yut', 'affix': 'ug‘i'}
+{'word': '1930', 'pos': 'NUM', 'root': '1930', 'affix': 'null'}
+{'word': 'yilda', 'pos': 'NOUN', 'root': 'yil', 'affix': 'da'}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'O‘shanda', 'pos': 'ADV', 'root': 'o‘shanda', 'affix': ''}
+{'word': 'jamoa', 'pos': 'NOUN', 'root': 'jamoa', 'affix': ''}
+{'word': 'uchinchi', 'pos': 'NUM', 'root': 'uch', 'affix': 'inchi'}
+{'word': 'o‘rinni', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': 'ni'}
+{'word': 'egallagan', 'pos': 'VERB', 'root': 'egalla', 'affix': 'gan'}
+{'word': 'Bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': '20', 'pos': 'NUM', 'root': '20', 'affix': 'null'}
+{'word': 'noyabr', 'pos': 'NOUN', 'root': 'noyabr', 'affix': ''}
+{'word': 'kuni', 'pos': 'NOUN', 'root': 'kun', 'affix': 'i'}
+{'word': 'Qatar', 'pos': 'NOUN', 'root': 'qatar', 'affix': ''}
+{'word': 'poytaxti', 'pos': 'NOUN', 'root': 'poytaxt', 'affix': 'i'}
+{'word': 'Dohada', 'pos': 'NOUN', 'root': 'doha', 'affix': 'da'}
+{'word': 'har', 'pos': 'PRON', 'root': 'har', 'affix': ''}
+{'word': 'to‘rt', 'pos': 'NUM', 'root': 'to‘rt', 'affix': ''}
+{'word': 'yillikning', 'pos': 'NOUN', 'root': 'yil', 'affix': 'likning'}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'yirik', 'pos': 'ADJ', 'root': 'yirik', 'affix': ''}
+{'word': 'futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'bayrami', 'pos': 'NOUN', 'root': 'bayram', 'affix': 'i'}
+{'word': '2022', 'pos': 'NUM', 'root': '2022', 'affix': 'null'}
+{'word': 'yilgi', 'pos': 'NOUN', 'root': 'yil', 'affix': 'gi'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': 'ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'marosimi', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'i'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tdi', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'di'}
+{'word': 'JCh-2022ni', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Dohadan', 'pos': 'NOUN', 'root': 'doha', 'affix': 'dan'}
+{'word': 'turib', 'pos': 'VERB', 'root': 'tur', 'affix': 'ib'}
+{'word': 'yoritib', 'pos': 'VERB', 'root': 'yorit', 'affix': 'ib'}
+{'word': 'borayotganlarning', 'pos': 'NOUN', 'root': 'bora', 'affix': 'yotganlarning'}
+{'word': 'ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'qilishicha', 'pos': 'VERB', 'root': 'qilish', 'affix': 'icha'}
+{'word': 'Al-Bayt', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'stadionida', 'pos': 'NOUN', 'root': 'stadion', 'affix': 'ida'}
+{'word': 'o‘tgan', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'gan'}
+{'word': 'marosim', 'pos': 'NOUN', 'root': 'marosim', 'affix': ''}
+{'word': 'yuqori', 'pos': 'ADJ', 'root': 'yuqori', 'affix': ''}
+{'word': 'tashkilotchilik', 'pos': 'NOUN', 'root': 'tashkilotchilik', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'tayyorlangan', 'pos': 'VERB', 'root': 'tayyorlan', 'affix': 'gan'}
+{'word': 'turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'sahna', 'pos': 'NOUN', 'root': 'sahna', 'affix': ''}
+{'word': 'ko‘rinishlari', 'pos': 'VERB', 'root': 'ko‘rinish', 'affix': 'lari'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'o‘tgan', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'gan'}
+{'word': 'Marosimda', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'da'}
+{'word': 'janubiy', 'pos': 'NOUN', 'root': 'janubiy', 'affix': ''}
+{'word': 'koreyalik', 'pos': 'NOUN', 'root': 'koreya', 'affix': 'lik'}
+{'word': 'qo‘shiqchi', 'pos': 'NOUN', 'root': 'qo‘shiqchi', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'BTS', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'guruhi', 'pos': 'NOUN', 'root': 'guruh', 'affix': 'i'}
+{'word': 'a‘zosi', 'pos': 'NOUN', 'root': 'a‘zo', 'affix': 'si'}
+{'word': 'Chonguk', 'pos': 'NOUN', 'root': 'ch', 'affix': 'onguk'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'qatarlik', 'pos': 'NOUN', 'root': 'qatar', 'affix': 'lik'}
+{'word': 'qo‘shiqchi', 'pos': 'NOUN', 'root': 'qo‘shiqchi', 'affix': ''}
+{'word': 'Fahad', 'pos': 'NOUN', 'root': 'fa', 'affix': 'had'}
+{'word': 'Al-Kubaysi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Dreamers', 'pos': 'NOUN', 'root': 'dr', 'affix': 'eamers'}
+{'word': 'kompozitsiyasi', 'pos': 'NOUN', 'root': 'kompozitsiya', 'affix': 'si'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'chiqish', 'pos': 'VERB', 'root': 'chiq', 'affix': 'ish'}
+{'word': 'qilishgan', 'pos': 'VERB', 'root': 'qilish', 'affix': 'gan'}
+{'word': 'Qatar', 'pos': 'NOUN', 'root': 'qatar', 'affix': ''}
+{'word': 'amiri', 'pos': 'NOUN', 'root': 'amiri', 'affix': ''}
+{'word': 'Tamim', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bin', 'pos': 'NOUN', 'root': 'bi', 'affix': 'n'}
+{'word': 'Hamad', 'pos': 'NOUN', 'root': 'ham', 'affix': 'ad'}
+{'word': 'At-Tani', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'nutqi', 'pos': 'NOUN', 'root': 'nutq', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'chiqish', 'pos': 'VERB', 'root': 'chiq', 'affix': 'ish'}
+{'word': 'qilib', 'pos': 'VERB', 'root': 'qil', 'affix': 'ib'}
+{'word': 'barchani', 'pos': 'NOUN', 'root': 'bar', 'affix': 'chani'}
+{'word': 'mundial', 'pos': 'VERB', 'root': 'mu', 'affix': 'ndial'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'tabriklagan', 'pos': 'VERB', 'root': 'tabrikla', 'affix': 'gan'}
+{'word': 'Qatardan', 'pos': 'NOUN', 'root': 'qatar', 'affix': 'dan'}
+{'word': 'arab', 'pos': 'NOUN', 'root': 'arab', 'affix': ''}
+{'word': 'mamlakatidan', 'pos': 'NOUN', 'root': 'mamlakat', 'affix': 'idan'}
+{'word': 'barchani', 'pos': 'NOUN', 'root': 'bar', 'affix': 'chani'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatidan', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'idan'}
+{'word': 'qutlayman', 'pos': 'VERB', 'root': 'qutla', 'affix': 'yman'}
+{'word': 'Biz', 'pos': 'PRON', 'root': 'biz', 'affix': ''}
+{'word': 'bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'turnirni', 'pos': 'NOUN', 'root': 'turnir', 'affix': 'ni'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatlari', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'lari'}
+{'word': 'tarixidagi', 'pos': 'NOUN', 'root': 'tarix', 'affix': 'idagi'}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'muvaffaqiyatlisi', 'pos': 'ADJ', 'root': 'muvaffaqiyatli', 'affix': 'si'}
+{'word': 'bo‘lishi', 'pos': 'VERB', 'root': 'bo‘lish', 'affix': 'i'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'birgalikda', 'pos': 'ADV', 'root': 'birgalikda', 'affix': ''}
+{'word': 'mehnat', 'pos': 'NOUN', 'root': 'mehnat', 'affix': ''}
+{'word': 'qildik', 'pos': 'VERB', 'root': 'qil', 'affix': 'dik'}
+{'word': 'Buyuk', 'pos': 'NOUN', 'root': 'buyuk', 'affix': ''}
+{'word': 'futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'festivalidamiz', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'irq', 'pos': 'NOUN', 'root': 'irq', 'affix': ''}
+{'word': 'millat', 'pos': 'NOUN', 'root': 'millat', 'affix': ''}
+{'word': 'e‘tiqod', 'pos': 'NOUN', 'root': 'e‘tiqod', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'qarashlardan', 'pos': 'VERB', 'root': 'qarash', 'affix': 'lardan'}
+{'word': 'qat‘i', 'pos': 'NOUN', 'root': 'qat', 'affix': '‘i'}
+{'word': 'nazar', 'pos': 'NOUN', 'root': 'nazar', 'affix': ''}
+{'word': 'futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'barchamizni', 'pos': 'NOUN', 'root': 'bar', 'affix': 'chamizni'}
+{'word': 'birlashtiradi', 'pos': 'VERB', 'root': 'birlashtir', 'affix': 'adi'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'yerda', 'pos': 'NOUN', 'root': 'yer', 'affix': 'da'}
+{'word': 'butun', 'pos': 'NUM', 'root': 'butun', 'affix': ''}
+{'word': 'insoniyat', 'pos': 'NOUN', 'root': 'insoniyat', 'affix': ''}
+{'word': 'manfaati', 'pos': 'NOUN', 'root': 'manfaat', 'affix': 'i'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'bor', 'pos': 'VERB', 'root': 'bor', 'affix': ''}
+{'word': 'kuchimizni', 'pos': 'NOUN', 'root': 'kuch', 'affix': 'imizni'}
+{'word': 'sarflab', 'pos': 'VERB', 'root': 'sarfla', 'affix': 'b'}
+{'word': 'sarmoya', 'pos': 'NOUN', 'root': 'sarmoya', 'affix': ''}
+{'word': 'kiritdik', 'pos': 'VERB', 'root': 'kirit', 'affix': 'dik'}
+{'word': 'Nihoyat', 'pos': 'NOUN', 'root': 'nihoyat', 'affix': ''}
+{'word': 'bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': 'biz-u', 'pos': 'PRON', 'root': 'biz', 'affix': '-u'}
+{'word': 'siz', 'pos': 'VERB', 'root': 'siz', 'affix': ''}
+{'word': 'kutgan', 'pos': 'VERB', 'root': 'kut', 'affix': 'gan'}
+{'word': 'damlarga', 'pos': 'NOUN', 'root': 'dam', 'affix': 'larga'}
+{'word': 'yetib', 'pos': 'VERB', 'root': 'yet', 'affix': 'ib'}
+{'word': 'keldik', 'pos': 'NOUN', 'root': 'keldi', 'affix': 'k'}
+{'word': 'Bugundan', 'pos': 'ADV', 'root': 'bugun', 'affix': 'dan'}
+{'word': 'boshlab', 'pos': 'ADV', 'root': 'boshlab', 'affix': ''}
+{'word': 'Xudo', 'pos': 'NOUN', 'root': 'xudo', 'affix': ''}
+{'word': 'xohlasa', 'pos': 'VERB', 'root': 'xohla', 'affix': 'sa'}
+{'word': '28', 'pos': 'NUM', 'root': '28', 'affix': 'null'}
+{'word': 'kun', 'pos': 'NOUN', 'root': 'kun', 'affix': ''}
+{'word': 'davomida', 'pos': 'NOUN', 'root': 'davom', 'affix': 'ida'}
+{'word': 'butun', 'pos': 'NUM', 'root': 'butun', 'affix': ''}
+{'word': 'dunyo', 'pos': 'NOUN', 'root': 'dunyo', 'affix': ''}
+{'word': 'biz', 'pos': 'PRON', 'root': 'biz', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'ajoyib', 'pos': 'ADJ', 'root': 'ajoyib', 'affix': ''}
+{'word': 'futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'bayramini', 'pos': 'NOUN', 'root': 'bayram', 'affix': 'ini'}
+{'word': 'kuzatib', 'pos': 'VERB', 'root': 'kuzat', 'affix': 'ib'}
+{'word': 'boradi', 'pos': 'VERB', 'root': 'bora', 'affix': 'di'}
+{'word': 'Barcha', 'pos': 'NOUN', 'root': 'bar', 'affix': 'cha'}
+{'word': 'ishtirokchi', 'pos': 'NOUN', 'root': 'ishtirokchi', 'affix': ''}
+{'word': 'jamoalar', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'lar'}
+{'word': 'muxlislarni', 'pos': 'NOUN', 'root': 'muxlis', 'affix': 'larni'}
+{'word': 'qutlayman', 'pos': 'VERB', 'root': 'qutla', 'affix': 'yman'}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'deydi', 'pos': 'VERB', 'root': 'de', 'affix': 'ydi'}
+{'word': 'Qatar', 'pos': 'NOUN', 'root': 'qatar', 'affix': ''}
+{'word': 'amiri', 'pos': 'NOUN', 'root': 'amiri', 'affix': ''}
+{'word': 'o‘z', 'pos': 'VERB', 'root': 'o‘z', 'affix': ''}
+{'word': 'nutqida', 'pos': 'NOUN', 'root': 'nutq', 'affix': 'ida'}
+{'word': 'Eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'e‘tiborli', 'pos': 'ADJ', 'root': 'e‘tiborli', 'affix': ''}
+{'word': 'jihati', 'pos': 'NOUN', 'root': 'jihat', 'affix': 'i'}
+{'word': 'JCh-2022', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'marosimida', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'ida'}
+{'word': 'qatarlik', 'pos': 'NOUN', 'root': 'qatar', 'affix': 'lik'}
+{'word': 'qori', 'pos': 'NOUN', 'root': 'qori', 'affix': ''}
+{'word': 'yigit', 'pos': 'NOUN', 'root': 'yigit', 'affix': ''}
+{'word': 'G‘anim', 'pos': 'NOUN', 'root': 'g‘anim', 'affix': ''}
+{'word': 'Mufah', 'pos': 'NOUN', 'root': 'mu', 'affix': 'fah'}
+{'word': 'Qur‘oni', 'pos': 'VERB', 'root': 'qur', 'affix': '‘oni'}
+{'word': 'Karim', 'pos': 'NOUN', 'root': 'karim', 'affix': ''}
+{'word': 'oyatlaridan', 'pos': 'NOUN', 'root': 'oyat', 'affix': 'laridan'}
+{'word': 'tilovat', 'pos': 'NOUN', 'root': 'tilovat', 'affix': ''}
+{'word': 'qildi', 'pos': 'VERB', 'root': 'qil', 'affix': 'di'}
+{'word': 'Shuningdek', 'pos': 'MOD', 'root': 'shuningdek', 'affix': ''}
+{'word': 'Gollivudning', 'pos': 'NOUN', 'root': 'gollivud', 'affix': 'ning'}
+{'word': 'mashhur', 'pos': 'ADJ', 'root': 'mashhur', 'affix': ''}
+{'word': 'aktyori', 'pos': 'NOUN', 'root': 'aktyor', 'affix': 'i'}
+{'word': 'Morgan', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Friman', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'JCh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ochilishida', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ishida'}
+{'word': 'chiqish', 'pos': 'VERB', 'root': 'chiq', 'affix': 'ish'}
+{'word': 'qilib', 'pos': 'VERB', 'root': 'qil', 'affix': 'ib'}
+{'word': 'futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'insoniyatni', 'pos': 'NOUN', 'root': 'insoniyat', 'affix': 'ni'}
+{'word': 'birlashtirishi', 'pos': 'VERB', 'root': 'birlashtir', 'affix': 'ishi'}
+{'word': 'haqida', 'pos': 'NOUN', 'root': 'haqida', 'affix': ''}
+{'word': 'gapirgan', 'pos': 'VERB', 'root': 'gapir', 'affix': 'gan'}
+{'word': 'Ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'marosimidan', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'idan'}
+{'word': 'keyin', 'pos': 'ADV', 'root': 'keyin', 'affix': ''}
+{'word': 'Qatar', 'pos': 'NOUN', 'root': 'qatar', 'affix': ''}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Ekvador', 'pos': 'NOUN', 'root': 'ekvador', 'affix': ''}
+{'word': 'uchrashuvi', 'pos': 'VERB', 'root': 'uchrash', 'affix': 'uvi'}
+{'word': 'startidan', 'pos': 'NOUN', 'root': 'star', 'affix': 'tidan'}
+{'word': 'avval', 'pos': 'NOUN', 'root': 'avval', 'affix': ''}
+{'word': 'Al-Bayt', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'stadioniga', 'pos': 'NOUN', 'root': 'stadion', 'affix': 'iga'}
+{'word': 'JCh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bosh', 'pos': 'ADJ', 'root': 'bosh', 'affix': ''}
+{'word': 'sovrini', 'pos': 'NOUN', 'root': 'sovrin', 'affix': 'i'}
+{'word': 'maketi', 'pos': 'NOUN', 'root': 'maket', 'affix': 'i'}
+{'word': 'ko‘rsatildi', 'pos': 'VERB', 'root': 'ko‘rsatil', 'affix': 'di'}
+{'word': 'Shu', 'pos': 'PRON', 'root': 'shu', 'affix': ''}
+{'word': 'tariqa', 'pos': 'NOUN', 'root': 'tariqa', 'affix': ''}
+{'word': 'ushbu', 'pos': 'PRON', 'root': 'ushbu', 'affix': ''}
+{'word': 'o‘yin', 'pos': 'NOUN', 'root': 'o‘yin', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'JCh-2022', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'rasman', 'pos': 'ADV', 'root': 'rasman', 'affix': ''}
+{'word': 'start', 'pos': 'NOUN', 'root': 'star', 'affix': 't'}
+{'word': 'oldi', 'pos': 'NOUN', 'root': 'old', 'affix': 'i'}
+{'word': 'Biroq', 'pos': 'CONJ', 'root': 'biroq', 'affix': ''}
+{'word': 'Qatar', 'pos': 'NOUN', 'root': 'qatar', 'affix': ''}
+{'word': 'o‘z', 'pos': 'VERB', 'root': 'o‘z', 'affix': ''}
+{'word': 'uyida', 'pos': 'VERB', 'root': 'uy', 'affix': 'ida'}
+{'word': 'musobaqaning', 'pos': 'NOUN', 'root': 'musobaqa', 'affix': 'ning'}
+{'word': 'dastlabki', 'pos': 'ADJ', 'root': 'dastlabki', 'affix': ''}
+{'word': 'o‘yinida', 'pos': 'NOUN', 'root': 'o‘yin', 'affix': 'ida'}
+{'word': 'mag‘lub', 'pos': 'NOUN', 'root': 'ma', 'affix': 'g‘lub'}
+{'word': 'bo‘ldi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'di'}
+{'word': 'Ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'bahsida', 'pos': 'NOUN', 'root': 'bahs', 'affix': 'ida'}
+{'word': 'Ekvador', 'pos': 'NOUN', 'root': 'ekvador', 'affix': ''}
+{'word': 'mezbonlarga', 'pos': 'NOUN', 'root': 'mezbon', 'affix': 'larga'}
+{'word': 'umuman', 'pos': 'ADV', 'root': 'umuman', 'affix': ''}
+{'word': 'imkoniyat', 'pos': 'NOUN', 'root': 'imkon', 'affix': 'iyat'}
+{'word': 'qoldirmadi', 'pos': 'VERB', 'root': 'qoldir', 'affix': 'madi'}
+{'word': 'Fenerbahche', 'pos': 'NOUN', 'root': 'fenerbahche', 'affix': ''}
+{'word': 'hujumchisi', 'pos': 'NOUN', 'root': 'hujum', 'affix': 'chisi'}
+{'word': 'Enner', 'pos': 'VERB', 'root': 'en', 'affix': 'ner'}
+{'word': 'Valensiyaning', 'pos': 'NOUN', 'root': 'valensiya', 'affix': 'ning'}
+{'word': 'dubli', 'pos': 'NOUN', 'root': 'dub', 'affix': 'li'}
+{'word': 'Lotin', 'pos': 'NOUN', 'root': 'lot', 'affix': 'in'}
+{'word': 'Amerikasi', 'pos': 'NOUN', 'root': 'amerika', 'affix': 'si'}
+{'word': 'vakiliga', 'pos': 'NOUN', 'root': 'vakil', 'affix': 'iga'}
+{'word': 'g‘alaba', 'pos': 'NOUN', 'root': 'g‘alaba', 'affix': ''}
+{'word': 'keltirdi', 'pos': 'VERB', 'root': 'keltir', 'affix': 'di'}
+{'word': 'Quyida', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'da'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'marosimidan', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'idan'}
+{'word': 'olingan', 'pos': 'VERB', 'root': 'olin', 'affix': 'gan'}
+{'word': 'suratlar', 'pos': 'NOUN', 'root': 'surat', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'tanishing', 'pos': 'ADJ', 'root': 'tanish', 'affix': 'ing'}
+{'word': 'Tarixda', 'pos': 'NOUN', 'root': 'tarix', 'affix': 'da'}
+{'word': 'ilk', 'pos': 'ADJ', 'root': 'ilk', 'affix': ''}
+{'word': 'bor', 'pos': 'VERB', 'root': 'bor', 'affix': ''}
+{'word': 'futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'Jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatining', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ining'}
+{'word': 'ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'marosimi', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'i'}
+{'word': 'oldidan', 'pos': 'NOUN', 'root': 'old', 'affix': 'idan'}
+{'word': 'Qur‘on', 'pos': 'VERB', 'root': 'qur', 'affix': '‘on'}
+{'word': 'oyatlaridan', 'pos': 'NOUN', 'root': 'oyat', 'affix': 'laridan'}
+{'word': 'tilovat', 'pos': 'NOUN', 'root': 'tilovat', 'affix': ''}
+{'word': 'qilindi', 'pos': 'VERB', 'root': 'qilin', 'affix': 'di'}
+{'word': 'Yigirma', 'pos': 'NUM', 'root': 'yigirma', 'affix': ''}
+{'word': 'yoshli', 'pos': 'ADJ', 'root': 'yosh', 'affix': 'li'}
+{'word': 'G‘anim', 'pos': 'NOUN', 'root': 'g‘anim', 'affix': ''}
+{'word': 'Al', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Muftoh', 'pos': 'NOUN', 'root': 'mu', 'affix': 'ftoh'}
+{'word': 'FIFA', 'pos': 'NOUN', 'root': 'fifa', 'affix': ''}
+{'word': 'Jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': 'ochilish', 'pos': 'VERB', 'root': 'ochil', 'affix': 'ish'}
+{'word': 'marosimising', 'pos': 'NOUN', 'root': 'marosim', 'affix': 'ising'}
+{'word': 'qorisi', 'pos': 'NOUN', 'root': 'qori', 'affix': 'si'}
+{'word': 'bo‘ldi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'di'}
+{'word': 'Jarayon', 'pos': 'NOUN', 'root': 'jarayon', 'affix': ''}
+{'word': 'bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': 'yakshanba', 'pos': 'NOUN', 'root': 'yakshanba', 'affix': ''}
+{'word': 'kuni', 'pos': 'NOUN', 'root': 'kun', 'affix': 'i'}
+{'word': 'mahalliy', 'pos': 'NOUN', 'root': 'mahal', 'affix': 'liy'}
+{'word': 'vaqt', 'pos': 'NOUN', 'root': 'vaqt', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'soat', 'pos': 'NOUN', 'root': 'soat', 'affix': ''}
+{'word': '17', 'pos': 'NUM', 'root': '17', 'affix': 'null'}
+{'word': '00da', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Al-Xor', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'shahridagi', 'pos': 'NOUN', 'root': 'shahri', 'affix': 'dagi'}
+{'word': 'Al', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Bayt', 'pos': 'NOUN', 'root': 'bayt', 'affix': ''}
+{'word': 'stadionida', 'pos': 'NOUN', 'root': 'stadion', 'affix': 'ida'}
+{'word': 'tashkil', 'pos': 'NOUN', 'root': 'tashkil', 'affix': ''}
+{'word': 'etildi', 'pos': 'VERB', 'root': 'et', 'affix': 'ildi'}
+{'word': 'Ma‘lumot', 'pos': 'NOUN', 'root': 'ma‘lumot', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'G‘anim', 'pos': 'NOUN', 'root': 'g‘anim', 'affix': ''}
+{'word': 'Al', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Muftoh', 'pos': 'NOUN', 'root': 'mu', 'affix': 'ftoh'}
+{'word': 'arab', 'pos': 'NOUN', 'root': 'arab', 'affix': ''}
+{'word': 'dunyosidagi', 'pos': 'NOUN', 'root': 'dunyo', 'affix': 'sidagi'}
+{'word': 'ko‘plab', 'pos': 'ADV', 'root': 'ko‘plab', 'affix': ''}
+{'word': 'yoshlar', 'pos': 'NOUN', 'root': 'yoshlar', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'namuna', 'pos': 'NOUN', 'root': 'namuna', 'affix': ''}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'u', 'pos': 'PRON', 'root': 'u', 'affix': ''}
+{'word': 'umurtqa', 'pos': 'NOUN', 'root': 'umurtqa', 'affix': ''}
+{'word': 'pog‘onasining', 'pos': 'NOUN', 'root': 'po', 'affix': 'g‘onasining'}
+{'word': 'pastki', 'pos': 'ADJ', 'root': 'past', 'affix': 'ki'}
+{'word': 'qismi', 'pos': 'NOUN', 'root': 'qism', 'affix': 'i'}
+{'word': 'rivojlanishiga', 'pos': 'VERB', 'root': 'rivojlan', 'affix': 'ishiga'}
+{'word': 'putur', 'pos': 'NOUN', 'root': 'put', 'affix': 'ur'}
+{'word': 'etkazadigan', 'pos': 'VERB', 'root': 'et', 'affix': 'kazadigan'}
+{'word': 'kam', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'uchraydigan', 'pos': 'VERB', 'root': 'uchra', 'affix': 'ydigan'}
+{'word': 'kasallik', 'pos': 'NOUN', 'root': 'kasallik', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'kaudal', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'regressiya', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'sindromiga', 'pos': 'VERB', 'root': 'sin', 'affix': 'dromiga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘lishiga', 'pos': 'VERB', 'root': 'bo‘lish', 'affix': 'iga'}
+{'word': 'qaramay', 'pos': 'AUX', 'root': 'qaramay', 'affix': ''}
+{'word': 'ko‘plab', 'pos': 'ADV', 'root': 'ko‘plab', 'affix': ''}
+{'word': 'yutuqlarga', 'pos': 'VERB', 'root': 'yut', 'affix': 'uqlarga'}
+{'word': 'erishgan', 'pos': 'VERB', 'root': 'erish', 'affix': 'gan'}
+{'word': 'Futbol', 'pos': 'NOUN', 'root': 'futbol', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': '2022', 'pos': 'NUM', 'root': '2022', 'affix': 'null'}
+{'word': 'yilgi', 'pos': 'NOUN', 'root': 'yil', 'affix': 'gi'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': '20', 'pos': 'NUM', 'root': '20', 'affix': 'null'}
+{'word': 'noyabrdan', 'pos': 'NOUN', 'root': 'noyabr', 'affix': 'dan'}
+{'word': '18', 'pos': 'NUM', 'root': '18', 'affix': 'null'}
+{'word': 'dekabrga', 'pos': 'NOUN', 'root': 'dekabr', 'affix': 'ga'}
+{'word': 'qadar', 'pos': 'NOUN', 'root': 'qadar', 'affix': ''}
+{'word': 'Qatarda', 'pos': 'NOUN', 'root': 'qatar', 'affix': 'da'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tadi', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'di'}
+{'word': 'Jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatning', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ning'}
+{'word': 'barcha', 'pos': 'NOUN', 'root': 'bar', 'affix': 'cha'}
+{'word': 'o‘yinlari', 'pos': 'NOUN', 'root': 'o‘yin', 'affix': 'lari'}
+{'word': 'beshta', 'pos': 'NOUN', 'root': 'besh', 'affix': 'ta'}
+{'word': 'Doha', 'pos': 'NOUN', 'root': 'doha', 'affix': ''}
+{'word': 'Lusail', 'pos': 'NOUN', 'root': 'lu', 'affix': 'sail'}
+{'word': 'El-Xaur', 'pos': 'NOUN', 'root': 'el', 'affix': '-Xaur'}
+{'word': 'Er-Rayyan', 'pos': 'NOUN', 'root': 'er', 'affix': '-Rayyan'}
+{'word': 'El', 'pos': 'NOUN', 'root': 'el', 'affix': ''}
+{'word': 'Vakra', 'pos': 'CONJ', 'root': 'va', 'affix': 'kra'}
+{'word': 'shaharlardagi', 'pos': 'NOUN', 'root': 'shahar', 'affix': 'lardagi'}
+{'word': 'sakkizta', 'pos': 'NUM', 'root': 'sakkiz', 'affix': 'ta'}
+{'word': 'stadionda', 'pos': 'NOUN', 'root': 'stadion', 'affix': 'da'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tadi', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'di'}
+{'word': 'Meksikada', 'pos': 'NOUN', 'root': 'meksika', 'affix': 'da'}
+{'word': 'o‘tkazilayotgan', 'pos': 'VERB', 'root': 'o‘tkazil', 'affix': 'ayotgan'}
+{'word': 'taekvondo', 'pos': 'NOUN', 'root': 'taekvondo', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatining', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ining'}
+{'word': 'yana', 'pos': 'ADV', 'root': 'yana', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'kuni', 'pos': 'NOUN', 'root': 'kun', 'affix': 'i'}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'terma', 'pos': 'ADJ', 'root': 'terma', 'affix': ''}
+{'word': 'jamoasi', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'si'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'omadli', 'pos': 'ADJ', 'root': 'omadli', 'affix': ''}
+{'word': 'o‘tdi', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'di'}
+{'word': '73', 'pos': 'NUM', 'root': '73', 'affix': 'null'}
+{'word': 'kg', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'vazn', 'pos': 'NOUN', 'root': 'vazn', 'affix': ''}
+{'word': 'toifasida', 'pos': 'NOUN', 'root': 'toifa', 'affix': 'sida'}
+{'word': 'bahs', 'pos': 'NOUN', 'root': 'bahs', 'affix': ''}
+{'word': 'olib', 'pos': 'VERB', 'root': 'ol', 'affix': 'ib'}
+{'word': 'borgan', 'pos': 'VERB', 'root': 'bor', 'affix': 'gan'}
+{'word': 'hamyurtimiz', 'pos': 'NOUN', 'root': 'hamyurt', 'affix': 'imiz'}
+{'word': 'Svetlana', 'pos': 'NOUN', 'root': 'svetlana', 'affix': ''}
+{'word': 'Osipova', 'pos': 'NOUN', 'root': 'osipova', 'affix': ''}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionligini', 'pos': 'NOUN', 'root': 'chempion', 'affix': 'ligini'}
+{'word': 'qo‘lga', 'pos': 'NOUN', 'root': 'qo‘l', 'affix': 'ga'}
+{'word': 'kiritdi', 'pos': 'VERB', 'root': 'kirit', 'affix': 'di'}
+{'word': 'Final', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bellashuvida', 'pos': 'NOUN', 'root': 'bellashuv', 'affix': 'ida'}
+{'word': 'Osipova', 'pos': 'NOUN', 'root': 'osipova', 'affix': ''}
+{'word': 'isroillik', 'pos': 'NOUN', 'root': 'isroil', 'affix': 'lik'}
+{'word': 'Dana', 'pos': 'NOUN', 'root': 'dan', 'affix': 'a'}
+{'word': 'Arzanni', 'pos': 'NOUN', 'root': 'arz', 'affix': 'anni'}
+{'word': '3', 'pos': 'NUM', 'root': '3', 'affix': 'null'}
+{'word': 'raundda', 'pos': 'NOUN', 'root': 'raund', 'affix': 'da'}
+{'word': '2', 'pos': 'NUM', 'root': '2', 'affix': 'null'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': 'mag‘lubiyatga', 'pos': 'NOUN', 'root': 'mag‘lubiyat', 'affix': 'ga'}
+{'word': 'uchratdi', 'pos': 'VERB', 'root': 'uchrat', 'affix': 'di'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'Osipova', 'pos': 'NOUN', 'root': 'osipova', 'affix': ''}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatlarida', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'larida'}
+{'word': 'g‘alaba', 'pos': 'NOUN', 'root': 'g‘alaba', 'affix': ''}
+{'word': 'qozongan', 'pos': 'NOUN', 'root': 'qozon', 'affix': 'gan'}
+{'word': 'birinchi', 'pos': 'NUM', 'root': 'birinchi', 'affix': ''}
+{'word': 'taekvondochi', 'pos': 'NOUN', 'root': 'taekvondo', 'affix': 'chi'}
+{'word': 'o‘zbekistonlik', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'istonlik'}
+{'word': 'qiz', 'pos': 'NOUN', 'root': 'qiz', 'affix': ''}
+{'word': 'sifatida', 'pos': 'NOUN', 'root': 'sifat', 'affix': 'ida'}
+{'word': 'tarixda', 'pos': 'NOUN', 'root': 'tarix', 'affix': 'da'}
+{'word': 'qolmoqda', 'pos': 'VERB', 'root': 'qol', 'affix': 'moqda'}
+{'word': 'Joriy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yil', 'pos': 'NOUN', 'root': 'yil', 'affix': ''}
+{'word': '11-13', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'noyabr', 'pos': 'NOUN', 'root': 'noyabr', 'affix': ''}
+{'word': 'kunlari', 'pos': 'NOUN', 'root': 'kun', 'affix': 'lari'}
+{'word': 'Qozon', 'pos': 'NOUN', 'root': 'qozon', 'affix': ''}
+{'word': 'shahrida', 'pos': 'NOUN', 'root': 'shahri', 'affix': 'da'}
+{'word': 'qo‘l', 'pos': 'NOUN', 'root': 'qo‘l', 'affix': ''}
+{'word': 'jangi', 'pos': 'NOUN', 'root': 'jangi', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'Osiyo', 'pos': 'NOUN', 'root': 'osiyo', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tdi', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'di'}
+{'word': 'Mazkur', 'pos': 'NOUN', 'root': 'ma', 'affix': 'zkur'}
+{'word': 'musobaqada', 'pos': 'NOUN', 'root': 'musobaqa', 'affix': 'da'}
+{'word': 'qo‘l', 'pos': 'NOUN', 'root': 'qo‘l', 'affix': ''}
+{'word': 'jangi', 'pos': 'NOUN', 'root': 'jangi', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'terma', 'pos': 'ADJ', 'root': 'terma', 'affix': ''}
+{'word': 'jamoasi', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'si'}
+{'word': 'umumjamoa', 'pos': 'NOUN', 'root': 'umum', 'affix': 'jamoa'}
+{'word': 'hisobida', 'pos': 'NOUN', 'root': 'hisob', 'affix': 'ida'}
+{'word': '1-o‘rinni', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qo‘lga', 'pos': 'NOUN', 'root': 'qo‘l', 'affix': 'ga'}
+{'word': 'kiritdi', 'pos': 'VERB', 'root': 'kirit', 'affix': 'di'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'haqda', 'pos': 'NOUN', 'root': 'haq', 'affix': 'da'}
+{'word': 'Sportni', 'pos': 'NOUN', 'root': 'sport', 'affix': 'ni'}
+{'word': 'rivojlantirish', 'pos': 'VERB', 'root': 'rivojlantir', 'affix': 'ish'}
+{'word': 'vazirligi', 'pos': 'NOUN', 'root': 'vazir', 'affix': 'ligi'}
+{'word': 'xabar', 'pos': 'NOUN', 'root': 'xabar', 'affix': ''}
+{'word': 'berdi', 'pos': 'NOUN', 'root': 'berdi', 'affix': ''}
+{'word': 'Ta‘kidlanishicha', 'pos': 'VERB', 'root': 'ta‘kidla', 'affix': 'nishicha'}
+{'word': 'ushbu', 'pos': 'PRON', 'root': 'ushbu', 'affix': ''}
+{'word': 'turnirda', 'pos': 'NOUN', 'root': 'turnir', 'affix': 'da'}
+{'word': 'dunyoning', 'pos': 'NOUN', 'root': 'dunyo', 'affix': 'ning'}
+{'word': 'turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'davlatlaridan', 'pos': 'NOUN', 'root': 'davlat', 'affix': 'laridan'}
+{'word': '15', 'pos': 'NUM', 'root': '15', 'affix': 'null'}
+{'word': 'dan', 'pos': 'NOUN', 'root': 'dan', 'affix': ''}
+{'word': 'ortiq', 'pos': 'ADV', 'root': 'ortiq', 'affix': ''}
+{'word': 'jamoalar', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'lar'}
+{'word': 'ishtirok', 'pos': 'NOUN', 'root': 'ishtirok', 'affix': ''}
+{'word': 'etishgan', 'pos': 'VERB', 'root': 'et', 'affix': 'ishgan'}
+{'word': 'Qo‘l', 'pos': 'NOUN', 'root': 'qo‘l', 'affix': ''}
+{'word': 'jangi', 'pos': 'NOUN', 'root': 'jangi', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'Osiyo', 'pos': 'NOUN', 'root': 'osiyo', 'affix': ''}
+{'word': 'chempionatining', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ining'}
+{'word': 'ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'kunida', 'pos': 'NOUN', 'root': 'kun', 'affix': 'ida'}
+{'word': 'duel', 'pos': 'NOUN', 'root': 'duel', 'affix': ''}
+{'word': 'yo‘nalishi', 'pos': 'VERB', 'root': 'yo‘nal', 'affix': 'ishi'}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': '6', 'pos': 'NUM', 'root': '6', 'affix': 'null'}
+{'word': 'ta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'vazn', 'pos': 'NOUN', 'root': 'vazn', 'affix': ''}
+{'word': 'toifasida', 'pos': 'NOUN', 'root': 'toifa', 'affix': 'sida'}
+{'word': 'g‘oliblar', 'pos': 'ADJ', 'root': 'g‘olib', 'affix': 'lar'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'sovrindorlar', 'pos': 'NOUN', 'root': 'sovrin', 'affix': 'dorlar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'tanishing', 'pos': 'ADJ', 'root': 'tanish', 'affix': 'ing'}
+{'word': 'Bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'Superligasining', 'pos': 'NOUN', 'root': 'super', 'affix': 'ligasining'}
+{'word': 'so‘ngi', 'pos': 'ADJ', 'root': 'so‘ng', 'affix': 'i'}
+{'word': 'tur', 'pos': 'VERB', 'root': 'tur', 'affix': ''}
+{'word': 'bahslari', 'pos': 'NOUN', 'root': 'bahs', 'affix': 'lari'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tadi', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'di'}
+{'word': 'Avvalgi', 'pos': 'ADJ', 'root': 'avvalgi', 'affix': ''}
+{'word': 'mavsumlarga', 'pos': 'NOUN', 'root': 'ma', 'affix': 'vsumlarga'}
+{'word': 'nazar', 'pos': 'NOUN', 'root': 'nazar', 'affix': ''}
+{'word': 'tashlaydigan', 'pos': 'VERB', 'root': 'tashla', 'affix': 'ydigan'}
+{'word': 'bo‘lsak', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'sak'}
+{'word': 'ko‘p', 'pos': 'ADV', 'root': 'ko‘p', 'affix': ''}
+{'word': 'xollarda', 'pos': 'NOUN', 'root': 'xol', 'affix': 'larda'}
+{'word': 'chempion', 'pos': 'NOUN', 'root': 'chempion', 'affix': ''}
+{'word': 'nomi', 'pos': 'NOUN', 'root': 'nom', 'affix': 'i'}
+{'word': 'so‘ngi', 'pos': 'ADJ', 'root': 'so‘ng', 'affix': 'i'}
+{'word': 'turdan', 'pos': 'VERB', 'root': 'tur', 'affix': 'dan'}
+{'word': 'ancha', 'pos': 'ADV', 'root': 'ancha', 'affix': ''}
+{'word': 'avval', 'pos': 'NOUN', 'root': 'avval', 'affix': ''}
+{'word': 'ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'bo‘lardi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'ardi'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'yilgi', 'pos': 'NOUN', 'root': 'yil', 'affix': 'gi'}
+{'word': 'mavsum', 'pos': 'NOUN', 'root': 'ma', 'affix': 'vsum'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'muxlislar', 'pos': 'NOUN', 'root': 'muxlis', 'affix': 'lar'}
+{'word': 'sabrini', 'pos': 'NOUN', 'root': 'sabri', 'affix': 'ni'}
+{'word': 'so‘ngi', 'pos': 'ADJ', 'root': 'so‘ng', 'affix': 'i'}
+{'word': 'turgacha', 'pos': 'VERB', 'root': 'tur', 'affix': 'gacha'}
+{'word': 'sinovdan', 'pos': 'NOUN', 'root': 'sinov', 'affix': 'dan'}
+{'word': 'o‘tkazdi', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'di'}
+{'word': 'Bugun', 'pos': 'ADV', 'root': 'bugun', 'affix': ''}
+{'word': '7', 'pos': 'NUM', 'root': '7', 'affix': 'null'}
+{'word': 'ta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'stadionda', 'pos': 'NOUN', 'root': 'stadion', 'affix': 'da'}
+{'word': 'o‘tadigan', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'digan'}
+{'word': 'o‘yinlaridan', 'pos': 'NOUN', 'root': 'o‘yin', 'affix': 'laridan'}
+{'word': 'keyin', 'pos': 'ADV', 'root': 'keyin', 'affix': ''}
+{'word': 'chempion', 'pos': 'NOUN', 'root': 'chempion', 'affix': ''}
+{'word': 'sovrindorlar', 'pos': 'NOUN', 'root': 'sovrin', 'affix': 'dorlar'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'Pro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ligaga', 'pos': 'NOUN', 'root': 'liga', 'affix': 'ga'}
+{'word': 'yo‘l', 'pos': 'NOUN', 'root': 'yo‘l', 'affix': ''}
+{'word': 'oladigan', 'pos': 'VERB', 'root': 'ol', 'affix': 'adigan'}
+{'word': 'jamoa', 'pos': 'NOUN', 'root': 'jamoa', 'affix': ''}
+{'word': 'nomi', 'pos': 'NOUN', 'root': 'nom', 'affix': 'i'}
+{'word': 'aniq', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Turnir', 'pos': 'NOUN', 'root': 'turnir', 'affix': ''}
+{'word': 'jadvaliga', 'pos': 'NOUN', 'root': 'jadval', 'affix': 'iga'}
+{'word': 'e‘tibor', 'pos': 'NOUN', 'root': 'e‘tibor', 'affix': ''}
+{'word': 'qaratadigan', 'pos': 'VERB', 'root': 'qarat', 'affix': 'adigan'}
+{'word': 'bo‘lsak', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'sak'}
+{'word': 'Paxtakor', 'pos': 'NOUN', 'root': 'paxtakor', 'affix': ''}
+{'word': '51', 'pos': 'NUM', 'root': '51', 'affix': 'null'}
+{'word': 'ochko', 'pos': 'NOUN', 'root': 'ochko', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'peshqadam', 'pos': 'ADJ', 'root': 'peshqadam', 'affix': ''}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'turibdi', 'pos': 'VERB', 'root': 'tur', 'affix': 'ibdi'}
+{'word': 'Paxtakor', 'pos': 'NOUN', 'root': 'paxtakor', 'affix': ''}
+{'word': 'ning', 'pos': 'NOUN', 'root': 'ni', 'affix': 'ng'}
+{'word': 'g‘alabasi', 'pos': 'NOUN', 'root': 'g‘alaba', 'affix': 'si'}
+{'word': 'oriqcha', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'hisob-kitoblarsiz', 'pos': 'NOUN', 'root': 'hisob', 'affix': '-kitoblarsiz'}
+{'word': 'klubni', 'pos': 'NOUN', 'root': 'klub', 'affix': 'ni'}
+{'word': 'chempionlik', 'pos': 'NOUN', 'root': 'chempion', 'affix': 'lik'}
+{'word': 'shohsupasiga', 'pos': 'NOUN', 'root': 'shohsupa', 'affix': 'siga'}
+{'word': 'olib', 'pos': 'VERB', 'root': 'ol', 'affix': 'ib'}
+{'word': 'chiqadi', 'pos': 'VERB', 'root': 'chiq', 'affix': 'adi'}
+{'word': 'Durangdan', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Navbahor', 'pos': 'NOUN', 'root': 'navbahor', 'affix': ''}
+{'word': 'faqat', 'pos': 'ADV', 'root': 'faqat', 'affix': ''}
+{'word': 'AGMKni', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yutish', 'pos': 'VERB', 'root': 'yutish', 'affix': ''}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'foydalanib', 'pos': 'VERB', 'root': 'foydalan', 'affix': 'ib'}
+{'word': 'qolishi', 'pos': 'VERB', 'root': 'qolish', 'affix': 'i'}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Chunki', 'pos': 'CONJ', 'root': 'chunki', 'affix': ''}
+{'word': 'namanganliklar', 'pos': 'NOUN', 'root': 'namangan', 'affix': 'liklar'}
+{'word': 'hisobida', 'pos': 'NOUN', 'root': 'hisob', 'affix': 'ida'}
+{'word': '50', 'pos': 'NUM', 'root': '50', 'affix': 'null'}
+{'word': 'ochko', 'pos': 'NOUN', 'root': 'ochko', 'affix': ''}
+{'word': 'mavjud', 'pos': 'NOUN', 'root': 'mavjud', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'o‘rinda', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': 'da'}
+{'word': 'ketmoqda', 'pos': 'VERB', 'root': 'ket', 'affix': 'moqda'}
+{'word': 'Agarda', 'pos': 'CONJ', 'root': 'agarda', 'affix': ''}
+{'word': 'Paxtakor', 'pos': 'NOUN', 'root': 'paxtakor', 'affix': ''}
+{'word': 'mag‘lubiyatga', 'pos': 'NOUN', 'root': 'mag‘lubiyat', 'affix': 'ga'}
+{'word': 'uchrab', 'pos': 'VERB', 'root': 'uchra', 'affix': 'b'}
+{'word': 'Navbahor', 'pos': 'NOUN', 'root': 'navbahor', 'affix': ''}
+{'word': 'durang', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qayd', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'etsa', 'pos': 'VERB', 'root': 'et', 'affix': 'sa'}
+{'word': 'ochkolar', 'pos': 'NOUN', 'root': 'ochko', 'affix': 'lar'}
+{'word': 'tenglashadi', 'pos': 'VERB', 'root': 'tenglash', 'affix': 'adi'}
+{'word': 'Joriy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yilgi', 'pos': 'NOUN', 'root': 'yil', 'affix': 'gi'}
+{'word': 'o‘zaro', 'pos': 'ADV', 'root': 'o‘zaro', 'affix': ''}
+{'word': 'uchrashuvlarda', 'pos': 'VERB', 'root': 'uchrash', 'affix': 'uvlarda'}
+{'word': 'ustunlik', 'pos': 'NOUN', 'root': 'ustunlik', 'affix': ''}
+{'word': 'Paxtakor', 'pos': 'NOUN', 'root': 'paxtakor', 'affix': ''}
+{'word': 'tomonida', 'pos': 'AUX', 'root': 'tomon', 'affix': 'ida'}
+{'word': 'Bunday', 'pos': 'ADV', 'root': 'bunday', 'affix': ''}
+{'word': 'holat', 'pos': 'NOUN', 'root': 'holat', 'affix': ''}
+{'word': 'ro‘y', 'pos': 'NOUN', 'root': 'ro‘y', 'affix': ''}
+{'word': 'bergan', 'pos': 'NOUN', 'root': 'bergan', 'affix': ''}
+{'word': 'taqdirda', 'pos': 'NOUN', 'root': 'taqdir', 'affix': 'da'}
+{'word': 'Maksim', 'pos': 'NOUN', 'root': 'maksim', 'affix': ''}
+{'word': 'Shaskix', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'shogirdlari', 'pos': 'NOUN', 'root': 'shogird', 'affix': 'lari'}
+{'word': 'birinchi', 'pos': 'NUM', 'root': 'birinchi', 'affix': ''}
+{'word': 'o‘rinda', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': 'da'}
+{'word': 'qolishadi', 'pos': 'VERB', 'root': 'qolish', 'affix': 'adi'}
+{'word': 'Nasaf', 'pos': 'NOUN', 'root': 'nas', 'affix': 'af'}
+{'word': 'futbolchilari', 'pos': 'NOUN', 'root': 'futbolchi', 'affix': 'lari'}
+{'word': 'Olimpik', 'pos': 'ADJ', 'root': 'olim', 'affix': 'pik'}
+{'word': 'ni', 'pos': 'NOUN', 'root': 'ni', 'affix': ''}
+{'word': 'mag‘lubiyatga', 'pos': 'NOUN', 'root': 'mag‘lubiyat', 'affix': 'ga'}
+{'word': 'uchratishlari', 'pos': 'VERB', 'root': 'uchrat', 'affix': 'ishlari'}
+{'word': 'evaziga', 'pos': 'NOUN', 'root': 'evaz', 'affix': 'iga'}
+{'word': 'Paxtakor', 'pos': 'NOUN', 'root': 'paxtakor', 'affix': ''}
+{'word': 'ga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'yetib', 'pos': 'VERB', 'root': 'yet', 'affix': 'ib'}
+{'word': 'olishadi', 'pos': 'VERB', 'root': 'olish', 'affix': 'adi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'ikki', 'pos': 'NUM', 'root': 'ikki', 'affix': ''}
+{'word': 'jamoada', 'pos': 'NOUN', 'root': 'jamoa', 'affix': 'da'}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'xil', 'pos': 'NOUN', 'root': 'xi', 'affix': 'l'}
+{'word': '52', 'pos': 'NUM', 'root': '52', 'affix': 'null'}
+{'word': 'ochkodan', 'pos': 'NOUN', 'root': 'ochko', 'affix': 'dan'}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'O‘zaro', 'pos': 'ADV', 'root': 'o‘zaro', 'affix': ''}
+{'word': 'o‘yinlarda', 'pos': 'NOUN', 'root': 'o‘yin', 'affix': 'larda'}
+{'word': 'qarshiliklar', 'pos': 'NOUN', 'root': 'qarshilik', 'affix': 'lar'}
+{'word': '4', 'pos': 'NUM', 'root': '4', 'affix': 'null'}
+{'word': 'poytaxt', 'pos': 'NOUN', 'root': 'poytaxt', 'affix': ''}
+{'word': 'klubi', 'pos': 'NOUN', 'root': 'klub', 'affix': 'i'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': 'ochko', 'pos': 'NOUN', 'root': 'ochko', 'affix': ''}
+{'word': 'ishlagan', 'pos': 'VERB', 'root': 'ishla', 'affix': 'gan'}
+{'word': 'Bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'Nasaf', 'pos': 'NOUN', 'root': 'nas', 'affix': 'af'}
+{'word': 'chempionlikni', 'pos': 'NOUN', 'root': 'chempion', 'affix': 'likni'}
+{'word': 'rasmiylashtiradi', 'pos': 'VERB', 'root': 'rasmiylashtir', 'affix': 'adi'}
+{'word': 'Kecha', 'pos': 'VERB', 'root': 'kech', 'affix': 'a'}
+{'word': 'Xalqaro', 'pos': 'ADJ', 'root': 'xalqaro', 'affix': ''}
+{'word': 'boks', 'pos': 'NOUN', 'root': 'boks', 'affix': ''}
+{'word': 'assotsiatsiyasi', 'pos': 'NOUN', 'root': 'assotsiatsiya', 'affix': 'si'}
+{'word': 'IBA', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'prezidenti', 'pos': 'NOUN', 'root': 'prezident', 'affix': 'i'}
+{'word': 'Umar', 'pos': 'NOUN', 'root': 'umar', 'affix': ''}
+{'word': 'Kremlyov', 'pos': 'NOUN', 'root': 'kreml', 'affix': 'yov'}
+{'word': 'ishtirokida', 'pos': 'NOUN', 'root': 'ishtirok', 'affix': 'ida'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘tgan', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'gan'}
+{'word': 'matbuot', 'pos': 'NOUN', 'root': 'matbuot', 'affix': ''}
+{'word': 'anjumanida', 'pos': 'NOUN', 'root': 'anjuman', 'affix': 'ida'}
+{'word': '2023', 'pos': 'NUM', 'root': '2023', 'affix': 'null'}
+{'word': 'yilgi', 'pos': 'NOUN', 'root': 'yil', 'affix': 'gi'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': '1-14', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'may', 'pos': 'NOUN', 'root': 'may', 'affix': ''}
+{'word': 'kunlari', 'pos': 'NOUN', 'root': 'kun', 'affix': 'lari'}
+{'word': 'Toshkentda', 'pos': 'NOUN', 'root': 'toshkent', 'affix': 'da'}
+{'word': 'o‘tkazilishi', 'pos': 'VERB', 'root': 'o‘tkazil', 'affix': 'ishi'}
+{'word': 'tasdiqladi', 'pos': 'VERB', 'root': 'tasdiqla', 'affix': 'di'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'haqda', 'pos': 'NOUN', 'root': 'haq', 'affix': 'da'}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'boks', 'pos': 'NOUN', 'root': 'boks', 'affix': ''}
+{'word': 'federatsiyasining', 'pos': 'NOUN', 'root': 'federatsiya', 'affix': 'sining'}
+{'word': 'rasmiy', 'pos': 'ADV', 'root': 'rasmiy', 'affix': ''}
+{'word': 'kanalida', 'pos': 'NOUN', 'root': 'kanal', 'affix': 'ida'}
+{'word': 'ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'qilindi', 'pos': 'VERB', 'root': 'qilin', 'affix': 'di'}
+{'word': 'Ishonamanki', 'pos': 'VERB', 'root': 'ishon', 'affix': 'amanki'}
+{'word': 'boks', 'pos': 'NOUN', 'root': 'boks', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'erkaklar', 'pos': 'NOUN', 'root': 'erka', 'affix': 'klar'}
+{'word': 'o‘rtasidagi', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': 'sidagi'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionati', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'i'}
+{'word': 'yuqori', 'pos': 'ADJ', 'root': 'yuqori', 'affix': ''}
+{'word': 'darajada', 'pos': 'NOUN', 'root': 'daraja', 'affix': 'da'}
+{'word': 'o‘tkaziladi', 'pos': 'VERB', 'root': 'o‘tkazil', 'affix': 'adi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'tarixdagi', 'pos': 'NOUN', 'root': 'tarix', 'affix': 'dagi'}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'zo‘rlaridan', 'pos': 'ADJ', 'root': 'zo‘r', 'affix': 'laridan'}
+{'word': 'biri', 'pos': 'NUM', 'root': 'bir', 'affix': 'i'}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Men', 'pos': 'NOUN', 'root': 'men', 'affix': ''}
+{'word': 'O‘zbekistonda', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'istonda'}
+{'word': 'bo‘lganman', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'ganman'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'u', 'pos': 'PRON', 'root': 'u', 'affix': ''}
+{'word': 'yerda', 'pos': 'NOUN', 'root': 'yer', 'affix': 'da'}
+{'word': 'musobaqalar', 'pos': 'NOUN', 'root': 'musobaqa', 'affix': 'lar'}
+{'word': 'qanday', 'pos': 'ADV', 'root': 'qanday', 'affix': ''}
+{'word': 'tashkil', 'pos': 'NOUN', 'root': 'tashkil', 'affix': ''}
+{'word': 'etilishini', 'pos': 'VERB', 'root': 'et', 'affix': 'ilishini'}
+{'word': 'ko‘rganman', 'pos': 'ADJ', 'root': 'ko‘r', 'affix': 'ganman'}
+{'word': 'U', 'pos': 'PRON', 'root': 'u', 'affix': ''}
+{'word': 'yerdagi', 'pos': 'NOUN', 'root': 'yer', 'affix': 'dagi'}
+{'word': 'professionalizim', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'boksga', 'pos': 'NOUN', 'root': 'boks', 'affix': 'ga'}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'mehr', 'pos': 'NOUN', 'root': 'mehr', 'affix': ''}
+{'word': 'ko‘p', 'pos': 'ADV', 'root': 'ko‘p', 'affix': ''}
+{'word': 'mamlakatlar', 'pos': 'NOUN', 'root': 'mamlakat', 'affix': 'lar'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'namuna', 'pos': 'NOUN', 'root': 'namuna', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Toshkentda', 'pos': 'NOUN', 'root': 'toshkent', 'affix': 'da'}
+{'word': 'yangi', 'pos': 'ADJ', 'root': 'yangi', 'affix': ''}
+{'word': 'chempionlarni', 'pos': 'NOUN', 'root': 'chempion', 'affix': 'larni'}
+{'word': 'ko‘rishni', 'pos': 'VERB', 'root': 'ko‘rish', 'affix': 'ni'}
+{'word': 'sabrsizlik', 'pos': 'NOUN', 'root': 'sabrsizlik', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'kutmoqdaman', 'pos': 'VERB', 'root': 'kut', 'affix': 'moqdaman'}
+{'word': 'Tarixda', 'pos': 'NOUN', 'root': 'tarix', 'affix': 'da'}
+{'word': 'ilk', 'pos': 'ADJ', 'root': 'ilk', 'affix': ''}
+{'word': 'bora', 'pos': 'NOUN', 'root': 'bora', 'affix': ''}
+{'word': 'bizda', 'pos': 'PRON', 'root': 'bizda', 'affix': ''}
+{'word': 'rekord', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'miqdordagi', 'pos': 'NOUN', 'root': 'miqdor', 'affix': 'dagi'}
+{'word': 'mukofot', 'pos': 'NOUN', 'root': 'mukofot', 'affix': ''}
+{'word': 'jamg‘armasi', 'pos': 'NOUN', 'root': 'jamg‘arma', 'affix': 'si'}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': '5', 'pos': 'NUM', 'root': '5', 'affix': 'null'}
+{'word': '2', 'pos': 'NUM', 'root': '2', 'affix': 'null'}
+{'word': 'million', 'pos': 'NUM', 'root': 'million', 'affix': ''}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dollari', 'pos': 'NOUN', 'root': 'dollar', 'affix': 'i'}
+{'word': 'Birinchi', 'pos': 'NUM', 'root': 'birinchi', 'affix': ''}
+{'word': 'o‘rin', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': '200', 'pos': 'NUM', 'root': '200', 'affix': 'null'}
+{'word': 'ming', 'pos': 'NUM', 'root': 'ming', 'affix': ''}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dollari', 'pos': 'NOUN', 'root': 'dollar', 'affix': 'i'}
+{'word': 'ikkinchi', 'pos': 'NUM', 'root': 'ikkinchi', 'affix': ''}
+{'word': 'o‘ringa', 'pos': 'NOUN', 'root': 'o‘rin', 'affix': 'ga'}
+{'word': '100', 'pos': 'NUM', 'root': '100', 'affix': 'null'}
+{'word': '000', 'pos': 'NUM', 'root': '000', 'affix': 'null'}
+{'word': 'AQSh', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dollari', 'pos': 'NOUN', 'root': 'dollar', 'affix': 'i'}
+{'word': 'bronza', 'pos': 'NOUN', 'root': 'bronza', 'affix': ''}
+{'word': 'medali', 'pos': 'NOUN', 'root': 'medal', 'affix': 'i'}
+{'word': 'sohiblariga', 'pos': 'NOUN', 'root': 'sohib', 'affix': 'lariga'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': '50', 'pos': 'NUM', 'root': '50', 'affix': 'null'}
+{'word': 'ming', 'pos': 'NUM', 'root': 'ming', 'affix': ''}
+{'word': 'dollardan', 'pos': 'NOUN', 'root': 'dollar', 'affix': 'dan'}
+{'word': 'beriladi', 'pos': 'VERB', 'root': 'beril', 'affix': 'adi'}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dedi', 'pos': 'VERB', 'root': 'de', 'affix': 'di'}
+{'word': 'IBA', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'prezidenti', 'pos': 'NOUN', 'root': 'prezident', 'affix': 'i'}
+{'word': 'Umar', 'pos': 'NOUN', 'root': 'umar', 'affix': ''}
+{'word': 'Kremlyov', 'pos': 'NOUN', 'root': 'kreml', 'affix': 'yov'}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'tasodifan', 'pos': 'ADV', 'root': 'tasodifan', 'affix': ''}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'qolgani', 'pos': 'VERB', 'root': 'qol', 'affix': 'gani'}
+{'word': 'yo‘q', 'pos': 'MOD', 'root': 'yo‘q', 'affix': ''}
+{'word': 'O‘zbekistonda', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'istonda'}
+{'word': 'uzoq', 'pos': 'ADV', 'root': 'uzoq', 'affix': ''}
+{'word': 'yillardan', 'pos': 'NOUN', 'root': 'yil', 'affix': 'lardan'}
+{'word': 'beri', 'pos': 'ADV', 'root': 'beri', 'affix': ''}
+{'word': 'saqlanib', 'pos': 'VERB', 'root': 'saqlan', 'affix': 'ib'}
+{'word': 'kelinayotgan', 'pos': 'NOUN', 'root': 'kelin', 'affix': 'ayotgan'}
+{'word': 'boy', 'pos': 'ADJ', 'root': 'boy', 'affix': ''}
+{'word': 'boks', 'pos': 'NOUN', 'root': 'boks', 'affix': ''}
+{'word': 'an‘analari', 'pos': 'NOUN', 'root': 'an‘ana', 'affix': 'lari'}
+{'word': 'bunga', 'pos': 'PRON', 'root': 'bunga', 'affix': ''}
+{'word': 'sababdir', 'pos': 'VERB', 'root': 'sabab', 'affix': 'dir'}
+{'word': 'O‘zbekiston', 'pos': 'NOUN', 'root': 'o‘zbek', 'affix': 'iston'}
+{'word': 'boks', 'pos': 'NOUN', 'root': 'boks', 'affix': ''}
+{'word': 'oilasi', 'pos': 'NOUN', 'root': 'oila', 'affix': 'si'}
+{'word': 'nomidan', 'pos': 'NOUN', 'root': 'nom', 'affix': 'idan'}
+{'word': 'shuni', 'pos': 'PRON', 'root': 'shu', 'affix': 'ni'}
+{'word': 'aytishim', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'mumkinki', 'pos': 'VERB', 'root': 'mumkin', 'affix': 'ki'}
+{'word': 'mamlakatimiz', 'pos': 'NOUN', 'root': 'mamlakat', 'affix': 'imiz'}
+{'word': 'boks', 'pos': 'NOUN', 'root': 'boks', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'erkaklar', 'pos': 'NOUN', 'root': 'erka', 'affix': 'klar'}
+{'word': 'o‘rtasidagi', 'pos': 'ADJ', 'root': 'o‘rta', 'affix': 'sidagi'}
+{'word': 'jahon', 'pos': 'NOUN', 'root': 'jahon', 'affix': ''}
+{'word': 'chempionatini', 'pos': 'NOUN', 'root': 'chempionat', 'affix': 'ini'}
+{'word': 'yuqori', 'pos': 'ADJ', 'root': 'yuqori', 'affix': ''}
+{'word': 'saviyada', 'pos': 'NOUN', 'root': 'saviya', 'affix': 'da'}
+{'word': 'o‘tkazish', 'pos': 'VERB', 'root': 'o‘tkazish', 'affix': ''}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'barcha', 'pos': 'NOUN', 'root': 'bar', 'affix': 'cha'}
+{'word': 'ishni', 'pos': 'NOUN', 'root': 'ish', 'affix': 'ni'}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dedi', 'pos': 'VERB', 'root': 'de', 'affix': 'di'}
+{'word': 'Saken', 'pos': 'NOUN', 'root': 'sak', 'affix': 'en'}
+{'word': 'Polatov', 'pos': 'NOUN', 'root': 'pol', 'affix': 'atov'}

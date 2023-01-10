@@ -19,6 +19,7 @@ def run():
         a.close()
 
         tagged_text=""
+        ng=""
 
         sentences=service_to_uzbek_text.sent_tokenizer(text)
         print(sentences)
@@ -32,9 +33,12 @@ def run():
             for i in range(len(tagged_list)):
 
                 tagged_sent=tagged_sent+' '+tagged_list[i]['word']+'/'+tagged_list[i]['pos']
+                ng=ng+'\n'+str(tagged_list[i])
+
             tagged_sent=tagged_sent+' '+punk+'/PUNCT\n'
             tagged_text=tagged_text+tagged_sent
             print(tagged_sent)
+        tagged_text=tagged_text+'\n\n\n'+ng
         my_path.create_and_write_to_text_files("result", entr, tagged_text)
 
 

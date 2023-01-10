@@ -33,7 +33,7 @@ class pos:
 
     def __check_with_affix(a):
         #a = list(a)
-        verb = ['di', 'lan','lash','lashtir','lantir']
+        verb = ['di', 'lan','lash','lashtir','lantir','lantirdi']
         noun = ['lig', 'lik', 'vchi']
         for v in verb:
             if (v in a["affix"]):
@@ -41,6 +41,7 @@ class pos:
                     break
                 else:
                     a['pos'] = 'VERB'
+                    return a
         for v in noun:
             if (v in a["affix"]):
                 if (a['pos'] == 'NOUN'):
@@ -50,10 +51,7 @@ class pos:
         return a
 
     def __tag_word(a, root):
-        if(str(a['word']).isalnum()):
-            a['pos']='NOUN'
-            a['root']=a['word']
-            return a
+
         if (str(a['word']).isdigit()):
             a['pos'] = 'NUM'
             a['root'] = a['word']

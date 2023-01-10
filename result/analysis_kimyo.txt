@@ -1,75 +1,1081 @@
- Kimyoviy/NOUN elementning/NOUN davriy/NOUN sistemadagi/NOUN o‘rni/NOUN uning/NOUN atom/NOUN tuzilishi/NOUN va/NOUN xossalariga/NOUN bog‘liq/NOUN ./PUNCT
- Radioaktivlikni/NOUN o‘rganish/VERB M/NOUN Skladovskaya-Kyuri/NOUN P/NOUN Kyuri/NOUN E/NOUN Rezerford/NOUN kimyoviy/NOUN element/NOUN atomi/NOUN murakkab/NOUN sistema/NOUN ekanligini/NOUN ko‘rsatdi/VERB ./PUNCT
- Atom/NOUN musbat/NOUN zaryadga/NOUN ega/NOUN bo‘lgan/VERB yadrodan/NOUN va/NOUN uning/NOUN atrofida/NOUN harakatlanuvchi/NOUN elektronlardan/NOUN iborat/NOUN elektron/NOUN ē/NOUN 9/NOUN 1/NOUN 10-31/null kg/NOUN massaga/NOUN va/NOUN 1/NOUN 6/NOUN 10-19/null C/NOUN kulon/NOUN man/NOUN fiy/NOUN elektr/NOUN zaryadiga/NOUN ega/NOUN ./PUNCT
- Atomdagi/NOUN elektronlar/NOUN to‘plami/NOUN elektron/NOUN qobiq/NOUN deb/NOUN ataladi/NOUN ./PUNCT
- Atom/NOUN elektroney/NOUN tral/NOUN zarra/NOUN demak/NOUN atom/NOUN elektron/NOUN qobig‘idagi/null elektronlar/NOUN soni/NOUN yadro/NOUN zaryadiga/NOUN yoki/NOUN davriy/NOUN sistemadagi/NOUN element/NOUN tartib/NOUN raqamiga/NOUN Z/NOUN tengdir/NOUN ./PUNCT
- Proton-ney/null tron/NOUN nazariyasiga/NOUN ko‘ra/AUX atom/NOUN yadrosi/NOUN proton/NOUN va/NOUN neytronlardan/NOUN iborat/NOUN proton/NOUN p/NOUN 1/NOUN a/NOUN m/NOUN b/NOUN ./PUNCT
- massaga/NOUN va/NOUN 1/NOUN zaryadga/NOUN ega/NOUN bo‘lgan/VERB zarra/NOUN neytron/NOUN n/NOUN proton/NOUN massasiga/NOUN yaqin/NOUN massaga/NOUN ega/NOUN elektroneytral/NOUN zarra/NOUN ./PUNCT
- Yadro/NOUN zaryadi/NOUN uning/NOUN tarkibiga/NOUN kiruvchi/NOUN protonlar/NOUN soni/NOUN bilan/NOUN belgilanadi/NOUN demak/NOUN atom/NOUN yadrosidagi/NOUN protonlar/NOUN soni/NOUN elementning/NOUN davriy/NOUN sistemadagi/NOUN tartib/NOUN raqamiga/NOUN teng/NOUN ./PUNCT
- Atomlarning/NOUN absolyut/NOUN massasi/NOUN A/NOUN atom/NOUN tarkibiga/NOUN kiruvchi/NOUN barcha/NOUN zarralar/NOUN massalari/NOUN yig‘indisiga/VERB teng/NOUN A/NOUN protonlar/NOUN massasi/NOUN neytronlar/NOUN massasi/NOUN elektronlar/NOUN massasi/NOUN ./PUNCT
- Elektronlar/NOUN massasi/NOUN shu/NOUN qadar/NOUN kichik/NOUN bo‘lganligidan/NOUN atomlarning/NOUN massasini/NOUN ular/NOUN tarkibiga/NOUN kiruvchi/NOUN proton/NOUN va/NOUN neytronlar/NOUN massasidangina/NOUN iborat/NOUN deb/NOUN olish/NOUN mumkin/NOUN ./PUNCT
- Elementning/NOUN nisbiy/NOUN atom/NOUN massasini/NOUN quyidagicha/NOUN aniqlash/NOUN mumkin/NOUN Ar/NOUN Z/NOUN proton/NOUN soni/NOUN tartib/NOUN raqami/NOUN N/NOUN neytron/NOUN soni/NOUN Ko‘rib/ADJ turganimizdek/NOUN atomning/NOUN tarkibiga/NOUN neytronlar/NOUN hamda/NOUN musbat/NOUN va/NOUN manfiy/NOUN zaryadli/NOUN zarralar/NOUN elektronlar/NOUN va/NOUN protonlar/NOUN kiradi/NOUN va/NOUN u/NOUN qarama-qarshi/ADJ xossali/NOUN zarralar/NOUN to‘plamidan/NOUN iborat/NOUN ./PUNCT
- Proton/NOUN ney/NOUN tron/NOUN elek/NOUN tron/NOUN elementar/NOUN zarralar/NOUN hisoblanib/NOUN hozirgi/NOUN kungacha/NOUN turli/NOUN xossalarga/NOUN ega/NOUN massa/NOUN zar/NOUN yad/NOUN va/NOUN b/NOUN )/PUNCT
- ko‘plab/ADV zar/NOUN rachalar/NOUN ma‘lum/ADJ ./PUNCT
- Biz/NOUN ularni/NOUN ko‘ra/AUX olmasak-da/NOUN ularning/NOUN haqiqatda/NOUN mavjudligi/NOUN olimlar/NOUN tajribalarida/NOUN aniqlangan/NOUN ko‘rsatkichlar/NOUN bilan/NOUN tasdiqlanadi/NOUN ./PUNCT
- Elementar/NOUN zarralar/NOUN ham/NOUN atom/NOUN va/NOUN molekulalar/NOUN singari/NOUN materiya/NOUN turlaridir/NOUN ./PUNCT
- Atom/NOUN tuzilishini/NOUN o‘rganish/VERB shuni/NOUN ko‘rsatdiki/VERB dav/NOUN -/null riy/NOUN sistemada/NOUN elementlar/NOUN atomlarning/NOUN elektron/NOUN pog‘onalari/NOUN tuzilishiga/NOUN mos/NOUN ravishda/NOUN ma‘lum/ADJ tartibda/NOUN joylashadi/NOUN ./PUNCT
- Qo‘zg‘almagan/VERB holatda/NOUN atomning/NOUN elektron/NOUN tuzilishi/NOUN undagi/NOUN elektronlar/NOUN soni/NOUN bilan/NOUN belgilanadi/NOUN ./PUNCT
- Bunda/NOUN elektronlar/NOUN energiyasi/NOUN minimal/NOUN bo‘lgan/VERB orbitallarni/NOUN egallaydi/NOUN ./PUNCT
- Elektronlar/NOUN soni/NOUN yadro/NOUN zar/NOUN yadiga/NOUN teng/NOUN bo‘ladi/VERB ./PUNCT
- Shunday/NOUN qilib/NOUN aynan/NOUN yadro/NOUN zar/NOUN yadi/NOUN atomning/NOUN elektron/NOUN tuzilishini/NOUN va/NOUN shu/NOUN bilan/NOUN birgalikda/NOUN element/NOUN xossalarini/NOUN belgilovchi/NOUN tavsif/NOUN bo‘lib/VERB hisoblanadi/NOUN ./PUNCT
- Bundan/NOUN davriy/NOUN qonunning/NOUN quyidagi/NOUN ta‘rifi/null kelib/NOUN chiqadi/NOUN Davr/NOUN va/NOUN guruhlarda/NOUN elementlar/NOUN xossalarining/NOUN o‘zgarishi/VERB Atom/NOUN tuzilishining/NOUN elektron/NOUN nazariyasi/NOUN elementlar/NOUN xossalarining/NOUN atom/NOUN tuzilishi/NOUN va/NOUN davriy/NOUN sistemadagi/NOUN o‘rniga/NOUN bog‘liq/NOUN ravishda/NOUN o‘zgarishini/VERB izohlab/NOUN berdi/NOUN ./PUNCT
- Bu/NOUN nazariyaga/NOUN ko‘ra/AUX kimyoviy/NOUN reaksiyalar/NOUN asosida/NOUN elektron/NOUN munosabatlar/NOUN atomlar/NOUN elektron/NOUN pog‘onalarining/NOUN qayta/NOUN qurilishi/NOUN jarayonlari/NOUN yotadi/NOUN ./PUNCT
- Bunda/NOUN asosan/NOUN tashqi/NOUN elektron/NOUN qavatidagi/NOUN elektronlar/NOUN valent/NOUN elektronlar/NOUN ishtirok/NOUN etadi/NOUN ./PUNCT
- Masalan/NOUN uglerod/NOUN atomi/NOUN tashqi/NOUN elektron/NOUN qavatining/NOUN tuzilishi/NOUN s2p2/NOUN ko‘rinishida/VERB bo‘ladi/VERB ./PUNCT
- Qo‘zg‘algan/VERB holatda/NOUN esa/NOUN s1/NOUN p3/NOUN ko‘rinishga/VERB o‘tadi/VERB ./PUNCT
- Maksimal/NOUN to‘lgan/VERB qavatlar/NOUN eng/NOUN barqaror/NOUN bo‘ladi/VERB ./PUNCT
- Bunday/NOUN elektron/NOUN qavatlar/NOUN tugallangan/NOUN elektron/NOUN pog‘ona/NOUN deb/NOUN ataladi/NOUN bunda/NOUN tashqi/NOUN elektron/NOUN pog‘ona/NOUN s2p6/NOUN 8/NOUN ta/NOUN elektron/NOUN elektron/NOUN konfiguratsiyasiga/NOUN ega/NOUN bo‘ladi/VERB He/NOUN dan/NOUN tashqari/NOUN barcha/NOUN inert/NOUN gazlar/NOUN ./PUNCT
- Shuning/NOUN uchun/NOUN inert/NOUN gazlar/NOUN juda/NOUN qiyinchilik/NOUN bilan/NOUN reaksiyaga/NOUN kirishadi/NOUN ./PUNCT
- Metallar/NOUN atomlarining/NOUN tashqi/NOUN elektron/NOUN pog‘onalarida/NOUN odatda/NOUN 4/NOUN tagacha/NOUN elektron/NOUN bo‘lib/VERB yadro/NOUN bilan/NOUN kuchsiz/NOUN bog‘langan/VERB ./PUNCT
- Ular/NOUN kimyoviy/NOUN reaksiyaga/NOUN kirishganda/NOUN valent/NOUN elektronlarini/NOUN yo‘qotadi/VERB ./PUNCT
- Ishqoriy/NOUN metallar/NOUN boshqa/NOUN metallarga/NOUN nisbatan/NOUN eng/NOUN kuchli/NOUN metallik/NOUN xossalariga/NOUN ega/NOUN deb/NOUN qabul/NOUN qilinadi/NOUN ./PUNCT
- Chunki/NOUN ular/NOUN boshqa/NOUN metallarga/NOUN nisbatan/NOUN tashqi/NOUN valent/NOUN elektronlarini/NOUN oson/NOUN yo‘qotadi/VERB ./PUNCT
- Elementlarning/NOUN metallik/NOUN xossalarini/NOUN solishtirish/NOUN uchun/NOUN odatda/NOUN maxsus/NOUN kattalik/NOUN ionlanish/NOUN energiyasidan/NOUN foydalaniladi/NOUN ./PUNCT
- Metallmaslar/NOUN atomlari/NOUN tashqi/NOUN elektron/NOUN qavatida/NOUN yadro/NOUN bilan/NOUN mustahkam/NOUN bog‘langan/VERB to‘r/NOUN tta/NOUN va/NOUN undan/NOUN or/NOUN tiq/NOUN sakkiztagacha/NOUN elektron/NOUN mavjud/NOUN ./PUNCT
- Metallmas/NOUN atomi/NOUN reaksiyaga/NOUN kirishayotganda/NOUN odatda/NOUN elektron/NOUN biriktirib/NOUN oladi/NOUN ./PUNCT
- Metallmaslik/NOUN xossalarini/NOUN elektron/NOUN biriktirib/NOUN olish/NOUN imkoniyatini/NOUN solishtirish/NOUN uchun/NOUN maxsus/NOUN kattalik/NOUN E/NOUN elektronga/NOUN moyillik/NOUN qo‘llanadi/VERB ./PUNCT
- Kuchli/NOUN elektroman/NOUN fiy/NOUN element/NOUN atomi/NOUN ftor/NOUN kislorod/NOUN azot/NOUN bilan/NOUN bog‘langan/VERB vodorod/NOUN atomi/NOUN boshqa/NOUN kuchli/NOUN elektromanfiy/NOUN element/NOUN atomi/NOUN bilan/NOUN yana/NOUN bir/NOUN bog‘/NOUN hosil/NOUN qilish/NOUN qobiliyatiga/NOUN ega/NOUN ./PUNCT
- Masalan/NOUN suv/NOUN molekulasida/NOUN vodorod/NOUN kuchli/NOUN elektromanfiy/NOUN kislorod/NOUN bilan/NOUN qutbli/NOUN kovalent/NOUN bog‘/NOUN orqali/NOUN bog‘langan/VERB ./PUNCT
- Umumiy/NOUN elektron/NOUN juft/NOUN kislorod/NOUN tomonga/NOUN siljigan/NOUN va/NOUN vodorod/NOUN musbat/NOUN zaryadlangan/NOUN kislorod/NOUN esa/NOUN manfiy/NOUN zaryadlangan/NOUN ./PUNCT
- Suvning/NOUN bir/NOUN molekulasidagi/NOUN musbat/NOUN zaryadli/NOUN vodorod/NOUN boshqa/NOUN suv/NOUN molekulasidagi/NOUN man/NOUN fiy/NOUN zaryadlangan/NOUN kislorodga/NOUN tortiladi/NOUN ./PUNCT
- Ikki/NOUN kislorod/NOUN atomlari/NOUN orasidagi/NOUN to‘g‘ri/ADJ chiziq/NOUN bo‘ylab/ADV vodorod/NOUN orqali/NOUN bog‘/NOUN hosil/NOUN bo‘ladi/VERB ./PUNCT
- Suv/NOUN suyuq/NOUN ammiak/NOUN suyuq/NOUN vodorod/NOUN ftorid/NOUN ko‘plab/ADV organik/NOUN birikmalar/NOUN vodorod/NOUN bog‘iga/NOUN ega/NOUN ./PUNCT
- Metallarga/NOUN eng/NOUN quyi/NOUN ionlanish/NOUN energiyasi/NOUN xos/NOUN va/NOUN ularda/NOUN harakatchan/NOUN elektronlar/NOUN miqdori/NOUN ko‘p/ADV ./PUNCT
- Metall/NOUN kristallari/NOUN strukturasida/NOUN elektronlar/NOUN atomlardan/NOUN oson/NOUN uzilib/NOUN elektron/NOUN gazi/NOUN va/NOUN musbat/NOUN zaryadli/NOUN metall/NOUN ionlari/NOUN hosil/NOUN bo‘ladi/VERB elektronlar/NOUN butun/NOUN kristall/NOUN bo‘yicha/AUX umumiy/NOUN hisoblanadi/NOUN ./PUNCT
- Metallarning/NOUN elektr/NOUN tokini/NOUN o‘tkazish/VERB xususiyati/NOUN borligini/NOUN siz/NOUN yaxshi/NOUN bilasiz/NOUN ./PUNCT
- Boshqa/NOUN moddalar/NOUN ham/NOUN elektr/NOUN tokini/NOUN o‘tkazadimi/VERB ?/PUNCT
- Buni/NOUN qanday/NOUN bilish/NOUN mumkin/NOUN ?/PUNCT
- Quyidagi/NOUN tajribani/NOUN o‘tkazish/VERB bilan/NOUN turli/NOUN moddalarning/NOUN elektr/NOUN tokini/NOUN o‘tkazish/VERB xususiyati/NOUN haqida/NOUN bilib/NOUN olamiz/NOUN ./PUNCT
- 1-/null rasmda/NOUN tasvirlanganidek/NOUN asbob/NOUN yig‘ib/NOUN olamiz/NOUN va/NOUN asbob/NOUN elektrodlarini/NOUN quruq/NOUN osh/NOUN tuziga/NOUN qo‘yamiz/VERB ./PUNCT
- Lampochka/NOUN yonmaydi/NOUN ./PUNCT
- Asbobning/NOUN elektrodlarini/NOUN distillangan/NOUN suvga/NOUN tushiramiz/NOUN bunda/NOUN ham/NOUN lampochka/NOUN yonmadi/NOUN ./PUNCT
- Demak/NOUN quruq/NOUN osh/NOUN tuzi/NOUN va/NOUN distillangan/NOUN suv/NOUN elektr/NOUN tokini/NOUN o‘tkazmaydi/VERB ./PUNCT
- Osh/NOUN tuzini/NOUN suvda/NOUN eritib/NOUN eritmaga/NOUN asbobning/NOUN elektrodlarini/NOUN tushiramiz/NOUN ./PUNCT
- Bunda/NOUN lampochka/NOUN yonadi/NOUN ./PUNCT
- Demak/NOUN osh/NOUN tuzining/NOUN suvdagi/NOUN eritmasi/NOUN elektr/NOUN tokini/NOUN o‘tkazadi/VERB ./PUNCT
- Istalgan/NOUN moddani/NOUN shu/NOUN yo‘l/NOUN bilan/NOUN elek/NOUN tr/NOUN tokini/NOUN o‘tkazish/VERB yoki/NOUN o‘tkazmaslik/NOUN xususiyatini/NOUN tekshirib/NOUN ko‘rish/VERB mumkin/NOUN ./PUNCT
- Moddalar/NOUN elektr/NOUN tokini/NOUN o‘tkazish/VERB yoki/NOUN o‘tkazmasligiga/NOUN qarab/NOUN ikki/NOUN guruh/NOUN elektrolitlar/NOUN va/NOUN noelektrolitlarga/NOUN bo‘linadi/VERB ./PUNCT
- Eritmalari/NOUN yoki/NOUN suyuqlanmalari/NOUN elektr/NOUN tokini/NOUN o‘tkazadigan/VERB moddalar/NOUN elektrolitlar/NOUN deyiladi/NOUN ./PUNCT
- Elektrolitlarning/NOUN eritmalarida/NOUN sodir/NOUN bo‘ladigan/VERB kimyoviy/NOUN reaksiyalar/NOUN elektrolit/NOUN moddaning/NOUN dissotsiatsiyalanishidan/NOUN hosil/NOUN bo‘lgan/VERB ionlar/NOUN ishtirokida/NOUN amalga/NOUN oshadi/NOUN ./PUNCT
- Ionlar/NOUN orasida/NOUN boradigan/NOUN kimyoviy/NOUN reaksiyalarning/NOUN tenglamalarini/NOUN tuzishda/NOUN kuchli/NOUN elektrolit/NOUN moddani/NOUN dissotsiatsiyalangan/NOUN holda/NOUN kuchsiz/NOUN elektrolitlar/NOUN suvda/NOUN erimaydigan/NOUN cho‘kma/NOUN moddalar/NOUN gaz/NOUN holatga/NOUN o‘tib/VERB reaksiya/NOUN muhitidan/NOUN chiqib/NOUN ketadigan/NOUN moddalarning/NOUN molekulyar/NOUN formulalarini/NOUN yozamiz/NOUN ./PUNCT
- Elektrolitlarning/NOUN va/NOUN eritmalari/NOUN orasida/NOUN sodir/NOUN bo‘ladigan/VERB reaksiyalarni/NOUN quyidagi/NOUN guruhlarga/NOUN bo‘lib/VERB o‘rganamiz/VERB ./PUNCT
- Olmosda/NOUN uglerod/NOUN atomlari/NOUN orasidagi/NOUN bog‘/NOUN bir/NOUN xil/NOUN va/NOUN har/NOUN bir/NOUN atom/NOUN to‘r/NOUN tta/NOUN boshqa/NOUN atomlar/NOUN bilan/NOUN tetraedr/NOUN uchlariga/NOUN yo‘nalgan/VERB qutbsiz/NOUN kovalent/NOUN bog‘/NOUN hosil/NOUN qiladi/NOUN ./PUNCT
- Olmos/NOUN issiqlikni/NOUN yaxshi/NOUN o‘tkazadi/VERB lekin/NOUN elektr/NOUN tokini/NOUN deyarli/NOUN o‘tkazmaydi/VERB ./PUNCT
- Olmosning/NOUN yirik/NOUN tiniq/NOUN kristallari/NOUN brilliantlar/NOUN holida/NOUN qay/NOUN ta/NOUN ishlanib/NOUN qimmatbaho/NOUN zargarlik/NOUN buyumlari/NOUN tayyorlashda/NOUN ishlatiladi/NOUN ./PUNCT
- Texnik/NOUN olmos/NOUN sunʼiy/NOUN usulda/NOUN olinadi/NOUN ./PUNCT
- Undan/NOUN texnikada/NOUN pardozlovchi/NOUN vositalar/NOUN oyna/NOUN kesish/NOUN metallarga/NOUN va/NOUN boshqa/NOUN qattiq/NOUN materiallarga/NOUN ishlov/NOUN berish/NOUN uskunalari/NOUN tayyorlanadi/NOUN ./PUNCT
- Grafit/NOUN metall/NOUN yaltiroqligiga/NOUN ega/NOUN bo‘lgan/VERB yumshoq/NOUN qora/NOUN rangli/NOUN kristall/NOUN modda/NOUN ./PUNCT
- Grafitda/NOUN uglerod/NOUN atomlari/NOUN qatlamlar/NOUN holida/NOUN joylashadi/NOUN ./PUNCT
- Bir/NOUN qatlam/NOUN tekisligida/NOUN joylashgan/NOUN uglerod/NOUN atomlari/NOUN orasidagi/NOUN bog‘dan/NOUN qatlamlararo/NOUN uglerod/NOUN bog‘-/NOUN lari/NOUN kuch/NOUN sizroqligi/NOUN uchun/NOUN qat/NOUN tiq/NOUN yuzaga/NOUN ishqalanganda/NOUN grafit/NOUN yemiriladi/NOUN ./PUNCT
- Undan/NOUN quruq/NOUN surkov/NOUN vositasi/NOUN sifatida/NOUN elektrodlar/NOUN qalamlar/NOUN ishlab/NOUN chiqarishda/NOUN foydalaniladi/NOUN ./PUNCT
- Yog‘och/NOUN ko‘miri/NOUN pista/NOUN ko‘mir/NOUN koks/NOUN hayvon/NOUN ko‘miri/NOUN qurum/NOUN grafitning/NOUN juda/NOUN mayda/NOUN kristallari/NOUN to‘plamidan/NOUN iborat/NOUN bo‘ladi/VERB ./PUNCT
- Havo/NOUN tarkibidagi/NOUN karbonat/NOUN angidridning/NOUN uglerodi/NOUN fotosintez/NOUN jarayonida/NOUN o‘simliklar/NOUN tomonidan/NOUN o‘zlashtiriladi/VERB ./PUNCT
- O‘simliklar/NOUN tarkibidagi/NOUN uglerod/NOUN hayvon/NOUN organizmlariga/NOUN o‘tadi/VERB ./PUNCT
- Toshko‘mir/VERB neft/NOUN yonuvchi/NOUN tabiiy/NOUN gazlar/NOUN o‘simliklar/NOUN va/NOUN hayvonlar/NOUN qoldiqlari/NOUN -/null dan/NOUN hosil/NOUN bo‘lgan/VERB ./PUNCT
- O‘simlik/NOUN va/NOUN hayvonlar/NOUN nafas/NOUN olishi/NOUN hayotiy/NOUN faoliyati/NOUN natijasida/NOUN toshko‘mir/VERB neft/NOUN tabiiy/NOUN gazlarning/NOUN yonishidan/NOUN vulqonlar/NOUN otilishidan/NOUN mineral/NOUN manbalarning/NOUN nu/NOUN u/PUNCT
+ Kimyoviy/NOUN elementning/NOUN davriy/NOUN sistemadagi/NOUN o‘rni/NOUN uning/PRON atom/NOUN tuzilishi/VERB va/CONJ xossalariga/NOUN bog‘liq/NOUN ./PUNCT
+ Radioaktivlikni/NOUN o‘rganish/VERB M/null Skladovskaya-Kyuri/NOUN P/null Kyuri/null E/null Rezerford/null kimyoviy/NOUN element/NOUN atomi/NOUN murakkab/NOUN sistema/NOUN ekanligini/NOUN ko‘rsatdi/VERB ./PUNCT
+ Atom/NOUN musbat/NOUN zaryadga/NOUN ega/NOUN bo‘lgan/VERB yadrodan/null va/CONJ uning/PRON atrofida/NOUN harakatlanuvchi/NOUN elektronlardan/NOUN iborat/NOUN elektron/NOUN ē/null 9/NUM 1/NUM 10-31/null kg/null massaga/NOUN va/CONJ 1/NUM 6/NUM 10-19/null C/null kulon/VERB man/NOUN fiy/null elektr/ADJ zaryadiga/NOUN ega/NOUN ./PUNCT
+ Atomdagi/NOUN elektronlar/NOUN to‘plami/NOUN elektron/NOUN qobiq/null deb/VERB ataladi/VERB ./PUNCT
+ Atom/NOUN elektroney/NOUN tral/null zarra/NOUN demak/MOD atom/NOUN elektron/NOUN qobig‘idagi/null elektronlar/NOUN soni/NOUN yadro/null zaryadiga/NOUN yoki/CONJ davriy/NOUN sistemadagi/NOUN element/NOUN tartib/null raqamiga/NOUN Z/null tengdir/VERB ./PUNCT
+ Proton-ney/null tron/null nazariyasiga/NOUN ko‘ra/AUX atom/NOUN yadrosi/null proton/null va/CONJ neytronlardan/NOUN iborat/NOUN proton/null p/null 1/NUM a/null m/null b/null ./PUNCT
+ massaga/NOUN va/CONJ 1/NUM zaryadga/NOUN ega/NOUN bo‘lgan/VERB zarra/NOUN neytron/NOUN n/null proton/null massasiga/NOUN yaqin/ADJ massaga/NOUN ega/NOUN elektroneytral/NOUN zarra/NOUN ./PUNCT
+ Yadro/null zaryadi/NOUN uning/PRON tarkibiga/null kiruvchi/NOUN protonlar/null soni/NOUN bilan/AUX belgilanadi/VERB demak/MOD atom/NOUN yadrosidagi/null protonlar/null soni/NOUN elementning/NOUN davriy/NOUN sistemadagi/NOUN tartib/null raqamiga/NOUN teng/ADV ./PUNCT
+ Atomlarning/NOUN absolyut/null massasi/NOUN A/null atom/NOUN tarkibiga/null kiruvchi/NOUN barcha/NOUN zarralar/NOUN massalari/NOUN yig‘indisiga/VERB teng/ADV A/null protonlar/null massasi/NOUN neytronlar/NOUN massasi/NOUN elektronlar/NOUN massasi/NOUN ./PUNCT
+ Elektronlar/NOUN massasi/NOUN shu/PRON qadar/NOUN kichik/ADJ bo‘lganligidan/NOUN atomlarning/NOUN massasini/NOUN ular/PRON tarkibiga/null kiruvchi/NOUN proton/null va/CONJ neytronlar/NOUN massasidangina/NOUN iborat/NOUN deb/VERB olish/VERB mumkin/VERB ./PUNCT
+ Elementning/NOUN nisbiy/NOUN atom/NOUN massasini/NOUN quyidagicha/ADJ aniqlash/VERB mumkin/VERB Ar/NOUN Z/null proton/null soni/NOUN tartib/null raqami/NOUN N/null neytron/NOUN soni/NOUN Ko‘rib/ADJ turganimizdek/NOUN atomning/NOUN tarkibiga/null neytronlar/NOUN hamda/CONJ musbat/NOUN va/CONJ manfiy/NOUN zaryadli/NOUN zarralar/NOUN elektronlar/NOUN va/CONJ protonlar/null kiradi/VERB va/CONJ u/PRON qarama-qarshi/ADJ xossali/NOUN zarralar/NOUN to‘plamidan/NOUN iborat/NOUN ./PUNCT
+ Proton/null ney/PRON tron/null elek/NOUN tron/null elementar/NOUN zarralar/NOUN hisoblanib/VERB hozirgi/ADJ kungacha/NOUN turli/VERB xossalarga/NOUN ega/NOUN massa/NOUN zar/NOUN yad/null va/CONJ b/null )/PUNCT
+ ko‘plab/ADV zar/NOUN rachalar/null ma‘lum/ADJ ./PUNCT
+ Biz/PRON ularni/PRON ko‘ra/AUX olmasak-da/NOUN ularning/PRON haqiqatda/NOUN mavjudligi/NOUN olimlar/ADJ tajribalarida/NOUN aniqlangan/VERB ko‘rsatkichlar/NOUN bilan/AUX tasdiqlanadi/VERB ./PUNCT
+ Elementar/NOUN zarralar/NOUN ham/NOUN atom/NOUN va/CONJ molekulalar/NOUN singari/AUX materiya/NOUN turlaridir/VERB ./PUNCT
+ Atom/NOUN tuzilishini/VERB o‘rganish/VERB shuni/PRON ko‘rsatdiki/VERB dav/NOUN -/null riy/null sistemada/NOUN elementlar/NOUN atomlarning/NOUN elektron/NOUN pog‘onalari/NOUN tuzilishiga/VERB mos/null ravishda/NOUN ma‘lum/ADJ tartibda/null joylashadi/VERB ./PUNCT
+ Qo‘zg‘almagan/VERB holatda/NOUN atomning/NOUN elektron/NOUN tuzilishi/VERB undagi/PRON elektronlar/NOUN soni/NOUN bilan/AUX belgilanadi/VERB ./PUNCT
+ Bunda/PRON elektronlar/NOUN energiyasi/NOUN minimal/VERB bo‘lgan/VERB orbitallarni/NOUN egallaydi/VERB ./PUNCT
+ Elektronlar/NOUN soni/NOUN yadro/null zar/NOUN yadiga/null teng/ADV bo‘ladi/VERB ./PUNCT
+ Shunday/ADV qilib/VERB aynan/ADV yadro/null zar/NOUN yadi/null atomning/NOUN elektron/NOUN tuzilishini/VERB va/CONJ shu/PRON bilan/AUX birgalikda/ADV element/NOUN xossalarini/NOUN belgilovchi/NOUN tavsif/NOUN bo‘lib/VERB hisoblanadi/VERB ./PUNCT
+ Bundan/PRON davriy/NOUN qonunning/NOUN quyidagi/ADJ ta‘rifi/null kelib/VERB chiqadi/VERB Davr/NOUN va/CONJ guruhlarda/NOUN elementlar/NOUN xossalarining/NOUN o‘zgarishi/VERB Atom/NOUN tuzilishining/VERB elektron/NOUN nazariyasi/NOUN elementlar/NOUN xossalarining/NOUN atom/NOUN tuzilishi/VERB va/CONJ davriy/NOUN sistemadagi/NOUN o‘rniga/NOUN bog‘liq/NOUN ravishda/NOUN o‘zgarishini/VERB izohlab/VERB berdi/NOUN ./PUNCT
+ Bu/PRON nazariyaga/NOUN ko‘ra/AUX kimyoviy/NOUN reaksiyalar/NOUN asosida/NOUN elektron/NOUN munosabatlar/NOUN atomlar/NOUN elektron/NOUN pog‘onalarining/NOUN qayta/VERB qurilishi/VERB jarayonlari/NOUN yotadi/VERB ./PUNCT
+ Bunda/PRON asosan/ADV tashqi/ADJ elektron/NOUN qavatidagi/NOUN elektronlar/NOUN valent/NOUN elektronlar/NOUN ishtirok/NOUN etadi/VERB ./PUNCT
+ Masalan/MOD uglerod/NOUN atomi/NOUN tashqi/ADJ elektron/NOUN qavatining/NOUN tuzilishi/VERB s2p2/null ko‘rinishida/VERB bo‘ladi/VERB ./PUNCT
+ Qo‘zg‘algan/VERB holatda/NOUN esa/VERB s1/null p3/null ko‘rinishga/VERB o‘tadi/VERB ./PUNCT
+ Maksimal/NOUN to‘lgan/VERB qavatlar/NOUN eng/VERB barqaror/ADJ bo‘ladi/VERB ./PUNCT
+ Bunday/ADV elektron/NOUN qavatlar/NOUN tugallangan/VERB elektron/NOUN pog‘ona/NOUN deb/VERB ataladi/VERB bunda/PRON tashqi/ADJ elektron/NOUN pog‘ona/NOUN s2p6/null 8/NUM ta/null elektron/NOUN elektron/NOUN konfiguratsiyasiga/NOUN ega/NOUN bo‘ladi/VERB He/INTJ dan/NOUN tashqari/null barcha/NOUN inert/VERB gazlar/NOUN ./PUNCT
+ Shuning/PRON uchun/VERB inert/VERB gazlar/NOUN juda/ADV qiyinchilik/NOUN bilan/AUX reaksiyaga/NOUN kirishadi/VERB ./PUNCT
+ Metallar/NOUN atomlarining/NOUN tashqi/ADJ elektron/NOUN pog‘onalarida/NOUN odatda/ADV 4/NUM tagacha/NOUN elektron/NOUN bo‘lib/VERB yadro/null bilan/AUX kuchsiz/ADJ bog‘langan/VERB ./PUNCT
+ Ular/PRON kimyoviy/NOUN reaksiyaga/NOUN kirishganda/VERB valent/NOUN elektronlarini/NOUN yo‘qotadi/VERB ./PUNCT
+ Ishqoriy/NOUN metallar/NOUN boshqa/ADV metallarga/NOUN nisbatan/ADV eng/VERB kuchli/ADJ metallik/NOUN xossalariga/NOUN ega/NOUN deb/VERB qabul/NOUN qilinadi/VERB ./PUNCT
+ Chunki/CONJ ular/PRON boshqa/ADV metallarga/NOUN nisbatan/ADV tashqi/ADJ valent/NOUN elektronlarini/NOUN oson/ADJ yo‘qotadi/VERB ./PUNCT
+ Elementlarning/NOUN metallik/NOUN xossalarini/NOUN solishtirish/VERB uchun/VERB odatda/ADV maxsus/NOUN kattalik/NOUN ionlanish/VERB energiyasidan/NOUN foydalaniladi/VERB ./PUNCT
+ Metallmaslar/NOUN atomlari/NOUN tashqi/ADJ elektron/NOUN qavatida/NOUN yadro/null bilan/AUX mustahkam/ADJ bog‘langan/VERB to‘r/NOUN tta/null va/CONJ undan/PRON or/null tiq/VERB sakkiztagacha/NUM elektron/NOUN mavjud/NOUN ./PUNCT
+ Metallmas/NOUN atomi/NOUN reaksiyaga/NOUN kirishayotganda/VERB odatda/ADV elektron/NOUN biriktirib/VERB oladi/VERB ./PUNCT
+ Metallmaslik/NOUN xossalarini/NOUN elektron/NOUN biriktirib/VERB olish/VERB imkoniyatini/NOUN solishtirish/VERB uchun/VERB maxsus/NOUN kattalik/NOUN E/null elektronga/NOUN moyillik/NOUN qo‘llanadi/VERB ./PUNCT
+ Kuchli/ADJ elektroman/ADJ fiy/null element/NOUN atomi/NOUN ftor/NOUN kislorod/NOUN azot/NOUN bilan/AUX bog‘langan/VERB vodorod/NOUN atomi/NOUN boshqa/ADV kuchli/ADJ elektromanfiy/ADJ element/NOUN atomi/NOUN bilan/AUX yana/ADV bir/NUM bog‘/NOUN hosil/NOUN qilish/VERB qobiliyatiga/NOUN ega/NOUN ./PUNCT
+ Masalan/MOD suv/NOUN molekulasida/NOUN vodorod/NOUN kuchli/ADJ elektromanfiy/ADJ kislorod/NOUN bilan/AUX qutbli/null kovalent/null bog‘/NOUN orqali/NOUN bog‘langan/VERB ./PUNCT
+ Umumiy/NOUN elektron/NOUN juft/null kislorod/NOUN tomonga/AUX siljigan/null va/CONJ vodorod/NOUN musbat/NOUN zaryadlangan/VERB kislorod/NOUN esa/VERB manfiy/NOUN zaryadlangan/VERB ./PUNCT
+ Suvning/NOUN bir/NUM molekulasidagi/NOUN musbat/NOUN zaryadli/NOUN vodorod/NOUN boshqa/ADV suv/NOUN molekulasidagi/NOUN man/NOUN fiy/null zaryadlangan/VERB kislorodga/NOUN tortiladi/VERB ./PUNCT
+ Ikki/NUM kislorod/NOUN atomlari/NOUN orasidagi/AUX to‘g‘ri/ADJ chiziq/NOUN bo‘ylab/ADV vodorod/NOUN orqali/NOUN bog‘/NOUN hosil/NOUN bo‘ladi/VERB ./PUNCT
+ Suv/NOUN suyuq/VERB ammiak/NOUN suyuq/VERB vodorod/NOUN ftorid/NOUN ko‘plab/ADV organik/NOUN birikmalar/NOUN vodorod/NOUN bog‘iga/NOUN ega/NOUN ./PUNCT
+ Metallarga/NOUN eng/VERB quyi/ADJ ionlanish/VERB energiyasi/NOUN xos/ADJ va/CONJ ularda/PRON harakatchan/ADJ elektronlar/NOUN miqdori/NOUN ko‘p/ADV ./PUNCT
+ Metall/NOUN kristallari/NOUN strukturasida/NOUN elektronlar/NOUN atomlardan/NOUN oson/ADJ uzilib/VERB elektron/NOUN gazi/NOUN va/CONJ musbat/NOUN zaryadli/NOUN metall/NOUN ionlari/NOUN hosil/NOUN bo‘ladi/VERB elektronlar/NOUN butun/NUM kristall/NOUN bo‘yicha/AUX umumiy/NOUN hisoblanadi/VERB ./PUNCT
+ Metallarning/NOUN elektr/ADJ tokini/CONJ o‘tkazish/VERB xususiyati/NOUN borligini/NOUN siz/VERB yaxshi/ADJ bilasiz/VERB ./PUNCT
+ Boshqa/ADV moddalar/NOUN ham/NOUN elektr/ADJ tokini/CONJ o‘tkazadimi/VERB ?/PUNCT
+ Buni/PRON qanday/ADV bilish/VERB mumkin/VERB ?/PUNCT
+ Quyidagi/ADJ tajribani/NOUN o‘tkazish/VERB bilan/AUX turli/VERB moddalarning/NOUN elektr/ADJ tokini/CONJ o‘tkazish/VERB xususiyati/NOUN haqida/NOUN bilib/VERB olamiz/NOUN ./PUNCT
+ 1-/null rasmda/NOUN tasvirlanganidek/VERB asbob/NOUN yig‘ib/NOUN olamiz/NOUN va/CONJ asbob/NOUN elektrodlarini/NOUN quruq/ADJ osh/VERB tuziga/VERB qo‘yamiz/VERB ./PUNCT
+ Lampochka/NOUN yonmaydi/VERB ./PUNCT
+ Asbobning/NOUN elektrodlarini/NOUN distillangan/VERB suvga/NOUN tushiramiz/VERB bunda/PRON ham/NOUN lampochka/NOUN yonmadi/VERB ./PUNCT
+ Demak/MOD quruq/ADJ osh/VERB tuzi/VERB va/CONJ distillangan/VERB suv/NOUN elektr/ADJ tokini/CONJ o‘tkazmaydi/VERB ./PUNCT
+ Osh/VERB tuzini/VERB suvda/NOUN eritib/VERB eritmaga/NOUN asbobning/NOUN elektrodlarini/NOUN tushiramiz/VERB ./PUNCT
+ Bunda/PRON lampochka/NOUN yonadi/VERB ./PUNCT
+ Demak/MOD osh/VERB tuzining/VERB suvdagi/NOUN eritmasi/NOUN elektr/ADJ tokini/CONJ o‘tkazadi/VERB ./PUNCT
+ Istalgan/VERB moddani/NOUN shu/PRON yo‘l/NOUN bilan/AUX elek/NOUN tr/null tokini/CONJ o‘tkazish/VERB yoki/CONJ o‘tkazmaslik/NOUN xususiyatini/NOUN tekshirib/VERB ko‘rish/VERB mumkin/VERB ./PUNCT
+ Moddalar/NOUN elektr/ADJ tokini/CONJ o‘tkazish/VERB yoki/CONJ o‘tkazmasligiga/NOUN qarab/AUX ikki/NUM guruh/NOUN elektrolitlar/NOUN va/CONJ noelektrolitlarga/NOUN bo‘linadi/VERB ./PUNCT
+ Eritmalari/NOUN yoki/CONJ suyuqlanmalari/VERB elektr/ADJ tokini/CONJ o‘tkazadigan/VERB moddalar/NOUN elektrolitlar/NOUN deyiladi/VERB ./PUNCT
+ Elektrolitlarning/NOUN eritmalarida/NOUN sodir/NOUN bo‘ladigan/VERB kimyoviy/NOUN reaksiyalar/NOUN elektrolit/NOUN moddaning/NOUN dissotsiatsiyalanishidan/VERB hosil/NOUN bo‘lgan/VERB ionlar/NOUN ishtirokida/NOUN amalga/NOUN oshadi/VERB ./PUNCT
+ Ionlar/NOUN orasida/AUX boradigan/VERB kimyoviy/NOUN reaksiyalarning/NOUN tenglamalarini/NOUN tuzishda/VERB kuchli/ADJ elektrolit/NOUN moddani/NOUN dissotsiatsiyalangan/VERB holda/null kuchsiz/ADJ elektrolitlar/NOUN suvda/NOUN erimaydigan/VERB cho‘kma/NOUN moddalar/NOUN gaz/NOUN holatga/NOUN o‘tib/VERB reaksiya/NOUN muhitidan/NOUN chiqib/VERB ketadigan/VERB moddalarning/NOUN molekulyar/NOUN formulalarini/NOUN yozamiz/VERB ./PUNCT
+ Elektrolitlarning/NOUN va/CONJ eritmalari/NOUN orasida/AUX sodir/NOUN bo‘ladigan/VERB reaksiyalarni/NOUN quyidagi/ADJ guruhlarga/NOUN bo‘lib/VERB o‘rganamiz/VERB ./PUNCT
+ Olmosda/NOUN uglerod/NOUN atomlari/NOUN orasidagi/AUX bog‘/NOUN bir/NUM xil/NOUN va/CONJ har/PRON bir/NUM atom/NOUN to‘r/NOUN tta/null boshqa/ADV atomlar/NOUN bilan/AUX tetraedr/null uchlariga/NUM yo‘nalgan/VERB qutbsiz/null kovalent/null bog‘/NOUN hosil/NOUN qiladi/VERB ./PUNCT
+ Olmos/NOUN issiqlikni/NOUN yaxshi/ADJ o‘tkazadi/VERB lekin/CONJ elektr/ADJ tokini/CONJ deyarli/ADV o‘tkazmaydi/VERB ./PUNCT
+ Olmosning/NOUN yirik/ADJ tiniq/ADJ kristallari/NOUN brilliantlar/NOUN holida/null qay/null ta/null ishlanib/VERB qimmatbaho/ADJ zargarlik/NOUN buyumlari/NOUN tayyorlashda/VERB ishlatiladi/VERB ./PUNCT
+ Texnik/null olmos/NOUN sunʼiy/NOUN usulda/NOUN olinadi/VERB ./PUNCT
+ Undan/PRON texnikada/NOUN pardozlovchi/NOUN vositalar/NOUN oyna/NOUN kesish/VERB metallarga/NOUN va/CONJ boshqa/ADV qattiq/ADJ materiallarga/NOUN ishlov/NOUN berish/ADV uskunalari/NOUN tayyorlanadi/VERB ./PUNCT
+ Grafit/NOUN metall/NOUN yaltiroqligiga/NOUN ega/NOUN bo‘lgan/VERB yumshoq/ADJ qora/ADJ rangli/ADJ kristall/NOUN modda/NOUN ./PUNCT
+ Grafitda/NOUN uglerod/NOUN atomlari/NOUN qatlamlar/NOUN holida/null joylashadi/VERB ./PUNCT
+ Bir/NUM qatlam/NOUN tekisligida/NOUN joylashgan/VERB uglerod/NOUN atomlari/NOUN orasidagi/AUX bog‘dan/NOUN qatlamlararo/NOUN uglerod/NOUN bog‘-/NOUN lari/NOUN kuch/NOUN sizroqligi/NOUN uchun/VERB qat/NOUN tiq/VERB yuzaga/ADV ishqalanganda/VERB grafit/NOUN yemiriladi/VERB ./PUNCT
+ Undan/PRON quruq/ADJ surkov/NOUN vositasi/NOUN sifatida/NOUN elektrodlar/NOUN qalamlar/NOUN ishlab/VERB chiqarishda/VERB foydalaniladi/VERB ./PUNCT
+ Yog‘och/NOUN ko‘miri/NOUN pista/NOUN ko‘mir/NOUN koks/NOUN hayvon/NOUN ko‘miri/NOUN qurum/NOUN grafitning/NOUN juda/ADV mayda/ADJ kristallari/NOUN to‘plamidan/NOUN iborat/NOUN bo‘ladi/VERB ./PUNCT
+ Havo/NOUN tarkibidagi/null karbonat/ADJ angidridning/NOUN uglerodi/NOUN fotosintez/NOUN jarayonida/NOUN o‘simliklar/NOUN tomonidan/AUX o‘zlashtiriladi/VERB ./PUNCT
+ O‘simliklar/NOUN tarkibidagi/null uglerod/NOUN hayvon/NOUN organizmlariga/NOUN o‘tadi/VERB ./PUNCT
+ Toshko‘mir/VERB neft/NOUN yonuvchi/NOUN tabiiy/ADJ gazlar/NOUN o‘simliklar/NOUN va/CONJ hayvonlar/NOUN qoldiqlari/NOUN -/null dan/NOUN hosil/NOUN bo‘lgan/VERB ./PUNCT
+ O‘simlik/NOUN va/CONJ hayvonlar/NOUN nafas/NOUN olishi/VERB hayotiy/NOUN faoliyati/ADJ natijasida/NOUN toshko‘mir/VERB neft/NOUN tabiiy/ADJ gazlarning/NOUN yonishidan/VERB vulqonlar/NOUN otilishidan/VERB mineral/NOUN manbalarning/NOUN nu/null u/PUNCT
+
+
+
+
+{'word': 'Kimyoviy', 'pos': 'NOUN', 'root': 'kimyo', 'affix': 'viy'}
+{'word': 'elementning', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementning'}
+{'word': 'davriy', 'pos': 'NOUN', 'root': 'davr', 'affix': 'iy'}
+{'word': 'sistemadagi', 'pos': 'NOUN', 'root': 'sistema', 'affix': 'dagi'}
+{'word': 'o‘rni', 'pos': 'NOUN', 'root': 'o‘rni', 'affix': ''}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'tuzilishi', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'xossalariga', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'lariga'}
+{'word': 'bog‘liq', 'pos': 'NOUN', 'root': 'bog‘', 'affix': 'liq'}
+{'word': 'Radioaktivlikni', 'pos': 'NOUN', 'root': 'radioaktivlik', 'affix': 'ni'}
+{'word': 'o‘rganish', 'pos': 'VERB', 'root': 'o‘rganish', 'affix': ''}
+{'word': 'M', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Skladovskaya-Kyuri', 'pos': 'NOUN', 'root': 'sklad', 'affix': 'ovskaya-Kyuri'}
+{'word': 'P', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Kyuri', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'E', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'Rezerford', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kimyoviy', 'pos': 'NOUN', 'root': 'kimyo', 'affix': 'viy'}
+{'word': 'element', 'pos': 'NOUN', 'root': 'el', 'affix': 'ement'}
+{'word': 'atomi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mi'}
+{'word': 'murakkab', 'pos': 'NOUN', 'root': 'mu', 'affix': 'rakkab'}
+{'word': 'sistema', 'pos': 'NOUN', 'root': 'sistema', 'affix': ''}
+{'word': 'ekanligini', 'pos': 'NOUN', 'root': 'ekan', 'affix': 'ligini'}
+{'word': 'ko‘rsatdi', 'pos': 'VERB', 'root': 'ko‘rsat', 'affix': 'di'}
+{'word': 'Atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'musbat', 'pos': 'NOUN', 'root': 'musbat', 'affix': ''}
+{'word': 'zaryadga', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'ga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'yadrodan', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'atrofida', 'pos': 'NOUN', 'root': 'atrof', 'affix': 'ida'}
+{'word': 'harakatlanuvchi', 'pos': 'NOUN', 'root': 'harakatlan', 'affix': 'uvchi'}
+{'word': 'elektronlardan', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lardan'}
+{'word': 'iborat', 'pos': 'NOUN', 'root': 'iborat', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'ē', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': '9', 'pos': 'NUM', 'root': '9', 'affix': 'null'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': '10-31', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kg', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'massaga', 'pos': 'NOUN', 'root': 'massa', 'affix': 'ga'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': '6', 'pos': 'NUM', 'root': '6', 'affix': 'null'}
+{'word': '10-19', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'C', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kulon', 'pos': 'VERB', 'root': 'kul', 'affix': 'on'}
+{'word': 'man', 'pos': 'NOUN', 'root': 'ma', 'affix': 'n'}
+{'word': 'fiy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'zaryadiga', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'iga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'Atomdagi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mdagi'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'to‘plami', 'pos': 'NOUN', 'root': 'to‘plam', 'affix': 'i'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'qobiq', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'deb', 'pos': 'VERB', 'root': 'deb', 'affix': ''}
+{'word': 'ataladi', 'pos': 'VERB', 'root': 'atala', 'affix': 'di'}
+{'word': 'Atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'elektroney', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'ey'}
+{'word': 'tral', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'zarra', 'pos': 'NOUN', 'root': 'zarra', 'affix': ''}
+{'word': 'demak', 'pos': 'MOD', 'root': 'demak', 'affix': ''}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'qobig‘idagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'yadro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'zaryadiga', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'iga'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'davriy', 'pos': 'NOUN', 'root': 'davr', 'affix': 'iy'}
+{'word': 'sistemadagi', 'pos': 'NOUN', 'root': 'sistema', 'affix': 'dagi'}
+{'word': 'element', 'pos': 'NOUN', 'root': 'el', 'affix': 'ement'}
+{'word': 'tartib', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'raqamiga', 'pos': 'NOUN', 'root': 'raqam', 'affix': 'iga'}
+{'word': 'Z', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'tengdir', 'pos': 'VERB', 'root': 'teng', 'affix': 'dir'}
+{'word': 'Proton-ney', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'tron', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'nazariyasiga', 'pos': 'NOUN', 'root': 'nazariya', 'affix': 'siga'}
+{'word': 'ko‘ra', 'pos': 'AUX', 'root': 'ko‘ra', 'affix': ''}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'yadrosi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'proton', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'neytronlardan', 'pos': 'NOUN', 'root': 'neytron', 'affix': 'lardan'}
+{'word': 'iborat', 'pos': 'NOUN', 'root': 'iborat', 'affix': ''}
+{'word': 'proton', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'p', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': 'a', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'm', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'b', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'massaga', 'pos': 'NOUN', 'root': 'massa', 'affix': 'ga'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': '1', 'pos': 'NUM', 'root': '1', 'affix': 'null'}
+{'word': 'zaryadga', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'ga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'zarra', 'pos': 'NOUN', 'root': 'zarra', 'affix': ''}
+{'word': 'neytron', 'pos': 'NOUN', 'root': 'neytron', 'affix': ''}
+{'word': 'n', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'proton', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'massasiga', 'pos': 'NOUN', 'root': 'massa', 'affix': 'siga'}
+{'word': 'yaqin', 'pos': 'ADJ', 'root': 'yaqin', 'affix': ''}
+{'word': 'massaga', 'pos': 'NOUN', 'root': 'massa', 'affix': 'ga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'elektroneytral', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'eytral'}
+{'word': 'zarra', 'pos': 'NOUN', 'root': 'zarra', 'affix': ''}
+{'word': 'Yadro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'zaryadi', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'i'}
+{'word': 'uning', 'pos': 'PRON', 'root': 'uning', 'affix': ''}
+{'word': 'tarkibiga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kiruvchi', 'pos': 'NOUN', 'root': 'kir', 'affix': 'uvchi'}
+{'word': 'protonlar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'belgilanadi', 'pos': 'VERB', 'root': 'belgilan', 'affix': 'adi'}
+{'word': 'demak', 'pos': 'MOD', 'root': 'demak', 'affix': ''}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'yadrosidagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'protonlar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'elementning', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementning'}
+{'word': 'davriy', 'pos': 'NOUN', 'root': 'davr', 'affix': 'iy'}
+{'word': 'sistemadagi', 'pos': 'NOUN', 'root': 'sistema', 'affix': 'dagi'}
+{'word': 'tartib', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'raqamiga', 'pos': 'NOUN', 'root': 'raqam', 'affix': 'iga'}
+{'word': 'teng', 'pos': 'ADV', 'root': 'teng', 'affix': ''}
+{'word': 'Atomlarning', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlarning'}
+{'word': 'absolyut', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'massasi', 'pos': 'NOUN', 'root': 'massa', 'affix': 'si'}
+{'word': 'A', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'tarkibiga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kiruvchi', 'pos': 'NOUN', 'root': 'kir', 'affix': 'uvchi'}
+{'word': 'barcha', 'pos': 'NOUN', 'root': 'bar', 'affix': 'cha'}
+{'word': 'zarralar', 'pos': 'NOUN', 'root': 'zarra', 'affix': 'lar'}
+{'word': 'massalari', 'pos': 'NOUN', 'root': 'massa', 'affix': 'lari'}
+{'word': 'yig‘indisiga', 'pos': 'VERB', 'root': 'yi', 'affix': 'g‘indisiga'}
+{'word': 'teng', 'pos': 'ADV', 'root': 'teng', 'affix': ''}
+{'word': 'A', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'protonlar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'massasi', 'pos': 'NOUN', 'root': 'massa', 'affix': 'si'}
+{'word': 'neytronlar', 'pos': 'NOUN', 'root': 'neytron', 'affix': 'lar'}
+{'word': 'massasi', 'pos': 'NOUN', 'root': 'massa', 'affix': 'si'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'massasi', 'pos': 'NOUN', 'root': 'massa', 'affix': 'si'}
+{'word': 'Elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'massasi', 'pos': 'NOUN', 'root': 'massa', 'affix': 'si'}
+{'word': 'shu', 'pos': 'PRON', 'root': 'shu', 'affix': ''}
+{'word': 'qadar', 'pos': 'NOUN', 'root': 'qadar', 'affix': ''}
+{'word': 'kichik', 'pos': 'ADJ', 'root': 'kichik', 'affix': ''}
+{'word': 'bo‘lganligidan', 'pos': 'NOUN', 'root': 'bo‘l', 'affix': 'ganligidan'}
+{'word': 'atomlarning', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlarning'}
+{'word': 'massasini', 'pos': 'NOUN', 'root': 'massa', 'affix': 'sini'}
+{'word': 'ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'tarkibiga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kiruvchi', 'pos': 'NOUN', 'root': 'kir', 'affix': 'uvchi'}
+{'word': 'proton', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'neytronlar', 'pos': 'NOUN', 'root': 'neytron', 'affix': 'lar'}
+{'word': 'massasidangina', 'pos': 'NOUN', 'root': 'massa', 'affix': 'sidangina'}
+{'word': 'iborat', 'pos': 'NOUN', 'root': 'iborat', 'affix': ''}
+{'word': 'deb', 'pos': 'VERB', 'root': 'deb', 'affix': ''}
+{'word': 'olish', 'pos': 'VERB', 'root': 'olish', 'affix': ''}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Elementning', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementning'}
+{'word': 'nisbiy', 'pos': 'NOUN', 'root': 'nis', 'affix': 'biy'}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'massasini', 'pos': 'NOUN', 'root': 'massa', 'affix': 'sini'}
+{'word': 'quyidagicha', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'dagicha'}
+{'word': 'aniqlash', 'pos': 'VERB', 'root': 'aniqlash', 'affix': ''}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Ar', 'pos': 'NOUN', 'root': 'ar', 'affix': ''}
+{'word': 'Z', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'proton', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'tartib', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'raqami', 'pos': 'NOUN', 'root': 'raqam', 'affix': 'i'}
+{'word': 'N', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'neytron', 'pos': 'NOUN', 'root': 'neytron', 'affix': ''}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'Ko‘rib', 'pos': 'ADJ', 'root': 'ko‘r', 'affix': 'ib'}
+{'word': 'turganimizdek', 'pos': 'NOUN', 'root': 'turgan', 'affix': 'imizdek'}
+{'word': 'atomning', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mning'}
+{'word': 'tarkibiga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'neytronlar', 'pos': 'NOUN', 'root': 'neytron', 'affix': 'lar'}
+{'word': 'hamda', 'pos': 'CONJ', 'root': 'hamda', 'affix': ''}
+{'word': 'musbat', 'pos': 'NOUN', 'root': 'musbat', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'manfiy', 'pos': 'NOUN', 'root': 'ma', 'affix': 'nfiy'}
+{'word': 'zaryadli', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'li'}
+{'word': 'zarralar', 'pos': 'NOUN', 'root': 'zarra', 'affix': 'lar'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'protonlar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kiradi', 'pos': 'VERB', 'root': 'kir', 'affix': 'adi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'u', 'pos': 'PRON', 'root': 'u', 'affix': ''}
+{'word': 'qarama-qarshi', 'pos': 'ADJ', 'root': 'qarama-qarshi', 'affix': ''}
+{'word': 'xossali', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'li'}
+{'word': 'zarralar', 'pos': 'NOUN', 'root': 'zarra', 'affix': 'lar'}
+{'word': 'to‘plamidan', 'pos': 'NOUN', 'root': 'to‘plam', 'affix': 'idan'}
+{'word': 'iborat', 'pos': 'NOUN', 'root': 'iborat', 'affix': ''}
+{'word': 'Proton', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ney', 'pos': 'PRON', 'root': 'ne', 'affix': 'y'}
+{'word': 'tron', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'elek', 'pos': 'NOUN', 'root': 'el', 'affix': 'ek'}
+{'word': 'tron', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'elementar', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementar'}
+{'word': 'zarralar', 'pos': 'NOUN', 'root': 'zarra', 'affix': 'lar'}
+{'word': 'hisoblanib', 'pos': 'VERB', 'root': 'hisoblan', 'affix': 'ib'}
+{'word': 'hozirgi', 'pos': 'ADJ', 'root': 'hozirgi', 'affix': ''}
+{'word': 'kungacha', 'pos': 'NOUN', 'root': 'kun', 'affix': 'gacha'}
+{'word': 'turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'xossalarga', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'larga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'massa', 'pos': 'NOUN', 'root': 'massa', 'affix': ''}
+{'word': 'zar', 'pos': 'NOUN', 'root': 'za', 'affix': 'r'}
+{'word': 'yad', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'b', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ko‘plab', 'pos': 'ADV', 'root': 'ko‘plab', 'affix': ''}
+{'word': 'zar', 'pos': 'NOUN', 'root': 'za', 'affix': 'r'}
+{'word': 'rachalar', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'Biz', 'pos': 'PRON', 'root': 'biz', 'affix': ''}
+{'word': 'ularni', 'pos': 'PRON', 'root': 'ularni', 'affix': ''}
+{'word': 'ko‘ra', 'pos': 'AUX', 'root': 'ko‘ra', 'affix': ''}
+{'word': 'olmasak-da', 'pos': 'NOUN', 'root': 'olmas', 'affix': 'ak-da'}
+{'word': 'ularning', 'pos': 'PRON', 'root': 'ularning', 'affix': ''}
+{'word': 'haqiqatda', 'pos': 'NOUN', 'root': 'haqiqat', 'affix': 'da'}
+{'word': 'mavjudligi', 'pos': 'NOUN', 'root': 'mavjud', 'affix': 'ligi'}
+{'word': 'olimlar', 'pos': 'ADJ', 'root': 'olim', 'affix': 'lar'}
+{'word': 'tajribalarida', 'pos': 'NOUN', 'root': 'tajriba', 'affix': 'larida'}
+{'word': 'aniqlangan', 'pos': 'VERB', 'root': 'aniqlan', 'affix': 'gan'}
+{'word': 'ko‘rsatkichlar', 'pos': 'NOUN', 'root': 'ko‘rsatkich', 'affix': 'lar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'tasdiqlanadi', 'pos': 'VERB', 'root': 'tasdiqlan', 'affix': 'adi'}
+{'word': 'Elementar', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementar'}
+{'word': 'zarralar', 'pos': 'NOUN', 'root': 'zarra', 'affix': 'lar'}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'molekulalar', 'pos': 'NOUN', 'root': 'molekula', 'affix': 'lar'}
+{'word': 'singari', 'pos': 'AUX', 'root': 'singari', 'affix': ''}
+{'word': 'materiya', 'pos': 'NOUN', 'root': 'materiya', 'affix': ''}
+{'word': 'turlaridir', 'pos': 'VERB', 'root': 'tur', 'affix': 'laridir'}
+{'word': 'Atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'tuzilishini', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishini'}
+{'word': 'o‘rganish', 'pos': 'VERB', 'root': 'o‘rganish', 'affix': ''}
+{'word': 'shuni', 'pos': 'PRON', 'root': 'shu', 'affix': 'ni'}
+{'word': 'ko‘rsatdiki', 'pos': 'VERB', 'root': 'ko‘rsat', 'affix': 'diki'}
+{'word': 'dav', 'pos': 'NOUN', 'root': 'dav', 'affix': ''}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'riy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'sistemada', 'pos': 'NOUN', 'root': 'sistema', 'affix': 'da'}
+{'word': 'elementlar', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementlar'}
+{'word': 'atomlarning', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlarning'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'pog‘onalari', 'pos': 'NOUN', 'root': 'po', 'affix': 'g‘onalari'}
+{'word': 'tuzilishiga', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishiga'}
+{'word': 'mos', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ravishda', 'pos': 'NOUN', 'root': 'ravish', 'affix': 'da'}
+{'word': 'ma‘lum', 'pos': 'ADJ', 'root': 'ma‘lum', 'affix': ''}
+{'word': 'tartibda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'joylashadi', 'pos': 'VERB', 'root': 'joylash', 'affix': 'adi'}
+{'word': 'Qo‘zg‘almagan', 'pos': 'VERB', 'root': 'qo‘zg‘al', 'affix': 'magan'}
+{'word': 'holatda', 'pos': 'NOUN', 'root': 'holat', 'affix': 'da'}
+{'word': 'atomning', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mning'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'tuzilishi', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishi'}
+{'word': 'undagi', 'pos': 'PRON', 'root': 'unda', 'affix': 'gi'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'belgilanadi', 'pos': 'VERB', 'root': 'belgilan', 'affix': 'adi'}
+{'word': 'Bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'energiyasi', 'pos': 'NOUN', 'root': 'energiya', 'affix': 'si'}
+{'word': 'minimal', 'pos': 'VERB', 'root': 'min', 'affix': 'imal'}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'orbitallarni', 'pos': 'NOUN', 'root': 'orbital', 'affix': 'larni'}
+{'word': 'egallaydi', 'pos': 'VERB', 'root': 'egalla', 'affix': 'ydi'}
+{'word': 'Elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'soni', 'pos': 'NOUN', 'root': 'son', 'affix': 'i'}
+{'word': 'yadro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'zar', 'pos': 'NOUN', 'root': 'za', 'affix': 'r'}
+{'word': 'yadiga', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'teng', 'pos': 'ADV', 'root': 'teng', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Shunday', 'pos': 'ADV', 'root': 'shunday', 'affix': ''}
+{'word': 'qilib', 'pos': 'VERB', 'root': 'qil', 'affix': 'ib'}
+{'word': 'aynan', 'pos': 'ADV', 'root': 'aynan', 'affix': ''}
+{'word': 'yadro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'zar', 'pos': 'NOUN', 'root': 'za', 'affix': 'r'}
+{'word': 'yadi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'atomning', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mning'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'tuzilishini', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishini'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'shu', 'pos': 'PRON', 'root': 'shu', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'birgalikda', 'pos': 'ADV', 'root': 'birgalikda', 'affix': ''}
+{'word': 'element', 'pos': 'NOUN', 'root': 'el', 'affix': 'ement'}
+{'word': 'xossalarini', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'larini'}
+{'word': 'belgilovchi', 'pos': 'NOUN', 'root': 'belgilovchi', 'affix': ''}
+{'word': 'tavsif', 'pos': 'NOUN', 'root': 'tavsif', 'affix': ''}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'hisoblanadi', 'pos': 'VERB', 'root': 'hisoblan', 'affix': 'adi'}
+{'word': 'Bundan', 'pos': 'PRON', 'root': 'bundan', 'affix': ''}
+{'word': 'davriy', 'pos': 'NOUN', 'root': 'davr', 'affix': 'iy'}
+{'word': 'qonunning', 'pos': 'NOUN', 'root': 'qonun', 'affix': 'ning'}
+{'word': 'quyidagi', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'dagi'}
+{'word': 'ta‘rifi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kelib', 'pos': 'VERB', 'root': 'kel', 'affix': 'ib'}
+{'word': 'chiqadi', 'pos': 'VERB', 'root': 'chiq', 'affix': 'adi'}
+{'word': 'Davr', 'pos': 'NOUN', 'root': 'davr', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'guruhlarda', 'pos': 'NOUN', 'root': 'guruh', 'affix': 'larda'}
+{'word': 'elementlar', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementlar'}
+{'word': 'xossalarining', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'larining'}
+{'word': 'o‘zgarishi', 'pos': 'VERB', 'root': 'o‘zgarish', 'affix': 'i'}
+{'word': 'Atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'tuzilishining', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishining'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'nazariyasi', 'pos': 'NOUN', 'root': 'nazariya', 'affix': 'si'}
+{'word': 'elementlar', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementlar'}
+{'word': 'xossalarining', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'larining'}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'tuzilishi', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishi'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'davriy', 'pos': 'NOUN', 'root': 'davr', 'affix': 'iy'}
+{'word': 'sistemadagi', 'pos': 'NOUN', 'root': 'sistema', 'affix': 'dagi'}
+{'word': 'o‘rniga', 'pos': 'NOUN', 'root': 'o‘rniga', 'affix': ''}
+{'word': 'bog‘liq', 'pos': 'NOUN', 'root': 'bog‘', 'affix': 'liq'}
+{'word': 'ravishda', 'pos': 'NOUN', 'root': 'ravish', 'affix': 'da'}
+{'word': 'o‘zgarishini', 'pos': 'VERB', 'root': 'o‘zgarish', 'affix': 'ini'}
+{'word': 'izohlab', 'pos': 'VERB', 'root': 'izohla', 'affix': 'b'}
+{'word': 'berdi', 'pos': 'NOUN', 'root': 'berdi', 'affix': ''}
+{'word': 'Bu', 'pos': 'PRON', 'root': 'bu', 'affix': ''}
+{'word': 'nazariyaga', 'pos': 'NOUN', 'root': 'nazariya', 'affix': 'ga'}
+{'word': 'ko‘ra', 'pos': 'AUX', 'root': 'ko‘ra', 'affix': ''}
+{'word': 'kimyoviy', 'pos': 'NOUN', 'root': 'kimyo', 'affix': 'viy'}
+{'word': 'reaksiyalar', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'lar'}
+{'word': 'asosida', 'pos': 'NOUN', 'root': 'asos', 'affix': 'ida'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'munosabatlar', 'pos': 'NOUN', 'root': 'munosabat', 'affix': 'lar'}
+{'word': 'atomlar', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlar'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'pog‘onalarining', 'pos': 'NOUN', 'root': 'po', 'affix': 'g‘onalarining'}
+{'word': 'qayta', 'pos': 'VERB', 'root': 'qayt', 'affix': 'a'}
+{'word': 'qurilishi', 'pos': 'VERB', 'root': 'quril', 'affix': 'ishi'}
+{'word': 'jarayonlari', 'pos': 'NOUN', 'root': 'jarayon', 'affix': 'lari'}
+{'word': 'yotadi', 'pos': 'VERB', 'root': 'yot', 'affix': 'adi'}
+{'word': 'Bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'asosan', 'pos': 'ADV', 'root': 'asosan', 'affix': ''}
+{'word': 'tashqi', 'pos': 'ADJ', 'root': 'tashqi', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'qavatidagi', 'pos': 'NOUN', 'root': 'qavat', 'affix': 'idagi'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'valent', 'pos': 'NOUN', 'root': 'val', 'affix': 'ent'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'ishtirok', 'pos': 'NOUN', 'root': 'ishtirok', 'affix': ''}
+{'word': 'etadi', 'pos': 'VERB', 'root': 'et', 'affix': 'adi'}
+{'word': 'Masalan', 'pos': 'MOD', 'root': 'masalan', 'affix': ''}
+{'word': 'uglerod', 'pos': 'NOUN', 'root': 'uglerod', 'affix': ''}
+{'word': 'atomi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mi'}
+{'word': 'tashqi', 'pos': 'ADJ', 'root': 'tashqi', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'qavatining', 'pos': 'NOUN', 'root': 'qavat', 'affix': 'ining'}
+{'word': 'tuzilishi', 'pos': 'VERB', 'root': 'tuzil', 'affix': 'ishi'}
+{'word': 's2p2', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ko‘rinishida', 'pos': 'VERB', 'root': 'ko‘rinish', 'affix': 'ida'}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Qo‘zg‘algan', 'pos': 'VERB', 'root': 'qo‘zg‘al', 'affix': 'gan'}
+{'word': 'holatda', 'pos': 'NOUN', 'root': 'holat', 'affix': 'da'}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 's1', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'p3', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ko‘rinishga', 'pos': 'VERB', 'root': 'ko‘rinish', 'affix': 'ga'}
+{'word': 'o‘tadi', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'di'}
+{'word': 'Maksimal', 'pos': 'NOUN', 'root': 'maksim', 'affix': 'al'}
+{'word': 'to‘lgan', 'pos': 'VERB', 'root': 'to‘l', 'affix': 'gan'}
+{'word': 'qavatlar', 'pos': 'NOUN', 'root': 'qavat', 'affix': 'lar'}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'barqaror', 'pos': 'ADJ', 'root': 'barqaror', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Bunday', 'pos': 'ADV', 'root': 'bunday', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'qavatlar', 'pos': 'NOUN', 'root': 'qavat', 'affix': 'lar'}
+{'word': 'tugallangan', 'pos': 'VERB', 'root': 'tugallan', 'affix': 'gan'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'pog‘ona', 'pos': 'NOUN', 'root': 'po', 'affix': 'g‘ona'}
+{'word': 'deb', 'pos': 'VERB', 'root': 'deb', 'affix': ''}
+{'word': 'ataladi', 'pos': 'VERB', 'root': 'atala', 'affix': 'di'}
+{'word': 'bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'tashqi', 'pos': 'ADJ', 'root': 'tashqi', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'pog‘ona', 'pos': 'NOUN', 'root': 'po', 'affix': 'g‘ona'}
+{'word': 's2p6', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': '8', 'pos': 'NUM', 'root': '8', 'affix': 'null'}
+{'word': 'ta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'konfiguratsiyasiga', 'pos': 'NOUN', 'root': 'kon', 'affix': 'figuratsiyasiga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'He', 'pos': 'INTJ', 'root': 'he', 'affix': ''}
+{'word': 'dan', 'pos': 'NOUN', 'root': 'dan', 'affix': ''}
+{'word': 'tashqari', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'barcha', 'pos': 'NOUN', 'root': 'bar', 'affix': 'cha'}
+{'word': 'inert', 'pos': 'VERB', 'root': 'in', 'affix': 'ert'}
+{'word': 'gazlar', 'pos': 'NOUN', 'root': 'gaz', 'affix': 'lar'}
+{'word': 'Shuning', 'pos': 'PRON', 'root': 'shu', 'affix': 'ning'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'inert', 'pos': 'VERB', 'root': 'in', 'affix': 'ert'}
+{'word': 'gazlar', 'pos': 'NOUN', 'root': 'gaz', 'affix': 'lar'}
+{'word': 'juda', 'pos': 'ADV', 'root': 'juda', 'affix': ''}
+{'word': 'qiyinchilik', 'pos': 'NOUN', 'root': 'qiyinchilik', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'reaksiyaga', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'ga'}
+{'word': 'kirishadi', 'pos': 'VERB', 'root': 'kirish', 'affix': 'adi'}
+{'word': 'Metallar', 'pos': 'NOUN', 'root': 'metall', 'affix': 'ar'}
+{'word': 'atomlarining', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlarining'}
+{'word': 'tashqi', 'pos': 'ADJ', 'root': 'tashqi', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'pog‘onalarida', 'pos': 'NOUN', 'root': 'po', 'affix': 'g‘onalarida'}
+{'word': 'odatda', 'pos': 'ADV', 'root': 'odatda', 'affix': ''}
+{'word': '4', 'pos': 'NUM', 'root': '4', 'affix': 'null'}
+{'word': 'tagacha', 'pos': 'NOUN', 'root': 'tag', 'affix': 'acha'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'yadro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'kuchsiz', 'pos': 'ADJ', 'root': 'kuchsiz', 'affix': ''}
+{'word': 'bog‘langan', 'pos': 'VERB', 'root': 'bog‘lan', 'affix': 'gan'}
+{'word': 'Ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'kimyoviy', 'pos': 'NOUN', 'root': 'kimyo', 'affix': 'viy'}
+{'word': 'reaksiyaga', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'ga'}
+{'word': 'kirishganda', 'pos': 'VERB', 'root': 'kirish', 'affix': 'ganda'}
+{'word': 'valent', 'pos': 'NOUN', 'root': 'val', 'affix': 'ent'}
+{'word': 'elektronlarini', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'larini'}
+{'word': 'yo‘qotadi', 'pos': 'VERB', 'root': 'yo‘qot', 'affix': 'adi'}
+{'word': 'Ishqoriy', 'pos': 'NOUN', 'root': 'ishqor', 'affix': 'iy'}
+{'word': 'metallar', 'pos': 'NOUN', 'root': 'metall', 'affix': 'ar'}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'metallarga', 'pos': 'NOUN', 'root': 'metall', 'affix': 'arga'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'kuchli', 'pos': 'ADJ', 'root': 'kuchli', 'affix': ''}
+{'word': 'metallik', 'pos': 'NOUN', 'root': 'metall', 'affix': 'ik'}
+{'word': 'xossalariga', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'lariga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'deb', 'pos': 'VERB', 'root': 'deb', 'affix': ''}
+{'word': 'qabul', 'pos': 'NOUN', 'root': 'qabul', 'affix': ''}
+{'word': 'qilinadi', 'pos': 'VERB', 'root': 'qilin', 'affix': 'adi'}
+{'word': 'Chunki', 'pos': 'CONJ', 'root': 'chunki', 'affix': ''}
+{'word': 'ular', 'pos': 'PRON', 'root': 'ular', 'affix': ''}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'metallarga', 'pos': 'NOUN', 'root': 'metall', 'affix': 'arga'}
+{'word': 'nisbatan', 'pos': 'ADV', 'root': 'nisbatan', 'affix': ''}
+{'word': 'tashqi', 'pos': 'ADJ', 'root': 'tashqi', 'affix': ''}
+{'word': 'valent', 'pos': 'NOUN', 'root': 'val', 'affix': 'ent'}
+{'word': 'elektronlarini', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'larini'}
+{'word': 'oson', 'pos': 'ADJ', 'root': 'oson', 'affix': ''}
+{'word': 'yo‘qotadi', 'pos': 'VERB', 'root': 'yo‘qot', 'affix': 'adi'}
+{'word': 'Elementlarning', 'pos': 'NOUN', 'root': 'el', 'affix': 'ementlarning'}
+{'word': 'metallik', 'pos': 'NOUN', 'root': 'metall', 'affix': 'ik'}
+{'word': 'xossalarini', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'larini'}
+{'word': 'solishtirish', 'pos': 'VERB', 'root': 'solishtir', 'affix': 'ish'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'odatda', 'pos': 'ADV', 'root': 'odatda', 'affix': ''}
+{'word': 'maxsus', 'pos': 'NOUN', 'root': 'maxsus', 'affix': ''}
+{'word': 'kattalik', 'pos': 'NOUN', 'root': 'kattalik', 'affix': ''}
+{'word': 'ionlanish', 'pos': 'VERB', 'root': 'ion', 'affix': 'lanish'}
+{'word': 'energiyasidan', 'pos': 'NOUN', 'root': 'energiya', 'affix': 'sidan'}
+{'word': 'foydalaniladi', 'pos': 'VERB', 'root': 'foydalanil', 'affix': 'adi'}
+{'word': 'Metallmaslar', 'pos': 'NOUN', 'root': 'metall', 'affix': 'maslar'}
+{'word': 'atomlari', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlari'}
+{'word': 'tashqi', 'pos': 'ADJ', 'root': 'tashqi', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'qavatida', 'pos': 'NOUN', 'root': 'qavat', 'affix': 'ida'}
+{'word': 'yadro', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'mustahkam', 'pos': 'ADJ', 'root': 'mustahkam', 'affix': ''}
+{'word': 'bog‘langan', 'pos': 'VERB', 'root': 'bog‘lan', 'affix': 'gan'}
+{'word': 'to‘r', 'pos': 'NOUN', 'root': 'to‘r', 'affix': ''}
+{'word': 'tta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'undan', 'pos': 'PRON', 'root': 'undan', 'affix': ''}
+{'word': 'or', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'tiq', 'pos': 'VERB', 'root': 'tiq', 'affix': ''}
+{'word': 'sakkiztagacha', 'pos': 'NUM', 'root': 'sakkiz', 'affix': 'tagacha'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'mavjud', 'pos': 'NOUN', 'root': 'mavjud', 'affix': ''}
+{'word': 'Metallmas', 'pos': 'NOUN', 'root': 'metall', 'affix': 'mas'}
+{'word': 'atomi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mi'}
+{'word': 'reaksiyaga', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'ga'}
+{'word': 'kirishayotganda', 'pos': 'VERB', 'root': 'kirish', 'affix': 'ayotganda'}
+{'word': 'odatda', 'pos': 'ADV', 'root': 'odatda', 'affix': ''}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'biriktirib', 'pos': 'VERB', 'root': 'biriktir', 'affix': 'ib'}
+{'word': 'oladi', 'pos': 'VERB', 'root': 'ol', 'affix': 'adi'}
+{'word': 'Metallmaslik', 'pos': 'NOUN', 'root': 'metall', 'affix': 'maslik'}
+{'word': 'xossalarini', 'pos': 'NOUN', 'root': 'xossa', 'affix': 'larini'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'biriktirib', 'pos': 'VERB', 'root': 'biriktir', 'affix': 'ib'}
+{'word': 'olish', 'pos': 'VERB', 'root': 'olish', 'affix': ''}
+{'word': 'imkoniyatini', 'pos': 'NOUN', 'root': 'imkon', 'affix': 'iyatini'}
+{'word': 'solishtirish', 'pos': 'VERB', 'root': 'solishtir', 'affix': 'ish'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'maxsus', 'pos': 'NOUN', 'root': 'maxsus', 'affix': ''}
+{'word': 'kattalik', 'pos': 'NOUN', 'root': 'kattalik', 'affix': ''}
+{'word': 'E', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'elektronga', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'ga'}
+{'word': 'moyillik', 'pos': 'NOUN', 'root': 'moyillik', 'affix': ''}
+{'word': 'qo‘llanadi', 'pos': 'VERB', 'root': 'qo‘llan', 'affix': 'adi'}
+{'word': 'Kuchli', 'pos': 'ADJ', 'root': 'kuchli', 'affix': ''}
+{'word': 'elektroman', 'pos': 'ADJ', 'root': 'elektr', 'affix': 'oman'}
+{'word': 'fiy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'element', 'pos': 'NOUN', 'root': 'el', 'affix': 'ement'}
+{'word': 'atomi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mi'}
+{'word': 'ftor', 'pos': 'NOUN', 'root': 'ftor', 'affix': ''}
+{'word': 'kislorod', 'pos': 'NOUN', 'root': 'kislorod', 'affix': ''}
+{'word': 'azot', 'pos': 'NOUN', 'root': 'azot', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'bog‘langan', 'pos': 'VERB', 'root': 'bog‘lan', 'affix': 'gan'}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'atomi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mi'}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'kuchli', 'pos': 'ADJ', 'root': 'kuchli', 'affix': ''}
+{'word': 'elektromanfiy', 'pos': 'ADJ', 'root': 'elektr', 'affix': 'omanfiy'}
+{'word': 'element', 'pos': 'NOUN', 'root': 'el', 'affix': 'ement'}
+{'word': 'atomi', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mi'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'yana', 'pos': 'ADV', 'root': 'yana', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'bog‘', 'pos': 'NOUN', 'root': 'bog‘', 'affix': ''}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'qilish', 'pos': 'VERB', 'root': 'qilish', 'affix': ''}
+{'word': 'qobiliyatiga', 'pos': 'NOUN', 'root': 'qobil', 'affix': 'iyatiga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'Masalan', 'pos': 'MOD', 'root': 'masalan', 'affix': ''}
+{'word': 'suv', 'pos': 'NOUN', 'root': 'suv', 'affix': ''}
+{'word': 'molekulasida', 'pos': 'NOUN', 'root': 'molekula', 'affix': 'sida'}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'kuchli', 'pos': 'ADJ', 'root': 'kuchli', 'affix': ''}
+{'word': 'elektromanfiy', 'pos': 'ADJ', 'root': 'elektr', 'affix': 'omanfiy'}
+{'word': 'kislorod', 'pos': 'NOUN', 'root': 'kislorod', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'qutbli', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kovalent', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bog‘', 'pos': 'NOUN', 'root': 'bog‘', 'affix': ''}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'bog‘langan', 'pos': 'VERB', 'root': 'bog‘lan', 'affix': 'gan'}
+{'word': 'Umumiy', 'pos': 'NOUN', 'root': 'umum', 'affix': 'iy'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'juft', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kislorod', 'pos': 'NOUN', 'root': 'kislorod', 'affix': ''}
+{'word': 'tomonga', 'pos': 'AUX', 'root': 'tomon', 'affix': 'ga'}
+{'word': 'siljigan', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'musbat', 'pos': 'NOUN', 'root': 'musbat', 'affix': ''}
+{'word': 'zaryadlangan', 'pos': 'VERB', 'root': 'zaryadlan', 'affix': 'gan'}
+{'word': 'kislorod', 'pos': 'NOUN', 'root': 'kislorod', 'affix': ''}
+{'word': 'esa', 'pos': 'VERB', 'root': 'es', 'affix': 'a'}
+{'word': 'manfiy', 'pos': 'NOUN', 'root': 'ma', 'affix': 'nfiy'}
+{'word': 'zaryadlangan', 'pos': 'VERB', 'root': 'zaryadlan', 'affix': 'gan'}
+{'word': 'Suvning', 'pos': 'NOUN', 'root': 'suv', 'affix': 'ning'}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'molekulasidagi', 'pos': 'NOUN', 'root': 'molekula', 'affix': 'sidagi'}
+{'word': 'musbat', 'pos': 'NOUN', 'root': 'musbat', 'affix': ''}
+{'word': 'zaryadli', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'li'}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'suv', 'pos': 'NOUN', 'root': 'suv', 'affix': ''}
+{'word': 'molekulasidagi', 'pos': 'NOUN', 'root': 'molekula', 'affix': 'sidagi'}
+{'word': 'man', 'pos': 'NOUN', 'root': 'ma', 'affix': 'n'}
+{'word': 'fiy', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'zaryadlangan', 'pos': 'VERB', 'root': 'zaryadlan', 'affix': 'gan'}
+{'word': 'kislorodga', 'pos': 'NOUN', 'root': 'kislorod', 'affix': 'ga'}
+{'word': 'tortiladi', 'pos': 'VERB', 'root': 'tortil', 'affix': 'adi'}
+{'word': 'Ikki', 'pos': 'NUM', 'root': 'ikki', 'affix': ''}
+{'word': 'kislorod', 'pos': 'NOUN', 'root': 'kislorod', 'affix': ''}
+{'word': 'atomlari', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlari'}
+{'word': 'orasidagi', 'pos': 'AUX', 'root': 'orasida', 'affix': 'gi'}
+{'word': 'to‘g‘ri', 'pos': 'ADJ', 'root': 'to‘g‘ri', 'affix': ''}
+{'word': 'chiziq', 'pos': 'NOUN', 'root': 'chiziq', 'affix': ''}
+{'word': 'bo‘ylab', 'pos': 'ADV', 'root': 'bo‘ylab', 'affix': ''}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'orqali', 'pos': 'NOUN', 'root': 'orqa', 'affix': 'li'}
+{'word': 'bog‘', 'pos': 'NOUN', 'root': 'bog‘', 'affix': ''}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Suv', 'pos': 'NOUN', 'root': 'suv', 'affix': ''}
+{'word': 'suyuq', 'pos': 'VERB', 'root': 'suy', 'affix': 'uq'}
+{'word': 'ammiak', 'pos': 'NOUN', 'root': 'ammiak', 'affix': ''}
+{'word': 'suyuq', 'pos': 'VERB', 'root': 'suy', 'affix': 'uq'}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'ftorid', 'pos': 'NOUN', 'root': 'ftor', 'affix': 'id'}
+{'word': 'ko‘plab', 'pos': 'ADV', 'root': 'ko‘plab', 'affix': ''}
+{'word': 'organik', 'pos': 'NOUN', 'root': 'organ', 'affix': 'ik'}
+{'word': 'birikmalar', 'pos': 'NOUN', 'root': 'birikma', 'affix': 'lar'}
+{'word': 'vodorod', 'pos': 'NOUN', 'root': 'vodorod', 'affix': ''}
+{'word': 'bog‘iga', 'pos': 'NOUN', 'root': 'bog‘', 'affix': 'iga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'Metallarga', 'pos': 'NOUN', 'root': 'metall', 'affix': 'arga'}
+{'word': 'eng', 'pos': 'VERB', 'root': 'en', 'affix': 'g'}
+{'word': 'quyi', 'pos': 'ADJ', 'root': 'quyi', 'affix': ''}
+{'word': 'ionlanish', 'pos': 'VERB', 'root': 'ion', 'affix': 'lanish'}
+{'word': 'energiyasi', 'pos': 'NOUN', 'root': 'energiya', 'affix': 'si'}
+{'word': 'xos', 'pos': 'ADJ', 'root': 'xos', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'ularda', 'pos': 'PRON', 'root': 'ularda', 'affix': ''}
+{'word': 'harakatchan', 'pos': 'ADJ', 'root': 'harakatchan', 'affix': ''}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'miqdori', 'pos': 'NOUN', 'root': 'miqdor', 'affix': 'i'}
+{'word': 'ko‘p', 'pos': 'ADV', 'root': 'ko‘p', 'affix': ''}
+{'word': 'Metall', 'pos': 'NOUN', 'root': 'metall', 'affix': ''}
+{'word': 'kristallari', 'pos': 'NOUN', 'root': 'kristall', 'affix': 'ari'}
+{'word': 'strukturasida', 'pos': 'NOUN', 'root': 'st', 'affix': 'rukturasida'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'atomlardan', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlardan'}
+{'word': 'oson', 'pos': 'ADJ', 'root': 'oson', 'affix': ''}
+{'word': 'uzilib', 'pos': 'VERB', 'root': 'uzil', 'affix': 'ib'}
+{'word': 'elektron', 'pos': 'NOUN', 'root': 'elektron', 'affix': ''}
+{'word': 'gazi', 'pos': 'NOUN', 'root': 'gaz', 'affix': 'i'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'musbat', 'pos': 'NOUN', 'root': 'musbat', 'affix': ''}
+{'word': 'zaryadli', 'pos': 'NOUN', 'root': 'zaryad', 'affix': 'li'}
+{'word': 'metall', 'pos': 'NOUN', 'root': 'metall', 'affix': ''}
+{'word': 'ionlari', 'pos': 'NOUN', 'root': 'ion', 'affix': 'lari'}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'elektronlar', 'pos': 'NOUN', 'root': 'elektron', 'affix': 'lar'}
+{'word': 'butun', 'pos': 'NUM', 'root': 'butun', 'affix': ''}
+{'word': 'kristall', 'pos': 'NOUN', 'root': 'kristall', 'affix': ''}
+{'word': 'bo‘yicha', 'pos': 'AUX', 'root': 'bo‘yicha', 'affix': ''}
+{'word': 'umumiy', 'pos': 'NOUN', 'root': 'umum', 'affix': 'iy'}
+{'word': 'hisoblanadi', 'pos': 'VERB', 'root': 'hisoblan', 'affix': 'adi'}
+{'word': 'Metallarning', 'pos': 'NOUN', 'root': 'metall', 'affix': 'arning'}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazish', 'pos': 'VERB', 'root': 'o‘tkazish', 'affix': ''}
+{'word': 'xususiyati', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'i'}
+{'word': 'borligini', 'pos': 'NOUN', 'root': 'bor', 'affix': 'ligini'}
+{'word': 'siz', 'pos': 'VERB', 'root': 'siz', 'affix': ''}
+{'word': 'yaxshi', 'pos': 'ADJ', 'root': 'yaxshi', 'affix': ''}
+{'word': 'bilasiz', 'pos': 'VERB', 'root': 'bil', 'affix': 'asiz'}
+{'word': 'Boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'moddalar', 'pos': 'NOUN', 'root': 'modda', 'affix': 'lar'}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazadimi', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'adimi'}
+{'word': 'Buni', 'pos': 'PRON', 'root': 'bu', 'affix': 'ni'}
+{'word': 'qanday', 'pos': 'ADV', 'root': 'qanday', 'affix': ''}
+{'word': 'bilish', 'pos': 'VERB', 'root': 'bil', 'affix': 'ish'}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Quyidagi', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'dagi'}
+{'word': 'tajribani', 'pos': 'NOUN', 'root': 'tajriba', 'affix': 'ni'}
+{'word': 'o‘tkazish', 'pos': 'VERB', 'root': 'o‘tkazish', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'turli', 'pos': 'VERB', 'root': 'tur', 'affix': 'li'}
+{'word': 'moddalarning', 'pos': 'NOUN', 'root': 'modda', 'affix': 'larning'}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazish', 'pos': 'VERB', 'root': 'o‘tkazish', 'affix': ''}
+{'word': 'xususiyati', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'i'}
+{'word': 'haqida', 'pos': 'NOUN', 'root': 'haqida', 'affix': ''}
+{'word': 'bilib', 'pos': 'VERB', 'root': 'bil', 'affix': 'ib'}
+{'word': 'olamiz', 'pos': 'NOUN', 'root': 'olam', 'affix': 'iz'}
+{'word': '1-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'rasmda', 'pos': 'NOUN', 'root': 'rasm', 'affix': 'da'}
+{'word': 'tasvirlanganidek', 'pos': 'VERB', 'root': 'tasvirlan', 'affix': 'ganidek'}
+{'word': 'asbob', 'pos': 'NOUN', 'root': 'asbob', 'affix': ''}
+{'word': 'yig‘ib', 'pos': 'NOUN', 'root': 'yi', 'affix': 'g‘ib'}
+{'word': 'olamiz', 'pos': 'NOUN', 'root': 'olam', 'affix': 'iz'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'asbob', 'pos': 'NOUN', 'root': 'asbob', 'affix': ''}
+{'word': 'elektrodlarini', 'pos': 'NOUN', 'root': 'elektrod', 'affix': 'larini'}
+{'word': 'quruq', 'pos': 'ADJ', 'root': 'quruq', 'affix': ''}
+{'word': 'osh', 'pos': 'VERB', 'root': 'osh', 'affix': ''}
+{'word': 'tuziga', 'pos': 'VERB', 'root': 'tuz', 'affix': 'iga'}
+{'word': 'qo‘yamiz', 'pos': 'VERB', 'root': 'qo‘y', 'affix': 'amiz'}
+{'word': 'Lampochka', 'pos': 'NOUN', 'root': 'lampochka', 'affix': ''}
+{'word': 'yonmaydi', 'pos': 'VERB', 'root': 'yon', 'affix': 'maydi'}
+{'word': 'Asbobning', 'pos': 'NOUN', 'root': 'asbob', 'affix': 'ning'}
+{'word': 'elektrodlarini', 'pos': 'NOUN', 'root': 'elektrod', 'affix': 'larini'}
+{'word': 'distillangan', 'pos': 'VERB', 'root': 'distillan', 'affix': 'gan'}
+{'word': 'suvga', 'pos': 'NOUN', 'root': 'suv', 'affix': 'ga'}
+{'word': 'tushiramiz', 'pos': 'VERB', 'root': 'tushir', 'affix': 'amiz'}
+{'word': 'bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'ham', 'pos': 'NOUN', 'root': 'ham', 'affix': ''}
+{'word': 'lampochka', 'pos': 'NOUN', 'root': 'lampochka', 'affix': ''}
+{'word': 'yonmadi', 'pos': 'VERB', 'root': 'yon', 'affix': 'madi'}
+{'word': 'Demak', 'pos': 'MOD', 'root': 'demak', 'affix': ''}
+{'word': 'quruq', 'pos': 'ADJ', 'root': 'quruq', 'affix': ''}
+{'word': 'osh', 'pos': 'VERB', 'root': 'osh', 'affix': ''}
+{'word': 'tuzi', 'pos': 'VERB', 'root': 'tuz', 'affix': 'i'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'distillangan', 'pos': 'VERB', 'root': 'distillan', 'affix': 'gan'}
+{'word': 'suv', 'pos': 'NOUN', 'root': 'suv', 'affix': ''}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazmaydi', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'maydi'}
+{'word': 'Osh', 'pos': 'VERB', 'root': 'osh', 'affix': ''}
+{'word': 'tuzini', 'pos': 'VERB', 'root': 'tuz', 'affix': 'ini'}
+{'word': 'suvda', 'pos': 'NOUN', 'root': 'suv', 'affix': 'da'}
+{'word': 'eritib', 'pos': 'VERB', 'root': 'erit', 'affix': 'ib'}
+{'word': 'eritmaga', 'pos': 'NOUN', 'root': 'eritma', 'affix': 'ga'}
+{'word': 'asbobning', 'pos': 'NOUN', 'root': 'asbob', 'affix': 'ning'}
+{'word': 'elektrodlarini', 'pos': 'NOUN', 'root': 'elektrod', 'affix': 'larini'}
+{'word': 'tushiramiz', 'pos': 'VERB', 'root': 'tushir', 'affix': 'amiz'}
+{'word': 'Bunda', 'pos': 'PRON', 'root': 'bunda', 'affix': ''}
+{'word': 'lampochka', 'pos': 'NOUN', 'root': 'lampochka', 'affix': ''}
+{'word': 'yonadi', 'pos': 'VERB', 'root': 'yon', 'affix': 'adi'}
+{'word': 'Demak', 'pos': 'MOD', 'root': 'demak', 'affix': ''}
+{'word': 'osh', 'pos': 'VERB', 'root': 'osh', 'affix': ''}
+{'word': 'tuzining', 'pos': 'VERB', 'root': 'tuz', 'affix': 'ining'}
+{'word': 'suvdagi', 'pos': 'NOUN', 'root': 'suv', 'affix': 'dagi'}
+{'word': 'eritmasi', 'pos': 'NOUN', 'root': 'eritma', 'affix': 'si'}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazadi', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'adi'}
+{'word': 'Istalgan', 'pos': 'VERB', 'root': 'istal', 'affix': 'gan'}
+{'word': 'moddani', 'pos': 'NOUN', 'root': 'modda', 'affix': 'ni'}
+{'word': 'shu', 'pos': 'PRON', 'root': 'shu', 'affix': ''}
+{'word': 'yo‘l', 'pos': 'NOUN', 'root': 'yo‘l', 'affix': ''}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'elek', 'pos': 'NOUN', 'root': 'el', 'affix': 'ek'}
+{'word': 'tr', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazish', 'pos': 'VERB', 'root': 'o‘tkazish', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'o‘tkazmaslik', 'pos': 'NOUN', 'root': 'o‘tkaz', 'affix': 'maslik'}
+{'word': 'xususiyatini', 'pos': 'NOUN', 'root': 'xususiyat', 'affix': 'ini'}
+{'word': 'tekshirib', 'pos': 'VERB', 'root': 'tekshir', 'affix': 'ib'}
+{'word': 'ko‘rish', 'pos': 'VERB', 'root': 'ko‘rish', 'affix': ''}
+{'word': 'mumkin', 'pos': 'VERB', 'root': 'mumkin', 'affix': ''}
+{'word': 'Moddalar', 'pos': 'NOUN', 'root': 'modda', 'affix': 'lar'}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazish', 'pos': 'VERB', 'root': 'o‘tkazish', 'affix': ''}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'o‘tkazmasligiga', 'pos': 'NOUN', 'root': 'o‘tkaz', 'affix': 'masligiga'}
+{'word': 'qarab', 'pos': 'AUX', 'root': 'qarab', 'affix': ''}
+{'word': 'ikki', 'pos': 'NUM', 'root': 'ikki', 'affix': ''}
+{'word': 'guruh', 'pos': 'NOUN', 'root': 'guruh', 'affix': ''}
+{'word': 'elektrolitlar', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': 'lar'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'noelektrolitlarga', 'pos': 'NOUN', 'root': 'noel', 'affix': 'ektrolitlarga'}
+{'word': 'bo‘linadi', 'pos': 'VERB', 'root': 'bo‘lin', 'affix': 'adi'}
+{'word': 'Eritmalari', 'pos': 'NOUN', 'root': 'eritma', 'affix': 'lari'}
+{'word': 'yoki', 'pos': 'CONJ', 'root': 'yoki', 'affix': ''}
+{'word': 'suyuqlanmalari', 'pos': 'VERB', 'root': 'suyuqlan', 'affix': 'malari'}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'o‘tkazadigan', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'adigan'}
+{'word': 'moddalar', 'pos': 'NOUN', 'root': 'modda', 'affix': 'lar'}
+{'word': 'elektrolitlar', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': 'lar'}
+{'word': 'deyiladi', 'pos': 'VERB', 'root': 'deyil', 'affix': 'adi'}
+{'word': 'Elektrolitlarning', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': 'larning'}
+{'word': 'eritmalarida', 'pos': 'NOUN', 'root': 'eritma', 'affix': 'larida'}
+{'word': 'sodir', 'pos': 'NOUN', 'root': 'sodir', 'affix': ''}
+{'word': 'bo‘ladigan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adigan'}
+{'word': 'kimyoviy', 'pos': 'NOUN', 'root': 'kimyo', 'affix': 'viy'}
+{'word': 'reaksiyalar', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'lar'}
+{'word': 'elektrolit', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': ''}
+{'word': 'moddaning', 'pos': 'NOUN', 'root': 'modda', 'affix': 'ning'}
+{'word': 'dissotsiatsiyalanishidan', 'pos': 'VERB', 'root': 'dissotsiatsiyala', 'affix': 'nishidan'}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'ionlar', 'pos': 'NOUN', 'root': 'ion', 'affix': 'lar'}
+{'word': 'ishtirokida', 'pos': 'NOUN', 'root': 'ishtirok', 'affix': 'ida'}
+{'word': 'amalga', 'pos': 'NOUN', 'root': 'amal', 'affix': 'ga'}
+{'word': 'oshadi', 'pos': 'VERB', 'root': 'osha', 'affix': 'di'}
+{'word': 'Ionlar', 'pos': 'NOUN', 'root': 'ion', 'affix': 'lar'}
+{'word': 'orasida', 'pos': 'AUX', 'root': 'orasida', 'affix': ''}
+{'word': 'boradigan', 'pos': 'VERB', 'root': 'bora', 'affix': 'digan'}
+{'word': 'kimyoviy', 'pos': 'NOUN', 'root': 'kimyo', 'affix': 'viy'}
+{'word': 'reaksiyalarning', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'larning'}
+{'word': 'tenglamalarini', 'pos': 'NOUN', 'root': 'tenglama', 'affix': 'larini'}
+{'word': 'tuzishda', 'pos': 'VERB', 'root': 'tuz', 'affix': 'ishda'}
+{'word': 'kuchli', 'pos': 'ADJ', 'root': 'kuchli', 'affix': ''}
+{'word': 'elektrolit', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': ''}
+{'word': 'moddani', 'pos': 'NOUN', 'root': 'modda', 'affix': 'ni'}
+{'word': 'dissotsiatsiyalangan', 'pos': 'VERB', 'root': 'dissotsiatsiyala', 'affix': 'ngan'}
+{'word': 'holda', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kuchsiz', 'pos': 'ADJ', 'root': 'kuchsiz', 'affix': ''}
+{'word': 'elektrolitlar', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': 'lar'}
+{'word': 'suvda', 'pos': 'NOUN', 'root': 'suv', 'affix': 'da'}
+{'word': 'erimaydigan', 'pos': 'VERB', 'root': 'eri', 'affix': 'maydigan'}
+{'word': 'cho‘kma', 'pos': 'NOUN', 'root': 'cho‘kma', 'affix': ''}
+{'word': 'moddalar', 'pos': 'NOUN', 'root': 'modda', 'affix': 'lar'}
+{'word': 'gaz', 'pos': 'NOUN', 'root': 'gaz', 'affix': ''}
+{'word': 'holatga', 'pos': 'NOUN', 'root': 'holat', 'affix': 'ga'}
+{'word': 'o‘tib', 'pos': 'VERB', 'root': 'o‘t', 'affix': 'ib'}
+{'word': 'reaksiya', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': ''}
+{'word': 'muhitidan', 'pos': 'NOUN', 'root': 'muhit', 'affix': 'idan'}
+{'word': 'chiqib', 'pos': 'VERB', 'root': 'chiq', 'affix': 'ib'}
+{'word': 'ketadigan', 'pos': 'VERB', 'root': 'ket', 'affix': 'adigan'}
+{'word': 'moddalarning', 'pos': 'NOUN', 'root': 'modda', 'affix': 'larning'}
+{'word': 'molekulyar', 'pos': 'NOUN', 'root': 'mol', 'affix': 'ekulyar'}
+{'word': 'formulalarini', 'pos': 'NOUN', 'root': 'formula', 'affix': 'larini'}
+{'word': 'yozamiz', 'pos': 'VERB', 'root': 'yoz', 'affix': 'amiz'}
+{'word': 'Elektrolitlarning', 'pos': 'NOUN', 'root': 'elektrolit', 'affix': 'larning'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'eritmalari', 'pos': 'NOUN', 'root': 'eritma', 'affix': 'lari'}
+{'word': 'orasida', 'pos': 'AUX', 'root': 'orasida', 'affix': ''}
+{'word': 'sodir', 'pos': 'NOUN', 'root': 'sodir', 'affix': ''}
+{'word': 'bo‘ladigan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adigan'}
+{'word': 'reaksiyalarni', 'pos': 'NOUN', 'root': 'reaksiya', 'affix': 'larni'}
+{'word': 'quyidagi', 'pos': 'ADJ', 'root': 'quyi', 'affix': 'dagi'}
+{'word': 'guruhlarga', 'pos': 'NOUN', 'root': 'guruh', 'affix': 'larga'}
+{'word': 'bo‘lib', 'pos': 'VERB', 'root': 'bo‘lib', 'affix': ''}
+{'word': 'o‘rganamiz', 'pos': 'VERB', 'root': 'o‘rgan', 'affix': 'amiz'}
+{'word': 'Olmosda', 'pos': 'NOUN', 'root': 'olmos', 'affix': 'da'}
+{'word': 'uglerod', 'pos': 'NOUN', 'root': 'uglerod', 'affix': ''}
+{'word': 'atomlari', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlari'}
+{'word': 'orasidagi', 'pos': 'AUX', 'root': 'orasida', 'affix': 'gi'}
+{'word': 'bog‘', 'pos': 'NOUN', 'root': 'bog‘', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'xil', 'pos': 'NOUN', 'root': 'xi', 'affix': 'l'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'har', 'pos': 'PRON', 'root': 'har', 'affix': ''}
+{'word': 'bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'atom', 'pos': 'NOUN', 'root': 'ato', 'affix': 'm'}
+{'word': 'to‘r', 'pos': 'NOUN', 'root': 'to‘r', 'affix': ''}
+{'word': 'tta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'atomlar', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlar'}
+{'word': 'bilan', 'pos': 'AUX', 'root': 'bilan', 'affix': ''}
+{'word': 'tetraedr', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'uchlariga', 'pos': 'NUM', 'root': 'uch', 'affix': 'lariga'}
+{'word': 'yo‘nalgan', 'pos': 'VERB', 'root': 'yo‘nal', 'affix': 'gan'}
+{'word': 'qutbsiz', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'kovalent', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'bog‘', 'pos': 'NOUN', 'root': 'bog‘', 'affix': ''}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'qiladi', 'pos': 'VERB', 'root': 'qil', 'affix': 'adi'}
+{'word': 'Olmos', 'pos': 'NOUN', 'root': 'olmos', 'affix': ''}
+{'word': 'issiqlikni', 'pos': 'NOUN', 'root': 'issiqlik', 'affix': 'ni'}
+{'word': 'yaxshi', 'pos': 'ADJ', 'root': 'yaxshi', 'affix': ''}
+{'word': 'o‘tkazadi', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'adi'}
+{'word': 'lekin', 'pos': 'CONJ', 'root': 'lekin', 'affix': ''}
+{'word': 'elektr', 'pos': 'ADJ', 'root': 'elektr', 'affix': ''}
+{'word': 'tokini', 'pos': 'CONJ', 'root': 'toki', 'affix': 'ni'}
+{'word': 'deyarli', 'pos': 'ADV', 'root': 'deyarli', 'affix': ''}
+{'word': 'o‘tkazmaydi', 'pos': 'VERB', 'root': 'o‘tkaz', 'affix': 'maydi'}
+{'word': 'Olmosning', 'pos': 'NOUN', 'root': 'olmos', 'affix': 'ning'}
+{'word': 'yirik', 'pos': 'ADJ', 'root': 'yirik', 'affix': ''}
+{'word': 'tiniq', 'pos': 'ADJ', 'root': 'tiniq', 'affix': ''}
+{'word': 'kristallari', 'pos': 'NOUN', 'root': 'kristall', 'affix': 'ari'}
+{'word': 'brilliantlar', 'pos': 'NOUN', 'root': 'brilliant', 'affix': 'lar'}
+{'word': 'holida', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'qay', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ta', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'ishlanib', 'pos': 'VERB', 'root': 'ishlan', 'affix': 'ib'}
+{'word': 'qimmatbaho', 'pos': 'ADJ', 'root': 'qimmatbaho', 'affix': ''}
+{'word': 'zargarlik', 'pos': 'NOUN', 'root': 'zargarlik', 'affix': ''}
+{'word': 'buyumlari', 'pos': 'NOUN', 'root': 'buyum', 'affix': 'lari'}
+{'word': 'tayyorlashda', 'pos': 'VERB', 'root': 'tayyorlash', 'affix': 'da'}
+{'word': 'ishlatiladi', 'pos': 'VERB', 'root': 'ishlatil', 'affix': 'adi'}
+{'word': 'Texnik', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'olmos', 'pos': 'NOUN', 'root': 'olmos', 'affix': ''}
+{'word': 'sunʼiy', 'pos': 'NOUN', 'root': 'sun', 'affix': 'ʼiy'}
+{'word': 'usulda', 'pos': 'NOUN', 'root': 'usul', 'affix': 'da'}
+{'word': 'olinadi', 'pos': 'VERB', 'root': 'olin', 'affix': 'adi'}
+{'word': 'Undan', 'pos': 'PRON', 'root': 'undan', 'affix': ''}
+{'word': 'texnikada', 'pos': 'NOUN', 'root': 'texnika', 'affix': 'da'}
+{'word': 'pardozlovchi', 'pos': 'NOUN', 'root': 'pardozlovchi', 'affix': ''}
+{'word': 'vositalar', 'pos': 'NOUN', 'root': 'vosita', 'affix': 'lar'}
+{'word': 'oyna', 'pos': 'NOUN', 'root': 'oyna', 'affix': ''}
+{'word': 'kesish', 'pos': 'VERB', 'root': 'kes', 'affix': 'ish'}
+{'word': 'metallarga', 'pos': 'NOUN', 'root': 'metall', 'affix': 'arga'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'boshqa', 'pos': 'ADV', 'root': 'boshqa', 'affix': ''}
+{'word': 'qattiq', 'pos': 'ADJ', 'root': 'qattiq', 'affix': ''}
+{'word': 'materiallarga', 'pos': 'NOUN', 'root': 'material', 'affix': 'larga'}
+{'word': 'ishlov', 'pos': 'NOUN', 'root': 'ish', 'affix': 'lov'}
+{'word': 'berish', 'pos': 'ADV', 'root': 'beri', 'affix': 'sh'}
+{'word': 'uskunalari', 'pos': 'NOUN', 'root': 'uskuna', 'affix': 'lari'}
+{'word': 'tayyorlanadi', 'pos': 'VERB', 'root': 'tayyorlan', 'affix': 'adi'}
+{'word': 'Grafit', 'pos': 'NOUN', 'root': 'graf', 'affix': 'it'}
+{'word': 'metall', 'pos': 'NOUN', 'root': 'metall', 'affix': ''}
+{'word': 'yaltiroqligiga', 'pos': 'NOUN', 'root': 'yaltiroq', 'affix': 'ligiga'}
+{'word': 'ega', 'pos': 'NOUN', 'root': 'ega', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'yumshoq', 'pos': 'ADJ', 'root': 'yumshoq', 'affix': ''}
+{'word': 'qora', 'pos': 'ADJ', 'root': 'qora', 'affix': ''}
+{'word': 'rangli', 'pos': 'ADJ', 'root': 'rangli', 'affix': ''}
+{'word': 'kristall', 'pos': 'NOUN', 'root': 'kristall', 'affix': ''}
+{'word': 'modda', 'pos': 'NOUN', 'root': 'modda', 'affix': ''}
+{'word': 'Grafitda', 'pos': 'NOUN', 'root': 'graf', 'affix': 'itda'}
+{'word': 'uglerod', 'pos': 'NOUN', 'root': 'uglerod', 'affix': ''}
+{'word': 'atomlari', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlari'}
+{'word': 'qatlamlar', 'pos': 'NOUN', 'root': 'qatlam', 'affix': 'lar'}
+{'word': 'holida', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'joylashadi', 'pos': 'VERB', 'root': 'joylash', 'affix': 'adi'}
+{'word': 'Bir', 'pos': 'NUM', 'root': 'bir', 'affix': ''}
+{'word': 'qatlam', 'pos': 'NOUN', 'root': 'qatlam', 'affix': ''}
+{'word': 'tekisligida', 'pos': 'NOUN', 'root': 'tekis', 'affix': 'ligida'}
+{'word': 'joylashgan', 'pos': 'VERB', 'root': 'joylash', 'affix': 'gan'}
+{'word': 'uglerod', 'pos': 'NOUN', 'root': 'uglerod', 'affix': ''}
+{'word': 'atomlari', 'pos': 'NOUN', 'root': 'ato', 'affix': 'mlari'}
+{'word': 'orasidagi', 'pos': 'AUX', 'root': 'orasida', 'affix': 'gi'}
+{'word': 'bog‘dan', 'pos': 'NOUN', 'root': 'bog‘', 'affix': 'dan'}
+{'word': 'qatlamlararo', 'pos': 'NOUN', 'root': 'qatlam', 'affix': 'lararo'}
+{'word': 'uglerod', 'pos': 'NOUN', 'root': 'uglerod', 'affix': ''}
+{'word': 'bog‘-', 'pos': 'NOUN', 'root': 'bog‘', 'affix': '-'}
+{'word': 'lari', 'pos': 'NOUN', 'root': 'la', 'affix': 'ri'}
+{'word': 'kuch', 'pos': 'NOUN', 'root': 'kuch', 'affix': ''}
+{'word': 'sizroqligi', 'pos': 'NOUN', 'root': 'siz', 'affix': 'roqligi'}
+{'word': 'uchun', 'pos': 'VERB', 'root': 'uchun', 'affix': ''}
+{'word': 'qat', 'pos': 'NOUN', 'root': 'qat', 'affix': ''}
+{'word': 'tiq', 'pos': 'VERB', 'root': 'tiq', 'affix': ''}
+{'word': 'yuzaga', 'pos': 'ADV', 'root': 'yuza', 'affix': 'ga'}
+{'word': 'ishqalanganda', 'pos': 'VERB', 'root': 'ishqalan', 'affix': 'ganda'}
+{'word': 'grafit', 'pos': 'NOUN', 'root': 'graf', 'affix': 'it'}
+{'word': 'yemiriladi', 'pos': 'VERB', 'root': 'yemiril', 'affix': 'adi'}
+{'word': 'Undan', 'pos': 'PRON', 'root': 'undan', 'affix': ''}
+{'word': 'quruq', 'pos': 'ADJ', 'root': 'quruq', 'affix': ''}
+{'word': 'surkov', 'pos': 'NOUN', 'root': 'surkov', 'affix': ''}
+{'word': 'vositasi', 'pos': 'NOUN', 'root': 'vosita', 'affix': 'si'}
+{'word': 'sifatida', 'pos': 'NOUN', 'root': 'sifat', 'affix': 'ida'}
+{'word': 'elektrodlar', 'pos': 'NOUN', 'root': 'elektrod', 'affix': 'lar'}
+{'word': 'qalamlar', 'pos': 'NOUN', 'root': 'qalam', 'affix': 'lar'}
+{'word': 'ishlab', 'pos': 'VERB', 'root': 'ishla', 'affix': 'b'}
+{'word': 'chiqarishda', 'pos': 'VERB', 'root': 'chiqar', 'affix': 'ishda'}
+{'word': 'foydalaniladi', 'pos': 'VERB', 'root': 'foydalanil', 'affix': 'adi'}
+{'word': 'Yog‘och', 'pos': 'NOUN', 'root': 'yog‘och', 'affix': ''}
+{'word': 'ko‘miri', 'pos': 'NOUN', 'root': 'ko‘mir', 'affix': 'i'}
+{'word': 'pista', 'pos': 'NOUN', 'root': 'pista', 'affix': ''}
+{'word': 'ko‘mir', 'pos': 'NOUN', 'root': 'ko‘mir', 'affix': ''}
+{'word': 'koks', 'pos': 'NOUN', 'root': 'koks', 'affix': ''}
+{'word': 'hayvon', 'pos': 'NOUN', 'root': 'hayvon', 'affix': ''}
+{'word': 'ko‘miri', 'pos': 'NOUN', 'root': 'ko‘mir', 'affix': 'i'}
+{'word': 'qurum', 'pos': 'NOUN', 'root': 'qurum', 'affix': ''}
+{'word': 'grafitning', 'pos': 'NOUN', 'root': 'graf', 'affix': 'itning'}
+{'word': 'juda', 'pos': 'ADV', 'root': 'juda', 'affix': ''}
+{'word': 'mayda', 'pos': 'ADJ', 'root': 'mayda', 'affix': ''}
+{'word': 'kristallari', 'pos': 'NOUN', 'root': 'kristall', 'affix': 'ari'}
+{'word': 'to‘plamidan', 'pos': 'NOUN', 'root': 'to‘plam', 'affix': 'idan'}
+{'word': 'iborat', 'pos': 'NOUN', 'root': 'iborat', 'affix': ''}
+{'word': 'bo‘ladi', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'adi'}
+{'word': 'Havo', 'pos': 'NOUN', 'root': 'havo', 'affix': ''}
+{'word': 'tarkibidagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'karbonat', 'pos': 'ADJ', 'root': 'kar', 'affix': 'bonat'}
+{'word': 'angidridning', 'pos': 'NOUN', 'root': 'angidrid', 'affix': 'ning'}
+{'word': 'uglerodi', 'pos': 'NOUN', 'root': 'uglerod', 'affix': 'i'}
+{'word': 'fotosintez', 'pos': 'NOUN', 'root': 'fotosintez', 'affix': ''}
+{'word': 'jarayonida', 'pos': 'NOUN', 'root': 'jarayon', 'affix': 'ida'}
+{'word': 'o‘simliklar', 'pos': 'NOUN', 'root': 'o‘simlik', 'affix': 'lar'}
+{'word': 'tomonidan', 'pos': 'AUX', 'root': 'tomon', 'affix': 'idan'}
+{'word': 'o‘zlashtiriladi', 'pos': 'VERB', 'root': 'o‘zlashtiril', 'affix': 'adi'}
+{'word': 'O‘simliklar', 'pos': 'NOUN', 'root': 'o‘simlik', 'affix': 'lar'}
+{'word': 'tarkibidagi', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'uglerod', 'pos': 'NOUN', 'root': 'uglerod', 'affix': ''}
+{'word': 'hayvon', 'pos': 'NOUN', 'root': 'hayvon', 'affix': ''}
+{'word': 'organizmlariga', 'pos': 'NOUN', 'root': 'organizm', 'affix': 'lariga'}
+{'word': 'o‘tadi', 'pos': 'VERB', 'root': 'o‘ta', 'affix': 'di'}
+{'word': 'Toshko‘mir', 'pos': 'VERB', 'root': 'tosh', 'affix': 'ko‘mir'}
+{'word': 'neft', 'pos': 'NOUN', 'root': 'neft', 'affix': ''}
+{'word': 'yonuvchi', 'pos': 'NOUN', 'root': 'yon', 'affix': 'uvchi'}
+{'word': 'tabiiy', 'pos': 'ADJ', 'root': 'tabiiy', 'affix': ''}
+{'word': 'gazlar', 'pos': 'NOUN', 'root': 'gaz', 'affix': 'lar'}
+{'word': 'o‘simliklar', 'pos': 'NOUN', 'root': 'o‘simlik', 'affix': 'lar'}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'hayvonlar', 'pos': 'NOUN', 'root': 'hayvon', 'affix': 'lar'}
+{'word': 'qoldiqlari', 'pos': 'NOUN', 'root': 'qoldiq', 'affix': 'lari'}
+{'word': '-', 'pos': 'null', 'root': 'null', 'affix': 'null'}
+{'word': 'dan', 'pos': 'NOUN', 'root': 'dan', 'affix': ''}
+{'word': 'hosil', 'pos': 'NOUN', 'root': 'hosil', 'affix': ''}
+{'word': 'bo‘lgan', 'pos': 'VERB', 'root': 'bo‘l', 'affix': 'gan'}
+{'word': 'O‘simlik', 'pos': 'NOUN', 'root': 'o‘simlik', 'affix': ''}
+{'word': 'va', 'pos': 'CONJ', 'root': 'va', 'affix': ''}
+{'word': 'hayvonlar', 'pos': 'NOUN', 'root': 'hayvon', 'affix': 'lar'}
+{'word': 'nafas', 'pos': 'NOUN', 'root': 'nafas', 'affix': ''}
+{'word': 'olishi', 'pos': 'VERB', 'root': 'olish', 'affix': 'i'}
+{'word': 'hayotiy', 'pos': 'NOUN', 'root': 'hayot', 'affix': 'iy'}
+{'word': 'faoliyati', 'pos': 'ADJ', 'root': 'faol', 'affix': 'iyati'}
+{'word': 'natijasida', 'pos': 'NOUN', 'root': 'natija', 'affix': 'sida'}
+{'word': 'toshko‘mir', 'pos': 'VERB', 'root': 'tosh', 'affix': 'ko‘mir'}
+{'word': 'neft', 'pos': 'NOUN', 'root': 'neft', 'affix': ''}
+{'word': 'tabiiy', 'pos': 'ADJ', 'root': 'tabiiy', 'affix': ''}
+{'word': 'gazlarning', 'pos': 'NOUN', 'root': 'gaz', 'affix': 'larning'}
+{'word': 'yonishidan', 'pos': 'VERB', 'root': 'yon', 'affix': 'ishidan'}
+{'word': 'vulqonlar', 'pos': 'NOUN', 'root': 'vulqon', 'affix': 'lar'}
+{'word': 'otilishidan', 'pos': 'VERB', 'root': 'ot', 'affix': 'ilishidan'}
+{'word': 'mineral', 'pos': 'NOUN', 'root': 'mineral', 'affix': ''}
+{'word': 'manbalarning', 'pos': 'NOUN', 'root': 'ma', 'affix': 'nbalarning'}
+{'word': 'nu', 'pos': 'null', 'root': 'null', 'affix': 'null'}
