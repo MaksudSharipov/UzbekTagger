@@ -1,0 +1,74 @@
+ Qariyb/NOUN uch/NOUN yil/NOUN davomida/NOUN asosan/NOUN koronavirusni/NOUN jilovlash/NOUN bilan/NOUN band/NOUN bo‘lgan/VERB insoniyat/NOUN endi/NOUN boshqa/NOUN epidemiologik/NOUN kasalliklar/NOUN bilan/NOUN ham/NOUN ro‘baro‘/null kelmoqda/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN SSV/NOUN matbuot/NOUN xizmati/NOUN xabar/NOUN bermoqda/NOUN ./PUNCT
+ Qayd/NOUN etilishicha/NOUN uzoq/NOUN vaqt/NOUN uyqu/NOUN da/NOUN bo‘lgan/VERB mpox/NOUN maymun/NOUN chechagi/NOUN vabo/NOUN Ebola/NOUN cho‘chqa/NOUN grippi/NOUN kabi/NOUN qator/NOUN xavfli/NOUN infeksiyalar/NOUN so‘nggi/ADJ oylarda/NOUN dunyo/NOUN ahli/NOUN salomatligiga/NOUN yana/NOUN jiddiy/NOUN xavf/NOUN sola/NOUN boshladi/NOUN ./PUNCT
+ Xususan/NOUN hozir/NOUN aksariyat/NOUN davlatlarda/NOUN gripp/NOUN virusi/NOUN avj/NOUN olgan/NOUN mavsum/NOUN ./PUNCT
+ Ustiga-ustak/NOUN ayrim/NOUN mintaqalarda/NOUN bu/NOUN epidemiya/NOUN boshqa/NOUN yuqumli/NOUN kasalliklar/NOUN bilan/NOUN birga/NOUN kechyapti/NOUN ./PUNCT
+ Xususan/NOUN Rossiya/NOUN Iste‘molchilar/NOUN huquqlarini/NOUN himoya/NOUN qilish/NOUN federal/NOUN xizmati/NOUN shu/NOUN kunlarda/NOUN mamlakatda/NOUN cho‘chqa/NOUN grippi/NOUN keng/NOUN tarqalayotgani/NOUN haqida/NOUN xabar/NOUN berdi/NOUN ./PUNCT
+ Hozirgacha/NOUN ushbu/NOUN virus/NOUN davlatning/NOUN 55/NOUN ta/NOUN ma‘muriy/NOUN hududida/NOUN ro‘yxatga/NOUN olingan/NOUN ./PUNCT
+ Xastalikning/NOUN aniqlanayotgan/NOUN mutatsiyalari/NOUN orasida/NOUN A/NOUN H1N1/NOUN A/NOUN H3N2/NOUN va/NOUN B/NOUN shtammlari/NOUN ustuvorlik/NOUN qilyapti/NOUN ./PUNCT
+ Mutaxassislarning/NOUN izohlashicha/NOUN bu/NOUN kasallikni/NOUN an‘anaviy/ADJ gripp/NOUN turlaridan/NOUN alomatlari/NOUN orqali/NOUN farqlash/NOUN qiyin/NOUN ./PUNCT
+ Chunki/NOUN yuqori/NOUN tana/NOUN harorati/NOUN tomoq/NOUN bosh/NOUN va/NOUN mushaklardagi/NOUN og‘riqlar/NOUN yo‘tal/CONJ holsizlik/NOUN bezovtalik/NOUN kabi/NOUN simptomlar/NOUN har/NOUN ikkisiga/NOUN xos/NOUN ./PUNCT
+ Shu/NOUN bois/NOUN aniq/NOUN tashxis/NOUN qo‘yish/VERB uchun/NOUN maxsus/NOUN PZR/NOUN testlari/NOUN talab/NOUN etiladi/NOUN ./PUNCT
+ Eslatib/NOUN o‘tamiz/VERB 2009/NOUN yilda/NOUN jahon/NOUN bo‘yicha/AUX ommaviy/NOUN cho‘chqa/NOUN grippi/NOUN epidemiyasi/NOUN kuzatilgan edi/VERB ./PUNCT
+ O‘shanda/ADV bir/NOUN yil/NOUN davomida/NOUN 60/NOUN 8/NOUN million/NOUN nafarga/NOUN yaqin/NOUN odam/NOUN ushbu/NOUN xastalik/NOUN bilan/NOUN kasallangan/NOUN ./PUNCT
+ Achinarlisi/NOUN bemorlardan/NOUN 12/NOUN 4/NOUN ming/NOUN nafari/NOUN infeksiya/NOUN oqibatida/NOUN hayotdan/NOUN ko‘z/NOUN yumgan/NOUN ./PUNCT
+ Afg‘onistonning/NOUN Samangan/NOUN viloyatining/NOUN Aybak/NOUN shahrida/NOUN diniy/NOUN maktabda/NOUN yuz/NOUN bergan/NOUN portlashda/NOUN 35/NOUN kishi/NOUN halok/NOUN bo‘ldi/VERB yana/NOUN 23/NOUN kishi/NOUN jarohatlangan/NOUN ./PUNCT
+ OAV/NOUN xabarlariga/NOUN ko‘ra/AUX portlash/NOUN qurbonlarining/NOUN aksariyati/NOUN maktab/NOUN o‘quvchilaridir/VERB ./PUNCT
+ Halok/NOUN bo‘lganlarning/VERB jasadlari/NOUN binodan/NOUN olib/NOUN chiqilmoqda/NOUN ./PUNCT
+ Bundan/NOUN tashqari/NOUN jabrlanganlarni/NOUN evakuatsiya/NOUN qilish/NOUN tartibi/NOUN davom/NOUN etmoqda/NOUN ./PUNCT
+ Ma‘lum/ADJ bo‘lishicha/VERB voqea/NOUN peshin/NOUN namozi/NOUN vaqtida/NOUN sodir/NOUN bo‘lgan/VERB ./PUNCT
+ Portlash/NOUN sabablari/NOUN hozircha/NOUN aniqlanmagan/NOUN ./PUNCT
+ Tolibon/NOUN ichki/NOUN ishlar/NOUN vazirligining/NOUN rasmiy/NOUN vakili/NOUN Abdul-Nafi/NOUN Thakur/NOUN kamida/NOUN 10/NOUN kishi/NOUN halok/NOUN bo‘lganini/VERB tan/NOUN oldi/NOUN ./PUNCT
+ Shuningdek/NOUN u/NOUN jinoyatchilarni/NOUN topish/NOUN bo‘yicha/AUX tergov/NOUN harakatlari/NOUN olib/NOUN borilayotganini/NOUN aytdi/NOUN ./PUNCT
+ AQShning/NOUN Janubiy/NOUN Dakota/NOUN shtati/NOUN gubernatori/NOUN Kristi/NOUN Noem/NOUN mahalliy/NOUN amaldorlarga/NOUN TikTok/NOUN ijtimoiy/NOUN tarmog‘idan/null foydalanishni/NOUN taqiqladi/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN Zamon/NOUN uz/NOUN xabar/NOUN bermoqda/NOUN ./PUNCT
+ Gubernatorning/NOUN fikricha/NOUN tarmoq/NOUN orqali/NOUN kuzatuv/NOUN amalga/NOUN oshirilishi/NOUN va/NOUN ma‘lumotlar/NOUN XXR/NOUN hukumatiga/NOUN berilishi/NOUN xavfi/NOUN bor/NOUN ./PUNCT
+ Janubiy/NOUN Dakota/NOUN bizdan/NOUN nafratlanadigan/NOUN davlatlarga/NOUN razvedka/NOUN ma‘lumotlari/NOUN to‘plash/VERB bilan/NOUN shug‘ullanmaydi/VERB ./PUNCT
+ Xitoy/NOUN kommunistik/NOUN partiyasi/NOUN TikTok/NOUN orqali/NOUN Amerika/NOUN xalqini/NOUN manipulyatsiya/NOUN qilish/NOUN maqsadida/NOUN ma‘lumot/NOUN to‘plash/VERB bilan/NOUN shug‘ullanadi/VERB va/NOUN ular/NOUN platformaga/NOUN ulangan/NOUN qurilmalarning/NOUN ma‘lumotini/NOUN to‘playdi/VERB degan/NOUN u/NOUN Ushbu/NOUN qaror/NOUN darhol/NOUN kuchga/NOUN kiradi/NOUN ./PUNCT
+ Davlat/NOUN xizmatchilarining/NOUN ijtimoiy/NOUN tarmoqni/NOUN yuklab/NOUN olishi/NOUN taqiqlanadi/NOUN ./PUNCT
+ Shuningdek/NOUN shtat/NOUN hukumati/NOUN taqdim/NOUN etgan/NOUN qurilmalar/NOUN orqali/NOUN TikTok/NOUN saytiga/NOUN kirish/NOUN ham/NOUN mumkin/NOUN emas/NOUN ./PUNCT
+ Noem/NOUN boshqa/NOUN shtatlar/NOUN ham/NOUN Janubiy/NOUN Dakota/NOUN ortidan/NOUN borishiga/NOUN umid/NOUN bildirgan/NOUN ./PUNCT
+ Bundan/NOUN avval/NOUN Jozef/NOUN Bayden/NOUN administratsiyasi/NOUN TikTok/NOUN bilan/NOUN platformaning/NOUN Qo‘shma/VERB Shtatlar/NOUN milliy/NOUN xavfsizligiga/NOUN daxldor/NOUN masalalar/NOUN bo‘yicha/AUX faoliyati/NOUN yuzasidan/NOUN kelishuvni/NOUN ishlab/NOUN chiqqandi/NOUN ./PUNCT
+ 29-noyabr/null kuni/NOUN Eron/NOUN terma/NOUN jamoasi/NOUN guruh/NOUN bosqichining/NOUN 3-tur/null uchrashuvini/NOUN AQShga/NOUN qarshi/NOUN o‘tkazadi/VERB ./PUNCT
+ Eronlik/NOUN futbolchilarning/NOUN yaqinlari/NOUN o‘yin/NOUN oldidan/NOUN rasmiylar/NOUN tomonidan/NOUN bosimga/NOUN duch/NOUN kelishdi/NOUN ./PUNCT
+ Futbolchilarga/NOUN agar/NOUN futbolchilar/NOUN raqibga/NOUN qarshi/NOUN o‘yinda/NOUN o‘zini/VERB munosib/NOUN tutmasa/NOUN yaqinlari/NOUN qamalib/NOUN qiynoqqa/NOUN solinishi/NOUN va‘da/NOUN qilingan/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN manbaga/NOUN tayanib/NOUN CNN/NOUN yozmoqda/NOUN ./PUNCT
+ 21/NOUN noyabr/NOUN kuni/NOUN futbol/NOUN bo‘yicha/AUX Eron/NOUN milliy/NOUN terma/NOUN jamoasi/NOUN Qatarda/NOUN bo‘lib/VERB o‘tgan/VERB JCh-2022/null guruh/NOUN bosqichi/NOUN 1-turi/null doirasida/NOUN Angliya/NOUN terma/NOUN jamoasiga/NOUN qarshi/NOUN o‘yin/NOUN oldidan/NOUN davlat/NOUN madhiyasini/NOUN kuylashdan/NOUN bosh/NOUN tortgan/NOUN ./PUNCT
+ Davlat/NOUN madhiyasi/NOUN yangrayotgan/NOUN paytda/NOUN Eron/NOUN terma/NOUN jamoasi/NOUN futbolchilari/NOUN sukut/NOUN saqlashgan/NOUN ./PUNCT
+ Dohadagi/NOUN Xalifa/NOUN stadioni/NOUN tribunalaridagi/NOUN muxlislar/NOUN futbolchilarning/NOUN bu/NOUN qarorini/NOUN olqishlar/NOUN bilan/NOUN kutib/NOUN olishgan/NOUN ./PUNCT
+ CNN/NOUN telekanali/NOUN xabariga/NOUN ko‘ra/AUX davlat/NOUN madhiyasini/NOUN kuylashdan/NOUN bosh/NOUN tortgach/NOUN futbolchilar/NOUN Islom/NOUN inqilobi/NOUN qo‘riqchilari/NOUN korpusi/NOUN KSIR/NOUN vakillari/NOUN bilan/NOUN uchrashuvga/NOUN chaqirilgan/NOUN ./PUNCT
+ Ta‘kidlanishicha/VERB uchrashuvda/NOUN futbolchilarga/NOUN yana/NOUN madhiya/NOUN kuylashdan/NOUN bosh/NOUN tortsa/NOUN yoki/NOUN hozirda/NOUN Islom/NOUN Respublikasida/NOUN faol/NOUN bo‘lib/VERB o‘tayotgan/VERB siyosiy/NOUN norozilik/NOUN va/NOUN harakatlarni/NOUN qo‘llab-quvvatlasa/VERB ularning/NOUN oila/NOUN a‘zolari/NOUN zo‘ravonlik/NOUN va/NOUN qiynoqlarga/NOUN duchor/NOUN bo‘lishi/VERB va‘da/NOUN qilingan/NOUN ./PUNCT
+ Shundan/NOUN so‘ng/ADJ eronlik/NOUN futbolchilar/NOUN Uelsga/NOUN qarshi/NOUN navbatdagi/NOUN o‘yinda/NOUN davlat/NOUN madhiyasini/NOUN kuylashgan/NOUN ./PUNCT
+ Ramzan/NOUN Qodirovning/NOUN qizi/NOUN Ayshat/NOUN Qodirova/NOUN Chechenistonning/NOUN oliy/NOUN davlat/NOUN mukofoti/NOUN Qodirov/NOUN ordeni/NOUN bilan/NOUN taqdirlandi/NOUN ./PUNCT
+ U/NOUN respublika/NOUN madaniyat/NOUN vaziri/NOUN lavozimidagi/NOUN faoliyati/NOUN uchun/NOUN shunday/NOUN yuqori/NOUN baholandi/NOUN dedi/NOUN Checheniston/NOUN milliy/NOUN siyosat/NOUN tashqi/NOUN aloqalar/NOUN matbuot/NOUN va/NOUN axborot/NOUN vaziri/NOUN Axmed/NOUN Dudaev/NOUN ./PUNCT
+ Uning/NOUN so‘zlariga/NOUN ko‘ra/AUX Ayshat/NOUN Qodirova/NOUN viloyat/NOUN madaniyatini/NOUN yuksaltirishga/NOUN katta/NOUN hissa/NOUN qo‘shgan/VERB ./PUNCT
+ Ayshat/NOUN Ramzanovna/NOUN madaniyat/NOUN sohasini/NOUN takomillashtirishga/NOUN ulkan/NOUN hissa/NOUN qo‘shdi/VERB har/NOUN qanday/NOUN biznesga/NOUN ijodiy/NOUN yondashish/NOUN tashkilotchilik/NOUN qobiliyati/NOUN va/NOUN boshqaruv/NOUN qobiliyatini/NOUN ulug‘ladi/VERB !/PUNCT
+ U/NOUN buyuk/NOUN bobosining/NOUN o‘gitlariga/NOUN qat‘iy/NOUN amal/NOUN qiladi/NOUN va/NOUN otasining/NOUN tayanchidir/NOUN !/PUNCT
+ deyiladi/NOUN Dudaevning/NOUN telegram-kanalidagi/null xabarida/NOUN ./PUNCT
+ Eslatib/NOUN o‘tamiz/VERB Ramzan/NOUN Qodirovning/NOUN qizi/NOUN 23/NOUN yoshda/NOUN 2022/NOUN yilda/NOUN u/NOUN Respublika/NOUN Madaniyat/NOUN vaziri/NOUN bo‘lgan/VERB ./PUNCT
+ Yosh/NOUN bo‘lishiga/VERB qaramay/NOUN u/NOUN allaqachon/NOUN Checheniston/NOUN Respublikasi/NOUN oldidagi/NOUN xizmatlari/NOUN uchun/NOUN va/NOUN Inson/NOUN huquqlarini/NOUN himoya/NOUN qilgani/NOUN uchun/NOUN medallari/NOUN kabi/NOUN mukofotlarga/NOUN ega/NOUN ./PUNCT
+ Shuningdek/NOUN u/NOUN Chexiya/NOUN Respublikasida/NOUN xizmat/NOUN ko‘rsatgan/VERB madaniyat/NOUN xodimi/NOUN unvoni/NOUN bilan/NOUN ham/NOUN taqdirlangan/NOUN ./PUNCT
+ Qamoqda/NOUN saqlanayotgan/NOUN Gruziyaning/NOUN sobiq/NOUN prezidenti/NOUN Mixail/NOUN Saakashvilining/NOUN tibbiy/NOUN tekshiruvlari/NOUN uning/NOUN tanasida/NOUN margumush/NOUN borligini/NOUN ko‘rsatdi/VERB ./PUNCT
+ Bu/NOUN haqda/NOUN dushanba/NOUN kuni/NOUN Saakashvilining/NOUN advokati/NOUN Shalva/NOUN Xachapuridze/NOUN ma‘lum/ADJ qilgan/NOUN ./PUNCT
+ Biz/NOUN hali/NOUN tirnoq/NOUN sinovlarini/NOUN olganimiz/NOUN yo‘q/MOD ular/NOUN bugun/NOUN kelishadi/NOUN biroq/NOUN telefon/NOUN orqali/NOUN ma‘lum/ADJ bo‘lishicha/VERB tadqiqot/NOUN natijasida/NOUN yana/NOUN bir/NOUN zaharli/NOUN modda/NOUN margumush/NOUN aniqlangan/NOUN deya/NOUN advokatning/NOUN so‘zlaridan/NOUN iqtibos/NOUN keltirgan/NOUN Mtavari/NOUN telekanali/NOUN ./PUNCT
+ Shuningdek/NOUN dushanba/NOUN kuni/NOUN Saakashvili/NOUN uzoq/NOUN vaqtdan/NOUN beri/NOUN birinchi/NOUN marta/NOUN chegarani/NOUN noqonuniy/NOUN kesib/NOUN o‘tish/VERB ishi/NOUN bo‘yicha/AUX sud/NOUN majlisida/NOUN ishtirok/NOUN etishi/NOUN kutilmoqda/NOUN dedi/NOUN advokat/NOUN ./PUNCT
+ Biz/NOUN sud/NOUN jarayonining/NOUN qoldirilganiga/NOUN sababchi/NOUN bo‘lib/VERB qolmasligimiz/NOUN uchun/NOUN u/NOUN bugun/NOUN sudga/NOUN kelishga/NOUN qaror/NOUN qildi/NOUN dedi/NOUN advokat/NOUN ./PUNCT
+ Unga/NOUN ko‘ra/AUX Saakashvilining/NOUN ahvoli/NOUN og‘ir/ADJ va/NOUN uni/NOUN ko‘chirish/VERB uchun/NOUN maxsus/NOUN stul/NOUN kerak/NOUN bo‘ladi/VERB ./PUNCT
+ Avvalroq/NOUN Saakashvilining/NOUN og‘ir/ADJ metallar/NOUN jumladan/NOUN simob/NOUN bilan/NOUN zaharlanishi/NOUN ehtimoli/NOUN haqida/NOUN xabar/NOUN berilgan edi/VERB ./PUNCT
+ Ta‘kidlanishicha/VERB Empatiya/NOUN nodavlat/NOUN tashkilotining/NOUN hali/NOUN e‘lon/NOUN qilinmagan/NOUN va/NOUN xorijlik/NOUN mutaxassislarga/NOUN taqdim/NOUN etish/NOUN uchun/NOUN tayyorlanayotgan/NOUN tibbiy/NOUN hisoboti/NOUN shundan/NOUN dalolat/NOUN beradi/NOUN ./PUNCT
+ Gruziya/NOUN hukumati/NOUN sobiq/NOUN prezidentning/NOUN zaharlanishi/NOUN ehtimoli/NOUN haqida/NOUN erta/NOUN xulosalar/NOUN chiqarishdan/NOUN tiyilishga/NOUN chaqirmoqda/NOUN ./PUNCT
+ Saakashvili/NOUN 2021/NOUN yil/NOUN oktyabr/NOUN oyida/NOUN bo‘lib/VERB o‘tadigan/VERB munitsipal/NOUN saylovlardan/NOUN bir/NOUN kun/NOUN oldin/NOUN Gruziyaga/NOUN yashirincha/NOUN kelgan/NOUN ./PUNCT
+ Shundan/NOUN olinib/NOUN Rustavi/NOUN shahridagi/NOUN qamoqxonaga/NOUN joylashtirilgan/NOUN ./PUNCT
+ U/NOUN o‘zini/VERB siyosiy/NOUN mahbus/NOUN deb/NOUN atab/NOUN ochlik/NOUN e‘lon/NOUN qilgan/NOUN ./PUNCT
+ Sobiq/NOUN prezidentning/NOUN ahvoli/NOUN yomonlashganidan/NOUN keyin/NOUN u/NOUN qamoqxona/NOUN kasalxonasiga/NOUN keyinroq/NOUN esa/NOUN harbiy/NOUN gospitalga/NOUN o‘tkazilgan/VERB ./PUNCT
+ Dekabr/NOUN oyida/NOUN Saakashvili/NOUN Rustavi/NOUN qamoqxonasida/NOUN jazoni/NOUN o‘tashni/VERB davom/NOUN ettirdi/NOUN ./PUNCT
+ Sobiq/NOUN prezident/NOUN qamoqxonada/NOUN og‘ir/ADJ xastalikka/NOUN chalinganini/NOUN bir/NOUN necha/NOUN bor/NOUN ta‘kidlagan/VERB ./PUNCT
+ Saakashvilining/NOUN advokatlari/NOUN va/NOUN tarafdorlari/NOUN uni/NOUN davolanish/NOUN uchun/NOUN xorijga/NOUN yuborishni/NOUN talab/NOUN qilmoqda/NOUN ./PUNCT
+ Ijtimoiy/NOUN tarmoqning/NOUN yangi/NOUN egasi/NOUN Ilon/NOUN Maskning/NOUN kompaniya/NOUN boshqaruvidagi/NOUN betartib/NOUN yondashuvi/NOUN tufayli/NOUN dunyoning/NOUN aksariyat/NOUN yirik/NOUN brendlari/NOUN Twitter‘dagi/NOUN reklamalarini/NOUN to‘xtatib/VERB qo‘ydi/VERB ./PUNCT
+ Bu/NOUN haqda/NOUN Financial/NOUN Times/NOUN nashri/NOUN yozmoqda/NOUN deya/NOUN xabar/NOUN bermoqda/NOUN zamon/NOUN uz/NOUN ./PUNCT
+ Ma‘lum/ADJ qilinishicha/NOUN 100/NOUN ta/NOUN eng/NOUN yaxshi/NOUN reklama/NOUN beruvchilardan/NOUN 50/NOUN tasi/NOUN Mask/NOUN ijtimoiy/NOUN tarmoqni/NOUN sotib/NOUN olganidan/NOUN keyin/NOUN xarajatlarni/NOUN to‘xtatib/VERB qo‘ygan/VERB yoki/NOUN to‘xtatish/VERB niyatini/NOUN bildirgan/NOUN ./PUNCT
+ Qayd/NOUN etilishicha/NOUN kompaniyalar/NOUN Kontentni/NOUN nazorat/NOUN qilishda/NOUN Maskning/NOUN tanlab/NOUN yondashuvi/NOUN va/NOUN reklama/NOUN bo‘limidagi/NOUN xodimlarni/NOUN ishdan/NOUN bo‘shatish/null qaroridan/NOUN shikoyat/NOUN qilgan/NOUN ./PUNCT
+ Nashr/NOUN ma‘lumotlariga/NOUN ko‘ra/AUX Twitter‘dagi/NOUN ommaviy/NOUN ishdan/NOUN bo‘shatishlardan/null so‘ng/ADJ agentliklar/NOUN Mask/NOUN kompaniyasi/NOUN bilan/NOUN aloqada/NOUN bo‘lmagan/VERB ./PUNCT
+ Boshqalar/NOUN esa/NOUN reklama/NOUN tizimlari/NOUN yaxshi/NOUN ishlamayotganidan/NOUN shikoyat/NOUN qilishgan/NOUN ./PUNCT
+ Sanoat/NOUN insayderlarining/NOUN xabar/NOUN qilishicha/NOUN Mask/NOUN ba‘zi/null brend/NOUN rahbarlariga/NOUN qo‘ng‘iroq/ADJ qilishga/NOUN uringan/NOUN ./PUNCT
+ Natijada/NOUN boshqalar/NOUN Mask/NOUN bilan/NOUN munosabatlarini/NOUN yomonlashtirmaslik/NOUN uchun/NOUN xarajatlarini/NOUN minimal/NOUN darajaga/NOUN qisqartirishga/NOUN qaror/NOUN qilishgan/NOUN ./PUNCT

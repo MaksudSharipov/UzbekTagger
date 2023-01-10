@@ -1,0 +1,75 @@
+ Kimyoviy/NOUN elementning/NOUN davriy/NOUN sistemadagi/NOUN o‘rni/NOUN uning/NOUN atom/NOUN tuzilishi/NOUN va/NOUN xossalariga/NOUN bog‘liq/NOUN ./PUNCT
+ Radioaktivlikni/NOUN o‘rganish/VERB M/NOUN Skladovskaya-Kyuri/NOUN P/NOUN Kyuri/NOUN E/NOUN Rezerford/NOUN kimyoviy/NOUN element/NOUN atomi/NOUN murakkab/NOUN sistema/NOUN ekanligini/NOUN ko‘rsatdi/VERB ./PUNCT
+ Atom/NOUN musbat/NOUN zaryadga/NOUN ega/NOUN bo‘lgan/VERB yadrodan/NOUN va/NOUN uning/NOUN atrofida/NOUN harakatlanuvchi/NOUN elektronlardan/NOUN iborat/NOUN elektron/NOUN ē/NOUN 9/NOUN 1/NOUN 10-31/null kg/NOUN massaga/NOUN va/NOUN 1/NOUN 6/NOUN 10-19/null C/NOUN kulon/NOUN man/NOUN fiy/NOUN elektr/NOUN zaryadiga/NOUN ega/NOUN ./PUNCT
+ Atomdagi/NOUN elektronlar/NOUN to‘plami/NOUN elektron/NOUN qobiq/NOUN deb/NOUN ataladi/NOUN ./PUNCT
+ Atom/NOUN elektroney/NOUN tral/NOUN zarra/NOUN demak/NOUN atom/NOUN elektron/NOUN qobig‘idagi/null elektronlar/NOUN soni/NOUN yadro/NOUN zaryadiga/NOUN yoki/NOUN davriy/NOUN sistemadagi/NOUN element/NOUN tartib/NOUN raqamiga/NOUN Z/NOUN tengdir/NOUN ./PUNCT
+ Proton-ney/null tron/NOUN nazariyasiga/NOUN ko‘ra/AUX atom/NOUN yadrosi/NOUN proton/NOUN va/NOUN neytronlardan/NOUN iborat/NOUN proton/NOUN p/NOUN 1/NOUN a/NOUN m/NOUN b/NOUN ./PUNCT
+ massaga/NOUN va/NOUN 1/NOUN zaryadga/NOUN ega/NOUN bo‘lgan/VERB zarra/NOUN neytron/NOUN n/NOUN proton/NOUN massasiga/NOUN yaqin/NOUN massaga/NOUN ega/NOUN elektroneytral/NOUN zarra/NOUN ./PUNCT
+ Yadro/NOUN zaryadi/NOUN uning/NOUN tarkibiga/NOUN kiruvchi/NOUN protonlar/NOUN soni/NOUN bilan/NOUN belgilanadi/NOUN demak/NOUN atom/NOUN yadrosidagi/NOUN protonlar/NOUN soni/NOUN elementning/NOUN davriy/NOUN sistemadagi/NOUN tartib/NOUN raqamiga/NOUN teng/NOUN ./PUNCT
+ Atomlarning/NOUN absolyut/NOUN massasi/NOUN A/NOUN atom/NOUN tarkibiga/NOUN kiruvchi/NOUN barcha/NOUN zarralar/NOUN massalari/NOUN yig‘indisiga/VERB teng/NOUN A/NOUN protonlar/NOUN massasi/NOUN neytronlar/NOUN massasi/NOUN elektronlar/NOUN massasi/NOUN ./PUNCT
+ Elektronlar/NOUN massasi/NOUN shu/NOUN qadar/NOUN kichik/NOUN bo‘lganligidan/NOUN atomlarning/NOUN massasini/NOUN ular/NOUN tarkibiga/NOUN kiruvchi/NOUN proton/NOUN va/NOUN neytronlar/NOUN massasidangina/NOUN iborat/NOUN deb/NOUN olish/NOUN mumkin/NOUN ./PUNCT
+ Elementning/NOUN nisbiy/NOUN atom/NOUN massasini/NOUN quyidagicha/NOUN aniqlash/NOUN mumkin/NOUN Ar/NOUN Z/NOUN proton/NOUN soni/NOUN tartib/NOUN raqami/NOUN N/NOUN neytron/NOUN soni/NOUN Ko‘rib/ADJ turganimizdek/NOUN atomning/NOUN tarkibiga/NOUN neytronlar/NOUN hamda/NOUN musbat/NOUN va/NOUN manfiy/NOUN zaryadli/NOUN zarralar/NOUN elektronlar/NOUN va/NOUN protonlar/NOUN kiradi/NOUN va/NOUN u/NOUN qarama-qarshi/ADJ xossali/NOUN zarralar/NOUN to‘plamidan/NOUN iborat/NOUN ./PUNCT
+ Proton/NOUN ney/NOUN tron/NOUN elek/NOUN tron/NOUN elementar/NOUN zarralar/NOUN hisoblanib/NOUN hozirgi/NOUN kungacha/NOUN turli/NOUN xossalarga/NOUN ega/NOUN massa/NOUN zar/NOUN yad/NOUN va/NOUN b/NOUN )/PUNCT
+ ko‘plab/ADV zar/NOUN rachalar/NOUN ma‘lum/ADJ ./PUNCT
+ Biz/NOUN ularni/NOUN ko‘ra/AUX olmasak-da/NOUN ularning/NOUN haqiqatda/NOUN mavjudligi/NOUN olimlar/NOUN tajribalarida/NOUN aniqlangan/NOUN ko‘rsatkichlar/NOUN bilan/NOUN tasdiqlanadi/NOUN ./PUNCT
+ Elementar/NOUN zarralar/NOUN ham/NOUN atom/NOUN va/NOUN molekulalar/NOUN singari/NOUN materiya/NOUN turlaridir/NOUN ./PUNCT
+ Atom/NOUN tuzilishini/NOUN o‘rganish/VERB shuni/NOUN ko‘rsatdiki/VERB dav/NOUN -/null riy/NOUN sistemada/NOUN elementlar/NOUN atomlarning/NOUN elektron/NOUN pog‘onalari/NOUN tuzilishiga/NOUN mos/NOUN ravishda/NOUN ma‘lum/ADJ tartibda/NOUN joylashadi/NOUN ./PUNCT
+ Qo‘zg‘almagan/VERB holatda/NOUN atomning/NOUN elektron/NOUN tuzilishi/NOUN undagi/NOUN elektronlar/NOUN soni/NOUN bilan/NOUN belgilanadi/NOUN ./PUNCT
+ Bunda/NOUN elektronlar/NOUN energiyasi/NOUN minimal/NOUN bo‘lgan/VERB orbitallarni/NOUN egallaydi/NOUN ./PUNCT
+ Elektronlar/NOUN soni/NOUN yadro/NOUN zar/NOUN yadiga/NOUN teng/NOUN bo‘ladi/VERB ./PUNCT
+ Shunday/NOUN qilib/NOUN aynan/NOUN yadro/NOUN zar/NOUN yadi/NOUN atomning/NOUN elektron/NOUN tuzilishini/NOUN va/NOUN shu/NOUN bilan/NOUN birgalikda/NOUN element/NOUN xossalarini/NOUN belgilovchi/NOUN tavsif/NOUN bo‘lib/VERB hisoblanadi/NOUN ./PUNCT
+ Bundan/NOUN davriy/NOUN qonunning/NOUN quyidagi/NOUN ta‘rifi/null kelib/NOUN chiqadi/NOUN Davr/NOUN va/NOUN guruhlarda/NOUN elementlar/NOUN xossalarining/NOUN o‘zgarishi/VERB Atom/NOUN tuzilishining/NOUN elektron/NOUN nazariyasi/NOUN elementlar/NOUN xossalarining/NOUN atom/NOUN tuzilishi/NOUN va/NOUN davriy/NOUN sistemadagi/NOUN o‘rniga/NOUN bog‘liq/NOUN ravishda/NOUN o‘zgarishini/VERB izohlab/NOUN berdi/NOUN ./PUNCT
+ Bu/NOUN nazariyaga/NOUN ko‘ra/AUX kimyoviy/NOUN reaksiyalar/NOUN asosida/NOUN elektron/NOUN munosabatlar/NOUN atomlar/NOUN elektron/NOUN pog‘onalarining/NOUN qayta/NOUN qurilishi/NOUN jarayonlari/NOUN yotadi/NOUN ./PUNCT
+ Bunda/NOUN asosan/NOUN tashqi/NOUN elektron/NOUN qavatidagi/NOUN elektronlar/NOUN valent/NOUN elektronlar/NOUN ishtirok/NOUN etadi/NOUN ./PUNCT
+ Masalan/NOUN uglerod/NOUN atomi/NOUN tashqi/NOUN elektron/NOUN qavatining/NOUN tuzilishi/NOUN s2p2/NOUN ko‘rinishida/VERB bo‘ladi/VERB ./PUNCT
+ Qo‘zg‘algan/VERB holatda/NOUN esa/NOUN s1/NOUN p3/NOUN ko‘rinishga/VERB o‘tadi/VERB ./PUNCT
+ Maksimal/NOUN to‘lgan/VERB qavatlar/NOUN eng/NOUN barqaror/NOUN bo‘ladi/VERB ./PUNCT
+ Bunday/NOUN elektron/NOUN qavatlar/NOUN tugallangan/NOUN elektron/NOUN pog‘ona/NOUN deb/NOUN ataladi/NOUN bunda/NOUN tashqi/NOUN elektron/NOUN pog‘ona/NOUN s2p6/NOUN 8/NOUN ta/NOUN elektron/NOUN elektron/NOUN konfiguratsiyasiga/NOUN ega/NOUN bo‘ladi/VERB He/NOUN dan/NOUN tashqari/NOUN barcha/NOUN inert/NOUN gazlar/NOUN ./PUNCT
+ Shuning/NOUN uchun/NOUN inert/NOUN gazlar/NOUN juda/NOUN qiyinchilik/NOUN bilan/NOUN reaksiyaga/NOUN kirishadi/NOUN ./PUNCT
+ Metallar/NOUN atomlarining/NOUN tashqi/NOUN elektron/NOUN pog‘onalarida/NOUN odatda/NOUN 4/NOUN tagacha/NOUN elektron/NOUN bo‘lib/VERB yadro/NOUN bilan/NOUN kuchsiz/NOUN bog‘langan/VERB ./PUNCT
+ Ular/NOUN kimyoviy/NOUN reaksiyaga/NOUN kirishganda/NOUN valent/NOUN elektronlarini/NOUN yo‘qotadi/VERB ./PUNCT
+ Ishqoriy/NOUN metallar/NOUN boshqa/NOUN metallarga/NOUN nisbatan/NOUN eng/NOUN kuchli/NOUN metallik/NOUN xossalariga/NOUN ega/NOUN deb/NOUN qabul/NOUN qilinadi/NOUN ./PUNCT
+ Chunki/NOUN ular/NOUN boshqa/NOUN metallarga/NOUN nisbatan/NOUN tashqi/NOUN valent/NOUN elektronlarini/NOUN oson/NOUN yo‘qotadi/VERB ./PUNCT
+ Elementlarning/NOUN metallik/NOUN xossalarini/NOUN solishtirish/NOUN uchun/NOUN odatda/NOUN maxsus/NOUN kattalik/NOUN ionlanish/NOUN energiyasidan/NOUN foydalaniladi/NOUN ./PUNCT
+ Metallmaslar/NOUN atomlari/NOUN tashqi/NOUN elektron/NOUN qavatida/NOUN yadro/NOUN bilan/NOUN mustahkam/NOUN bog‘langan/VERB to‘r/NOUN tta/NOUN va/NOUN undan/NOUN or/NOUN tiq/NOUN sakkiztagacha/NOUN elektron/NOUN mavjud/NOUN ./PUNCT
+ Metallmas/NOUN atomi/NOUN reaksiyaga/NOUN kirishayotganda/NOUN odatda/NOUN elektron/NOUN biriktirib/NOUN oladi/NOUN ./PUNCT
+ Metallmaslik/NOUN xossalarini/NOUN elektron/NOUN biriktirib/NOUN olish/NOUN imkoniyatini/NOUN solishtirish/NOUN uchun/NOUN maxsus/NOUN kattalik/NOUN E/NOUN elektronga/NOUN moyillik/NOUN qo‘llanadi/VERB ./PUNCT
+ Kuchli/NOUN elektroman/NOUN fiy/NOUN element/NOUN atomi/NOUN ftor/NOUN kislorod/NOUN azot/NOUN bilan/NOUN bog‘langan/VERB vodorod/NOUN atomi/NOUN boshqa/NOUN kuchli/NOUN elektromanfiy/NOUN element/NOUN atomi/NOUN bilan/NOUN yana/NOUN bir/NOUN bog‘/NOUN hosil/NOUN qilish/NOUN qobiliyatiga/NOUN ega/NOUN ./PUNCT
+ Masalan/NOUN suv/NOUN molekulasida/NOUN vodorod/NOUN kuchli/NOUN elektromanfiy/NOUN kislorod/NOUN bilan/NOUN qutbli/NOUN kovalent/NOUN bog‘/NOUN orqali/NOUN bog‘langan/VERB ./PUNCT
+ Umumiy/NOUN elektron/NOUN juft/NOUN kislorod/NOUN tomonga/NOUN siljigan/NOUN va/NOUN vodorod/NOUN musbat/NOUN zaryadlangan/NOUN kislorod/NOUN esa/NOUN manfiy/NOUN zaryadlangan/NOUN ./PUNCT
+ Suvning/NOUN bir/NOUN molekulasidagi/NOUN musbat/NOUN zaryadli/NOUN vodorod/NOUN boshqa/NOUN suv/NOUN molekulasidagi/NOUN man/NOUN fiy/NOUN zaryadlangan/NOUN kislorodga/NOUN tortiladi/NOUN ./PUNCT
+ Ikki/NOUN kislorod/NOUN atomlari/NOUN orasidagi/NOUN to‘g‘ri/ADJ chiziq/NOUN bo‘ylab/ADV vodorod/NOUN orqali/NOUN bog‘/NOUN hosil/NOUN bo‘ladi/VERB ./PUNCT
+ Suv/NOUN suyuq/NOUN ammiak/NOUN suyuq/NOUN vodorod/NOUN ftorid/NOUN ko‘plab/ADV organik/NOUN birikmalar/NOUN vodorod/NOUN bog‘iga/NOUN ega/NOUN ./PUNCT
+ Metallarga/NOUN eng/NOUN quyi/NOUN ionlanish/NOUN energiyasi/NOUN xos/NOUN va/NOUN ularda/NOUN harakatchan/NOUN elektronlar/NOUN miqdori/NOUN ko‘p/ADV ./PUNCT
+ Metall/NOUN kristallari/NOUN strukturasida/NOUN elektronlar/NOUN atomlardan/NOUN oson/NOUN uzilib/NOUN elektron/NOUN gazi/NOUN va/NOUN musbat/NOUN zaryadli/NOUN metall/NOUN ionlari/NOUN hosil/NOUN bo‘ladi/VERB elektronlar/NOUN butun/NOUN kristall/NOUN bo‘yicha/AUX umumiy/NOUN hisoblanadi/NOUN ./PUNCT
+ Metallarning/NOUN elektr/NOUN tokini/NOUN o‘tkazish/VERB xususiyati/NOUN borligini/NOUN siz/NOUN yaxshi/NOUN bilasiz/NOUN ./PUNCT
+ Boshqa/NOUN moddalar/NOUN ham/NOUN elektr/NOUN tokini/NOUN o‘tkazadimi/VERB ?/PUNCT
+ Buni/NOUN qanday/NOUN bilish/NOUN mumkin/NOUN ?/PUNCT
+ Quyidagi/NOUN tajribani/NOUN o‘tkazish/VERB bilan/NOUN turli/NOUN moddalarning/NOUN elektr/NOUN tokini/NOUN o‘tkazish/VERB xususiyati/NOUN haqida/NOUN bilib/NOUN olamiz/NOUN ./PUNCT
+ 1-/null rasmda/NOUN tasvirlanganidek/NOUN asbob/NOUN yig‘ib/NOUN olamiz/NOUN va/NOUN asbob/NOUN elektrodlarini/NOUN quruq/NOUN osh/NOUN tuziga/NOUN qo‘yamiz/VERB ./PUNCT
+ Lampochka/NOUN yonmaydi/NOUN ./PUNCT
+ Asbobning/NOUN elektrodlarini/NOUN distillangan/NOUN suvga/NOUN tushiramiz/NOUN bunda/NOUN ham/NOUN lampochka/NOUN yonmadi/NOUN ./PUNCT
+ Demak/NOUN quruq/NOUN osh/NOUN tuzi/NOUN va/NOUN distillangan/NOUN suv/NOUN elektr/NOUN tokini/NOUN o‘tkazmaydi/VERB ./PUNCT
+ Osh/NOUN tuzini/NOUN suvda/NOUN eritib/NOUN eritmaga/NOUN asbobning/NOUN elektrodlarini/NOUN tushiramiz/NOUN ./PUNCT
+ Bunda/NOUN lampochka/NOUN yonadi/NOUN ./PUNCT
+ Demak/NOUN osh/NOUN tuzining/NOUN suvdagi/NOUN eritmasi/NOUN elektr/NOUN tokini/NOUN o‘tkazadi/VERB ./PUNCT
+ Istalgan/NOUN moddani/NOUN shu/NOUN yo‘l/NOUN bilan/NOUN elek/NOUN tr/NOUN tokini/NOUN o‘tkazish/VERB yoki/NOUN o‘tkazmaslik/NOUN xususiyatini/NOUN tekshirib/NOUN ko‘rish/VERB mumkin/NOUN ./PUNCT
+ Moddalar/NOUN elektr/NOUN tokini/NOUN o‘tkazish/VERB yoki/NOUN o‘tkazmasligiga/NOUN qarab/NOUN ikki/NOUN guruh/NOUN elektrolitlar/NOUN va/NOUN noelektrolitlarga/NOUN bo‘linadi/VERB ./PUNCT
+ Eritmalari/NOUN yoki/NOUN suyuqlanmalari/NOUN elektr/NOUN tokini/NOUN o‘tkazadigan/VERB moddalar/NOUN elektrolitlar/NOUN deyiladi/NOUN ./PUNCT
+ Elektrolitlarning/NOUN eritmalarida/NOUN sodir/NOUN bo‘ladigan/VERB kimyoviy/NOUN reaksiyalar/NOUN elektrolit/NOUN moddaning/NOUN dissotsiatsiyalanishidan/NOUN hosil/NOUN bo‘lgan/VERB ionlar/NOUN ishtirokida/NOUN amalga/NOUN oshadi/NOUN ./PUNCT
+ Ionlar/NOUN orasida/NOUN boradigan/NOUN kimyoviy/NOUN reaksiyalarning/NOUN tenglamalarini/NOUN tuzishda/NOUN kuchli/NOUN elektrolit/NOUN moddani/NOUN dissotsiatsiyalangan/NOUN holda/NOUN kuchsiz/NOUN elektrolitlar/NOUN suvda/NOUN erimaydigan/NOUN cho‘kma/NOUN moddalar/NOUN gaz/NOUN holatga/NOUN o‘tib/VERB reaksiya/NOUN muhitidan/NOUN chiqib/NOUN ketadigan/NOUN moddalarning/NOUN molekulyar/NOUN formulalarini/NOUN yozamiz/NOUN ./PUNCT
+ Elektrolitlarning/NOUN va/NOUN eritmalari/NOUN orasida/NOUN sodir/NOUN bo‘ladigan/VERB reaksiyalarni/NOUN quyidagi/NOUN guruhlarga/NOUN bo‘lib/VERB o‘rganamiz/VERB ./PUNCT
+ Olmosda/NOUN uglerod/NOUN atomlari/NOUN orasidagi/NOUN bog‘/NOUN bir/NOUN xil/NOUN va/NOUN har/NOUN bir/NOUN atom/NOUN to‘r/NOUN tta/NOUN boshqa/NOUN atomlar/NOUN bilan/NOUN tetraedr/NOUN uchlariga/NOUN yo‘nalgan/VERB qutbsiz/NOUN kovalent/NOUN bog‘/NOUN hosil/NOUN qiladi/NOUN ./PUNCT
+ Olmos/NOUN issiqlikni/NOUN yaxshi/NOUN o‘tkazadi/VERB lekin/NOUN elektr/NOUN tokini/NOUN deyarli/NOUN o‘tkazmaydi/VERB ./PUNCT
+ Olmosning/NOUN yirik/NOUN tiniq/NOUN kristallari/NOUN brilliantlar/NOUN holida/NOUN qay/NOUN ta/NOUN ishlanib/NOUN qimmatbaho/NOUN zargarlik/NOUN buyumlari/NOUN tayyorlashda/NOUN ishlatiladi/NOUN ./PUNCT
+ Texnik/NOUN olmos/NOUN sunʼiy/NOUN usulda/NOUN olinadi/NOUN ./PUNCT
+ Undan/NOUN texnikada/NOUN pardozlovchi/NOUN vositalar/NOUN oyna/NOUN kesish/NOUN metallarga/NOUN va/NOUN boshqa/NOUN qattiq/NOUN materiallarga/NOUN ishlov/NOUN berish/NOUN uskunalari/NOUN tayyorlanadi/NOUN ./PUNCT
+ Grafit/NOUN metall/NOUN yaltiroqligiga/NOUN ega/NOUN bo‘lgan/VERB yumshoq/NOUN qora/NOUN rangli/NOUN kristall/NOUN modda/NOUN ./PUNCT
+ Grafitda/NOUN uglerod/NOUN atomlari/NOUN qatlamlar/NOUN holida/NOUN joylashadi/NOUN ./PUNCT
+ Bir/NOUN qatlam/NOUN tekisligida/NOUN joylashgan/NOUN uglerod/NOUN atomlari/NOUN orasidagi/NOUN bog‘dan/NOUN qatlamlararo/NOUN uglerod/NOUN bog‘-/NOUN lari/NOUN kuch/NOUN sizroqligi/NOUN uchun/NOUN qat/NOUN tiq/NOUN yuzaga/NOUN ishqalanganda/NOUN grafit/NOUN yemiriladi/NOUN ./PUNCT
+ Undan/NOUN quruq/NOUN surkov/NOUN vositasi/NOUN sifatida/NOUN elektrodlar/NOUN qalamlar/NOUN ishlab/NOUN chiqarishda/NOUN foydalaniladi/NOUN ./PUNCT
+ Yog‘och/NOUN ko‘miri/NOUN pista/NOUN ko‘mir/NOUN koks/NOUN hayvon/NOUN ko‘miri/NOUN qurum/NOUN grafitning/NOUN juda/NOUN mayda/NOUN kristallari/NOUN to‘plamidan/NOUN iborat/NOUN bo‘ladi/VERB ./PUNCT
+ Havo/NOUN tarkibidagi/NOUN karbonat/NOUN angidridning/NOUN uglerodi/NOUN fotosintez/NOUN jarayonida/NOUN o‘simliklar/NOUN tomonidan/NOUN o‘zlashtiriladi/VERB ./PUNCT
+ O‘simliklar/NOUN tarkibidagi/NOUN uglerod/NOUN hayvon/NOUN organizmlariga/NOUN o‘tadi/VERB ./PUNCT
+ Toshko‘mir/VERB neft/NOUN yonuvchi/NOUN tabiiy/NOUN gazlar/NOUN o‘simliklar/NOUN va/NOUN hayvonlar/NOUN qoldiqlari/NOUN -/null dan/NOUN hosil/NOUN bo‘lgan/VERB ./PUNCT
+ O‘simlik/NOUN va/NOUN hayvonlar/NOUN nafas/NOUN olishi/NOUN hayotiy/NOUN faoliyati/NOUN natijasida/NOUN toshko‘mir/VERB neft/NOUN tabiiy/NOUN gazlarning/NOUN yonishidan/NOUN vulqonlar/NOUN otilishidan/NOUN mineral/NOUN manbalarning/NOUN nu/NOUN u/PUNCT

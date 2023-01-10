@@ -26,6 +26,7 @@ def run():
         x = datetime.datetime.now()
         print("tokenlash boshlandi: ", x.strftime("%H:%M:%S"))
 
+
         tokens = service_to_uzbek_text.word_tokenizer(text)
 
         x = datetime.datetime.now()
@@ -53,5 +54,27 @@ def run():
         x = datetime.datetime.now()
         print("yozish tugadi: ", x.strftime("%H:%M:%S"))
 
+def analysis():
+    entrs = my_path.read_text_files_name_from_dir("corpus")
+    mylist=[]
+    for entr in entrs:
 
+        #print(entr)
+        a = open("corpus/" + entr, 'r', encoding='utf8')
+        text = a.read()
+        a.close()
+
+        tokens = service_to_uzbek_text.word_tokenizer(text)
+        sent=service_to_uzbek_text.sent_tokenizer(text)
+        mylist.append({'file':entr,'sent':len(sent),'token':len(tokens)})
+    print(mylist)
+    text=""
+    for raw in mylist:
+
+        text =text+ str(raw['file'][:-4])+' '+str(raw['sent'])+' '+str(raw['token'])+"\n"
+    f = open("analysis_corpus", 'w', encoding='utf8')
+    f.write(text)
+
+
+#analysis()
 

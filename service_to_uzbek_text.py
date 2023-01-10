@@ -1,7 +1,8 @@
+import nltk.tokenize
 from nltk.tokenize import RegexpTokenizer
 
 def text_normalizer(text):
-    text=text.lower()
+    #text=text.lower()
     text = text.replace("'", "‘")
     text = text.replace("`", "‘")
     text = text.replace("‘", "‘")
@@ -37,5 +38,9 @@ def word_tokenizer(text):
     tokens = tokenize.tokenize(text)
     return tokens
 
+#import nltk
+#nltk.download('punkt')
+
 def sent_tokenizer(text):
-    pass
+    sent=nltk.tokenize.sent_tokenize(text)
+    return sent

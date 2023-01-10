@@ -1,0 +1,85 @@
+ Dehqonlar/NOUN va/NOUN ular/NOUN xo‘jaligidagi/NOUN hayot/NOUN ./PUNCT
+ Qabila/NOUN boshliqlari/NOUN ishboshilar/NOUN o‘zlariga/VERB tegishli/NOUN yer/NOUN maydonlarini/NOUN sug‘orish/VERB tarmoqlarining/NOUN yuqori/NOUN qismidan/NOUN ayniqsa/NOUN to‘g‘on/NOUN boshi/NOUN atrofidan/NOUN ajratib/NOUN olganlar/NOUN ./PUNCT
+ Bu/NOUN yo‘l/NOUN bilan/NOUN ular/NOUN suvdan/NOUN dehqonchilikda/NOUN bemalol/NOUN foydalanish/NOUN suv/NOUN taqsimotini/NOUN nazoratga/NOUN olib/NOUN qishloq/NOUN aholisi/NOUN ustidan/NOUN o‘z/VERB ta‘sirini/NOUN o‘tkazish/VERB imkoniyatiga/NOUN ega/NOUN bo‘lganlar/VERB ./PUNCT
+ Shu/NOUN tariqa/NOUN ular/NOUN ziroatkor/NOUN aholi/NOUN ustidan/NOUN hukmronlik/NOUN qila/NOUN boshlaganlar/NOUN ./PUNCT
+ O‘sha/VERB davrda/NOUN ular/NOUN dehqonlar/NOUN deb/NOUN atalgan/NOUN ./PUNCT
+ Dehqonlar/NOUN shaharlarda/NOUN hashamatli/NOUN qasr/NOUN va/NOUN saroylarga/NOUN savdo/NOUN va/NOUN hunarmandchilik/NOUN do‘kon-u/NOUN rastalaridan/NOUN iborat/NOUN kattagina/NOUN xo‘jalikka/NOUN ham/NOUN ega/NOUN bo‘lganlar/VERB ./PUNCT
+ Qishloqlarda/NOUN esa/NOUN ekinzor/NOUN paykallardan/NOUN tashqari/NOUN ularning/NOUN ko‘shk/NOUN va/NOUN istehkomli/NOUN qo‘rg‘onlari/VERB tegirmonlari/NOUN bo‘lgan/VERB ./PUNCT
+ Ko‘pdan/ADV ko‘p/ADV xizmatkorlar/NOUN dehqonlarning/NOUN xo‘jaligida/NOUN qishin-yozin/ADV mehnat/NOUN qilganlar/NOUN ./PUNCT
+ Har/NOUN bir/NOUN katta/NOUN yer/NOUN egasining/NOUN 30/NOUN 40/NOUN 50/NOUN 100/NOUN va/NOUN ba‘zan/ADV undan/NOUN ortiq/NOUN maxsus/NOUN askarlar/NOUN guruhi/NOUN chokarlari/NOUN bo‘lgan/VERB ./PUNCT
+ Chokarlar/NOUN baquvvat/NOUN va/NOUN abjir/NOUN hamda/NOUN o‘z/VERB xojasiga/NOUN sadoqatli/NOUN o‘spirinlardan/VERB tanlab/NOUN olingan/NOUN ./PUNCT
+ Bunday/NOUN sodiq/NOUN va/NOUN jangovar/NOUN chokarlari/NOUN bilan/NOUN dehqonlar/NOUN yov/NOUN hujumi/NOUN paytlarida/NOUN dushmanga/NOUN qarshi/NOUN harbiy/NOUN yurishlarda/NOUN qatnashgan/NOUN ./PUNCT
+ Boshqa/NOUN vaqtlarda/NOUN ular/NOUN dehqon/NOUN xo‘jaligidagi/NOUN tartibga/NOUN qarab/NOUN turganlar/NOUN ./PUNCT
+ Qishloqlarda/NOUN dehqonlarning/NOUN mavqeyi/NOUN ortib/NOUN katta-katta/ADJ yerlarga/NOUN ega/NOUN bo‘lib/VERB oldilar/NOUN ./PUNCT
+ Bu/NOUN esa/NOUN o‘z/VERB navbatida/NOUN mamlakatning/NOUN ijtimoiy/NOUN hayotiga/NOUN ta‘sir/NOUN o‘tkazdi/VERB ./PUNCT
+ Yer/NOUN egaligining/NOUN tarkib/NOUN topishi/NOUN oqibatida/NOUN mamlakatning/NOUN ijtimoiy/NOUN hayotida/NOUN keskin/NOUN o‘zgarishlar/VERB sodir/NOUN bo‘ldi/VERB ./PUNCT
+ Qishloq/NOUN jamoalari/NOUN yerli/NOUN mulkdor/NOUN dehqon/NOUN va/NOUN unga/NOUN qaram/NOUN bo‘lgan/VERB yersiz/NOUN va/NOUN erksiz/NOUN kadivarlarga/NOUN ajralib/NOUN borgan/NOUN ./PUNCT
+ Qishloq/NOUN jamoalari/NOUN yerlarida/NOUN yashab/NOUN yer/NOUN va/NOUN suvdan/NOUN iborat/NOUN umumiy/NOUN mulkka/NOUN ega/NOUN bo‘lgan/VERB erkin/NOUN ziroatchilar/NOUN tabaqasi/NOUN kashovarzlar/NOUN deb/NOUN atalardi/NOUN ./PUNCT
+ Keyinchalik/NOUN ularning/NOUN ma‘lum/ADJ bir/NOUN qismi/NOUN Xo‘jalik/NOUN hayoti/NOUN ./PUNCT
+ Eftallar/NOUN davlatiga/NOUN birlashgan/NOUN aholining/NOUN etnik/NOUN tarkibi/NOUN xilma-xil/NOUN bo‘lgan/VERB ./PUNCT
+ Iqtisodiy-savdo/ADJ munosabatlarining/NOUN izchil/NOUN yo‘lga/NOUN qo‘yilishi/VERB mamlakatda/NOUN dehqonchilik/NOUN sunʼiy/NOUN sug‘orish/VERB chorvachilik/NOUN bog‘dorchilik/NOUN va/NOUN hunarmandchilik/NOUN ravnaq/NOUN topishiga/NOUN asos/NOUN bo‘lgan/VERB ./PUNCT
+ Hozirgi/NOUN vaqtda/NOUN ham/NOUN Toshkent/NOUN vohasi/NOUN va/NOUN Janubiy/NOUN Qozog‘iston/NOUN yerlarining/NOUN bir/NOUN qismini/NOUN suv/NOUN bilan/NOUN ta‘minlab/VERB turgan/NOUN Zog‘ariq/NOUN Zovariq/NOUN va/NOUN Bo‘zsuv/ADJ Samarqand/NOUN viloyati/NOUN janubiy/NOUN tumanlarining/NOUN asosiy/NOUN suv/NOUN manbayi/NOUN Darg‘om/NOUN kanali/NOUN V/NOUN asrda/NOUN barpo/NOUN etilgan/NOUN eng/NOUN yirik/NOUN sug‘orish/VERB tarmoqlaridan/NOUN hisoblanadi/NOUN ./PUNCT
+ Savdo/NOUN va/NOUN pul/NOUN muomalasi/NOUN ./PUNCT
+ Tashqi/NOUN savdo/NOUN bojidan/NOUN manfaatdor/NOUN bo‘lgan/VERB eftallar/NOUN Ipak/NOUN yo‘li/NOUN ni/NOUN o‘z/VERB nazoratlari/NOUN ostida/NOUN tutib/NOUN turishga/NOUN harakat/NOUN qilgan/NOUN ./PUNCT
+ Xitoy/NOUN Hindiston/NOUN Eron/NOUN va/NOUN Vizantiya/NOUN bilan/NOUN bo‘lgan/VERB xalqaro/NOUN savdoda/NOUN faol/NOUN qatnashgan/NOUN ./PUNCT
+ Ipak/NOUN yo‘li/NOUN savdosida/NOUN sosoniy/NOUN savdogarlari/NOUN bilan/NOUN raqobatda/NOUN asosan/NOUN sug‘diylar/NOUN vositachi/NOUN bo‘lgan/VERB ./PUNCT
+ Bu/NOUN esa/NOUN o‘z/VERB o‘rnida/NOUN yo‘l/NOUN qatnov/NOUN ta‘minot/NOUN xizmat/NOUN ko‘rsatish/VERB tarmoqlarining/NOUN kengayib/NOUN borishiga/NOUN yo‘l/NOUN ochgan/NOUN ./PUNCT
+ Tashqi/NOUN savdoda/NOUN ipak/NOUN lok/NOUN bo‘yoqlar/NOUN rangli/NOUN shishalar/NOUN qimmatbaho/NOUN toshlar/NOUN arg‘umoq/VERB otlar/NOUN matolar/NOUN shirinliklar/NOUN qurol-yarog‘/NOUN kabi/NOUN noyob/NOUN mahsulotlar/NOUN bozori/NOUN chaqqon/NOUN bo‘lgan/VERB ./PUNCT
+ Xalqaro/NOUN savdo/NOUN aloqalarining/NOUN rivojlanishi/NOUN bilan/NOUN mamlakatda/NOUN tanga/NOUN pul/NOUN muomalasi/NOUN tartibga/NOUN solinadi/NOUN ./PUNCT
+ Ichki/NOUN va/NOUN tashqi/NOUN savdo/NOUN munosabatlarida/NOUN eftallar/NOUN dastavval/NOUN sosoniy/NOUN hukmdorlarining/NOUN kumush/NOUN tangalaridan/NOUN keng/NOUN foydalanadilar/NOUN ./PUNCT
+ Bulardan/NOUN tashqari/NOUN Buxoro/NOUN Poykand/NOUN Vardona/NOUN Naxshab/NOUN Samarqand/NOUN va/NOUN Xorazmda/NOUN mahalliy/NOUN hokimlar/NOUN tomonidan/NOUN chiqarilgan/NOUN chaqa/NOUN tangalar/NOUN mamlakatning/NOUN ichki/NOUN savdosida/NOUN keng/NOUN muomalada/NOUN bo‘lgan/VERB ./PUNCT
+ Xoqonlikning/NOUN tashkil/NOUN topishi/NOUN ./PUNCT
+ VI/NOUN asr/NOUN o‘rtalarida/ADJ Oltoy/NOUN va/NOUN Janubiy/NOUN Sibirda/NOUN yashagan/NOUN turkiy/NOUN qabilalarni/NOUN birlashtirgan/NOUN yangi/NOUN davlat/NOUN vujudga/NOUN keldi/NOUN ./PUNCT
+ Bu/NOUN davlat/NOUN tarixga/NOUN Turk/NOUN xoqonligi/NOUN nomi/NOUN bilan/NOUN kirgan/NOUN ./PUNCT
+ Uning/NOUN asoschisi/NOUN Bumin edi/VERB ./PUNCT
+ 552-yilda/null Bumin/NOUN xoqon/NOUN deb/NOUN e‘lon/NOUN qilindi/NOUN ./PUNCT
+ Oltoy/NOUN xoqonlikning/NOUN markazi/NOUN qilib/NOUN belgilanadi/NOUN ./PUNCT
+ Turklarning/NOUN g‘arbga/NOUN tomon/NOUN yurishlariga/NOUN Istami/NOUN boshchilik/NOUN qiladi/NOUN ./PUNCT
+ Unga/NOUN Yabg‘u/null xoqon/NOUN degan/NOUN unvon/NOUN beriladi/NOUN ./PUNCT
+ Tez/NOUN orada/NOUN Yettisuv/NOUN va/NOUN Sharqiy/NOUN Turkistonga/NOUN tutashgan/NOUN yurtlarda/NOUN yashovchi/NOUN turkiy/NOUN qabilalar/NOUN bo‘ysundiriladi/VERB ./PUNCT
+ 555-yildayoq/null turklar/NOUN Sirdaryo/NOUN va/NOUN Orol/NOUN dengizi/NOUN bo‘ylarigacha/VERB cho‘zilgan/VERB keng/NOUN o‘lkalarni/NOUN egallaydilar/NOUN ./PUNCT
+ Xoqonlik/NOUN chegarasi/NOUN Eftallar/NOUN davlati/NOUN hududlariga/NOUN tutashib/NOUN ketgan/NOUN ./PUNCT
+ Natijada/NOUN Eftallar/NOUN davlatining/NOUN shimoliy/NOUN hududlari/NOUN xavf/NOUN ostida/NOUN qoldi/NOUN ./PUNCT
+ Bunday/NOUN qulay/NOUN vaziyatdan/NOUN foydalangan/NOUN sosoniylar/NOUN Toxariston/NOUN va/NOUN Chag‘oniyonni/NOUN eftallardan/NOUN tortib/NOUN oladilar/NOUN ./PUNCT
+ Turk/NOUN xoqonligining/NOUN eftallar/NOUN bilan/NOUN to‘qnashishi/ADJ muqarrar edi/VERB ./PUNCT
+ Bunday/NOUN murakkab/NOUN siyosiy/NOUN vaziyat/NOUN xoqonlikni/NOUN Eron/NOUN so‘ngra/ADV Vizantiya/NOUN bilan/NOUN yaqinlashtiradi/NOUN ./PUNCT
+ Uzoq/NOUN vaqt/NOUN eftallar/NOUN tazyiqida/NOUN yashagan/NOUN sosoniylar/NOUN bu/NOUN davlatning/NOUN tamomila/NOUN barbod/NOUN bo‘lishidan/VERB manfaatdor edi/VERB ./PUNCT
+ Xusrav/NOUN I/NOUN Anushervon/NOUN 531/NOUN 579/NOUN tashabbusi/NOUN bilan/NOUN yuzaga/NOUN kelgan/NOUN o‘zaro/ADV harbiy/NOUN ittifoq/NOUN Eron/NOUN shohining/NOUN Istamiga/NOUN kuyov/NOUN bo‘lishi/VERB orqali/NOUN yanada/NOUN mustahkamlanadi/NOUN ./PUNCT
+ Eron/NOUN askarlarining/NOUN Balxga/NOUN hujumi/NOUN ko‘magida/NOUN turklar/NOUN 563-yilda/null Eftallar/NOUN davlati/NOUN yerlariga/NOUN bostirib/NOUN kiradilar/NOUN ./PUNCT
+ Parak/NOUN Chirchiq/NOUN vodiysi/NOUN va/NOUN uning/NOUN markazi/NOUN Choch/NOUN shahri/NOUN ishg‘ol/NOUN qilinadi/NOUN ./PUNCT
+ Sirdaryodan/NOUN o‘tib/VERB Zarafshon/NOUN vodiysiga/NOUN kirib/NOUN boradilar/NOUN ./PUNCT
+ Ular/NOUN Samarqand/NOUN Kesh/NOUN va/NOUN Naxshabni/NOUN egallab/NOUN Buxoroga/NOUN yaqinlashadilar/NOUN ./PUNCT
+ Sakkiz/NOUN kun/NOUN davom/NOUN etgan/NOUN shiddatli/NOUN jangda/NOUN eftallar/NOUN qo‘shini/VERB yengiladi/NOUN ./PUNCT
+ Toxariston/NOUN nomi/NOUN qadimda/NOUN Yunon-Baqtriya/NOUN davlatini/NOUN qulatgan/NOUN chorvador/NOUN qabila/NOUN yuechjilar/NOUN nomidan/NOUN olingan/NOUN ./PUNCT
+ Toxariston/NOUN hukmdorlari/NOUN dastlab/NOUN malikshoh/NOUN keyinchalik/NOUN yabg‘u/null nomi/NOUN bilan/NOUN atalgan/NOUN ./PUNCT
+ Toxariston/NOUN aholisining/NOUN asosiy/NOUN qismi/NOUN o‘troq/VERB dehqonchilik/NOUN bilan/NOUN shug‘ullangan/VERB ./PUNCT
+ Hunarmandchilikda/NOUN qurolsozlik/NOUN shishasozlik/NOUN to‘qimachilik/NOUN yuksalgan/NOUN ./PUNCT
+ Toxariston/NOUN Hindiston/NOUN Yaqin/NOUN va/NOUN Uzoq/NOUN Sharq/NOUN mamlakatlari/NOUN bilan/NOUN savdo-madaniy/NOUN aloqalar/NOUN o‘rnatgan/VERB o‘z/VERB chaqa-tangalari/NOUN ichki/NOUN savdo/NOUN muomalasida/NOUN yurgan/NOUN ./PUNCT
+ Farg‘ona/NOUN ./PUNCT
+ Farg‘ona/NOUN hukmdorlari/NOUN ixshid/NOUN deb/NOUN atalgan/NOUN ./PUNCT
+ Farg‘ona/NOUN yerlari/NOUN juda/NOUN hosildor/NOUN bo‘lib/VERB aholisi/NOUN dehqonchilik/NOUN bilan/NOUN kun/NOUN kechirgan/NOUN paxta/NOUN va/NOUN sholi/NOUN ekkan/NOUN ./PUNCT
+ Koson/NOUN Axsikat/NOUN Xushkat/NOUN va/NOUN Quva/NOUN Qubo/NOUN kabi/NOUN yirik/NOUN markaziy/NOUN shaharlarida/NOUN hunarmandchilikning/NOUN turli/NOUN sohalari/NOUN rivoj/NOUN topib/NOUN ularning/NOUN mahsulotlari/NOUN ichki/NOUN va/NOUN tashqi/NOUN bozorlarda/NOUN juda/NOUN xaridorgir/NOUN bo‘lgan/VERB ./PUNCT
+ Qo‘shni/NOUN mamlakatlarga/NOUN bo‘yoq/NOUN rangli/NOUN shisha/NOUN buyumlar/NOUN va/NOUN dori-darmonlar/NOUN chiqarilgan/NOUN ./PUNCT
+ Farg‘ona/NOUN vodiysida/NOUN o‘troq/VERB aholi/NOUN bilan/NOUN bir/NOUN qatorda/NOUN chorvadorlar/NOUN ham/NOUN yashaganlar/NOUN ./PUNCT
+ Qurama/NOUN va/NOUN Qoramozor/NOUN tog‘lari/NOUN yon/NOUN -/null bag‘irlarida/NOUN qadimdan/NOUN yilqichilik/NOUN bilan/NOUN shug‘ullanilgan/VERB ./PUNCT
+ Bu/NOUN vodiyda/NOUN ko‘paytirilgan/VERB tulpor/NOUN otlarning/NOUN dong‘i/NOUN jahonga/NOUN taralgan/NOUN ./PUNCT
+ VIII/NOUN asr/NOUN mobaynida/NOUN yirik/NOUN dehqonlar/NOUN qo‘li/NOUN ostidagi/NOUN yermulklari/NOUN arab/NOUN harbiy/NOUN mulkdorlarga/NOUN o‘tishi/VERB ro‘y/NOUN berdi/NOUN ./PUNCT
+ Arab/NOUN zodagonlarining/NOUN dehqonlar/NOUN bilan/NOUN yaqinlashishi/NOUN shu/NOUN davrda/NOUN kuchaygan/NOUN ./PUNCT
+ Dehqonlarning/NOUN arablar/NOUN bilan/NOUN yaqinlashuvi/NOUN ularni/NOUN istilochilar/NOUN uchun/NOUN ishonchli/NOUN xizmatkorligini/NOUN ta‘minlash/VERB bilan/NOUN bir/NOUN qatorda/NOUN yer-mulklari/NOUN va/NOUN boshqa/NOUN boyliklarini/NOUN muhofaza/NOUN qilishiga/NOUN imkoniyat/NOUN yaratdi/NOUN ./PUNCT
+ Dehqonlar/NOUN arablar/NOUN istilosidan/NOUN so‘ng/ADJ xalifalik/NOUN noibining/NOUN vakili/NOUN hisoblangan/NOUN amirga/NOUN bo‘ysunganlar/VERB ./PUNCT
+ Biroq/NOUN amir/NOUN bilan/NOUN bir/NOUN qatorda/NOUN yirik/NOUN yer/NOUN egalari/NOUN buxorxudotlarning/NOUN ham/NOUN mavqeyi/NOUN baland/NOUN bo‘lgan/VERB ./PUNCT
+ Narshaxiyning/NOUN ma‘lumotlariga/NOUN ko‘ra/AUX ayrim/NOUN dehqonlar/NOUN Buxoro/NOUN amiri/NOUN va/NOUN buxorxudotlar/NOUN ularning/NOUN o‘z/VERB yerlarini/NOUN tortib/NOUN olganligi/NOUN shikoyatini/NOUN Xuroson/NOUN noibiga/NOUN yetkazganlar/NOUN ./PUNCT
+ Movarounnahrdagi/NOUN qishloqlarda/NOUN yerlar/NOUN mayda/NOUN xo‘jaliklar/NOUN tomonidan/NOUN ishlov/NOUN berilgan/NOUN ./PUNCT
+ Dehqonlar/NOUN yerlarni/NOUN mayda/NOUN bo‘laklarga/ADJ taqsimlab/NOUN ziroatkorlarga/NOUN kadivar/NOUN va/NOUN kashovarzlarga/NOUN ijara/NOUN tarzida/NOUN bo‘lib/VERB berishgan/NOUN ./PUNCT
+ Buning/NOUN uchun/NOUN ziroatkorlar/NOUN soliq/NOUN to‘lashgan/VERB ./PUNCT
+ Dehqonlar/NOUN va/NOUN amirlar/NOUN soliqning/NOUN xalifa/NOUN xazinasiga/NOUN tushishida/NOUN vositachilik/NOUN qilishgan/NOUN ./PUNCT
+ Aholini/NOUN islomlashtirish/NOUN yo‘llari/NOUN ./PUNCT
+ Islom/NOUN dinini/NOUN qabul/NOUN qilib/NOUN musulmon/NOUN bo‘lgan/VERB mahalliy/NOUN aholi/NOUN vakillari/NOUN dastlabki/NOUN yillarda/NOUN xiroj/NOUN va/NOUN jizya/NOUN soliqlaridan/NOUN ozod/NOUN etilgan/NOUN ./PUNCT
+ Islomni/NOUN qabul/NOUN qilmaganlardan/NOUN esa/NOUN jon/NOUN solig‘i/NOUN jizya/NOUN undirilib/NOUN olingan/NOUN ./PUNCT
+ Soliqlarni/NOUN o‘z/VERB vaqtida/NOUN to‘lamagan/VERB kishilarning/NOUN bo‘yinlariga/NOUN qarzdor/NOUN deb/NOUN yozilgan/NOUN taxtacha/NOUN osib/NOUN qo‘yilardi/VERB ./PUNCT
+ Mahalliy/NOUN davlat/NOUN boshliqlarining/NOUN ko‘pchiligi/NOUN o‘z/VERB huquqlari/NOUN va/NOUN imtiyozlarini/NOUN saqlab/NOUN qolish/NOUN maqsadida/NOUN Islom/NOUN dinini/NOUN qabul/NOUN qilgan/NOUN ./PUNCT
+ Islomni/NOUN qabul/NOUN qilmagan/NOUN zodagonlar/NOUN o‘z/VERB yerlaridan/NOUN mahrum/NOUN etilgan/NOUN yoki/NOUN tovon/NOUN to‘lagan/VERB ./PUNCT
+ Bunday/NOUN tadbir/NOUN va/NOUN choralar/NOUN Movarounnahr/NOUN aholisi/NOUN o‘rtasida/ADJ Islom/NOUN dinining/NOUN tez/NOUN tarqalishiga/NOUN yordam/NOUN bergan/NOUN ./PUNCT
+ Shu/NOUN tarzda/NOUN arablar/NOUN Movarounnahr/NOUN siyosiy/NOUN tizimi/NOUN va/NOUN diniy/NOUN e‘tiqodiga/NOUN o‘z/VERB ta‘sirini/NOUN o‘tkaza/VERB olganlar/NOUN ./PUNCT
+ Xalifalik/NOUN tomonidan/NOUN Movarounnahrning/NOUN bosib/NOUN olinishi/NOUN oqibatida/NOUN mahalliy/NOUN xalqning/NOUN urf-odati/NOUN dini/NOUN va/NOUN e‘tiqodi/NOUN madaniyati/NOUN Jizya/NOUN Islomni/NOUN qabul/NOUN qilmagan/NOUN aholidan/NOUN olinadigan/NOUN jon/NOUN solig‘i/NOUN Zakot/NOUN mol-mulkning/NOUN 1/NOUN 40/NOUN qismi/NOUN hajmida/NOUN olingan/NOUN soliq/NOUN Xiroj/NOUN hosilning/NOUN 1/NOUN 3/NOUN qismi/NOUN hajmida/NOUN olinadigan/NOUN yer/NOUN solig‘i/NOUN Masjid/NOUN machit/NOUN arabcha/NOUN sajda/NOUN qilinadigan/NOUN joy/NOUN musulmonlar/NOUN jamoa/NOUN bo‘lib/VERB namoz/NOUN o‘qiydigan/VERB joy/NOUN ibodatxona/NOUN 33/NOUN poymol/NOUN etildi/NOUN ./PUNCT
+ Xalifalikning/NOUN talonchilik/NOUN siyosati/NOUN mahalliy/NOUN xalqni/NOUN barcha/NOUN haq-huquqlardan/NOUN mahrum/NOUN etdi/NOUN ./PUNCT

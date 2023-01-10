@@ -1,0 +1,81 @@
+ Fizikada/NOUN tabiatdagi/NOUN jarayon/NOUN va/NOUN hodisalarni/NOUN o‘rganishda/VERB o‘ziga/VERB xos/NOUN tadqiqot/NOUN metodlari/NOUN mavjud/NOUN ./PUNCT
+ Fizika/NOUN eksperimental/NOUN fan/NOUN hisoblanadi/NOUN ./PUNCT
+ Shu/NOUN bois/NOUN tajriba/NOUN o‘tkazish/VERB jarayoni/NOUN alohida/NOUN sharoitni/NOUN talab/NOUN qiladi/NOUN ./PUNCT
+ Bunda/NOUN o‘rganilayotgan/VERB jarayonga/NOUN tashqi/NOUN ta‘sir/NOUN ko‘rsatilmasligiga/NOUN harakat/NOUN qilinadi/NOUN ./PUNCT
+ Bundan/NOUN tashqari/NOUN jarayonlarga/NOUN tegishli/NOUN fi/NOUN zik/NOUN parametrlar/NOUN orasidagi/NOUN bog‘lanishni/VERB matematik/NOUN ifodalar/NOUN orqali/NOUN beriladi/NOUN ./PUNCT
+ Shunga/NOUN ko‘ra/AUX fi/NOUN ziklar/NOUN jarayon/NOUN larning/NOUN bundan/NOUN keyingi/NOUN borishini/NOUN yoki/NOUN oldin/NOUN qanday/NOUN bo‘lganligini/NOUN juda/NOUN aniq/NOUN aytib/NOUN berishga/NOUN muvaffaq/NOUN bo‘ldilar/VERB ./PUNCT
+ Buyuk/NOUN italyan/NOUN fi/NOUN zigi/NOUN Galileo/NOUN Galiley/NOUN shunday/NOUN deb/NOUN yozgan edi/VERB Tabiat/NOUN kitobi/NOUN ni/NOUN tushunish/NOUN uchun/NOUN uning/NOUN yozilgan/NOUN tilini/NOUN bilishing/NOUN kerak/NOUN ./PUNCT
+ Bu/NOUN til/NOUN matematikadir/NOUN ./PUNCT
+ Kuzatishlardan/NOUN ko‘pgina/ADV hodisalar/NOUN uchun/NOUN ma‘lum/ADJ bir/NOUN qonuniyatlar/NOUN mavjud/NOUN ekanligi/NOUN taxmin/NOUN qilinadi/NOUN ./PUNCT
+ Bunday/NOUN taxminlar/NOUN ilmiy/NOUN gipoteza/NOUN deyiladi/NOUN ./PUNCT
+ Gipotezani/NOUN tekshirish/NOUN uchun/NOUN olimlar/NOUN tajriba/NOUN eksperiment/NOUN o‘tkazishadi/VERB ./PUNCT
+ Buning/NOUN uchun/NOUN tabiiy/NOUN sharoitga/NOUN yaqinlashtirilgan/NOUN maxsus/NOUN sharoitlar/NOUN yaratiladi/NOUN ./PUNCT
+ Gipotezani/NOUN shakllantirish/NOUN va/NOUN eksperiment/NOUN o‘tkazish/VERB hamda/NOUN uning/NOUN natijala/NOUN rini/NOUN tushuntirish/NOUN uchun/NOUN mazkur/NOUN jarayon/NOUN yoki/NOUN hodisaning/NOUN modeli/NOUN tuziladi/NOUN ./PUNCT
+ Biror/NOUN bir/NOUN jarayonning/NOUN modeli/NOUN deyilganda/NOUN uning/NOUN ixchamlashgan/NOUN tartibga/NOUN solingan/NOUN muhim/NOUN jihatlari/NOUN ajratib/NOUN ko‘rsatilgan/VERB holati/NOUN tushuniladi/NOUN ./PUNCT
+ Bunga/NOUN misol/NOUN sifatida/NOUN moddiy/NOUN nuqta/NOUN va/NOUN ideal/NOUN gaz/NOUN tushunchalarini/NOUN misol/NOUN qilib/NOUN aytish/NOUN mumkin/NOUN ./PUNCT
+ Eksperiment/NOUN o‘tkazish/VERB jarayonida/NOUN tashqi/NOUN ta‘sirlardan/NOUN to‘la/VERB qutulib/NOUN bo‘lmaydi/VERB ./PUNCT
+ Shunga/NOUN qaramasdan/NOUN olingan/NOUN natijaga/NOUN ko‘ra/AUX ideal/NOUN sharoitda/NOUN qanday/NOUN natija/NOUN chiqishini/NOUN aytib/NOUN berish/NOUN mumkin/NOUN bo‘ladi/VERB ./PUNCT
+ Bu/NOUN ideal/NOUN vaziyat/NOUN ilmiy/NOUN ideallashtirish/NOUN deyiladi/NOUN ./PUNCT
+ Aynan/NOUN mana/NOUN shu/NOUN hodisalar/NOUN tashqaridan/NOUN qaralganda/NOUN murakkabga/NOUN o‘xshasa-da/VERB lekin/NOUN ular/NOUN bo‘ysunuvchi/NOUN qonunlar/NOUN sodda/NOUN bo‘lishini/VERB ko‘rsatadi/VERB ./PUNCT
+ Bizni/NOUN o‘rab/VERB turgan/NOUN muhitdagi/NOUN jismlarning/NOUN harakati/NOUN mexanika/NOUN qonun/NOUN lariga/NOUN bo‘ysunadi/VERB ./PUNCT
+ Jism/NOUN harakatining/NOUN o‘zgarish/VERB sabablarini/NOUN XVI/NOUN asr/NOUN oxiri/NOUN va/NOUN XVII/NOUN asr/NOUN boshida/NOUN ilk/NOUN bor/NOUN tajribalar/NOUN vositasida/NOUN batafsil/NOUN o‘rgangan/VERB olim/NOUN Galiley edi/VERB ./PUNCT
+ Galiley/NOUN jism/NOUN harakatini/NOUN o‘zgartish/VERB sababi/NOUN haqida/NOUN quyidagicha/NOUN yozgan edi/VERB Agar/NOUN jismga/NOUN boshqa/NOUN hech/NOUN qanday/NOUN jismlar/NOUN ta‘sir/NOUN etmasa/NOUN jism/NOUN Yerga/NOUN nis/NOUN batan/NOUN o‘zining/VERB tinch/NOUN holatini/NOUN yoki/NOUN to‘g‘ri/ADJ chiziqli/NOUN tekis/NOUN harakatini/NOUN saqlaydi/NOUN ./PUNCT
+ Galiley/NOUN tomonidan/NOUN o‘rnatilgan/VERB bu/NOUN qonun/NOUN mexanikaning/NOUN asosiy/NOUN qonunlarini/NOUN tarkib/NOUN toptirishda/NOUN birinchi/NOUN qadam/NOUN bo‘ldi/VERB ./PUNCT
+ Bu/NOUN qonunlarni/NOUN ochish/NOUN uchun/NOUN Nyutonga/NOUN hech/NOUN qanday/NOUN murakkab/NOUN asbob/NOUN uskunalar/NOUN zarur/NOUN bo‘lmagan/VERB ./PUNCT
+ Buning/NOUN uchun/NOUN oddiy/NOUN tajribalar/NOUN yetarli/NOUN bo‘lgan/VERB ./PUNCT
+ Bundagi/NOUN eng/NOUN katta/NOUN qiyinchilik/NOUN jismlarning/NOUN turli-tuman/ADJ harakatlari/NOUN ichidan/NOUN eng/NOUN muhimini/NOUN eng/NOUN umumiysini/NOUN ko‘ra/AUX olishdan/NOUN iborat edi/VERB ./PUNCT
+ Dinamika/NOUN grekcha/NOUN dynamis/NOUN so‘zidan/NOUN olingan/NOUN bo‘lib/VERB kuch/NOUN degan/NOUN ma‘noni/NOUN bildiradi/NOUN ./PUNCT
+ Agar/NOUN biz/NOUN qandaydir/NOUN jismning/NOUN harakatga/NOUN kelganini/NOUN ko‘rsak/ADJ unga/NOUN ta‘sir/NOUN qilayotgan/NOUN boshqa/NOUN bir/NOUN jismni/NOUN ham/NOUN ko‘ramiz/AUX ./PUNCT
+ Boshqa/NOUN jism/NOUN harakatga/NOUN kelgan/NOUN jismni/NOUN tortishi/NOUN itarishi/NOUN yoki/NOUN unga/NOUN masofadan/NOUN turib/NOUN ta‘sir/NOUN qilishi/NOUN mumkin/NOUN masalan/NOUN magnitning/NOUN temir/NOUN sharga/NOUN ta‘siri/NOUN ./PUNCT
+ Yerdan/NOUN biror/NOUN balandlikka/NOUN ko‘tarib/VERB qo‘yilgan/VERB jism/NOUN qo‘yib/VERB yuborilsa/NOUN pastga/NOUN tushadi/NOUN ./PUNCT
+ Bu/NOUN tajribalarning/NOUN barchasida/NOUN jism/NOUN tezligining/NOUN o‘zgarishi/VERB ya‘ni/CONJ tezla/NOUN nish/NOUN har/NOUN doim/NOUN boshqa/NOUN bir/NOUN jismning/NOUN ta‘siri/NOUN tufayli/NOUN vujudga/NOUN keladi/NOUN ./PUNCT
+ Bu/NOUN ibora/NOUN Nyuton/NOUN mexanikasining/NOUN eng/NOUN muhim/NOUN xulosasi/NOUN hisob/NOUN lanadi/NOUN ./PUNCT
+ Jismlarning/NOUN bir-biri/NUM bilan/NOUN o‘zaro/ADV ta‘sirlashish/VERB jarayoniga/NOUN o‘zaro/ADV ta‘sir/NOUN deyiladi/NOUN ./PUNCT
+ Fizikada/NOUN barcha/NOUN o‘zaro/ADV ta‘sirlar/NOUN albatta/NOUN juft/NOUN bo‘ladi/VERB ./PUNCT
+ Ya‘ni/CONJ har/NOUN qanday/NOUN ta‘sir/NOUN aks/NOUN ta‘sirni/NOUN vujudga/NOUN keltiradi/NOUN ./PUNCT
+ Lekin/NOUN bunday/NOUN xulosaga/NOUN darhol/NOUN kelinmagan/NOUN ./PUNCT
+ Buyuk/NOUN mutafakkir/NOUN Aristotel/NOUN jism/NOUN harakatining/NOUN o‘zgarishi/VERB sababini/NOUN ochishga/NOUN harakat/NOUN qildi/NOUN ./PUNCT
+ Uning/NOUN yozishicha/NOUN Agar/NOUN jismga/NOUN itaruvchi/NOUN kuch/NOUN ta‘sir/NOUN etmay/NOUN qolsa/NOUN harakatlanuvchi/NOUN jism/NOUN to‘xtab/VERB qoladi/NOUN ./PUNCT
+ Yerga/NOUN nisbatan/NOUN bo‘lgan/VERB tinch/NOUN holatni/NOUN jismning/NOUN tabiiy/NOUN holati/NOUN deb/NOUN tushuntirgan/NOUN ./PUNCT
+ O‘sha/VERB davrlarda/NOUN Yerni/NOUN Olamning/NOUN markazi/NOUN deb/NOUN qarashganligi/NOUN tufayli/NOUN muhim/NOUN bir/NOUN sabab/NOUN bo‘lmasa/NOUN jism/NOUN o‘zining/VERB tabiiy/NOUN tinch/NOUN holatiga/NOUN qaytadi/NOUN deb/NOUN tushuntirishgan/NOUN ./PUNCT
+ Haqiqatan/NOUN ham/NOUN tekis/NOUN asfalt/NOUN yo‘lda/NOUN ketayotgan/NOUN avtomobilning/NOUN benzini/NOUN tugab/NOUN qolsa/NOUN dvigateli/NOUN o‘chadi/VERB ./PUNCT
+ Avtomobil/NOUN biroz/NOUN yurib/NOUN to‘xtaydi/VERB ./PUNCT
+ Xuddi/NOUN shunday/NOUN xulosani/NOUN velosipedga/NOUN ko‘ldagi/NOUN qayiqqa/NOUN ham/NOUN qo‘llash/VERB mumkin/NOUN ./PUNCT
+ Olib/NOUN borilgan/NOUN kuzatishlar/NOUN va/NOUN xulosalar/NOUN asosida/NOUN dinamikaning/NOUN birinchi/NOUN qonuni/NOUN topilgan edi/VERB ./PUNCT
+ Uni/NOUN quyidagicha/NOUN ifodalanadi/NOUN Inersial/NOUN sistema/NOUN deb/NOUN ataluvchi/NOUN shunday/NOUN sanoq/NOUN sistemalar/NOUN mavjudki/NOUN undagi/NOUN jism/NOUN boshqa/NOUN jismlardan/NOUN yetarli/NOUN darajada/NOUN uzoq/NOUN joylashgan/NOUN bo‘lsa/VERB tinch/NOUN yoki/NOUN to‘g‘ri/ADJ chiziqli/NOUN tekis/NOUN harakatda/NOUN bo‘ladi/VERB ./PUNCT
+ Bu/NOUN qonun/NOUN bir/NOUN tomondan/NOUN inersial/NOUN sanoq/NOUN sistemasiga/NOUN ta‘rif/null bersa/NOUN ikkin/NOUN chi/NOUN tomondan/NOUN haqiqatan/NOUN ham/NOUN shunday/NOUN sistemalar/NOUN mavjudligini/NOUN tekshirish/NOUN imkoniyatini/NOUN beradi/NOUN ./PUNCT
+ Mexanikaning/NOUN birinchi/NOUN qonuni/NOUN inersial/NOUN sanoq/NOUN siste/NOUN masini/NOUN alohida/NOUN maxsus/NOUN o‘ringa/NOUN qo‘yadi/VERB ./PUNCT
+ Aylanayotgan/NOUN qattiq/NOUN jismning/NOUN har/NOUN bir/NOUN nuqtasi/NOUN tezlanish/NOUN bilan/NOUN harakatlanadi/NOUN ./PUNCT
+ Istalgan/NOUN bo‘lakchaning/ADJ tezlanishi/NOUN jismdagi/NOUN boshqa/NOUN qismlarning/NOUN ta‘siri/NOUN tufayli/NOUN bo‘ladi/VERB ./PUNCT
+ Boshqacha/NOUN aytganda/NOUN qattiq/NOUN jismni/NOUN tashkil/NOUN etgan/NOUN bo‘lakchalar/ADJ erkin/NOUN jism/NOUN bo‘la/VERB olmaydi/NOUN va/NOUN unga/NOUN Nyutonning/NOUN birinchi/NOUN qonunini/NOUN tatbiq/NOUN etib/NOUN bo‘lmaydi/VERB ./PUNCT
+ Shunday/NOUN qilib/NOUN jismlarning/NOUN tinch/NOUN yoki/NOUN to‘g‘ri/ADJ chiziqli/NOUN tekis/NOUN harakat/NOUN holatidan/NOUN chiqish/NOUN sababi/NOUN boshqa/NOUN jismlarning/NOUN ta‘siri/NOUN ekanligini/NOUN bilib/NOUN oldik/NOUN ./PUNCT
+ Jismlarning/NOUN bir-biriga/NUM bo‘lgan/VERB ta‘siri/NOUN kuch/NOUN bilan/NOUN xarakterlanadi/NOUN ./PUNCT
+ Nuytonning/NOUN ta‘biricha/NOUN mexanikada/NOUN jismlarning/NOUN bir-biriga/NUM ta‘siri/NOUN natijasida/NOUN tezlanish/NOUN olishiga/NOUN sabab/NOUN bo‘ladigan/VERB miqdoriy/NOUN o‘lchamga/NOUN kuch/NOUN deyiladi/NOUN ./PUNCT
+ Bu/NOUN kuchga/NOUN sifat/NOUN jihatidan/NOUN berilgan/NOUN ta‘rifdir/null ./PUNCT
+ Bu/NOUN bilan/NOUN mexanikada/NOUN ikkita/NOUN tasdiqni/NOUN kiritdik/NOUN 1/NOUN jismlarda/NOUN tezlanish/NOUN kuch/NOUN ta‘siri/NOUN tufayli/NOUN bo‘ladi/VERB 2/NOUN tezlanish/NOUN beruvchi/NOUN kuch/NOUN boshqa/NOUN jismlarning/NOUN ta‘siri/NOUN tufayli/NOUN bo‘ladi/VERB ./PUNCT
+ Kuch/NOUN tushunchasi/NOUN ikkita/NOUN jismga/NOUN tegishlidir/NOUN ./PUNCT
+ Kuch/NOUN vektor/NOUN kattalik/NOUN bo‘lib/VERB yo‘nalishga/VERB ega/NOUN ./PUNCT
+ Kuchni/NOUN miqdoriy/NOUN jihatdan/NOUN aniqlash/NOUN uchun/NOUN uni/NOUN o‘lchash/VERB kerak/NOUN ./PUNCT
+ Buning/NOUN uchun/NOUN uni/NOUN boshqa/NOUN bir/NOUN etalon/NOUN kuch/NOUN bilan/NOUN solishtiriladi/NOUN ./PUNCT
+ Tabiati/NOUN jihatidan/NOUN qanday/NOUN bo‘lishidan/VERB qat‘i/NOUN nazar/NOUN kuchlarning/NOUN jismga/NOUN bir/NOUN vaqtdagi/NOUN ta‘siri/NOUN uning/NOUN tezligini/NOUN o‘zgartirmasa/VERB ya‘ni/CONJ unga/NOUN tezlanish/NOUN bermasa/NOUN moduli/NOUN jihatidan/NOUN teng/NOUN va/NOUN qarama-qarshi/ADJ yo‘nalgan/VERB bo‘ladi/VERB ./PUNCT
+ Tajribalar/NOUN shuni/NOUN ko‘rsatadiki/VERB jismning/NOUN olgan/NOUN tezlanishi/NOUN unga/NOUN qo‘yilgan/VERB kuchdan/NOUN tashqari/NOUN jismning/NOUN xossalariga/NOUN ham/NOUN bog‘liq/NOUN ./PUNCT
+ Demak/NOUN bu/NOUN xossani/NOUN aniqlashtirib/NOUN olish/NOUN zarur/NOUN ./PUNCT
+ Mexanikada/NOUN bu/NOUN xossa/NOUN jism/NOUN massasi/NOUN bilan/NOUN ta‘riflanadi/VERB ./PUNCT
+ Nisbiylik/NOUN prinsipining/NOUN ochilishiga/NOUN asosiy/NOUN sabablardan/NOUN biri/NOUN Yerning/NOUN harakati/NOUN aniqrog‘i/null uning/NOUN o‘z/VERB o‘qi/VERB atrofi/NOUN da/NOUN aylanishi/NOUN haqidagi/NOUN gipoteza/NOUN bo‘ldi/VERB ./PUNCT
+ Shunday/NOUN savol/NOUN tug‘iladi/VERB agar/NOUN Yer/NOUN o‘z/VERB o‘qi/VERB atrofi/NOUN da/NOUN aylanadigan/NOUN bo‘lsa/VERB nega/NOUN biz/NOUN uni/NOUN Yer/NOUN sirtida/NOUN o‘tkazilgan/VERB eksperimentlarda/NOUN sezmaymiz/NOUN ?/PUNCT
+ Bu/NOUN muammo/NOUN ustidagi/NOUN muhokamalarda/NOUN qatnashgan/NOUN o‘rta/ADJ asrda/NOUN yashab/NOUN ijod/NOUN qilgan/NOUN Nikolay/NOUN Orema/NOUN XIV/NOUN asr/NOUN Olovuddin/NOUN Ali/NOUN al-Qushchi/null XV/NOUN asr/NOUN lar/NOUN quyidagi/NOUN xulosaga/NOUN keldilar/NOUN Yerning/NOUN aylanishi/NOUN uning/NOUN ustida/NOUN o‘tkazilgan/VERB tajribalarga/NOUN ta‘sir/NOUN qilmaydi/NOUN ./PUNCT
+ Faraz/NOUN qilaylik/NOUN siz/NOUN sinfdoshlaringiz/NOUN bilan/NOUN birgalikda/NOUN ulkan/NOUN kemaning/NOUN ichida/NOUN tashqi/NOUN oynalari/NOUN qoraytirilgan/NOUN xonasida/NOUN o‘tiribsiz/VERB ./PUNCT
+ Shunda/NOUN sinfdoshlardan/NOUN biri/NOUN hozir/NOUN kema/NOUN tinch/NOUN turibdimi/NOUN yoki/NOUN harakatdami/NOUN degan/NOUN savolni/NOUN berdi/NOUN ./PUNCT
+ Tashqi/NOUN palubaga/NOUN chiqmasdan/NOUN buni/NOUN qanday/NOUN aniqlash/NOUN mumkin/NOUN ?/PUNCT
+ Bolalardan/NOUN biri/NOUN Kelinglar/NOUN tajriba/NOUN o‘tkazib/VERB ko‘ramiz/AUX ./PUNCT
+ Stoldagi/NOUN buyumlardan/NOUN birini/NOUN tepadan/NOUN pastga/NOUN tashlab/NOUN ko‘ramiz/AUX ./PUNCT
+ Agar/NOUN kema/NOUN harakatsiz/NOUN bo‘lsa/VERB u/NOUN vertikal/NOUN tushadi/NOUN ./PUNCT
+ Harakatda/NOUN bo‘lsa/VERB tushish/NOUN davrida/NOUN kemaning/NOUN poli/NOUN oldinga/NOUN ketib/NOUN qolib/NOUN ozgina/NOUN orqaga/NOUN tushadiˮ/NOUN deb/NOUN taklif/NOUN qildi/NOUN ./PUNCT
+ Turli/NOUN narsalar/NOUN tashlab/NOUN ko‘rilganda/VERB hammasi/NOUN polga/NOUN qarab/NOUN tik/NOUN holda/NOUN aynan/NOUN bir/NOUN joyga/NOUN tushdi/NOUN ./PUNCT
+ Demak/NOUN kema/NOUN tinch/NOUN turibdi/NOUN degan/NOUN xulosaga/NOUN kelindi/NOUN ./PUNCT
+ Tashqi/NOUN palubaga/NOUN chiqib/NOUN qaralsa/NOUN kema/NOUN bir/NOUN tekisda/NOUN chayqalmasdan/NOUN suzib/NOUN ketayotgan ekan/VERB !/PUNCT
+ Demak/NOUN mexanik/NOUN tajribalarni/NOUN tinch/NOUN turgan/NOUN sinf/NOUN xonasida/NOUN o‘tkazilsa/VERB ham/NOUN to‘g‘ri/ADJ chiziqli/NOUN tekis/NOUN harakatlanayotgan/NOUN vagon/NOUN yoki/NOUN kema/NOUN ichida/NOUN o‘tkazilsa/VERB ham/NOUN bir/NOUN xil/NOUN kechar ekan/VERB ./PUNCT
+ Bunga/NOUN birinchi/NOUN bo‘lib/VERB Galiley/NOUN o‘z/VERB e‘tiborini/NOUN qaratgan edi/VERB ./PUNCT
+ Galiley/NOUN ham/NOUN siz/NOUN faraz/NOUN qilgandek/NOUN ulkan/NOUN kema/NOUN ichida/NOUN kuzatilayotgan/NOUN mexanik/NOUN jarayonlar/NOUN agar/NOUN kema/NOUN to‘g‘ri/ADJ chiziqli/NOUN tekis/NOUN harakatlanayotgan/NOUN bo‘lsa/VERB xuddi/NOUN tinch/NOUN turganda/NOUN qanday/NOUN kechsa/NOUN shunday/NOUN borishini/NOUN yozib/NOUN qoldirgan/NOUN ./PUNCT
+ Bunda/NOUN sanoq/NOUN sistemasi/NOUN sifatida/NOUN Yer/NOUN emas/NOUN balki/NOUN harakatlanayotgan/NOUN vagon/NOUN yoki/NOUN kema/NOUN olinadi/NOUN ./PUNCT
+ Tinch/NOUN holatda/NOUN turgan/NOUN yoki/NOUN nisbatan/NOUN to‘g‘ri/ADJ chiziqli/NOUN tekis/NOUN harakatla/NOUN nayotgan/NOUN sanoq/NOUN sistemalari/NOUN inersial/NOUN sanoq/NOUN sistemalari/NOUN deyiladi/NOUN ./PUNCT

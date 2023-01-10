@@ -1,0 +1,87 @@
+ Zamonaviy/NOUN biologiya/NOUN ko‘plab/ADV sohalarni/NOUN o‘z/VERB ichiga/NOUN oladi/NOUN 2-rasm/null ./PUNCT
+ Barcha/NOUN tirik/NOUN organizmlar/NOUN bir-biri/NUM va/NOUN atrof-muhit/NOUN bilan/NOUN chambarchas/NOUN bog‘liq/NOUN ./PUNCT
+ Tirik/NOUN organizmlar/NOUN atrof-muhitga/NOUN ta‘sir/NOUN qiladi/NOUN va/NOUN ularning/NOUN mavjudligi/NOUN muhit/NOUN sharoitlariga/NOUN bog‘liq/NOUN ./PUNCT
+ Biologiyaning/NOUN inson/NOUN hayotidagi/NOUN ahamiyati/NOUN ./PUNCT
+ Biologiya/NOUN oldida/NOUN inson/NOUN salomatligini/NOUN asrash/NOUN sifatli/NOUN oziq-ovqat/NOUN bilan/NOUN ta‘minlash/VERB va/NOUN sayyoramizdagi/NOUN organizmlar/NOUN xilma-xilligini/NOUN saqlash/NOUN kabi/NOUN dolzarb/NOUN muammolar/NOUN mavjud/NOUN ./PUNCT
+ Biologiya/NOUN sohasida/NOUN olib/NOUN borilayotgan/NOUN tadqiqotlar/NOUN yuqoridagi/NOUN masalalarni/NOUN hal/NOUN qilishga/NOUN qaratilgan/NOUN bo‘lib/VERB biologiya/NOUN tibbiyot/NOUN qishloq/NOUN xo‘jaligi/NOUN oziq-ovqat/NOUN sanoati/NOUN yengil/NOUN sanoat/NOUN va/NOUN boshqa/NOUN sohalar/NOUN bilan/NOUN chambarchas/NOUN bog‘liq/NOUN ./PUNCT
+ Insonlar/NOUN salomatligi/NOUN uchun/NOUN foydalaniladigan/NOUN dori/NOUN vositalari/NOUN o‘simliklar/NOUN va/NOUN mikroorganizmlar/NOUN faoliyatida/NOUN hosil/NOUN bo‘ladigan/VERB mahsulotlardan/NOUN tayyorlanadi/NOUN ./PUNCT
+ Biologik/NOUN qonuniyatlarni/NOUN bilish/NOUN kasalliklarni/NOUN davolash/NOUN va/NOUN ularning/NOUN oldini/NOUN olishga/NOUN yordam/NOUN beradi/NOUN ./PUNCT
+ Qishloq/NOUN xo‘jaligining/NOUN muvaffaqiyatli/NOUN rivojlanishi/NOUN o‘simlik/NOUN navlari/NOUN va/NOUN hayvon/NOUN zotlarini/NOUN yaxshilash/NOUN hamda/NOUN yangilarini/NOUN yaratish/NOUN bilan/NOUN shug‘ullanadigan/VERB seleksioner/NOUN biologlarga/NOUN bog‘liq/NOUN ./PUNCT
+ Tirik/NOUN organizmlar/NOUN sanoatda/NOUN ham/NOUN keng/NOUN qo‘llaniladi/VERB ./PUNCT
+ Ayrim/NOUN bakteriyalar/NOUN va/NOUN zamburug‘lar/NOUN faoliyati/NOUN tufayli/NOUN sut/NOUN mahsulotlari/NOUN tvorog/NOUN qatiq/NOUN yogurt/NOUN va/NOUN pishloq/NOUN kabi/NOUN mahsulotlar/NOUN olinadi/NOUN ./PUNCT
+ Barcha/NOUN tibbiyot/NOUN xodimlari/NOUN pediatr/NOUN jarroh/NOUN stomatolog/NOUN psixolog/NOUN va/NOUN boshqalar/NOUN biologik/NOUN ma‘lumotga/NOUN ega/NOUN bo‘lishlari/VERB kerak/NOUN ./PUNCT
+ Qishloq/NOUN xo‘jaligi/NOUN sohasida/NOUN agronom/NOUN veterinar/NOUN seleksioner/NOUN kabi/NOUN kasb/NOUN egalarining/NOUN faoliyati/NOUN biologiya/NOUN bilan/NOUN bog‘liq/NOUN ./PUNCT
+ Jadal/NOUN rivojlanayotgan/NOUN oziq-ovqat/NOUN sanoati/NOUN mikrobiologiya/NOUN biotexnologiya/NOUN hamda/NOUN farmatsevtika/NOUN uchun/NOUN ham/NOUN biolog/NOUN mutaxassislar/NOUN talab/NOUN qilinadi/NOUN ./PUNCT
+ Ekologiyaning/NOUN turli/NOUN sohalarida/NOUN bioekolog/NOUN geoekolog/NOUN ekolog-injener/VERB landshaft/NOUN dizayneri/NOUN kabi/NOUN kasb/NOUN egalariga/NOUN talab/NOUN kuchli/NOUN ./PUNCT
+ Siz/NOUN ham/NOUN kelajakda/NOUN biologiya/NOUN bilan/NOUN bog‘liq/NOUN kasb/NOUN egasi/NOUN bo‘lishingiz/VERB mumkin/NOUN ./PUNCT
+ Biologiyaning/NOUN tadqiqot/NOUN metodlari/NOUN ./PUNCT
+ Qadimgi/NOUN davrlardan/NOUN boshlab/NOUN odamlar/NOUN tabiatni/NOUN turli/NOUN metodlar/NOUN yunoncha/NOUN methodos/NOUN bilish/NOUN usuli/NOUN yordamida/NOUN o‘rganib/VERB kelganlar/NOUN ./PUNCT
+ Kuzatish/NOUN taqqoslash/NOUN eksperiment/NOUN tajriba/NOUN va/NOUN o‘lchash/VERB biologiyaning/NOUN asosiy/NOUN metodlari/NOUN hisoblanadi/NOUN ./PUNCT
+ Kuzatish/NOUN bu/NOUN tabiiy/NOUN obyekt/NOUN yoki/NOUN hodisalarni/NOUN sezgi/NOUN organlari/NOUN yordamida/NOUN idrok/NOUN etish/NOUN ./PUNCT
+ Obyekt/NOUN yoki/NOUN hodisani/NOUN kuzatish/NOUN jarayonida/NOUN kuzatuvchi/NOUN jarayonga/NOUN ta‘sir/NOUN etmagan/NOUN holda/NOUN faqatgina/NOUN natijalarni/NOUN qayd/NOUN etadi/NOUN ./PUNCT
+ Sayyoramizda/NOUN yashaydigan/NOUN tirik/NOUN organizmlar/NOUN hayratlanarli/NOUN darajada/NOUN xilma-xil/NOUN ./PUNCT
+ Yerda/NOUN tirik/NOUN organizmlarning/NOUN nechta/NOUN turi/NOUN mavjud/NOUN ?/PUNCT
+ Olimlarning/NOUN taxminiy/NOUN hisob-kitoblariga/NOUN ko‘ra/AUX dunyoda/NOUN 3/NOUN millionga/NOUN yaqin/NOUN organizm/NOUN turlari/NOUN yashaydi/NOUN ./PUNCT
+ Sayyoramizdagi/NOUN hayotning/NOUN xilma-xilligini/NOUN o‘rganish/VERB qulay/NOUN bo‘lishi/VERB uchun/NOUN ularni/NOUN ma‘lum/ADJ tartibga/NOUN keltirish/NOUN ya‘ni/CONJ organizmlarni/NOUN muayyan/NOUN xususiyatlariga/NOUN ko‘ra/AUX tizimlashtirish/NOUN zarur/NOUN ./PUNCT
+ Tirik/NOUN organizmlarning/NOUN qaysi/NOUN xususiyatlari/NOUN muhim/NOUN ?/PUNCT
+ Masalan/NOUN agronomlar/NOUN o‘simliklarni/NOUN yovvoyi/NOUN va/NOUN madaniy/NOUN sabzavot/NOUN va/NOUN mevali/NOUN o‘simliklarga/NOUN ajratadilar/NOUN ./PUNCT
+ Dorishunoslar/NOUN esa/NOUN o‘simliklarni/NOUN shifobaxshlik/NOUN xususiyatlariga/NOUN ko‘ra/AUX klassifakatsiya/NOUN qiladilar/NOUN ./PUNCT
+ Bu/NOUN tasniflarning/NOUN barchasi/NOUN muhim/NOUN ammo/NOUN ular/NOUN faqat/NOUN iqtisodiy/NOUN vazifalarni/NOUN hal/NOUN etishga/NOUN qaratilgan/NOUN ./PUNCT
+ Barcha/NOUN tirik/NOUN organizmlar/NOUN uchun/NOUN umumiy/NOUN bo‘lgan/VERB klassifikatsiyani/NOUN qanday/NOUN yaratish/NOUN mumkin/NOUN ?/PUNCT
+ Ushbu/NOUN muammoni/NOUN sistematika/NOUN fani/NOUN hal/NOUN etadi/NOUN ./PUNCT
+ Sistematika/NOUN tirik/NOUN organizmlarni/NOUN tashqi/NOUN va/NOUN ichki/NOUN tuzilishidagi/NOUN o‘xshashlik/NOUN darajasiga/NOUN qarab/NOUN ma‘lum/ADJ tartibga/NOUN sistema/NOUN tizim/NOUN ga/NOUN solish/NOUN bilan/NOUN shug‘ullanadi/VERB ./PUNCT
+ Organizmlarning/NOUN qarindoshlik/NOUN darajasini/NOUN baholash/NOUN uchun/NOUN albatta/NOUN bir/NOUN emas/NOUN balki/NOUN barcha/NOUN organlar/NOUN sistemalarini/NOUN taqqoslash/NOUN hamda/NOUN taqqoslanayotgan/NOUN organizmlar/NOUN tuzilishidagi/NOUN o‘xshash/VERB va/NOUN farqli/NOUN jihatlarini/NOUN aniqlash/NOUN muhim/NOUN ./PUNCT
+ Shunday/NOUN qilib/NOUN taqqoslash/NOUN metodidan/NOUN foydalanib/NOUN organizmlar/NOUN sistematik/NOUN guruhlarga/NOUN birlashtiriladi/NOUN ./PUNCT
+ Organik/NOUN olamning/NOUN zamonaviy/NOUN sistematikasi/NOUN ./PUNCT
+ Hozirgi/NOUN vaqtda/NOUN organizmlarning/NOUN tuzilishi/NOUN va/NOUN kelib/NOUN chiqishi/NOUN umumiyligi/NOUN nuqtayi/NOUN nazaridan/NOUN organik/NOUN olam/NOUN sistematikasi/NOUN qabul/NOUN qilingan/NOUN ./PUNCT
+ Tirik/NOUN organizmlar/NOUN kelib/NOUN chiqishi/NOUN o‘xshashlik/NOUN darajasi/NOUN va/NOUN tarixiy/NOUN rivojlanishiga/NOUN qarab/NOUN guruhlar/NOUN sistematik/NOUN birliklarga/NOUN birlashtiriladi/NOUN ./PUNCT
+ Organik/NOUN olam/NOUN sistematikasidagi/NOUN eng/NOUN kichik/NOUN birlik/NOUN tur/NOUN hisoblanadi/NOUN ./PUNCT
+ Har/NOUN qanday/NOUN organizm/NOUN ma‘lum/ADJ bir/NOUN turga/NOUN mansub/NOUN ./PUNCT
+ Bir-biriga/NUM yaqin/NOUN hayvon/NOUN turlari/NOUN avlodlarga/NOUN avlodlar/NOUN oilalarga/NOUN oilalar/NOUN turkumlarga/NOUN turkumlar/NOUN sinflarga/NOUN sinflar/NOUN tiplarga/NOUN tiplar/NOUN esa/NOUN hayvonot/NOUN dunyosiga/NOUN birlashtiriladi/NOUN ./PUNCT
+ O‘xshash/VERB o‘simlik/NOUN turlari/NOUN turkumlarga/NOUN turkumlar/NOUN oilalarga/NOUN oilalar/NOUN tartiblarga/NOUN tartiblar/NOUN sinflarga/NOUN sinflar/NOUN bo‘limlarga/NOUN bo‘limlar/NOUN o‘simliklar/NOUN dunyosiga/NOUN birlashtiriladi/NOUN ./PUNCT
+ Yuqorida/NOUN sanab/NOUN o‘tilgan/VERB birliklar/NOUN ya‘ni/CONJ tur/NOUN avlod/NOUN oila/NOUN turkum/NOUN tartib/NOUN sinf/NOUN tip/NOUN bo‘lim/NOUN sistematik/NOUN birliklar/NOUN taksonlar/NOUN deb/NOUN nomlanadi/NOUN Taksonomik/NOUN birliklarning/NOUN qo‘llanishi/VERB bilan/NOUN o‘simliklar/NOUN misolida/NOUN tanishamiz/NOUN ./PUNCT
+ Tur/NOUN hamma/NOUN organlari/NOUN bir-biriga/NUM o‘xshash/VERB ma‘lum/ADJ hududda/NOUN arealda/NOUN tarqalgan/NOUN tirik/NOUN organizmlarni/NOUN o‘z/VERB ichiga/NOUN oladi/NOUN ./PUNCT
+ Masalan/NOUN sariq/NOUN do‘lana/NOUN tur/NOUN ./PUNCT
+ Tog‘larda/NOUN sariq/NOUN do‘lana/NOUN turiga/NOUN kiradigan/NOUN o‘simlik/NOUN tuplari/NOUN o‘sadi/VERB ./PUNCT
+ Ular/NOUN guli/NOUN mevasi/NOUN bargi/NOUN va/NOUN boshqa/NOUN belgilari/NOUN bilan/NOUN juda/NOUN o‘xshash/VERB ./PUNCT
+ Shuning/NOUN uchun/NOUN ular/NOUN bir/NOUN turga/NOUN kiritilgan/NOUN ./PUNCT
+ Fanda/NOUN har/NOUN bir/NOUN turni/NOUN qo‘sh/VERB ikki/NOUN nom/NOUN bilan/NOUN o‘simliklar/NOUN tur/NOUN va/NOUN turkum/NOUN hayvonlarda/NOUN tur/NOUN va/NOUN avlod/NOUN nomlari/NOUN bilan/NOUN atash/NOUN qabul/NOUN qilingan/NOUN ./PUNCT
+ Bu/NOUN binar/NOUN nomenklatura/NOUN deyiladi/NOUN ./PUNCT
+ Turni/NOUN ikki/NOUN nom/NOUN bilan/NOUN atashni/NOUN birinchi/NOUN bo‘lib/VERB shved/NOUN tabiatshunosi/NOUN Karl/NOUN Linney/NOUN 1707/NOUN 1778/NOUN fanga/NOUN kiritgan/NOUN ./PUNCT
+ Masalan/NOUN sarimsoq/NOUN piyoz/NOUN va/NOUN anzur/NOUN piyozdagi/NOUN sarimsoq/NOUN va/NOUN anzur/NOUN so‘zlari/NOUN turga/NOUN tegishli/NOUN piyoz/NOUN so‘zi/NOUN esa/NOUN turkumga/NOUN tegishli/NOUN nom/NOUN bo‘lib/VERB mazkur/NOUN turlarning/NOUN piyoz/NOUN turkumiga/NOUN oid/NOUN ekanligini/NOUN bildiradi/NOUN ./PUNCT
+ Fanda/NOUN har/NOUN bir/NOUN turning/NOUN mahalliy/NOUN nomlaridan/NOUN tashqari/NOUN yana/NOUN ilmiy/NOUN ya‘ni/CONJ lotincha/NOUN nomi/NOUN ham/NOUN bor/NOUN ./PUNCT
+ Har/NOUN bir/NOUN turni/NOUN lotin/NOUN tilida/NOUN nomlashning/NOUN qanday/NOUN ahamiyati/NOUN bor/NOUN ?/PUNCT
+ Turkum/NOUN bir-biriga/NUM yaqin/NOUN turlardan/NOUN tashkil/NOUN topgan/NOUN ./PUNCT
+ O‘zaro/ADV o‘xshash/VERB turkumlar/NOUN oilaga/NOUN birlashtiriladi/NOUN ./PUNCT
+ Masalan/NOUN bodom/NOUN olma/NOUN o‘rik/NOUN na‘matak/NOUN do‘lana/NOUN turkumlari/NOUN birlashib/NOUN ra‘nodoshlar/null oilasini/NOUN tashkil/NOUN etadi/NOUN ./PUNCT
+ Kelib/NOUN chiqishi/NOUN jihatidan/NOUN yaqin/NOUN bo‘lgan/VERB oilalarga/NOUN ular/NOUN esa/NOUN o‘z/VERB navbatida/NOUN sinflarga/NOUN birlashtiriladi/NOUN ./PUNCT
+ Masalan/NOUN loladoshlar/NOUN bug‘doydoshlar/NOUN boshoqdoshlar/NOUN chuchmomadoshlar/NOUN kabi/NOUN oilalar/NOUN to‘planib/VERB bir/NOUN urug‘pallali/NOUN o‘simliklar/NOUN sinfini/NOUN hosil/NOUN qiladi/NOUN ./PUNCT
+ Ra‘nodoshlar/null ituzumdoshlar/NOUN gulxayridoshlar/NOUN kabi/NOUN oilalar/NOUN birlashib/NOUN ikki/NOUN urug‘pallali/NOUN o‘simliklar/NOUN sinfini/NOUN tashkil/NOUN etadi/NOUN ./PUNCT
+ Lipidlar/NOUN hujayra/NOUN uchun/NOUN muhim/NOUN ./PUNCT
+ Lipidlarga/NOUN yog‘/VERB mum/NOUN misol/NOUN bo‘ladi/VERB ./PUNCT
+ Yog‘lar/VERB parchalanganda/NOUN ko‘p/ADV miqdorda/NOUN tirik/NOUN organizmlar/NOUN uchun/NOUN zarur/NOUN energiya/NOUN ajralib/NOUN chiqadi/NOUN ./PUNCT
+ Yog‘lar/VERB organizmni/NOUN sovuqdan/NOUN himoya/NOUN qiladi/NOUN ./PUNCT
+ masalan/NOUN oq/NOUN ayiq/NOUN tyulen/NOUN morj/NOUN terisi/NOUN ostida/NOUN qalin/NOUN yog‘/VERB qavati/NOUN mavjud/NOUN ./PUNCT
+ Nuklein/NOUN kislota/NOUN DNK/NOUN va/NOUN RNK/NOUN lar/NOUN irsiy/NOUN axborotni/NOUN saqlash/NOUN va/NOUN nasldan/NOUN naslga/NOUN o‘tishida/VERB ishtirok/NOUN etadi/NOUN ./PUNCT
+ Hujayra/NOUN kichik/NOUN tabiiy/NOUN laboratoriya/NOUN bo‘lib/VERB unda/NOUN turli/NOUN xil/NOUN kimyoviy/NOUN birikmalar/NOUN sintezlanadi/NOUN va/NOUN parchalanadi/NOUN ./PUNCT
+ Turli/NOUN organizm/NOUN hujayralari/NOUN kimyoviy/NOUN tarkibining/NOUN o‘xshashligi/NOUN tirik/NOUN tabiatning/NOUN kelib/NOUN chiqishi/NOUN birligini/NOUN isbotlaydi/NOUN ./PUNCT
+ Barcha/NOUN tirik/NOUN organizmlar/NOUN hujayralardan/NOUN tuzilgan/NOUN ./PUNCT
+ Hujayra/NOUN tirik/NOUN organizmlarning/NOUN tuzilish/NOUN va/NOUN funksional/NOUN birligi/NOUN ./PUNCT
+ Tirik/NOUN organizmlar/NOUN tanasi/NOUN bir/NOUN yoki/NOUN ko‘p/ADV hujayralardan/NOUN tuzilgan/NOUN bo‘ladi/VERB ./PUNCT
+ Bir/NOUN hujayradan/NOUN tuzilgan/NOUN organizmlarda/NOUN barcha/NOUN jarayonlar/NOUN oziqlanish/NOUN nafas/NOUN olish/NOUN ajratish/NOUN o‘sish/VERB ko‘payish/VERB bitta/NOUN hujayrada/NOUN sodir/NOUN bo‘ladi/VERB ./PUNCT
+ Ko‘p/ADV hujayrali/NOUN organizmlar/NOUN yuzlab/NOUN minglab/NOUN va/NOUN millionlab/NOUN hujayralardan/NOUN tashkil/NOUN topgan/NOUN ./PUNCT
+ Hujayraviy/NOUN tuzilishiga/NOUN ko‘ra/AUX organizmlar/NOUN prokariot/NOUN va/NOUN eukariotlarga/NOUN ajratiladi/NOUN ./PUNCT
+ Prokariotlarga/NOUN bakteriyalar/NOUN eukariotlarga/NOUN protista/NOUN zamburug‘/NOUN o‘simlik/NOUN va/NOUN hayvonlar/NOUN kiradi/NOUN ./PUNCT
+ Eukariot/NOUN organizmlar/NOUN hujayrasi/NOUN hujayra/NOUN qobig‘i/null sitoplazma/NOUN va/NOUN yadrodan/NOUN tashkil/NOUN topgan/NOUN ./PUNCT
+ Prokariot/NOUN hujayra/NOUN juda/NOUN sodda/NOUN tuzilgan/NOUN bo‘lib/VERB unda/NOUN yadro/NOUN va/NOUN ko‘p/ADV organoidlar/NOUN shakllanmagan/NOUN ./PUNCT
+ Hujayra/NOUN qobig‘i/null ./PUNCT
+ Hujayra/NOUN biologik/NOUN sistema/NOUN bo‘lib/VERB hujayraning/NOUN tarkibiy/NOUN qismlari/NOUN qobiq/NOUN sitoplazma/NOUN yadro/NOUN organoidlar/NOUN uning/NOUN yaxlitligini/NOUN ta‘minlaydi/VERB ./PUNCT
+ Hujayra/NOUN qobig‘i/null hujayrani/NOUN o‘rab/VERB uni/NOUN tashqi/NOUN muhitdan/NOUN ajratib/NOUN turadi/NOUN ./PUNCT
+ Hujayra/NOUN qobig‘i/null hujayraning/NOUN ichki/NOUN tarkibiy/NOUN qismi/NOUN sitoplazma/NOUN yadro/NOUN va/NOUN organoidlarni/NOUN shikastlanishdan/NOUN himoya/NOUN qiladi/NOUN hujayra/NOUN shaklini/NOUN belgilaydi/NOUN hujayralar/NOUN o‘rtasidagi/ADJ o‘zaro/ADV aloqani/NOUN ta‘minlaydi/VERB hujayraga/NOUN zarur/NOUN moddalarni/NOUN tanlab/NOUN o‘tkazadi/VERB va/NOUN moddalar/NOUN almashinuvi/NOUN mahsulotlarini/NOUN hujayradan/NOUN tashqariga/NOUN chiqaradi/NOUN ./PUNCT
+ Hujayra/NOUN qobig‘ining/null asosiy/NOUN qismini/NOUN plazmatik/NOUN membrana/NOUN tashkil/NOUN etadi/NOUN ./PUNCT
+ Membrana/NOUN ikki/NOUN qavat/NOUN lipid/NOUN qatlami/NOUN va/NOUN unda/NOUN joylashgan/NOUN oqsil/NOUN molekulalaridan/NOUN iborat/NOUN ./PUNCT
+ Membrana/NOUN devorlarida/NOUN maxsus/NOUN oqsillar/NOUN ingichka/NOUN kanalchalarni/NOUN hosil/NOUN qiladi/NOUN ./PUNCT
+ Bu/NOUN kanalchalar/NOUN orqali/NOUN hujayra/NOUN ichiga/NOUN yoki/NOUN hujayra/NOUN tashqarisiga/NOUN kaliy/NOUN natriy/NOUN kalsiy/NOUN va/NOUN boshqa/NOUN ionlar/NOUN o‘tadi/VERB ./PUNCT
+ Shuningdek/NOUN nisbatan/NOUN yirikroq/NOUN bo‘lgan/VERB oqsil/NOUN uglevod/NOUN lipidlar/NOUN molekulalar/NOUN hujayra/NOUN ichiga/NOUN fagotsitoz/NOUN yoki/NOUN pinotsitoz/NOUN yordamida/NOUN o‘tadi/VERB ./PUNCT
+ Hujayra/NOUN membranasiga/NOUN oziq/NOUN zarrachasi/NOUN tegishi/NOUN bilan/NOUN membrananing/NOUN shu/NOUN qismida/NOUN botiqlik/NOUN paydo/NOUN bo‘lib/VERB oziq/NOUN zarrachasi/NOUN membranaga/NOUN o‘ralgan/VERB holda/NOUN hujayra/NOUN ichiga/NOUN o‘tadi/VERB ./PUNCT
+ Bu/NOUN jarayon/NOUN fagotsitoz/NOUN deb/NOUN ataladi/NOUN ./PUNCT

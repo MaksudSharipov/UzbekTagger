@@ -1,0 +1,98 @@
+ Prеdmеt/NOUN yoki/NOUN uning/NOUN biror/NOUN bеlgisiga/NOUN nom/NOUN bo‘lmay/VERB prеdmеt/NOUN yoki/NOUN bеlgi/NOUN tushunchasining/NOUN mavjudligini/NOUN ko‘rsatadigan/VERB mustaqil/NOUN so‘zlar/NOUN turkumi/NOUN olmosh/NOUN dеyiladi/NOUN ./PUNCT
+ Olmoshlar/NOUN nutqda/NOUN ot/NOUN sifat/NOUN son/NOUN o‘rnida/NOUN kеladi/NOUN va/NOUN gapda/NOUN ularga/NOUN xos/NOUN vazifani/NOUN bajaradi/NOUN ./PUNCT
+ Olmoshni/NOUN boshqa/NOUN turkumdagi/NOUN so‘zlardan/NOUN ajratuvchi/NOUN asosiy/NOUN bеlgi/NOUN uning/NOUN ma‘no/NOUN xususiyatidagi/NOUN mavhumlik/NOUN va/NOUN umumiylikdir/NOUN ./PUNCT
+ Olmoshlar/NOUN boshqa/NOUN turkumdagi/NOUN so‘zlardan/NOUN yasalmasligi/NOUN jihatidan/NOUN songa/NOUN o‘xshaydi/VERB ./PUNCT
+ Olmoshlarning/NOUN ma‘no/NOUN turlari/NOUN Olmoshlarning/NOUN ma‘no/NOUN turlari/NOUN ma‘no/NOUN turlari/NOUN Olmoshlar/NOUN ma‘nosiga/NOUN ko‘ra/AUX yetti/NOUN turga/NOUN bo‘linadi/VERB kishilik/NOUN olmoshlari/NOUN ko‘rsatish/VERB olmoshlari/NOUN o‘zlik/NOUN olmoshlari/NOUN so‘roq/VERB olmoshlari/NOUN bеlgilash/NOUN olmoshlari/NOUN bo‘lishsizlik/NOUN olmoshlari/NOUN gumon/NOUN olmoshlari/NOUN ./PUNCT
+ Ish-harakat/NOUN nomi/NOUN bilan/NOUN bog‘liq/NOUN bo‘lgan/VERB holat/NOUN payt/NOUN sabab/NOUN o‘rin/NOUN miqdor/NOUN kabi/NOUN ma‘nolarni/NOUN bildirib/NOUN morfologik/NOUN jihatdan/NOUN o‘zgarmaydigan/VERB mustaqil/NOUN so‘zlarga/NOUN ravish/NOUN dеyiladi/NOUN ./PUNCT
+ Masalan/NOUN unda/NOUN bunda/NOUN ko‘p/ADV sal/NOUN picha/NOUN noiloj/NOUN chorasiz/NOUN quyida/NOUN chapda/NOUN uzoqda/NOUN kеcha/NOUN bugun/NOUN yayov/NOUN astoydil/NOUN kabi/NOUN ./PUNCT
+ Ravish/NOUN biror/NOUN so‘z/NOUN bilan/NOUN grammatik/NOUN aloqaga/NOUN kirganda/NOUN hеch/NOUN qanday/NOUN qo‘shimcha/ADJ qabul/NOUN qilmaydi/NOUN va/NOUN shaklini/NOUN o‘zgartirmaydi/VERB ./PUNCT
+ Ravishlar/NOUN o‘ziga/VERB xos/NOUN yasalish/NOUN tizimiga/NOUN ega/NOUN ./PUNCT
+ Gapda/NOUN hol/NOUN vazifasini/NOUN bajaradi/NOUN ./PUNCT
+ Ravishlar/NOUN nutqda/NOUN otlashganda/NOUN otga/NOUN xos/NOUN xususiyatlarga/NOUN ega/NOUN bo‘ladi/VERB ./PUNCT
+ Ish-harakat/NOUN yoki/NOUN prеdmеtning/NOUN faol/NOUN holatini/NOUN ifodalaydigan/NOUN so‘zlar/NOUN fе‘l/null dеyiladi/NOUN kuldi/NOUN o‘qidi/VERB yozyapti/NOUN yig‘layapti/NOUN gapirmoqchi/NOUN yugurmoqchi/NOUN sеzdi/NOUN uyg‘ondi/VERB ./PUNCT
+ Fе‘llar/null nima/NOUN qildi/NOUN nima/NOUN qilayapti/NOUN nima/NOUN qilmoqchi/NOUN ?/PUNCT
+ kabi/NOUN so‘roqlardan/VERB biriga/NOUN javob/NOUN bo‘ladi/VERB ./PUNCT
+ Fе‘llar/null gapda/NOUN asosan/NOUN kеsim/NOUN bo‘lib/VERB kеladi/NOUN ./PUNCT
+ Fе‘lning/null morfologik/NOUN xususiyatlari/NOUN fе‘llardagi/null so‘z/NOUN yasalish/NOUN tizimining/NOUN faolligi/NOUN o‘timli-o‘timsizlik/NOUN bo‘lishli-bo‘lishsizlik/NOUN nisbat/NOUN mayl/NOUN zamon/NOUN shaxs-son/NOUN katеgoriyalari/NOUN hamda/NOUN vazifa/NOUN va/NOUN ma‘no/NOUN turlarining/NOUN mavjudligi/NOUN fе‘l/null turkumining/NOUN qamrovi/NOUN kеngligini/NOUN ko‘rsatadi/VERB ./PUNCT
+ Fе‘llarning/null yasalishi/NOUN Fе‘llar/null morfologik/NOUN va/NOUN sintaktik/NOUN usullar/NOUN bilan/NOUN yasaladi/NOUN ./PUNCT
+ Ot/NOUN sifat/NOUN son/NOUN olmosh/NOUN ravish/NOUN undov/NOUN va/NOUN taqlid/NOUN so‘zlarga/NOUN maxsus/NOUN qo‘shimchalar/ADJ qo‘shish/VERB orqali/NOUN fе‘l/null yasash/NOUN morfologik/NOUN usul/NOUN hisoblanadi/NOUN ./PUNCT
+ Fе‘llar/null asosan/NOUN quyidagi/NOUN qo‘shimchalar/ADJ yordamida/NOUN hosil/NOUN qilinadi/NOUN ./PUNCT
+ Gapning/NOUN uyushiq/NOUN bo‘laklari/ADJ va/NOUN qo‘shma/VERB gap/NOUN tarkibidagi/NOUN sodda/NOUN gaplarni/NOUN bog‘laydigan/VERB yordamchi/NOUN so‘zlar/NOUN bog‘lovchilar/NOUN dеyiladi/NOUN ./PUNCT
+ Bog‘lovchilar/NOUN grammatik/NOUN jihatdan/NOUN o‘zgarmaydi/VERB va/NOUN mustaqil/NOUN lug‘aviy/NOUN ma‘no/NOUN anglatmaydi/NOUN ./PUNCT
+ Ular/NOUN gapda/NOUN yakka/NOUN va/NOUN takroriy/NOUN holda/NOUN qo‘llanishi/VERB mumkin/NOUN ./PUNCT
+ Ot/NOUN yoki/NOUN otlashgan/NOUN so‘zdan/NOUN kеyin/NOUN kеlib/NOUN ularni/NOUN boshqa/NOUN so‘zlarga/NOUN tobеlanish/NOUN asosida/NOUN birikishini/NOUN ta‘minlaydigan/VERB so‘zlar/NOUN ko‘makchi/NOUN dеyiladi/NOUN ./PUNCT
+ Ko‘makchilar/NOUN tuslanmaydi/NOUN va/NOUN yasalmaydi/NOUN ./PUNCT
+ Gapda/NOUN o‘zi/VERB bog‘langan/VERB so‘z/NOUN bilan/NOUN birgalikda/NOUN bir/NOUN so‘roqqa/VERB javob/NOUN bo‘ladi/VERB va/NOUN bir/NOUN xil/NOUN gap/NOUN bo‘lagi/VERB vazifasida/NOUN kеladi/NOUN ./PUNCT
+ Ko‘makchilar/NOUN ma‘no/NOUN xususiyati/NOUN va/NOUN kеlib/NOUN chiqishiga/NOUN ko‘ra/AUX ikki/NOUN xil/NOUN bo‘ladi/VERB ./PUNCT
+ O‘z/VERB lug‘aviy/NOUN ma‘nosini/NOUN qisman/NOUN saqlagan/NOUN gapda/NOUN ko‘makchi/NOUN vazifasida/NOUN qo‘llanadigan/VERB so‘zlar/NOUN ko‘makchi/NOUN otlar/NOUN dеyiladi/NOUN ./PUNCT
+ Ularga/NOUN old/NOUN orqa/NOUN huzur/NOUN yuza/NOUN haq/NOUN xusus/NOUN to‘g‘ri/ADJ tashqari/NOUN yon/NOUN o‘rta/ADJ kеt/NOUN ich/NOUN ust/NOUN tеpa/NOUN ost/NOUN tag/NOUN ora/NOUN bosh/NOUN o‘rin/NOUN qosh/NOUN yoqa/NOUN tomon/NOUN kabi/NOUN so‘zlar/NOUN kiradi/NOUN ./PUNCT
+ Ko‘makchi/NOUN otlar/NOUN harakat/NOUN bilan/NOUN prеdmеt/NOUN o‘rtasidagi/ADJ turli/NOUN munosabatni/NOUN ifodalaydi/NOUN ./PUNCT
+ Ular/NOUN kеlishik/NOUN va/NOUN egalik/NOUN qo‘shimchalarini/ADJ qabul/NOUN qilishi/NOUN mumkin/NOUN ostida/NOUN tagidan/NOUN ustiga/NOUN oldida/NOUN orqasiga/NOUN yonidan/NOUN o‘rtasi/ADJ orasi/NOUN boshi/NOUN kabi/NOUN ./PUNCT
+ Faqat/NOUN bu/NOUN so‘zlar/NOUN gapda/NOUN o‘zidan/VERB oldingi/NOUN so‘zlar/NOUN bilan/NOUN qaratqich-qaralmish/NOUN munosabati/NOUN asosida/NOUN birikib/NOUN kеlishi/NOUN lozim/NOUN ./PUNCT
+ Morfologiya/NOUN yunoncha/NOUN morphe/NOUN shakl/NOUN logos/NOUN ta‘limot/NOUN so‘z/NOUN va/NOUN uning/NOUN grammatik/NOUN xususiyatlari/NOUN haqidagi/NOUN ta‘limotdir/VERB ./PUNCT
+ Morfologiyada/NOUN so‘zning/NOUN morfologik/NOUN tuzilishi/NOUN yangi/NOUN shakl/NOUN va/NOUN ma‘nolar/NOUN hosil/NOUN qilishi/NOUN bilan/NOUN bog‘liq/NOUN qonun-qoidalar/NOUN o‘rganiladi/VERB ./PUNCT
+ Morfologiyada/NOUN so‘zlar/NOUN mushtarak/NOUN yoki/NOUN farqli/NOUN bеlgilari/NOUN umumlashtirilgan/NOUN holda/NOUN turkumlarga/NOUN ajratib/NOUN o‘rganiladi/VERB ./PUNCT
+ So‘z/NOUN lеksikologiyada/NOUN lеksik/NOUN birlik/NOUN sifatida/NOUN morfologiyada/NOUN esa/NOUN grammatik/NOUN birlik/NOUN sifatida/NOUN o‘rganiladi/VERB ./PUNCT
+ So‘zning/NOUN borliqdagi/NOUN narsa/NOUN bеlgi/NOUN harakat/NOUN va/NOUN voqеa-hodisalar/null haqidagi/NOUN tushunchalarni/NOUN ifodalashi/NOUN uning/NOUN lеksik/NOUN ma‘nosi/NOUN hisoblanadi/NOUN ./PUNCT
+ Lеksik/NOUN ma‘no/NOUN so‘zning/NOUN lug‘aviy/NOUN asosiy/NOUN o‘zak/NOUN nеgiz/NOUN qismi/NOUN orqali/NOUN anglashiladi/NOUN ./PUNCT
+ So‘zning/NOUN biror/NOUN turkumga/NOUN mansubligini/NOUN ko‘rsatuvchi/NOUN umumiy/NOUN katеgorial/NOUN ma‘no/NOUN va/NOUN so‘zning/NOUN ma‘lum/ADJ bir/NOUN grammatik/NOUN shakli/NOUN ifodalaydigan/NOUN ma‘no/NOUN grammatik/NOUN ma‘no/NOUN dеyiladi/NOUN ./PUNCT
+ Prеdmеtlik/NOUN ma‘nosini/NOUN bildiruvchi/NOUN so‘zlar/NOUN turkumi/NOUN ot/NOUN dеyiladi/NOUN ./PUNCT
+ Ot/NOUN son/NOUN egalik/NOUN kеlishik/NOUN katеgoriyalari/NOUN turli/NOUN ma‘no/NOUN va/NOUN vazifa/NOUN uchun/NOUN qo‘llanadigan/VERB morfologik/NOUN shakllarga/NOUN shuningdеk/NOUN o‘ziga/VERB xos/NOUN so‘z/NOUN yasalish/NOUN tizimiga/NOUN ega/NOUN ./PUNCT
+ Prеdmеtlarning/NOUN bеlgi-xususiyati/null rangi/NOUN hajmi/NOUN shakli/NOUN mazasi/NOUN xaraktеri/NOUN holati/NOUN vazni/NOUN hidi/NOUN o‘rin/NOUN yoki/NOUN vaqtga/NOUN munosabati/NOUN ni/NOUN ifodalaydigan/NOUN so‘zlar/NOUN turkumi/NOUN sifat/NOUN dеyiladi/NOUN ./PUNCT
+ Prеdmеtning/NOUN sonini/NOUN miqdorini/NOUN va/NOUN joylashish/NOUN tartibini/NOUN bildirgan/NOUN so‘zlar/NOUN turkumi/NOUN son/NOUN dеyiladi/NOUN ./PUNCT
+ Sonlar/NOUN qancha/NOUN ?/PUNCT
+ nеcha/NOUN ?/PUNCT
+ nеchanchi/NOUN ?/PUNCT
+ so‘roqlaridan/VERB biriga/NOUN javob/NOUN bo‘ladi/VERB ./PUNCT
+ Gapda/NOUN biror/NOUN so‘roqqa/VERB javob/NOUN bo‘lgan/VERB vao‘zaro/CONJ tobе/NOUN boG‘langan/VERB so‘z/NOUN yoki/NOUN so‘z/NOUN birikmasi/NOUN gap/NOUN bo‘lagi/VERB dеb/NOUN ataladi/NOUN ./PUNCT
+ Gap/NOUN bo‘laklarini/ADJ bеlgilashda/NOUN asosiy/NOUN xususiyat/NOUN ular/NOUN orasidagi/NOUN sintaktik/NOUN aloqadir/NOUN ./PUNCT
+ So‘zlarga/NOUN so‘roq/VERB bеrish/NOUN ularning/NOUN qaysi/NOUN turkumga/NOUN mansubligi/NOUN gap/NOUN ichida/NOUN joylashish/NOUN tartibi/NOUN qanday/NOUN qo‘shimchalar/ADJ olishi/NOUN tom/NOUN ma‘noda/NOUN gap/NOUN bo‘laklarining/ADJ turlarini/NOUN bеlgilashda/NOUN asos/NOUN bo‘la/VERB olmaydi/NOUN ./PUNCT
+ Gap/NOUN bo‘laklarining/ADJ turi/NOUN odatda/NOUN bir-biriga/NUM nisbatan/NOUN aniqlanadi/NOUN ega/NOUN kеsimga/NOUN nisbatan/NOUN aniqlovchi/NOUN aniqlanmishga/NOUN nisbatan/NOUN hol/NOUN hollanmishga/NOUN nisbatan/NOUN to‘ldiruvchi/NOUN to‘ldirilmishga/VERB nisbatan/NOUN aniqlanadi/NOUN ./PUNCT
+ Nisbat/NOUN bеriluvchi/NOUN bo‘lak/ADJ bo‘lmas ekan/VERB u/NOUN yoki/NOUN bu/NOUN gap/NOUN bo‘lagi/VERB haqida/NOUN gapirish/NOUN mumkin/NOUN emas/NOUN ./PUNCT
+ Gap/NOUN bo‘laklarining/ADJ gap/NOUN tarkibidagi/NOUN mavqei/NOUN bir/NOUN xil/NOUN emas/NOUN ./PUNCT
+ Ba‘zi/null gap/NOUN bo‘laklari/ADJ gap/NOUN qurilishida/NOUN markaziy/NOUN o‘rinni/NOUN egallaydi/NOUN bunday/NOUN bo‘laklarsiz/ADJ fikr/NOUN anglashilmaydi/NOUN ./PUNCT
+ Ayrim/NOUN bo‘laklar/ADJ esa/NOUN gap/NOUN qurilishida/NOUN asosiy/NOUN rol/NOUN o‘ynamaydi/VERB ularning/NOUN ishtirokisiz/NOUN ham/NOUN bosh/NOUN bo‘laklar/ADJ orqali/NOUN fikr/NOUN anglashilaveradi/NOUN ./PUNCT
+ Shunga/NOUN ko‘ra/AUX gap/NOUN bo‘laklari/ADJ ikki/NOUN turga/NOUN ajratiladi/NOUN 1/NOUN bosh/NOUN bo‘laklar/ADJ 2/NOUN ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ ./PUNCT
+ Bosh/NOUN bo‘laklar/ADJ gapning/NOUN grammatik/NOUN asosini/NOUN tashkil/NOUN qiladi/NOUN ./PUNCT
+ Fikr/NOUN asosan/NOUN gapning/NOUN grammatik/NOUN asosi/NOUN orqali/NOUN ifodalanadi/NOUN ./PUNCT
+ Ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ gapning/NOUN grammatik/NOUN asosini/NOUN tashkil/NOUN qilmasdan/NOUN uni/NOUN hajm/NOUN jihatdan/NOUN kengaytiradi/NOUN yoki/NOUN so‘z/NOUN birikmasini/NOUN shakllantirish/NOUN uchun/NOUN xizmat/NOUN qiladi/NOUN ./PUNCT
+ Ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ bosh/NOUN bo‘laklar/ADJ bilan/NOUN yoki/NOUN o‘zaro/ADV tobe/NOUN aloqada/NOUN bo‘lib/VERB ularni/NOUN izohlash/NOUN aniqlash/NOUN to‘ldirish/VERB uchun/NOUN xizmat/NOUN qiladi/NOUN ./PUNCT
+ Bosh/NOUN bo‘laklar/ADJ ega/NOUN va/NOUN kesimdan/NOUN iborat/NOUN ./PUNCT
+ Ikkinchi/NOUN darajali/NOUN bo‘laklar/ADJ aniqlovchi/NOUN to‘ldiruvchi/NOUN va/NOUN holdir/NOUN ./PUNCT
+ Kesim/NOUN orqali/NOUN izohlanadigan/NOUN fikr/NOUN predmetni/NOUN anglatadigan/NOUN gapning/NOUN boshqa/NOUN bo‘laklariga/ADJ tobe/NOUN bo‘lmagan/VERB bosh/NOUN bo‘lakka/ADJ ega/NOUN deyiladi/NOUN ./PUNCT
+ Ega/NOUN keng/NOUN ma‘noda/NOUN predmet/NOUN tushunchasini/NOUN bildirib/NOUN kesimdan/NOUN anglashilgan/NOUN predikativ/NOUN belgining/NOUN kimga/NOUN yoki/NOUN nimaga/NOUN qarashliligini/NOUN ko‘rsatadi/VERB ./PUNCT
+ Ega/NOUN bosh/NOUN kelishikdagi/NOUN birliklar/NOUN bilan/NOUN ifodalanib/NOUN kim/NOUN ?/PUNCT
+ nima/NOUN ?/PUNCT
+ qayer/NOUN ?/PUNCT
+ so‘roqlaridan/VERB biriga/NOUN javob/NOUN bo‘ladi/VERB ./PUNCT
+ Ega/NOUN odatda/NOUN yakka/NOUN so‘z/NOUN ot/NOUN olmosh/NOUN harakat/NOUN nomi/NOUN otlashgan/NOUN so‘z/NOUN sifat/NOUN son/NOUN olmosh/NOUN sifatdosh/NOUN ravishdosh/NOUN ravish/NOUN taqlid/NOUN so‘z/NOUN undov/NOUN so‘z/NOUN modal/NOUN so‘z/NOUN bilan/NOUN ifodalanadi/NOUN ./PUNCT
+ Eganing/NOUN ot/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
+ Bosh/NOUN kelishikdagi/NOUN atoqli/NOUN yoki/NOUN turdosh/NOUN ot/NOUN ko‘pincha/ADV ega/NOUN vazifasini/NOUN bajaradi/NOUN Sirdaryo/NOUN hammasini/NOUN yig‘ib/NOUN olib/NOUN rosa/NOUN kuchga/NOUN to‘ladi-da/VERB ./PUNCT
+ Chor-atrof/NOUN yaproqlarning/NOUN mungli/NOUN shivir-shiviriga/NOUN to‘ldi/VERB ./PUNCT
+ Eganing/NOUN olmosh/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
+ Ega/NOUN bosh/NOUN kelishik/NOUN shaklidagi/NOUN ot/NOUN o‘rnida/NOUN qo‘llanuvchi/NOUN olmoshlar/NOUN bilan/NOUN ifodalanadi/NOUN Ular/NOUN kulimsirab/NOUN askiyaga/NOUN quloq/NOUN solishdi/NOUN P/NOUN Q/NOUN )/PUNCT
+ Kimdir/NOUN unga/NOUN darrov/NOUN bir/NOUN kosa/NOUN ovqat/NOUN keltirib/NOUN berdi/NOUN ./PUNCT
+ O‘/null Usmonov/NOUN ./PUNCT
+ O‘zingiz/VERB juda/NOUN aqlli/NOUN uzoqni/NOUN ko‘radigan/VERB odamsiz/NOUN ./PUNCT
+ S/NOUN Soliyev/NOUN ./PUNCT
+ Eganing/NOUN harakat/NOUN nomi/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
+ Ega/NOUN harakat/NOUN nomi/NOUN bilan/NOUN ifodalana/NOUN oladi/NOUN ariqdan/NOUN oqqan/NOUN suvning/NOUN shildirashi/NOUN eshitila/NOUN boshladi/NOUN ./PUNCT
+ P/NOUN Q/NOUN ./PUNCT
+ Boshliq/NOUN bo‘lish/VERB oson/NOUN boshlamoq/NOUN qiyin/NOUN ./PUNCT
+ Maqol/NOUN ./PUNCT
+ Eganing/NOUN otlashgan/NOUN sifat/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
+ Sifatlar/NOUN otlashib/NOUN gapda/NOUN ega/NOUN bo‘lib/VERB kelishi/NOUN mumkin/NOUN Botir/NOUN topsa/NOUN barcha/NOUN yer/NOUN baxil/NOUN topsa/NOUN bosib/NOUN yer/NOUN ./PUNCT
+ Maqol/NOUN ./PUNCT
+ Yaxshi/NOUN yaxshining/NOUN qadriga/NOUN yetar/NOUN ./PUNCT
+ Maqol/NOUN ./PUNCT
+ Eganing/NOUN otlashgan/NOUN son/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
+ Sonlar/NOUN ham/NOUN otlashib/NOUN ega/NOUN vazifasida/NOUN keladi/NOUN Ikkovi/NOUN ham/NOUN bir-biriga/NUM juda/NOUN o‘xshash/VERB ./PUNCT
+ P/NOUN Q/NOUN ./PUNCT
+ Tarbiya/NOUN axloq/NOUN va/NOUN oqillikka/NOUN tayanmog‘i/VERB lozim/NOUN ./PUNCT
+ Birinchisi/NOUN yaxshi/NOUN fazilatni/NOUN o‘stirsa/VERB ikkinchisi/NOUN ba‘zilarning/null illatidan/NOUN himoya/NOUN qiladi/NOUN ./PUNCT
+ Oz-oz/ADV o‘rganib/VERB dono/NOUN bo‘lur/VERB ./PUNCT
+ Eganing/NOUN otlashgan/NOUN olmosh/NOUN bilan/NOUN ifodalanishi/NOUN ./PUNCT
+ Ega/NOUN vazifasida/NOUN sifat/NOUN son/NOUN o‘rnida/NOUN qo‘llanuvchi/NOUN otlashgan/NOUN olmosh/NOUN bilan/NOUN ham/NOUN ifodalanadi/NOUN Bu/NOUN ehtimol/NOUN ona/NOUN suti/NOUN bilan/NOUN kirgan/NOUN g‘ayrishuuriy/null bir/NOUN tuyg‘udir/null ./PUNCT
+ P/NOUN Q/NOUN ./PUNCT
+ Odamlar/NOUN uchun/NOUN xuddi/NOUN mana/NOUN shunisi/NOUN kerak edi/VERB ./PUNCT
+ CH/NOUN Aytmatov/NOUN ./PUNCT

@@ -1,0 +1,74 @@
+ Suv/NOUN tuproq/NOUN havo/NOUN va/NOUN boshqa/NOUN muhitlardagi/NOUN zararli/NOUN mikroorganizmlar/NOUN yog‘ochning/NOUN sirti/NOUN yoki/NOUN oraliq/NOUN to‘qimalariga/ADJ tushsa/NOUN yog‘och/NOUN chiriy/NOUN boshlaydi/NOUN ./PUNCT
+ Shuning/NOUN oldini/NOUN olish/NOUN uchun/NOUN yog‘ochni/NOUN quruq/NOUN holda/NOUN saqlash/NOUN unga/NOUN ayrim/NOUN kimyoyaviy/NOUN moddalar/NOUN shimdirish/NOUN orqali/NOUN chidamliligini/NOUN oshirish/NOUN yoki/NOUN yog‘och/NOUN sirtini/NOUN aliflash/NOUN loklash/NOUN hamda/NOUN turli/NOUN bo‘yoqlar/NOUN bilan/NOUN bo‘yash/VERB kabi/NOUN usullar/NOUN qo‘llaniladi/VERB ./PUNCT
+ Yog‘och/NOUN ishqalanishga/NOUN yaxshi/NOUN chidamli/NOUN emas/NOUN ./PUNCT
+ Shuning/NOUN uchun/NOUN turli/NOUN asbob-uskunalarning/NOUN ishqalanishiga/NOUN uchrab/NOUN ishlaydigan/NOUN qismlari/NOUN yog‘ochdan/NOUN ko‘ra/AUX chidamliroq/NOUN bo‘lgan/VERB boshqa/NOUN materiallardan/NOUN tayyorlanadi/NOUN ./PUNCT
+ Yog‘ochning/NOUN qattiqligi/NOUN unga/NOUN boshqa/NOUN qattiq/NOUN jismning/NOUN botishiga/NOUN qarshilik/NOUN ko‘rsatish/VERB darajasi/NOUN bilan/NOUN belgilanadi/NOUN ./PUNCT
+ Yog‘ochning/NOUN qattiqligini/NOUN aniqlashning/NOUN eng/NOUN oddiy/NOUN usuli/NOUN unga/NOUN mix/NOUN qoqib/NOUN ko‘rishdan/VERB iborat/NOUN ./PUNCT
+ Oddiy/NOUN mixni/NOUN qayrag‘och/NOUN eman/NOUN shamshod/NOUN nok/NOUN akatsiya/NOUN kabi/NOUN qattiq/NOUN yog‘ochlarga/NOUN qoqib/NOUN bo‘lmaydi/VERB tol/NOUN terak/NOUN qarag‘ay/NOUN kabi/NOUN yumshoq/NOUN yog‘ochlarga/NOUN qoqiladi/NOUN ./PUNCT
+ Hamma/NOUN yog‘och/NOUN turlari/NOUN yaxshi/NOUN yonadigan/NOUN material/NOUN hisoblanadi/NOUN ./PUNCT
+ Shuning/NOUN uchun/NOUN yog‘ochdan/NOUN tayyorlangan/NOUN maxsulotlarni/NOUN yong‘indan/NOUN saqlash/NOUN choralari/NOUN ko‘riladi/VERB ./PUNCT
+ Ustaxonada/NOUN yong‘in/NOUN chiqishiga/NOUN qarshi/NOUN xavfsizlik/NOUN choralarini/NOUN muntazam/NOUN bajarib/NOUN borish/NOUN shart/NOUN ./PUNCT
+ Kuzatish/NOUN usullari/NOUN yog‘ochning/NOUN sifatini/NOUN belgilashda/NOUN undan/NOUN tayyorlanadigan/NOUN buyum/NOUN kattaligiga/NOUN mos/NOUN bo‘lgan/VERB sog‘lom/ADJ qismi/NOUN bor/NOUN yoki/NOUN yo‘qligini/NOUN aniqlashdan/NOUN iborat/NOUN ./PUNCT
+ Yog‘ochning/NOUN ko‘ndalang/VERB va/NOUN bo‘ylama/VERB qismlarini/NOUN kuzatish/NOUN orqali/NOUN uning/NOUN ichki/NOUN qismlari/NOUN chirimaganligi/NOUN boshqa/NOUN turdagi/NOUN zararlanishga/NOUN uchramaganligi/NOUN hamda/NOUN rangi/NOUN va/NOUN guldorligi/NOUN qanday/NOUN ekanligi/NOUN aniqlanadi/NOUN ./PUNCT
+ Sinab/NOUN ko‘rish/VERB usuli/NOUN bilan/NOUN yog‘ochning/NOUN qattiq-yumshoqligi/NOUN zichligi/NOUN hamda/NOUN turli/NOUN tashqi/NOUN ta‘sirlarga/NOUN chidamliligi/NOUN aniqlanadi/NOUN ./PUNCT
+ Yog‘ochning/NOUN qattiqligini/NOUN unga/NOUN o‘zidan/VERB qattiq/NOUN buyumlarning/NOUN uchini/NOUN tig‘ini/NOUN qirrasini/NOUN ma‘lum/ADJ miqdordagi/NOUN kuchlar/NOUN bilan/NOUN botirib/NOUN ko‘rish/VERB orqali/NOUN aniqlanadi/NOUN ./PUNCT
+ 7/NOUN Yog‘ochning/NOUN qancha/NOUN og‘irlikni/NOUN egilmasdan/NOUN ko‘tarib/VERB tura/NOUN olishi/NOUN tajriba/NOUN yo‘li/NOUN bilan/NOUN hamda/NOUN tegishli/NOUN hisob-kitoblar/NOUN orqali/NOUN aniqlanadi/NOUN ./PUNCT
+ Bunday/NOUN tajriba/NOUN va/NOUN hisob/NOUN kitoblar/NOUN binolarni/NOUN imoratlarni/NOUN qurish/NOUN uchun/NOUN qanday/NOUN yo‘g‘onlikdagi/NOUN va/NOUN uzunlikdagi/NOUN yog‘ochni/NOUN ishlatish/NOUN kerakligi/NOUN aniqlashda/NOUN yordam/NOUN beradi/NOUN ./PUNCT
+ Yog‘ochning/NOUN sifati/NOUN uning/NOUN zax/NOUN va/NOUN namligiga/NOUN suvda/NOUN va/NOUN zararli/NOUN mikroorganizmlarga/NOUN hamda/NOUN yog‘ochni/NOUN kemiruvchi/NOUN qurtlarga/NOUN chidamlilik/NOUN darajasi/NOUN bilan/NOUN ham/NOUN belgilanadi/NOUN ./PUNCT
+ Yog‘ochning/NOUN shunday/NOUN zararli/NOUN ta‘sirlarga/NOUN chidamliligini/NOUN oshirish/NOUN uchun/NOUN unga/NOUN turli/NOUN kimyoviy/NOUN hamda/NOUN ta‘biiy/NOUN moddalar/NOUN shimdiriladi/NOUN loklanadi/NOUN bo‘yaladi/VERB ./PUNCT
+ Duradgorlik/NOUN o‘quv/NOUN ustaxonalaridagi/NOUN mashg‘ulotlarda/NOUN nam/NOUN yog‘ochlardan/NOUN buyumlar/NOUN yasash/NOUN tavsiya/NOUN etilmaydi/NOUN ./PUNCT
+ Shuning/NOUN uchun/NOUN ularni/NOUN dastlab/NOUN quritish/NOUN lozim/NOUN ./PUNCT
+ Ammo/NOUN ishlab/NOUN chiqarishda/NOUN foydalaniladigan/NOUN yog‘ochlar/NOUN 8/NOUN ma‘lum/ADJ darajada/NOUN nam/NOUN bo‘ladi/VERB ./PUNCT
+ Suv/NOUN yog‘och/NOUN xujayralarining/NOUN devorchalari/NOUN orqali/NOUN singib/NOUN ularning/NOUN ichi/NOUN va/NOUN oralariga/NOUN joylashadi/NOUN ./PUNCT
+ Xujayra/NOUN devorchalariga/NOUN shimilgani/NOUN suv/NOUN gigoskopiya/NOUN suv/NOUN xujayralarning/NOUN ichi/NOUN va/NOUN orasiga/NOUN singan/NOUN suv/NOUN erkin/NOUN tomchi/NOUN deb/NOUN ataladi/NOUN ./PUNCT
+ Yog‘ochning/NOUN namligi/NOUN laboratoriya/NOUN sharoitida/NOUN asosan/NOUN ikki/NOUN usulda/NOUN uning/NOUN nam/NOUN va/NOUN quritilgan/NOUN xoldagi/NOUN oralig‘ini/NOUN o‘lchash/VERB yoki/NOUN namlikni/NOUN o‘lchaydigan/VERB asbob/NOUN elektr/NOUN nam/NOUN o‘lchagich/NOUN yordamida/NOUN aniqlanadi/NOUN ./PUNCT
+ Yog‘och/NOUN namligini/NOUN tortish/NOUN yo‘li/NOUN bilan/NOUN aniqlash/NOUN uchun/NOUN taxta/NOUN yoki/NOUN gullarning/NOUN uchidan/NOUN 0/NOUN 5/NOUN sm/NOUN qismi/NOUN kesib/NOUN tashlanadi/NOUN qolgan/NOUN qismidan/NOUN 10/NOUN 15/NOUN mm/NOUN qalinlikda/NOUN butoqsiz/NOUN va/NOUN biron/NOUN nuqsonsiz/NOUN namuna/NOUN arralab/NOUN olinadi/NOUN ./PUNCT
+ Uni/NOUN tozalab/NOUN texnik/NOUN tarozida/NOUN 20/NOUN mg/NOUN aniqlik/NOUN bilan/NOUN tortiladi/NOUN ./PUNCT
+ So‘ng/ADJ quritish/NOUN shkafida/NOUN 100/NOUN 1050/NOUN C/NOUN haroratda/NOUN quritiladi/NOUN ./PUNCT
+ Namuna/NOUN birinchi/NOUN marta/NOUN olti/NOUN soatdan/NOUN so‘ng/ADJ tortib/NOUN quritiladi/NOUN undan/NOUN keyingi/NOUN tortishlar/NOUN har/NOUN 2/NOUN soatda/NOUN takrorlanadi/NOUN ./PUNCT
+ Quritish/NOUN namunaning/NOUN og‘irligi/NOUN o‘zgarmay/VERB qolguncha/NOUN davom/NOUN etadi/NOUN ./PUNCT
+ Yog‘ochning/NOUN namligi/NOUN undagi/NOUN suv/NOUN miqdorining/NOUN mutloqo/NOUN quruq/NOUN yog‘och/NOUN oralig‘iga/NOUN yoki/NOUN zichligiga/NOUN nisbatan/NOUN aniqlanib/NOUN foizlarda/NOUN ifodalanadigan/NOUN kattalikdir/NOUN ./PUNCT
+ Yog‘och/NOUN namligini/NOUN aniqlashning/NOUN ikkinchi/NOUN usulida/NOUN yog‘och/NOUN namligi/NOUN nam/NOUN o‘lchagich/NOUN yordamida/NOUN qisqa/NOUN vaqt/NOUN ichida/NOUN aniqlanadi/NOUN ./PUNCT
+ Asbobning/NOUN ishlash/NOUN prinsipi/NOUN yog‘ochning/NOUN elektr/NOUN o‘tkazuvchanligiga/NOUN asoslanadi/NOUN ./PUNCT
+ Yog‘ochning/NOUN namligi/NOUN qancha/NOUN yuqori/NOUN bo‘lsa/VERB u/NOUN elektr/NOUN tokini/NOUN shuncha/NOUN yaxshi/NOUN o‘tkazadi/VERB ./PUNCT
+ Mutloq/NOUN quruq/NOUN yog‘och/NOUN elektr/NOUN tokini/NOUN o‘tkazmaydi/VERB ./PUNCT
+ Yog‘och/NOUN quritilganda/NOUN avval/NOUN undagi/NOUN erkin/NOUN suv/NOUN keyin/NOUN gigroskopik/NOUN suv/NOUN bug‘lanadi/VERB ./PUNCT
+ Yog‘ochlar/NOUN ta‘biiy/NOUN va/NOUN suniy/NOUN usullarda/NOUN masalan/NOUN ochiq/NOUN xavoda/NOUN ildizda/NOUN yopiq/NOUN xonalarda/NOUN maxsus/NOUN jixozlangan/NOUN kameralarda/NOUN qizdirilgan/NOUN xavo/NOUN bilan/NOUN quritiladi/NOUN ./PUNCT
+ Ochiq/NOUN xavoda/NOUN quritish/NOUN usuli/NOUN quritilishi/NOUN lozim/NOUN bo‘lgan/VERB yog‘och/NOUN materialni/NOUN ochiq/NOUN xavoda/NOUN to‘g‘ri/ADJ saqlashdan/NOUN iborat/NOUN bo‘lib/VERB bunda/NOUN yog‘och/NOUN xavo/NOUN ta‘sirida/NOUN sekin-asta/ADV quriydi/NOUN ./PUNCT
+ Yog‘ochni/NOUN ta‘biiy/NOUN va/NOUN sunʼiy/NOUN usulda/NOUN quritish/NOUN quyidagi/NOUN ketma/NOUN ketlikka/NOUN asoslangan/NOUN ./PUNCT
+ Quritilayotgan/NOUN yog‘och/NOUN atrofidan/NOUN oralaridan/NOUN esgan/NOUN issiq/NOUN quruq/NOUN yoki/NOUN shamollatish/NOUN vaqtida/NOUN esgan/NOUN qizdirilgan/NOUN xavo/NOUN yoki/NOUN yog‘och/NOUN tarkibidagi/NOUN namlikni/NOUN olib/NOUN ketadi/NOUN ./PUNCT
+ Xavo/NOUN oqimi/NOUN qancha/NOUN kuchli/NOUN bo‘lsa/VERB yog‘och/NOUN shuncha/NOUN tez/NOUN quriydi/NOUN ./PUNCT
+ 9/NOUN Yog‘ochlarni/NOUN quritishda/NOUN quritish/NOUN rejimi/NOUN katta/NOUN ahamiyatga/NOUN ega/NOUN haroratni/NOUN namlik/NOUN va/NOUN havo/NOUN oqimini/NOUN boshqarish/NOUN bilan/NOUN yog‘ochning/NOUN yorilmasdan/NOUN tob/NOUN tashlamasdan/NOUN qurishini/NOUN ko‘rish/VERB mumkin/NOUN ./PUNCT
+ Yog‘och/NOUN materiallarini/NOUN ta‘biy/NOUN holda/NOUN quritish/NOUN va/NOUN saqlash/NOUN davlat/NOUN standartlariga/NOUN muofiq/NOUN bajariladi/NOUN ./PUNCT
+ Tabiiy/NOUN quritishda/NOUN yog‘ochlar/NOUN to‘g‘ri/ADJ xolda/NOUN saqlanadi/NOUN ./PUNCT
+ Bunda/NOUN Yog‘och/NOUN saqlanadigan/NOUN joy/NOUN maydonining/NOUN atrofi/NOUN va/NOUN usti/NOUN nishab/NOUN bo‘lib/VERB yog‘in/NOUN -/null sochin/NOUN suvlari/NOUN to‘planmasligi/NOUN kerak/NOUN ./PUNCT
+ Yog‘och/NOUN materiallari/NOUN tagida/NOUN va/NOUN atrofida/NOUN poyraxa/NOUN arra/NOUN qipig‘i/null chirigan/NOUN tarasha/NOUN yoki/NOUN daraxt/NOUN po‘stlog‘i/NOUN va/NOUN axlat/NOUN bo‘lmasligi/NOUN kerak/NOUN ./PUNCT
+ Yog‘och/NOUN saqlanadigan/NOUN ombor/NOUN yoki/NOUN imoratlar/NOUN maydonidan/NOUN kamida/NOUN 50/NOUN m/NOUN uzoqlikda/NOUN bo‘lib/VERB panjara/NOUN yoki/NOUN sim/NOUN to‘siq/ADJ bilan/NOUN o‘ralgan/VERB bo‘lishi/VERB lozim/NOUN ./PUNCT
+ Yog‘och/NOUN materiallar/NOUN maxsus/NOUN poydevorga/NOUN o‘rnatilgan/VERB taglikka/NOUN taxlanishi/NOUN zarur/NOUN ./PUNCT
+ Ularning/NOUN shu/NOUN tarzda/NOUN taxlangan/NOUN turi/NOUN yog‘och/NOUN g‘arami/null deb/NOUN ataladi/NOUN ./PUNCT
+ Yog‘och/NOUN g‘aramlari/VERB ostiga/NOUN qo‘yiladigan/VERB yog‘och/NOUN taglik/NOUN antiseptik/NOUN moddalar/NOUN bilan/NOUN bo‘lishi/VERB kerak/NOUN ./PUNCT
+ Tagliklar/NOUN yog‘och/NOUN g‘aramlarning/VERB turi/NOUN o‘lchamlariga/NOUN qarab/NOUN tayyorlanib/NOUN balandligi/NOUN 50/NOUN sm/NOUN dan/NOUN kam/NOUN bo‘lmasligi/NOUN kerak/NOUN ./PUNCT
+ Bargli/NOUN daraxtlar/NOUN yog‘ochlaridan/NOUN tayyorlangan/NOUN taxta/NOUN materiallar/NOUN yog‘och/NOUN g‘aramlarga/VERB 1/NOUN 5/NOUN 2/NOUN m/NOUN balandligi/NOUN 8/NOUN 11/NOUN m/NOUN taxlanadi/NOUN ./PUNCT
+ Taxtalar/NOUN orasiga/NOUN past/NOUN sifatli/NOUN taxtalardan/NOUN qistirma-qo‘yib/VERB ketiladi/NOUN ./PUNCT
+ Taxtalar/NOUN orasiga/NOUN qo‘yiladigan/VERB pona/NOUN yog‘och/NOUN g‘arami/null osti/NOUN to‘sinining/VERB ustiga/NOUN bir/NOUN yo‘nalishda/VERB tik/NOUN joylashtirilib/NOUN boriladi/NOUN ./PUNCT
+ Bargli/NOUN daraxt/NOUN yog‘ochlaridan/NOUN tayyorlangan/NOUN taxtalar/NOUN yog‘och/NOUN g‘aramiga/null 5/NOUN 10/NOUN sm/NOUN taxlanadi/NOUN ./PUNCT
+ Yog‘och/NOUN g‘aramining/null balandligi/NOUN tagligining/NOUN kengligiga/NOUN qarab/NOUN 6/NOUN m/NOUN dan/NOUN oshmasligi/NOUN kerak/NOUN ./PUNCT
+ Taxtalarning/NOUN yog‘in/NOUN sochin/NOUN quyosh/NOUN ta‘siridan/NOUN saqlash/NOUN maqsadida/NOUN yog‘och/NOUN g‘aramlarning/VERB usti/NOUN past/NOUN sortli/NOUN taxtalar/NOUN bilan/NOUN nishab/NOUN qilib/NOUN yopiladi/NOUN ./PUNCT
+ Shuningdek/NOUN taxtalarni/NOUN taxlashda/NOUN yuqori/NOUN qavatdagi/NOUN taxtalar/NOUN pastki/NOUN qavatdagilarga/NOUN soya/NOUN beradigan/NOUN qilib/NOUN taxlanadi/NOUN ./PUNCT
+ Tabiiy/NOUN quritish/NOUN materiallarining/NOUN qalin-yupqaligiga/NOUN yog‘och/NOUN turiga/NOUN namligiga/NOUN haroratiga/NOUN 10/NOUN Yog‘ochlarni/NOUN ta‘biiy/NOUN holda/NOUN quritish/NOUN eng/NOUN oddiy/NOUN oson/NOUN va/NOUN arzon/NOUN usulidir/NOUN ./PUNCT
+ O‘quv/NOUN ustaxonasida/NOUN ishlatiladigan/NOUN yog‘och/NOUN materiallari/NOUN ham/NOUN ko‘pincha/ADV tabiiy/NOUN usulda/NOUN quritiladi/NOUN ./PUNCT
+ Buning/NOUN uchun/NOUN quritiladigan/NOUN yog‘och/NOUN materiallar/NOUN maktab/NOUN sharoitiga/NOUN qarab/NOUN bostirmalarda/NOUN ombor/NOUN chordoqlarda/NOUN maxsus/NOUN tagliklar/NOUN ustiga/NOUN qo‘yib/VERB saqlanadi/NOUN ./PUNCT
+ Qish/NOUN faslida/NOUN yog‘och/NOUN materiallar/NOUN tezroq/NOUN qurish/NOUN uchun/NOUN ulardan/NOUN keragi/NOUN qirqib/NOUN olinib/NOUN o‘quv/NOUN ustaxonalarida/NOUN saqlanadi/NOUN ba‘zan/ADV isitish/NOUN tarmog‘idagi/null batareyalar/NOUN ustiga/NOUN yoki/NOUN pechkalar/NOUN yoniga/NOUN terib/NOUN qo‘yiladi/VERB ./PUNCT
+ Yog‘ochlarni/NOUN suniy/NOUN quritish/NOUN kameralarda/NOUN olib/NOUN boriladi/NOUN ./PUNCT
+ Bu/NOUN usulda/NOUN quritiladigan/NOUN material/NOUN kameraga/NOUN terib/NOUN taxlanadi/NOUN va/NOUN issiq/NOUN xavo/NOUN yuboriladi/NOUN ./PUNCT
+ Kamerada/NOUN quritish/NOUN ta‘biiy/NOUN quritishga/NOUN qaraganda/NOUN qator/NOUN afzalliklarga/NOUN ega/NOUN ./PUNCT
+ Kamerada/NOUN yog‘och/NOUN juda/NOUN qisqa/NOUN vaqt/NOUN ichida/NOUN quriydi/NOUN va/NOUN katta/NOUN maydonlar/NOUN bo‘lishini/VERB talab/NOUN etmaydi/NOUN ./PUNCT
+ Kamerada/NOUN yog‘ochni/NOUN xoxlagan/NOUN namlikgacha/NOUN quritish/NOUN mumkin/NOUN ./PUNCT
+ Kamerada/NOUN haroratning/NOUN yuqori/NOUN bo‘lishi/VERB tufayli/NOUN chirituvchi/NOUN zamburug‘lar/NOUN rivojlanmaydi/NOUN ./PUNCT
+ Kamerada/NOUN quritilishni/NOUN aniq/NOUN boshqarish/NOUN mumkinligi/NOUN sababli/NOUN yorilish/NOUN va/NOUN tob/NOUN tashlashning/NOUN oldini/NOUN olish/NOUN mumkin/NOUN ./PUNCT
+ Haroratning/NOUN yuqori/NOUN bo‘lishi/VERB natijasida/NOUN nina/NOUN bargli/NOUN yog‘ochning/NOUN smolasi/NOUN qotib/NOUN qolib/NOUN u/NOUN keyinchalik/NOUN buyum/NOUN sirtiga/NOUN chiqmaydi/NOUN ./PUNCT
+ Har/NOUN bir/NOUN kishi/NOUN qo‘lidan/NOUN kelganicha/NOUN uy-ro‘zg‘or/VERB buyumlarini/NOUN o‘zi/VERB mustaqil/NOUN yasashni/NOUN hohlaydi/NOUN ./PUNCT
+ Uy-ro‘zg‘or/VERB buyumlarini/NOUN tayyorlashda/NOUN kerak/NOUN bo‘ladigan/VERB homashyo/NOUN materiallari/NOUN haqida/NOUN ham/NOUN ma‘lumotlarga/NOUN ega/NOUN ./PUNCT
+ Shunday ekan/VERB qo‘limizdan/NOUN keladigan/NOUN yoki/NOUN yasash/NOUN imkoni/NOUN mavjub/NOUN bo‘lgan/VERB uy-ro‘zg‘or/VERB buyumlarini/NOUN o‘zimiz/VERB o‘z/VERB qo‘limiz/NOUN bilan/NOUN tayyorlasak/NOUN yanada/NOUN qadrliroq/NOUN bo‘ladi/VERB ./PUNCT
+ Kichik/NOUN hajmdagi/NOUN uy-ro‘zg‘or/VERB buyumlarini/NOUN tayyorlashda/NOUN bizga/NOUN chizmachilik/NOUN fanidan/NOUN olgan/NOUN bilimlarimiz/NOUN kerak/NOUN bo‘ladi/VERB ./PUNCT
+ O‘lcham/NOUN olish/NOUN olingan/NOUN o‘lcham/NOUN asosida/NOUN buyumni/NOUN rejalash/NOUN arralash/NOUN kesish/NOUN qirqish/NOUN va/NOUN boshqa/NOUN ishlarni/NOUN bajarishda/NOUN esa/NOUN sabr/NOUN va/NOUN qunt/NOUN e‘tibor/NOUN talab/NOUN etadi/NOUN ./PUNCT

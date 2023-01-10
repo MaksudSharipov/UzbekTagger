@@ -12,10 +12,10 @@ l=len(data)
 for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='sifat', id=str(id), changeClass="*",
+        et.SubElement(root,"word", classId='ADJ', id=str(id), changeClass="*",
                       property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
-        et.SubElement(root, "word", classId='sifat', id=str(id), changeClass="",
+        et.SubElement(root, "word", classId='ADJ', id=str(id), changeClass="",
                       property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
@@ -27,10 +27,10 @@ l=len(data)
 for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='son', id=str(id), changeClass="*",
+        et.SubElement(root,"word", classId='NUM', id=str(id), changeClass="*",
                       property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
-        et.SubElement(root, "word", classId='son', id=str(id), changeClass="",
+        et.SubElement(root, "word", classId='NUM', id=str(id), changeClass="",
                       property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
@@ -42,10 +42,10 @@ l=len(data)
 for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='fel', id=str(id), changeClass="*",
+        et.SubElement(root,"word", classId='VERB', id=str(id), changeClass="*",
                       property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
-        et.SubElement(root, "word", classId='fel', id=str(id), changeClass="",
+        et.SubElement(root, "word", classId='VERB', id=str(id), changeClass="",
                       property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
@@ -58,10 +58,10 @@ l=len(data)
 for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='ravish', id=str(id), changeClass="*",
+        et.SubElement(root,"word", classId='ADV', id=str(id), changeClass="*",
                       property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
-        et.SubElement(root, "word", classId='ravish', id=str(id), changeClass="",
+        et.SubElement(root, "word", classId='ADV', id=str(id), changeClass="",
                       property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 #Ot
@@ -72,10 +72,10 @@ l=len(data)
 for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='ot', id=str(id), changeClass="*",
+        et.SubElement(root,"word", classId='NOUN', id=str(id), changeClass="*",
                       property=str(data['property'][i])).text=str(data['word'][i])[:-1].lower().strip()
     else:
-        et.SubElement(root, "word", classId='ot', id=str(id), changeClass="",
+        et.SubElement(root, "word", classId='NOUN', id=str(id), changeClass="",
                       property=str(data['property'][i])).text = str(data['word'][i]).lower().strip()
 
 #Yordamchi so`zlar
@@ -86,10 +86,10 @@ l=len(data)
 for i in range(l):
     id=id+1
     if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='olmosh', id=str(id), changeClass="*",
+        et.SubElement(root,"word", classId='PRON', id=str(id), changeClass="*",
                       property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
     else:
-        et.SubElement(root, "word", classId='olmosh', id=str(id), changeClass="",
+        et.SubElement(root, "word", classId='PRON', id=str(id), changeClass="",
                       property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 
@@ -100,27 +100,51 @@ id=0
 l=len(data)
 for i in range(l):
     id=id+1
-    if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='yordamchi soz', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
-    else:
-        et.SubElement(root, "word", classId='yordamchi soz', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
+    if (data['property'][i]=='K'):
+        if '*' in data['word'][i]:
+            et.SubElement(root, "word", classId='AUX', id=str(id), changeClass="*",
+                          property="").text = str(data['word'][i])[:-1].strip()
+        else:
+            et.SubElement(root, "word", classId='AUX', id=str(id), changeClass="",
+                          property="").text = str(data['word'][i]).strip()
+    if (data['property'][i]=='M'):
+        if '*' in data['word'][i]:
+            et.SubElement(root, "word", classId='MOD', id=str(id), changeClass="*",
+                          property="").text = str(data['word'][i])[:-1].strip()
+        else:
+            et.SubElement(root, "word", classId='MOD', id=str(id), changeClass="",
+                          property="").text = str(data['word'][i]).strip()
+    if (data['property'][i]=='B'):
+        if '*' in data['word'][i]:
+            et.SubElement(root, "word", classId='CONJ', id=str(id), changeClass="*",
+                          property="").text = str(data['word'][i])[:-1].strip()
+        else:
+            et.SubElement(root, "word", classId='CONJ', id=str(id), changeClass="",
+                          property="").text = str(data['word'][i]).strip()
+    if (data['property'][i]=='Y'):
+        if '*' in data['word'][i]:
+            et.SubElement(root, "word", classId='PART', id=str(id), changeClass="*",
+                          property="").text = str(data['word'][i])[:-1].strip()
+        else:
+            et.SubElement(root, "word", classId='PART', id=str(id), changeClass="",
+                          property="").text = str(data['word'][i]).strip()
+    if (data['property'][i]=='U'):
+        if '*' in data['word'][i]:
+            et.SubElement(root, "word", classId='INTJ', id=str(id), changeClass="*",
+                          property="").text = str(data['word'][i])[:-1].strip()
+        else:
+            et.SubElement(root, "word", classId='INTJ', id=str(id), changeClass="",
+                          property="").text = str(data['word'][i]).strip()
+    if (data['property'][i]=='T'):
+        if '*' in data['word'][i]:
+            et.SubElement(root, "word", classId='IMIT', id=str(id), changeClass="*",
+                          property="").text = str(data['word'][i])[:-1].strip()
+        else:
+            et.SubElement(root, "word", classId='IMIT', id=str(id), changeClass="",
+                          property="").text = str(data['word'][i]).strip()
 
-#Oraliq so`zlar
-excel_data = pd.read_excel('excel/oraliq.xlsx')
-data = pd.DataFrame(excel_data, columns=['word', 'property'])
-id=0
-l=len(data)
-for i in range(l):
-    id=id+1
-    if '*' in data['word'][i]:
-        et.SubElement(root,"word", classId='oraliq soz', id=str(id), changeClass="*",
-                      property=str(data['property'][i])).text=str(data['word'][i])[:-1].strip()
-    else:
-        et.SubElement(root, "word", classId='oraliq soz', id=str(id), changeClass="",
-                      property=str(data['property'][i])).text = str(data['word'][i]).strip()
 
 #faylga yozish
 tree = et.ElementTree(root)
 tree.write("word.xml", xml_declaration=True, encoding='utf-8')
+print(id)

@@ -1,0 +1,78 @@
+ Bugun/NOUN 25/NOUN noyabr/NOUN kuni/NOUN Isroilning/NOUN Quddus/NOUN shahrida/NOUN shaxmat/NOUN bo‘yicha/AUX FIDE/NOUN jamoalari/NOUN o‘rtasidagi/ADJ Jahon/NOUN chempionati/NOUN bahslari/NOUN yakunlanadi/NOUN ./PUNCT
+ O‘zbekiston/NOUN jamoasi/NOUN yirik/NOUN musobaqa/NOUN g‘olibligi/NOUN uchun/NOUN bahsga/NOUN kirishadi/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN Sportni/NOUN rivojlantirish/NOUN vazirligi/NOUN matbuot/NOUN xizmati/NOUN xabar/NOUN qildi/NOUN ./PUNCT
+ Ma‘lum/ADJ qilinishicha/NOUN O‘zbekistonlik/NOUN shaxmatchilarga/NOUN hal/NOUN qiluvchi/NOUN bellashuvda/NOUN Xitoy/NOUN vakillari/NOUN raqiblik/NOUN qiladi/NOUN ./PUNCT
+ Xitoyliklar/NOUN yarim/NOUN finalda/NOUN Ispaniyadan/NOUN ustun/NOUN kelishgandi/NOUN ./PUNCT
+ O‘zbek/NOUN shaxmatchilari/NOUN esa/NOUN yarim/NOUN finalda/NOUN Hindiston/NOUN jamoasini/NOUN dog‘da/NOUN qoldirdi/NOUN ./PUNCT
+ O‘zbekiston/NOUN va/NOUN Xitoy/NOUN o‘rtasidagi/ADJ final/NOUN partiyasi/NOUN bugun/NOUN Toshkent/NOUN vaqti/NOUN bilan/NOUN soat/NOUN 18/NOUN 00da/NOUN start/NOUN oladi/NOUN ./PUNCT
+ AQSh/NOUN va/NOUN Uels/NOUN terma/NOUN jamoalari/NOUN futbolchilari/NOUN Qatarda/NOUN bo‘lib/VERB o‘tayotgan/VERB jahon/NOUN chempionatining/NOUN guruh/NOUN bosqichining/NOUN birinchi/NOUN o‘yinida/NOUN durang/NOUN o‘ynadi/VERB ./PUNCT
+ Uchrashuv/NOUN 1/NOUN 1/NOUN hisobida/NOUN yakunlandi/NOUN ./PUNCT
+ AQSh/NOUN terma/NOUN jamoasi/NOUN uchun/NOUN birinchi/NOUN golni/NOUN Liberiya/NOUN prezidenti/NOUN Jorj/NOUN Veaning/NOUN o‘g‘li/null Timoti/NOUN Vea/NOUN 36-daqiqada/null kiritdi/NOUN ./PUNCT
+ Uels/NOUN terma/NOUN jamoasi/NOUN uchrashuvning/NOUN 82-daqiqasida/null Garet/NOUN Beyl/NOUN penaltini/NOUN golga/NOUN aylantirib/NOUN hisobni/NOUN tenglashtirgan/NOUN ./PUNCT
+ 22/NOUN yoshli/NOUN Timoti/NOUN Vea/NOUN AQSh/NOUN fuqarosi/NOUN ./PUNCT
+ Uning/NOUN otasi/NOUN Jorj/NOUN -/null Monako/NOUN Pari/NOUN Sen-Jermen/PRON Milan/NOUN Chelsi/NOUN va/NOUN Manchester/NOUN Siti/NOUN klublarida/NOUN o‘ynagan/VERB sobiq/NOUN professional/NOUN futbolchi/NOUN hisoblanadi/NOUN ./PUNCT
+ Jorj/NOUN Vea/NOUN Italiya/NOUN va/NOUN Fransiya/NOUN chempioni/NOUN Oltin/NOUN to‘p/NOUN sohibi/NOUN 1995/NOUN yil/NOUN Afrika/NOUN qit‘asining/NOUN bu/NOUN sovrinni/NOUN qo‘lga/NOUN kiritgan/NOUN yagona/NOUN vakili/NOUN ./PUNCT
+ U/NOUN futbolchilik/NOUN faoliyatidan/NOUN so‘ng/ADJ siyosiy/NOUN faoliyat/NOUN bilan/NOUN shug‘ullana/VERB boshlagan/NOUN ./PUNCT
+ 2015-2018/null yillarda/NOUN Liberiya/NOUN senatori/NOUN 2018/NOUN yilda/NOUN esa/NOUN prezident/NOUN etib/NOUN saylangan/NOUN ./PUNCT
+ Ma‘lumot/NOUN uchun/NOUN AQSh/NOUN terma/NOUN jamoasi/NOUN jahon/NOUN chempionatida/NOUN 11-marta/null ishtirok/NOUN etmoqda/NOUN ./PUNCT
+ 2018/NOUN yil/NOUN Rossiyada/NOUN bo‘lib/VERB o‘tgan/VERB jahon/NOUN chempionati/NOUN uchun/NOUN amerikaliklar/NOUN saralashdan/NOUN o‘ta/VERB olishmagan/NOUN ./PUNCT
+ Amerika/NOUN jamoasining/NOUN chempionatdagi/NOUN eng/NOUN yaxshi/NOUN yutug‘i/VERB 1930/NOUN yilda/NOUN bo‘lgan/VERB ./PUNCT
+ O‘shanda/ADV jamoa/NOUN uchinchi/NOUN o‘rinni/NOUN egallagan/NOUN ./PUNCT
+ Bugun/NOUN 20/NOUN noyabr/NOUN kuni/NOUN Qatar/NOUN poytaxti/NOUN Dohada/NOUN har/NOUN to‘rt/NUM yillikning/NOUN eng/NOUN yirik/NOUN futbol/NOUN bayrami/NOUN 2022/NOUN yilgi/NOUN jahon/NOUN chempionati/NOUN ochilish/NOUN marosimi/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
+ JCh-2022ni/null Dohadan/NOUN turib/NOUN yoritib/NOUN borayotganlarning/NOUN ma‘lum/ADJ qilishicha/NOUN Al-Bayt/null stadionida/NOUN o‘tgan/VERB marosim/NOUN yuqori/NOUN tashkilotchilik/NOUN va/NOUN tayyorlangan/NOUN turli/NOUN sahna/NOUN ko‘rinishlari/VERB bilan/NOUN o‘tgan/VERB ./PUNCT
+ Marosimda/NOUN janubiy/NOUN koreyalik/NOUN qo‘shiqchi/NOUN va/NOUN BTS/NOUN guruhi/NOUN a‘zosi/NOUN Chonguk/NOUN va/NOUN qatarlik/NOUN qo‘shiqchi/NOUN Fahad/NOUN Al-Kubaysi/null Dreamers/NOUN kompozitsiyasi/NOUN bilan/NOUN chiqish/NOUN qilishgan/NOUN ./PUNCT
+ Qatar/NOUN amiri/NOUN Tamim/NOUN bin/NOUN Hamad/NOUN At-Tani/null ochilish/NOUN nutqi/NOUN bilan/NOUN chiqish/NOUN qilib/NOUN barchani/NOUN mundial/NOUN bilan/NOUN tabriklagan/NOUN ./PUNCT
+ Qatardan/NOUN arab/NOUN mamlakatidan/NOUN barchani/NOUN jahon/NOUN chempionatidan/NOUN qutlayman/NOUN ./PUNCT
+ Biz/NOUN bu/NOUN turnirni/NOUN jahon/NOUN chempionatlari/NOUN tarixidagi/NOUN eng/NOUN muvaffaqiyatlisi/NOUN bo‘lishi/VERB uchun/NOUN birgalikda/NOUN mehnat/NOUN qildik/NOUN ./PUNCT
+ Buyuk/NOUN futbol/NOUN festivalidamiz/NOUN ./PUNCT
+ Turli/NOUN irq/NOUN millat/NOUN e‘tiqod/NOUN va/NOUN qarashlardan/NOUN qat‘i/NOUN nazar/NOUN futbol/NOUN barchamizni/NOUN birlashtiradi/NOUN ./PUNCT
+ Bu/NOUN yerda/NOUN butun/NOUN insoniyat/NOUN manfaati/NOUN uchun/NOUN ham/NOUN bor/NOUN kuchimizni/NOUN sarflab/NOUN sarmoya/NOUN kiritdik/NOUN ./PUNCT
+ Nihoyat/NOUN bugun/NOUN biz-u/PRON siz/NOUN kutgan/NOUN damlarga/NOUN yetib/NOUN keldik/NOUN ./PUNCT
+ Bugundan/NOUN boshlab/NOUN Xudo/NOUN xohlasa/NOUN 28/NOUN kun/NOUN davomida/NOUN butun/NOUN dunyo/NOUN biz/NOUN bilan/NOUN ajoyib/NOUN futbol/NOUN bayramini/NOUN kuzatib/NOUN boradi/NOUN ./PUNCT
+ Barcha/NOUN ishtirokchi/NOUN jamoalar/NOUN muxlislarni/NOUN qutlayman/NOUN -/null deydi/NOUN Qatar/NOUN amiri/NOUN o‘z/VERB nutqida/NOUN ./PUNCT
+ Eng/NOUN e‘tiborli/ADJ jihati/NOUN JCh-2022/null ochilish/NOUN marosimida/NOUN qatarlik/NOUN qori/NOUN yigit/NOUN G‘anim/NOUN Mufah/NOUN Qur‘oni/VERB Karim/NOUN oyatlaridan/NOUN tilovat/NOUN qildi/NOUN ./PUNCT
+ Shuningdek/NOUN Gollivudning/NOUN mashhur/NOUN aktyori/NOUN Morgan/NOUN Friman/NOUN JCh/NOUN ochilishida/NOUN chiqish/NOUN qilib/NOUN futbol/NOUN insoniyatni/NOUN birlashtirishi/NOUN haqida/NOUN gapirgan/NOUN ./PUNCT
+ Ochilish/NOUN marosimidan/NOUN keyin/NOUN Qatar/NOUN -/null Ekvador/NOUN uchrashuvi/NOUN startidan/NOUN avval/NOUN Al-Bayt/null stadioniga/NOUN JCh/NOUN bosh/NOUN sovrini/NOUN maketi/NOUN ko‘rsatildi/VERB ./PUNCT
+ Shu/NOUN tariqa/NOUN ushbu/NOUN o‘yin/NOUN bilan/NOUN JCh-2022/null rasman/NOUN start/NOUN oldi/NOUN ./PUNCT
+ Biroq/NOUN Qatar/NOUN o‘z/VERB uyida/NOUN musobaqaning/NOUN dastlabki/NOUN o‘yinida/NOUN mag‘lub/NOUN bo‘ldi/VERB ./PUNCT
+ Ochilish/NOUN bahsida/NOUN Ekvador/NOUN mezbonlarga/NOUN umuman/NOUN imkoniyat/NOUN qoldirmadi/NOUN ./PUNCT
+ Fenerbahche/NOUN hujumchisi/NOUN Enner/NOUN Valensiyaning/NOUN dubli/NOUN Lotin/NOUN Amerikasi/NOUN vakiliga/NOUN g‘alaba/NOUN keltirdi/NOUN ./PUNCT
+ Quyida/NOUN esa/NOUN ochilish/NOUN marosimidan/NOUN olingan/NOUN suratlar/NOUN bilan/NOUN tanishing/NOUN ./PUNCT
+ Tarixda/NOUN ilk/NOUN bor/NOUN futbol/NOUN bo‘yicha/AUX Jahon/NOUN chempionatining/NOUN ochilish/NOUN marosimi/NOUN oldidan/NOUN Qur‘on/VERB oyatlaridan/NOUN tilovat/NOUN qilindi/NOUN ./PUNCT
+ Yigirma/NOUN yoshli/NOUN G‘anim/NOUN Al/NOUN Muftoh/NOUN FIFA/NOUN Jahon/NOUN chempionati/NOUN ochilish/NOUN marosimising/NOUN qorisi/NOUN bo‘ldi/VERB ./PUNCT
+ Jarayon/NOUN bugun/NOUN yakshanba/NOUN kuni/NOUN mahalliy/NOUN vaqt/NOUN bilan/NOUN soat/NOUN 17/NOUN 00da/NOUN Al-Xor/null shahridagi/NOUN Al/NOUN Bayt/NOUN stadionida/NOUN tashkil/NOUN etildi/NOUN ./PUNCT
+ Ma‘lumot/NOUN uchun/NOUN G‘anim/NOUN Al/NOUN Muftoh/NOUN arab/NOUN dunyosidagi/NOUN ko‘plab/ADV yoshlar/NOUN uchun/NOUN namuna/NOUN bo‘lib/VERB u/NOUN umurtqa/NOUN pog‘onasining/NOUN pastki/NOUN qismi/NOUN rivojlanishiga/NOUN putur/NOUN etkazadigan/NOUN kam/NOUN uchraydigan/NOUN kasallik/NOUN bo‘lgan/VERB kaudal/NOUN regressiya/NOUN sindromiga/NOUN ega/NOUN bo‘lishiga/VERB qaramay/NOUN ko‘plab/ADV yutuqlarga/NOUN erishgan/NOUN ./PUNCT
+ Futbol/NOUN bo‘yicha/AUX 2022/NOUN yilgi/NOUN jahon/NOUN chempionati/NOUN 20/NOUN noyabrdan/NOUN 18/NOUN dekabrga/NOUN qadar/NOUN Qatarda/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
+ Jahon/NOUN chempionatning/NOUN barcha/NOUN o‘yinlari/NOUN beshta/NOUN Doha/NOUN Lusail/NOUN El-Xaur/NOUN Er-Rayyan/NOUN El/NOUN Vakra/NOUN shaharlardagi/NOUN sakkizta/NOUN stadionda/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
+ Meksikada/NOUN o‘tkazilayotgan/VERB taekvondo/NOUN bo‘yicha/AUX jahon/NOUN chempionatining/NOUN yana/NOUN bir/NOUN kuni/NOUN O‘zbekiston/NOUN terma/NOUN jamoasi/NOUN uchun/NOUN omadli/NOUN o‘tdi/VERB ./PUNCT
+ 73/NOUN kg/NOUN vazn/NOUN toifasida/NOUN bahs/NOUN olib/NOUN borgan/NOUN hamyurtimiz/NOUN Svetlana/NOUN Osipova/NOUN jahon/NOUN chempionligini/NOUN qo‘lga/NOUN kiritdi/NOUN !/PUNCT
+ Final/NOUN bellashuvida/NOUN Osipova/NOUN isroillik/NOUN Dana/NOUN Arzanni/NOUN 3/NOUN raundda/NOUN 2/NOUN 1/NOUN mag‘lubiyatga/NOUN uchratdi/NOUN ./PUNCT
+ Bu/NOUN bilan/NOUN Osipova/NOUN jahon/NOUN chempionatlarida/NOUN g‘alaba/NOUN qozongan/NOUN birinchi/NOUN taekvondochi/NOUN o‘zbekistonlik/NOUN qiz/NOUN sifatida/NOUN tarixda/NOUN qolmoqda/NOUN ./PUNCT
+ Joriy/NOUN yil/NOUN 11-13/null noyabr/NOUN kunlari/NOUN Qozon/NOUN shahrida/NOUN qo‘l/NOUN jangi/NOUN bo‘yicha/AUX Osiyo/NOUN chempionati/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
+ Mazkur/NOUN musobaqada/NOUN qo‘l/NOUN jangi/NOUN bo‘yicha/AUX O‘zbekiston/NOUN terma/NOUN jamoasi/NOUN umumjamoa/NOUN hisobida/NOUN 1-o‘rinni/null qo‘lga/NOUN kiritdi/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN Sportni/NOUN rivojlantirish/NOUN vazirligi/NOUN xabar/NOUN berdi/NOUN ./PUNCT
+ Ta‘kidlanishicha/VERB ushbu/NOUN turnirda/NOUN dunyoning/NOUN turli/NOUN davlatlaridan/NOUN 15/NOUN dan/NOUN ortiq/NOUN jamoalar/NOUN ishtirok/NOUN etishgan/NOUN ./PUNCT
+ Qo‘l/NOUN jangi/NOUN bo‘yicha/AUX Osiyo/NOUN chempionatining/NOUN ikkinchi/NOUN kunida/NOUN duel/NOUN yo‘nalishi/VERB bo‘yicha/AUX 6/NOUN ta/NOUN vazn/NOUN toifasida/NOUN g‘oliblar/ADJ va/NOUN sovrindorlar/NOUN bilan/NOUN tanishing/NOUN Bugun/NOUN O‘zbekiston/NOUN Superligasining/NOUN so‘ngi/ADJ tur/NOUN bahslari/NOUN bo‘lib/VERB o‘tadi/VERB ./PUNCT
+ Avvalgi/NOUN mavsumlarga/NOUN nazar/NOUN tashlaydigan/NOUN bo‘lsak/VERB ko‘p/ADV xollarda/NOUN chempion/NOUN nomi/NOUN so‘ngi/ADJ turdan/NOUN ancha/NOUN avval/NOUN ma‘lum/ADJ bo‘lardi/VERB ./PUNCT
+ Bu/NOUN yilgi/NOUN mavsum/NOUN esa/NOUN muxlislar/NOUN sabrini/NOUN so‘ngi/ADJ turgacha/NOUN sinovdan/NOUN o‘tkazdi/VERB ./PUNCT
+ Bugun/NOUN 7/NOUN ta/NOUN stadionda/NOUN o‘tadigan/VERB o‘yinlaridan/NOUN keyin/NOUN chempion/NOUN sovrindorlar/NOUN va/NOUN Pro/NOUN ligaga/NOUN yo‘l/NOUN oladigan/NOUN jamoa/NOUN nomi/NOUN aniq/NOUN bo‘ladi/VERB ./PUNCT
+ Turnir/NOUN jadvaliga/NOUN e‘tibor/NOUN qaratadigan/NOUN bo‘lsak/VERB Paxtakor/NOUN 51/NOUN ochko/NOUN bilan/NOUN peshqadam/NOUN bo‘lib/VERB turibdi/NOUN ./PUNCT
+ Paxtakor/NOUN ning/NOUN g‘alabasi/NOUN oriqcha/NOUN hisob-kitoblarsiz/NOUN klubni/NOUN chempionlik/NOUN shohsupasiga/NOUN olib/NOUN chiqadi/NOUN ./PUNCT
+ Durangdan/NOUN Navbahor/NOUN faqat/NOUN AGMKni/NOUN yutish/NOUN orqali/NOUN foydalanib/NOUN qolishi/NOUN mumkin/NOUN ./PUNCT
+ Chunki/NOUN namanganliklar/NOUN hisobida/NOUN 50/NOUN ochko/NOUN mavjud/NOUN va/NOUN ikkinchi/NOUN o‘rinda/NOUN ketmoqda/NOUN ./PUNCT
+ Agarda/NOUN Paxtakor/NOUN mag‘lubiyatga/NOUN uchrab/NOUN Navbahor/NOUN durang/NOUN qayd/NOUN etsa/NOUN ochkolar/NOUN tenglashadi/NOUN ./PUNCT
+ Joriy/NOUN yilgi/NOUN o‘zaro/ADV uchrashuvlarda/NOUN ustunlik/NOUN Paxtakor/NOUN tomonida/NOUN ./PUNCT
+ Bunday/NOUN holat/NOUN ro‘y/NOUN bergan/NOUN taqdirda/NOUN Maksim/NOUN Shaskix/NOUN shogirdlari/NOUN birinchi/NOUN o‘rinda/NOUN qolishadi/NOUN ./PUNCT
+ Nasaf/NOUN futbolchilari/NOUN Olimpik/NOUN ni/NOUN mag‘lubiyatga/NOUN uchratishlari/NOUN evaziga/NOUN Paxtakor/NOUN ga/NOUN yetib/NOUN olishadi/NOUN va/NOUN ikki/NOUN jamoada/NOUN ham/NOUN bir/NOUN xil/NOUN 52/NOUN ochkodan/NOUN bo‘ladi/VERB ./PUNCT
+ O‘zaro/ADV o‘yinlarda/NOUN qarshiliklar/NOUN 4/NOUN poytaxt/NOUN klubi/NOUN 1/NOUN ochko/NOUN ishlagan/NOUN ./PUNCT
+ Bunda/NOUN Nasaf/NOUN chempionlikni/NOUN rasmiylashtiradi/NOUN ./PUNCT
+ Kecha/NOUN Xalqaro/NOUN boks/NOUN assotsiatsiyasi/NOUN IBA/NOUN prezidenti/NOUN Umar/NOUN Kremlyov/NOUN ishtirokida/NOUN bo‘lib/VERB o‘tgan/VERB matbuot/NOUN anjumanida/NOUN 2023/NOUN yilgi/NOUN jahon/NOUN chempionati/NOUN 1-14/null may/NOUN kunlari/NOUN Toshkentda/NOUN o‘tkazilishi/VERB tasdiqladi/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN O‘zbekiston/NOUN boks/NOUN federatsiyasining/NOUN rasmiy/NOUN kanalida/NOUN ma‘lum/ADJ qilindi/NOUN ./PUNCT
+ Ishonamanki/NOUN boks/NOUN bo‘yicha/AUX erkaklar/NOUN o‘rtasidagi/ADJ jahon/NOUN chempionati/NOUN yuqori/NOUN darajada/NOUN o‘tkaziladi/VERB va/NOUN tarixdagi/NOUN eng/NOUN zo‘rlaridan/ADJ biri/NOUN bo‘ladi/VERB ./PUNCT
+ Men/NOUN O‘zbekistonda/NOUN bo‘lganman/VERB va/NOUN u/NOUN yerda/NOUN musobaqalar/NOUN qanday/NOUN tashkil/NOUN etilishini/NOUN ko‘rganman/ADJ ./PUNCT
+ U/NOUN yerdagi/NOUN professionalizim/NOUN va/NOUN boksga/NOUN bo‘lgan/VERB mehr/NOUN ko‘p/ADV mamlakatlar/NOUN uchun/NOUN namuna/NOUN bo‘ladi/VERB ./PUNCT
+ Toshkentda/NOUN yangi/NOUN chempionlarni/NOUN ko‘rishni/VERB sabrsizlik/NOUN bilan/NOUN kutmoqdaman/NOUN ./PUNCT
+ Tarixda/NOUN ilk/NOUN bora/NOUN bizda/NOUN rekord/NOUN miqdordagi/NOUN mukofot/NOUN jamg‘armasi/NOUN bo‘ladi/VERB -/null 5/NOUN 2/NOUN million/NOUN AQSh/NOUN dollari/NOUN ./PUNCT
+ Birinchi/NOUN o‘rin/NOUN uchun/NOUN 200/NOUN ming/NOUN AQSh/NOUN dollari/NOUN ikkinchi/NOUN o‘ringa/NOUN 100/NOUN 000/NOUN AQSh/NOUN dollari/NOUN bronza/NOUN medali/NOUN sohiblariga/NOUN esa/NOUN 50/NOUN ming/NOUN dollardan/NOUN beriladi/NOUN -/null dedi/NOUN IBA/NOUN prezidenti/NOUN Umar/NOUN Kremlyov/NOUN ./PUNCT
+ Bu/NOUN tasodifan/NOUN bo‘lib/VERB qolgani/NOUN yo‘q/MOD O‘zbekistonda/NOUN uzoq/NOUN yillardan/NOUN beri/NOUN saqlanib/NOUN kelinayotgan/NOUN boy/NOUN boks/NOUN an‘analari/NOUN bunga/NOUN sababdir/NOUN ./PUNCT
+ O‘zbekiston/NOUN boks/NOUN oilasi/NOUN nomidan/NOUN shuni/NOUN aytishim/NOUN mumkinki/NOUN mamlakatimiz/NOUN boks/NOUN bo‘yicha/AUX erkaklar/NOUN o‘rtasidagi/ADJ jahon/NOUN chempionatini/NOUN yuqori/NOUN saviyada/NOUN o‘tkazish/VERB uchun/NOUN barcha/NOUN ishni/NOUN qiladi/NOUN -/null dedi/NOUN Saken/NOUN Polatov/NOUN ./PUNCT

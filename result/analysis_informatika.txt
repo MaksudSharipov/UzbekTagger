@@ -1,0 +1,84 @@
+ Mantiqiy/NOUN formulalar/NOUN rostlik/NOUN jadvallari/NOUN yordamida/NOUN izohlanadi/NOUN ./PUNCT
+ Bunday/NOUN jadvallar/NOUN mantiqiy/NOUN bog‘lovchi/NOUN orqali/NOUN tuzilgan/NOUN murakkab/NOUN mulohazaning/NOUN rost/NOUN 1/NOUN yoki/NOUN yolg‘on/ADJ 0/NOUN ligini/NOUN tashkil/NOUN etuvchi/NOUN mulohazalarning/NOUN rostligiga/NOUN qarab/NOUN aniqlanadi/NOUN ./PUNCT
+ Mantiqiy/NOUN amallarning/NOUN rostlik/NOUN jadvallaridan/NOUN foydalanib/NOUN murakkabroq/NOUN mulohazalar/NOUN uchun/NOUN rostlik/NOUN jadvalini/NOUN tuzish/NOUN mumkin/NOUN ./PUNCT
+ Rostlik/NOUN jadvalini/NOUN tuzishda/NOUN amallarning/NOUN bajarilish/NOUN tartibiga/NOUN rioya/NOUN qilish/NOUN shart/NOUN ./PUNCT
+ Mulоhаzаlаr/NOUN to‘plаmidа/NOUN аvvаl/NOUN inkоr/NOUN аmаli/NOUN kеyin/NOUN kоnyunksiya/NOUN dizyunksiya/NOUN implikаtsiya/NOUN vа/NOUN nihоyat/NOUN ekvivаlеnsiya/NOUN аmаllаri/NOUN bаjаrilаdi/NOUN ./PUNCT
+ Аgаr/NOUN inkоr/NOUN аmаli/NOUN qаvslаrdаn/NOUN tаshqаridа/NOUN bo‘lsa/VERB u/NOUN hоldа/NOUN dastlab/NOUN qаvs/NOUN ichidаgi/NOUN аmаllаr/NOUN bаjаrilаdi/NOUN ./PUNCT
+ Teng/NOUN kuchli/NOUN yoki/NOUN bir/NOUN xil/NOUN amallar/NOUN ketma-ketligi/NOUN bajarilayotganda/NOUN amallar/NOUN chapdan/NOUN o‘ngga/NOUN tomon/NOUN tartib/NOUN bilan/NOUN bajariladi/NOUN ./PUNCT
+ Ichma-ich/NOUN joylashgan/NOUN qavslarda/NOUN eng/NOUN ichkaridagi/NOUN qavs/NOUN ichidagi/NOUN amallar/NOUN birinchi/NOUN bajariladi/NOUN ./PUNCT
+ Mantiq/NOUN algebrasi/NOUN matematikaning/NOUN bir/NOUN bо‘limi/null hisoblanib/NOUN avtomatik/NOUN qurilmalarni/NOUN loyihalashtirishda/NOUN axborot/NOUN va/NOUN kommunikatsiya/NOUN texnologiyalarining/NOUN apparatli/NOUN va/NOUN dasturiy/NOUN vositalarini/NOUN ishlab/NOUN chiqishda/NOUN muhim/NOUN o‘rin/NOUN tutadi/NOUN ./PUNCT
+ Ma‘lumki/MOD har/NOUN qanday/NOUN axborot/NOUN diskret/NOUN kо‘rinishda/null ya‘ni/CONJ alohida/NOUN qiymatlarning/NOUN fiksirlangan/NOUN belgilangan/NOUN to‘plami/NOUN kо‘rinishida/null taqdim/NOUN etilishi/NOUN mumkin/NOUN ./PUNCT
+ Diskret/NOUN qayta/NOUN ishlovchi/NOUN qurilma/NOUN ikkilik/NOUN signallarni/NOUN qayta/NOUN ishlaganidan/NOUN keyin/NOUN biror/NOUN mantiqiy/NOUN amalning/NOUN qiymatini/NOUN chiqarsa/NOUN u/NOUN mantiqiy/NOUN element/NOUN deb/NOUN ataladi/NOUN ./PUNCT
+ Bunday/NOUN qiymatlar/NOUN signallar/NOUN ni/NOUN qayta/NOUN ishlovchi/NOUN qurilmalarga/NOUN esa/NOUN diskret/NOUN qurilmalar/NOUN deyiladi/NOUN ./PUNCT
+ Mantiqiy/NOUN elementlar/NOUN kompyuterning/NOUN tarkibiy/NOUN qismi/NOUN bo‘lib/VERB ikkilik/NOUN o‘zgaruvchilar/NOUN ustida/NOUN muayyan/NOUN mantiqiy/NOUN amallarni/NOUN bajarish/NOUN uchun/NOUN mo‘ljallangan/VERB elementlar/NOUN hisoblanadi/NOUN ./PUNCT
+ Zamonaviy/NOUN raqamli/NOUN texnologiyalarning/NOUN barcha/NOUN hisoblash/NOUN qurilmalari/NOUN kompyuter/NOUN mobil/NOUN qurilmalar/NOUN mantiqiy/NOUN elementlarga/NOUN asoslangan/NOUN ./PUNCT
+ Kompyutеrning/NOUN har/NOUN qanday/NOUN mantiqiy/NOUN amali/NOUN asosiy/NOUN mantiqiy/NOUN elеmеntlar/NOUN yordamida/NOUN bajariladi/NOUN ./PUNCT
+ Har/NOUN bir/NOUN mantiqiy/NOUN element/NOUN bir/NOUN yoki/NOUN bir/NOUN necha/NOUN mantiqiy/NOUN amalning/NOUN bajarilishini/NOUN ta‘minlaydi/VERB ./PUNCT
+ Quyida/NOUN eng/NOUN sodda/NOUN va/NOUN keng/NOUN tarqalgan/NOUN mantiqiy/NOUN elementlar/NOUN bilan/NOUN tanishamiz/NOUN ./PUNCT
+ Elеmеntlarning/NOUN o‘zi/VERB oddiy/NOUN elеktr/NOUN sxеmalardan/NOUN tuziladi/NOUN ./PUNCT
+ Bunda/NOUN sxеmaning/NOUN kirish/NOUN qismiga/NOUN kеlgan/NOUN signallarga/NOUN argumеnt/NOUN dеyilsa/NOUN chiqishdagi/NOUN signallar/NOUN esa/NOUN argumеntning/NOUN funksiyasi/NOUN bo‘ladi/VERB ./PUNCT
+ Inson/NOUN amaliy/NOUN ish/NOUN jarayonida/NOUN ko‘plab/ADV masalalarni/NOUN hal/NOUN etishiga/NOUN to‘g‘ri/ADJ keladi/NOUN ./PUNCT
+ Bu/NOUN masalalarning/NOUN ba‘zilari/null osongina/NOUN ba‘zilari/null esa/NOUN murakkab/NOUN hisob-kitoblar/NOUN orqali/NOUN hal/NOUN etiladi/NOUN ./PUNCT
+ Ba‘zi/null masalalarni/NOUN yechishda/NOUN esa/NOUN qandaydir/NOUN amallar/NOUN guruhini/NOUN minglab/NOUN marta/NOUN bajarishga/NOUN to‘g‘ri/ADJ kelishi/NOUN mumkin/NOUN ./PUNCT
+ Shuning/NOUN uchun/NOUN beminnat/NOUN va/NOUN o‘ta/VERB tez/NOUN ishlaydigan/NOUN yordamchimiz/NOUN bo‘lmish/VERB kompyuter/NOUN bizga/NOUN yaqindan/NOUN yordam/NOUN bera/NOUN oladimi/NOUN agar/NOUN yordam/NOUN bera/NOUN olsa/NOUN ularni/NOUN kompyuterda/NOUN hal/NOUN etish/NOUN qanday/NOUN tashkil/NOUN etiladi/NOUN degan/NOUN savollar/NOUN tug‘ilishi/VERB tabiiy/NOUN hol/NOUN ./PUNCT
+ Aslida/NOUN esa/NOUN kompyuter/NOUN masalalarni/NOUN tez/NOUN hal/NOUN qilish/NOUN va/NOUN ma‘lumotlarni/NOUN qayta/NOUN ishlash/NOUN uchun/NOUN yaratilgan/NOUN ./PUNCT
+ Shunday/NOUN hisoblash/NOUN jarayonlari/NOUN ham/NOUN bo‘ladiki/VERB unda/NOUN qo‘yilgan/VERB ayrim/NOUN mantiqiy/NOUN shartlarning/NOUN bajarilishiga/NOUN ko‘ra/AUX jarayonlar/NOUN bir/NOUN necha/NOUN tarmoqqa/NOUN bo‘linadi/VERB hamda/NOUN ulardan/NOUN hech/NOUN bo‘lmaganda/VERB bittasi/NOUN bajariladi/NOUN ./PUNCT
+ Bunday/NOUN jarayonlar/NOUN bajarilishi/NOUN uchun/NOUN tarmoqlanuvchi/NOUN algoritmlar/NOUN tuziladi/NOUN ./PUNCT
+ Agar/NOUN hisoblash/NOUN jarayoni/NOUN qandaydir/NOUN berilgan/NOUN shartning/NOUN bajarilishiga/NOUN qarab/NOUN turli/NOUN tarmoqlar/NOUN bo‘yicha/AUX davom/NOUN ettirilsa/NOUN va/NOUN hisoblash/NOUN jarayonida/NOUN har/NOUN bir/NOUN tarmoq/NOUN faqat/NOUN bir/NOUN marta/NOUN bajarilsa/NOUN bunday/NOUN hisoblash/NOUN jarayonlariga/NOUN tarmoqlanuvchi/NOUN algoritmlar/NOUN deyiladi/NOUN ./PUNCT
+ Tarmoqlanuvchi/NOUN struktura/NOUN odatda/NOUN qandaydir/NOUN mantiqiy/NOUN shartni/NOUN tekshirish/NOUN blokini/NOUN o‘z/VERB ichiga/NOUN oladi/NOUN ./PUNCT
+ Tekshirish/NOUN natijasiga/NOUN ko‘ra/AUX tarmoq/NOUN deb/NOUN ataluvchi/NOUN u/NOUN yoki/NOUN bu/NOUN amallar/NOUN ketma-ketligi/NOUN bajariladi/NOUN ./PUNCT
+ Tarmoqlanuvchi/NOUN tuzilish/NOUN shart/NOUN tekshirish/NOUN natijasiga/NOUN ha/NOUN yoki/NOUN yo‘q/MOD qarab/NOUN ikki/NOUN yo‘ldan/NOUN birini/NOUN tanlash/NOUN imkoniyatini/NOUN beradi/NOUN ya‘ni/CONJ ko‘rsatilgan/VERB tarmoqdan/NOUN faqat/NOUN bittasining/NOUN bajarilishini/NOUN ta‘minlaydi/VERB ./PUNCT
+ Protsessor/NOUN dasturlash/NOUN tilida/NOUN yozilgan/NOUN dasturni/NOUN to‘g‘ridan-to‘g‘ri/ADJ tushunmaydi/NOUN ./PUNCT
+ Buning/NOUN uchun/NOUN dasturni/NOUN protsessor/NOUN tiliga/NOUN tarjima/NOUN qiladigan/NOUN raqamli/NOUN ko‘rinishga/VERB o‘tkazib/VERB beruvchi/NOUN tarjimon/NOUN tili/NOUN translyatordan/NOUN foydalaniladi/NOUN ./PUNCT
+ Tarjimon/NOUN tilining/NOUN ikkita/NOUN turi/NOUN mavjud/NOUN kompilyator/NOUN va/NOUN interpretator/NOUN ./PUNCT
+ Kompilyator/NOUN dasturlash/NOUN tilida/NOUN yozilgan/NOUN dastur/NOUN kodlarini/NOUN to‘laligicha/NOUN o‘qib/VERB mashina/NOUN kodiga/NOUN tarjima/NOUN qiladi/NOUN va/NOUN tarjima/NOUN natijalarini/NOUN bajariladigan/NOUN yaxlit/NOUN bitta/NOUN faylga/NOUN yig‘adi/VERB ./PUNCT
+ Interpretator/NOUN dasturlash/NOUN tilida/NOUN yozilgan/NOUN kodni/NOUN bosqichma-bosqich/NOUN mashina/NOUN kodiga/NOUN aylantirib/NOUN tahlil/NOUN qiladi/NOUN va/NOUN berilgan/NOUN buyruqlarni/NOUN ketma-ketlikda/NOUN bajaradi/NOUN ./PUNCT
+ Agar/NOUN xatolik/NOUN sodir/NOUN bo‘lsa/VERB o‘sha/VERB zahoti/NOUN xabar/NOUN beradi/NOUN ./PUNCT
+ Dasturlash/NOUN tillari/NOUN juda/NOUN ko‘p/ADV bo‘lib/VERB ularning/NOUN har/NOUN biridan/NOUN o‘ziga/VERB xos/NOUN masalalarni/NOUN yechishda/NOUN foydalanish/NOUN mumkin/NOUN ./PUNCT
+ Quyida/NOUN ularning/NOUN eng/NOUN mashhurlari/NOUN haqidagi/NOUN ma‘lumotlar/NOUN bilan/NOUN tanishamiz/NOUN ./PUNCT
+ Aksariyat/NOUN dasturlash/NOUN tillari/NOUN xususan/NOUN C/NOUN Pascal/NOUN Java/NOUN Python/NOUN va/NOUN boshqalar/NOUN integrallashgan/NOUN dasturlash/NOUN muhiti/NOUN IDE/NOUN ga/NOUN ega/NOUN ./PUNCT
+ IDE/NOUN Integrated/NOUN Development/NOUN Environment/NOUN integrallashgan/NOUN dasturlash/NOUN muhiti/NOUN dasturiy/NOUN ta‘minot/NOUN yaratish/NOUN uchun/NOUN dasturiy/NOUN vositalar/NOUN majmui/NOUN ./PUNCT
+ Tizimli/NOUN va/NOUN amaliy/NOUN dasturlarni/NOUN yaratish/NOUN uchun/NOUN dasturlash/NOUN tillaridan/NOUN foydalaniladi/NOUN ./PUNCT
+ Dastur/NOUN yaratish/NOUN jarayoni/NOUN katta/NOUN hajmga/NOUN ega/NOUN bo‘lib/VERB dasturlash/NOUN tillarida/NOUN dastur/NOUN yozish/NOUN shu/NOUN jarayonning/NOUN bir/NOUN qismi/NOUN sanaladi/NOUN ./PUNCT
+ Avvalgi/NOUN mavzularimizda/NOUN kompyuterda/NOUN masalani/NOUN yechish/NOUN bosqichlarini/NOUN ko‘rib/ADJ chiqqan/NOUN edik/NOUN ./PUNCT
+ Kompyuter/NOUN dasturlarini/NOUN yaratish/NOUN jarayoni/NOUN ham/NOUN kompyuterda/NOUN masalani/NOUN yechish/NOUN jarayoniga/NOUN o‘xshash/VERB bo‘lib/VERB bir/NOUN necha/NOUN bosqichni/NOUN o‘z/VERB ichiga/NOUN oladi/NOUN ./PUNCT
+ Birinchi/NOUN bosqichda/NOUN dastur/NOUN uchun/NOUN talab/NOUN aniqlanadi/NOUN ./PUNCT
+ Ushbu/NOUN jarayonda/NOUN dasturning/NOUN qanday/NOUN maqsadda/NOUN qo‘llanilishi/VERB kirish/NOUN va/NOUN chiqish/NOUN ma‘lumotlari/NOUN aniqlanadi/NOUN ./PUNCT
+ Dastur/NOUN va/NOUN resurslarni/NOUN ishlab/NOUN chiqish/NOUN uni/NOUN joriy/NOUN etishning/NOUN narxi/NOUN baholanadi/NOUN ./PUNCT
+ Ikkinchi/NOUN bosqichda/NOUN dastur/NOUN loyihasi/NOUN ishlab/NOUN chiqiladi/NOUN ./PUNCT
+ Dasturchilar/NOUN uchun/NOUN texnik/NOUN topshiriq/NOUN va/NOUN vazifalar/NOUN shakllantiriladi/NOUN ./PUNCT
+ Ishchi/NOUN hujjatlar/NOUN hamda/NOUN ish/NOUN rejasining/NOUN grafigi/NOUN tuziladi/NOUN ./PUNCT
+ Uchinchi/NOUN bosqichda/NOUN dastur/NOUN kodi/NOUN yoziladi/NOUN ./PUNCT
+ Bu/NOUN kodlash/NOUN dasturlash/NOUN jarayoni/NOUN bo‘lib/VERB tuzilgan/NOUN algoritm/NOUN dasturlash/NOUN tilida/NOUN yoziladi/NOUN ./PUNCT
+ To‘rtinchi/NUM bosqichda/NOUN kodlash/NOUN jarayoni/NOUN tugab/NOUN dasturdagi/NOUN xatoliklarni/NOUN aniqlash/NOUN va/NOUN testlash/NOUN boshlanadi/NOUN ./PUNCT
+ Bu/NOUN jarayonda/NOUN dasturning/NOUN to‘g‘ri/ADJ tuzilganligi/NOUN ishlash/NOUN samaradorligi/NOUN va/NOUN boshqa/NOUN parametrlariga/NOUN aniqlik/NOUN kiritiladi/NOUN ./PUNCT
+ Beshinchi/NOUN bosqichda/NOUN dastur/NOUN amaliyotga/NOUN joriy/NOUN etiladi/NOUN ./PUNCT
+ Agar/NOUN dastur/NOUN aniq/NOUN buyurtmachi/NOUN talabiga/NOUN muvofiq/NOUN yaratilgan/NOUN bo‘lsa/VERB u/NOUN holda/NOUN bu/NOUN bosqich/NOUN eng/NOUN muhim/NOUN bosqich/NOUN sanaladi/NOUN ./PUNCT
+ Bunda/NOUN avvalgi/NOUN dasturda/NOUN foydalanilgan/NOUN qurilma/NOUN va/NOUN ma‘lumotlar/NOUN yangi/NOUN dasturga/NOUN moslanadi/NOUN ./PUNCT
+ Ushbu/NOUN dastur/NOUN bilan/NOUN ishlovchi/NOUN mutaxassislar/NOUN o‘qitiladi/VERB ./PUNCT
+ Oltinchi/NOUN so‘nggi/ADJ bosqichda/NOUN qo‘llab-quvvatlash/VERB amalga/NOUN oshiriladi/NOUN ./PUNCT
+ Bu/NOUN bosqichda/NOUN foydalanuvchilarga/NOUN tavsiyalar/NOUN beriladi/NOUN ./PUNCT
+ Shuningdek/NOUN foydalanuvchi/NOUN xohishini/NOUN inobatga/NOUN olgan/NOUN holda/NOUN ish/NOUN jarayonida/NOUN yuzaga/NOUN kelgan/NOUN kamchilik/NOUN va/NOUN takliflar/NOUN asosida/NOUN dasturga/NOUN o‘zgartirishlar/VERB kiritiladi/NOUN ./PUNCT
+ Endi/NOUN Python/NOUN dasturlash/NOUN tili/NOUN yordamida/NOUN dasturlashni/NOUN o‘rganishni/VERB boshlaymiz/NOUN ./PUNCT
+ Python/NOUN dunyo/NOUN miqyosida/NOUN eng/NOUN ommalashgan/NOUN mukammal/NOUN dasturiy/NOUN mahsulotlarni/NOUN yaratishga/NOUN mo‘ljallangan/VERB dasturlash/NOUN tillaridan/NOUN biri/NOUN bo‘lib/VERB uning/NOUN yordamida/NOUN web-sayt/null ilova/NOUN va/NOUN o‘yinlar/NOUN yaratiladi/NOUN ./PUNCT
+ Quyidagi/NOUN imkoniyatlar/NOUN bu/NOUN tilni/NOUN o‘rganish/VERB uchun/NOUN yordamchi/NOUN omillar/NOUN hisoblanadi/NOUN ./PUNCT
+ O‘rganish/VERB va/NOUN qo‘llashning/VERB soddaligi/NOUN ./PUNCT
+ Python/NOUN sodda/NOUN va/NOUN qulay/NOUN dasturlash/NOUN tili/NOUN bo‘lib/VERB boshqa/NOUN dasturlash/NOUN tillariga/NOUN nisbatan/NOUN uning/NOUN yordamida/NOUN dastur/NOUN tuzish/NOUN qiyinchilik/NOUN tug‘dirmaydi/VERB ./PUNCT
+ Mukammal/NOUN kutubxonaning/NOUN mavjudligi/NOUN ./PUNCT
+ Pythonda/NOUN dastur/NOUN tuzish/NOUN jarayonida/NOUN kutubxonadagi/NOUN tayyor/NOUN funksiyalardan/NOUN foydalanish/NOUN mumkin/NOUN ./PUNCT
+ Bu/NOUN esa/NOUN murakkab/NOUN dasturlarni/NOUN ham/NOUN qisqa/NOUN vaqtda/NOUN tuzish/NOUN imkonini/NOUN beradi/NOUN ./PUNCT
+ Mashhur/NOUN firmalarning/NOUN ushbu/NOUN dasturdan/NOUN foydalanishi/NOUN ./PUNCT
+ Python/NOUN mukammal/NOUN dastur/NOUN bo‘lganligi/NOUN sababli/NOUN bugungi/NOUN kunda/NOUN Google/NOUN NASA/NOUN va/NOUN Pixar/NOUN kabi/NOUN firmalar/NOUN o‘z/VERB dasturlarini/NOUN tuzishda/NOUN undan/NOUN foydalanishadi/NOUN ./PUNCT
+ Python/NOUN interpretatori/NOUN bepul/NOUN o‘rnatiladi/VERB ./PUNCT
+ Ushbu/NOUN dasturni/NOUN yuklab/NOUN olib/NOUN kerakli/NOUN ilovalari/NOUN bilan/NOUN bepul/NOUN ishlatish/NOUN mumkin/NOUN ./PUNCT
+ IDLEning/NOUN dasturlash/NOUN muhiti/NOUN dastur/NOUN kodini/NOUN kiritish/NOUN tahrirlash/NOUN va/NOUN ishga/NOUN tushirish/NOUN mumkin/NOUN bo‘lgan/VERB oyna/NOUN ./PUNCT
+ Dastur/NOUN natijasi/NOUN interfaol/NOUN muhitda/NOUN chiqariladi/NOUN ./PUNCT
+ Bu/NOUN muhit/NOUN katta/NOUN dasturlarni/NOUN tuzish/NOUN jarayonida/NOUN ularni/NOUN saqlash/NOUN va/NOUN kerakli/NOUN vaqtda/NOUN tahrirlash/NOUN uchun/NOUN ishlatiladi/NOUN ./PUNCT
+ Aks/NOUN holda/NOUN dastur/NOUN kodini/NOUN takror-takror/NOUN yozishga/NOUN to‘g‘ri/ADJ keladi/NOUN ./PUNCT
+ Uning/NOUN yagona/NOUN kamchiligi/NOUN dastur/NOUN dastlab/NOUN saqlanadi/NOUN undan/NOUN keyingina/NOUN ishga/NOUN tushiriladi/NOUN ./PUNCT
+ Python/NOUN dasturlash/NOUN muhitida/NOUN birinchi/NOUN dasturimizni/NOUN yaratishga/NOUN harakat/NOUN qilamiz/NOUN ./PUNCT
+ Odatda/NOUN dasturlar/NOUN kiritilgan/NOUN ma‘lumotlarni/NOUN qabul/NOUN qilish/NOUN qayta/NOUN ishlash/NOUN shuningdek/NOUN natijani/NOUN ekranga/NOUN chiqarish/NOUN uchun/NOUN mo‘ljallangan/VERB bo‘ladi/VERB ./PUNCT
+ Ma‘lumki/MOD axborotlar/NOUN matnli/NOUN raqamli/NOUN ovozli/NOUN grafik/NOUN va/NOUN boshqa/NOUN shakllarda/NOUN uzatilishi/NOUN mumkin/NOUN ./PUNCT
+ Bunday/NOUN axborotlarni/NOUN dasturlash/NOUN tillarida/NOUN qayta/NOUN ishlash/NOUN uchun/NOUN ularni/NOUN turlarga/NOUN ajratish/NOUN lozim/NOUN ./PUNCT
+ Dasturlarda/NOUN foydalaniladigan/NOUN va/NOUN ma‘lumotlar/NOUN turlari/NOUN dasturning/NOUN maqsadiga/NOUN bog‘liq/NOUN bo‘ladi/VERB oddiy/NOUN kalkulyator/NOUN sonlardan/NOUN foydalanadi/NOUN elektron/NOUN pochta/NOUN manzillarini/NOUN tekshirishga/NOUN mo‘ljallangan/VERB dastur/NOUN esa/NOUN matnlar/NOUN bilan/NOUN ish/NOUN ko‘radi/VERB ./PUNCT
+ Matnli/NOUN axborotlar/NOUN esa/NOUN belgilar/NOUN yoki/NOUN satrli/NOUN ma‘lumotlardan/NOUN iborat/NOUN bo‘lishi/VERB mumkin/NOUN ./PUNCT

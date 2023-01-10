@@ -1,0 +1,76 @@
+ Hovlimizdan/NOUN oqib/NOUN o‘tadigan/VERB ariq/NOUN labidagi/NOUN bu/NOUN daraxt/NOUN qishlog‘imizda/NOUN yagona/NOUN hisoblanardi/NOUN ./PUNCT
+ Daraxtning/NOUN bo‘yi/null uyimiz/NOUN tomi/NOUN bilan/NOUN teng edi/VERB ./PUNCT
+ U/NOUN eniga/NOUN uncha/NOUN tarvaqaylab/NOUN ketmagan/NOUN xuddi/NOUN butalganday/NOUN qaddi/NOUN tik/NOUN tanasi/NOUN va/NOUN shoxlari/NOUN esa/NOUN rahmatli/NOUN bobomning/NOUN hassasiday/NOUN sip-silliq edi/VERB ./PUNCT
+ Daraxtning/NOUN kishini/NOUN hayratga/NOUN soladigan/NOUN bir/NOUN jihati/NOUN bor edi/VERB ./PUNCT
+ U/NOUN yilda/NOUN ikki/NOUN marta/NOUN bahor/NOUN bilan/NOUN kuz/NOUN boshlarida/NOUN gullar/NOUN biroq/NOUN meva/NOUN tugmas edi/VERB ./PUNCT
+ Bahorda/NOUN daraxtning/NOUN bikarang/NOUN g‘uj-g‘uj/IMIT g‘unchalari/NOUN hovlimizga/NOUN o‘zgacha/AUX fayz/NOUN baxsh/NOUN etar/NOUN uning/NOUN shoxidan/NOUN qushlar/NOUN arimas edi/VERB ./PUNCT
+ Kuzning/NOUN boshlarida/NOUN gullashi/NOUN chindan/NOUN ham/NOUN hayratomuz edi/VERB odamlar/NOUN bunday/NOUN paytda/NOUN uning/NOUN atrofida/NOUN o‘ralashib/VERB Nahotki/NOUN daraxt/NOUN ham/NOUN kuzda/NOUN gullasa/NOUN deya/NOUN ko‘zlariga/NOUN ishonmay/NOUN qo‘llari/NOUN bilan/NOUN nafis/NOUN g‘unchalarni/NOUN ushlab-ushlab/VERB ko‘rishar edi/VERB ./PUNCT
+ Yana/NOUN shunisi/NOUN qiziqki/NOUN hech/NOUN kim/NOUN hatto/NOUN otam/NOUN ham/NOUN uning/NOUN qanaqa/NOUN daraxt/NOUN ekanini/NOUN bilmas edi/VERB ./PUNCT
+ Biz/NOUN bolalar/NOUN uning/NOUN ensiz/NOUN kichik/NOUN barglariga/NOUN tekis/NOUN shoxlariga/NOUN qarab/NOUN gilosga/NOUN o‘xshatardik/VERB va/NOUN o‘zimizcha/ADV uni/NOUN gilos/NOUN deb/NOUN atardik/NOUN ./PUNCT
+ Aslida/NOUN gilos/NOUN emasligini/NOUN bilardik/NOUN Daraxt/NOUN otamga/NOUN bobomeros/NOUN yodgorlik/NOUN hisoblanar/NOUN shu/NOUN sababli/NOUN uni/NOUN nihoyatda/NOUN avaylardi/NOUN ./PUNCT
+ Va/NOUN bizdan/NOUN ham/NOUN shuni/NOUN qattiq/NOUN talab/NOUN qilardi/NOUN ./PUNCT
+ Muallif/NOUN daraxtning/NOUN yagonaligi/NOUN bir/NOUN yilda/NOUN ikki/NOUN marta/NOUN gullashi-yu/VERB ammo/NOUN meva/NOUN bermasligi/NOUN g‘unchalarining/NOUN nafisligi/NOUN bilan/NOUN nima/NOUN demoqchi/NOUN ?/PUNCT
+ Nega/NOUN daraxt/NOUN tanasini/NOUN bobosining/NOUN hassasiga/NOUN o‘xshatmoqda/VERB ?/PUNCT
+ Daraxt/NOUN bobosi/NOUN va/NOUN bobosiga/NOUN tegishli/NOUN hassa/NOUN o‘rtasida/ADJ qanday/NOUN bog‘liqliklar/NOUN bo‘lishi/VERB mumkin/NOUN ?/PUNCT
+ Shu/NOUN kabi/NOUN savollarga/NOUN javoblar/NOUN asarning/NOUN tagma‘nolarini/NOUN tushunishga/NOUN yozilmagan/NOUN qismlarini/NOUN yuzaga/NOUN chiqarishga/NOUN yordam/NOUN beradi/NOUN ./PUNCT
+ Yozning/NOUN o‘rtalari edi/VERB ./PUNCT
+ Onam/NOUN singlim/NOUN va/NOUN akamni/NOUN ergashtirib/NOUN qo‘shni/NOUN qishloqda/NOUN yashovchi/NOUN bobomnikiga/NOUN mehmonga/NOUN ketishdi/NOUN ./PUNCT
+ Uyda/NOUN otam/NOUN bilan/NOUN men/NOUN yolg‘iz/ADJ qoldik/NOUN ./PUNCT
+ Supada/NOUN yonboshlab/NOUN yotgan/NOUN otam/NOUN botayotgan/NOUN quyoshning/NOUN alvon/NOUN shafaqlarida/NOUN tovlanib/NOUN turgan/NOUN daraxtimizga/NOUN xayolga/NOUN cho‘mgancha/VERB tikilib/NOUN turardi/NOUN ./PUNCT
+ Shunda/NOUN men/NOUN Ota/NOUN nega/NOUN daraxtimiz/NOUN hech/NOUN meva/NOUN tugmaydi/NOUN ?/PUNCT
+ deb/NOUN so‘radim/VERB ./PUNCT
+ Savolimdan/NOUN otam/NOUN ajablandilar/NOUN shekilli/NOUN ancha/NOUN vaqt/NOUN xuddi/NOUN nimadir/NOUN qidirganday/NOUN yuzimga/NOUN tikilib/NOUN qoldilar/NOUN so‘ng/ADJ dedilar/NOUN Mevami/NOUN ?/PUNCT
+ Tugadi/NOUN o‘g‘lim/NOUN ./PUNCT
+ Mana/NOUN men/NOUN sen/NOUN onang/NOUN singling/NOUN va/NOUN akang/NOUN shu/NOUN daraxtning/NOUN mevalarimiz/NOUN Tabiiyki/NOUN men/NOUN otamning/NOUN gaplarini/NOUN unchalik/NOUN tushunmadim/NOUN buni/NOUN o‘zi/VERB ham/NOUN sezdi/NOUN shekilli/NOUN qo‘li/NOUN bilan/NOUN boshimni/NOUN silab/NOUN Bu/NOUN gaplarning/NOUN ma‘nosini/NOUN katta/NOUN bo‘lganingda/VERB tushunib/NOUN olarsan/NOUN dedi/NOUN va/NOUN boshqa/NOUN bu/NOUN haqda/NOUN og‘iz/NOUN ochmadi/NOUN ./PUNCT
+ Otam/NOUN nafaqat/NOUN bu/NOUN yolg‘iz/ADJ daraxtni/NOUN umuman/NOUN yashillikni/NOUN sevar edi/VERB ./PUNCT
+ Bizning/NOUN avloddan/NOUN avlodga/NOUN o‘tib/VERB kelayotgan/NOUN yagona/NOUN yodgorligimiz/NOUN otamning/NOUN aytishicha/NOUN hovlimizdagi/NOUN mana/NOUN shu/NOUN yilda/NOUN ikki/NOUN marta/NOUN gullaydigan/NOUN daraxt ekan/VERB ./PUNCT
+ Bobomning/NOUN bobosimi/NOUN balkim/NOUN uning/NOUN ham/NOUN bobosimi/NOUN xullas/NOUN kunlardan/NOUN bir/NOUN kuni/NOUN shom/NOUN mahali/NOUN qo‘lidagi/NOUN hassasini/NOUN ariq/NOUN labiga/NOUN suqib/NOUN o‘zi/VERB tahorat/NOUN olgani/NOUN o‘tiribdi/VERB ./PUNCT
+ Tahoratni/NOUN olib/NOUN hassaga/NOUN qo‘l/NOUN uzatmoqchi ekan/VERB shu/NOUN payt/NOUN mo‘jiza/NOUN yuz/NOUN berganini/NOUN ko‘rib/ADJ hayratdan/NOUN yoqa/NOUN ushlab/NOUN qolibdi/NOUN ariq/NOUN labiga/NOUN suqilgan/NOUN hassa/NOUN nish/NOUN otib/NOUN ko‘karayotgan emish/VERB Shu/NOUN zahotiyoq/NOUN bobom/NOUN Ey/NOUN jonivor/NOUN sening/NOUN taningda/NOUN namlik/NOUN bor/NOUN ekan-u/VERB men/NOUN shuncha/NOUN vaqt/NOUN gunohga/NOUN botib/NOUN seni/NOUN sudrab/NOUN yuribman/NOUN Mayli/NOUN unib-o‘sgin/VERB deya/NOUN hassasini/NOUN shu/NOUN yerda/NOUN qoldiribdi/NOUN ./PUNCT
+ Shu-shu/PRON to/NOUN dunyodan/NOUN ko‘z/NOUN yumgunicha/NOUN hassaga/NOUN ehtiyoj/NOUN sezmabdi/NOUN ./PUNCT
+ O‘lim/NOUN to‘shagida/NOUN yotganda/NOUN esa/NOUN o‘g‘illariga/NOUN Mening/NOUN hassamdan/NOUN ko‘kargan/VERB ana/NOUN u/NOUN daraxt/NOUN ko‘p/ADV xosiyatli/NOUN ./PUNCT
+ Uni/NOUN sizlarga/NOUN qoldiraman/NOUN ko‘z/NOUN qorachiqlaringday/NOUN asranglar/NOUN Quloqlaringda/NOUN bo‘lsin/VERB kimki/NOUN bu/NOUN daraxtni/NOUN xor/NOUN qilsa/NOUN o‘zi/VERB ham/NOUN dunyodan/NOUN xor-zor/ADJ bo‘lib/VERB o‘tadi/VERB deb/NOUN vasiyat/NOUN qilib/NOUN oq/NOUN fotiha/NOUN bergan ekan/VERB ./PUNCT
+ Daraxtimizning/NOUN o‘tmishi/NOUN haqidagi/NOUN bu/NOUN gaplar/NOUN biz/NOUN bolalarga/NOUN xuddi/NOUN ertakka/NOUN o‘xshab/AUX tuyular/NOUN unga/NOUN ishonish-ishonmasligimizni/NOUN bilmasdik/NOUN ./PUNCT
+ Bir/NOUN kuni/NOUN otamga/NOUN Nega/NOUN daraxtimiz/NOUN boshqa/NOUN daraxtlarga/NOUN o‘xshab/AUX tomiridan/NOUN ko‘paymaydi/VERB ?/PUNCT
+ Agar/NOUN ko‘payganda/VERB ko‘chatlarini/NOUN kovlab/NOUN olib/NOUN hovlimizning/NOUN boshqa/NOUN yerlariga/NOUN ham/NOUN o‘tqazar/VERB edik/NOUN dedim/NOUN ./PUNCT
+ Ko‘paymaganiga/VERB sabab/NOUN dedi/NOUN otam/NOUN bu/NOUN daraxtning/NOUN tomiri/NOUN boshqa/NOUN daraxtlar/NOUN singari/NOUN yonboshga/NOUN emas/NOUN yer/NOUN qa‘riga/NOUN tik/NOUN o‘sadi/VERB Buning/NOUN yana/NOUN bir/NOUN ajoyib/NOUN xususiyati/NOUN boshqa/NOUN daraxt/NOUN ildizlari/NOUN bilan/NOUN chatishmaydi/NOUN hamda/NOUN o‘ziga/VERB kerakli/NOUN ozuqani/NOUN o‘zi/VERB topib/NOUN yer/NOUN ustidagi/NOUN tanasini/NOUN toza/NOUN va/NOUN mustahkam/NOUN saqlaydi/NOUN ./PUNCT
+ Odatda/NOUN asardagi/NOUN voqealar/NOUN ma‘lum/ADJ bir/NOUN ziddiyatlar/NOUN asosida/NOUN rivojlanadi/NOUN ./PUNCT
+ Bu/NOUN parchada/NOUN Muhojir/NOUN va/NOUN ota/NOUN o‘rtasidagi/ADJ ziddiyat/NOUN ularning/NOUN daraxt/NOUN ga/NOUN bo‘lgan/VERB turli/NOUN xil/NOUN munosabatini/NOUN bu/NOUN munosabat/NOUN orqali/NOUN esa/NOUN muallifning/NOUN badiiy-g‘oyaviy/ADJ maqsadini/NOUN oydinlashtirishga/NOUN xizmat/NOUN qilmoqda/NOUN ./PUNCT
+ Ota/NOUN uchun/NOUN daraxt/NOUN qadrli/NOUN ajdodlaridan/NOUN qolgan/NOUN yodgorlik/NOUN ./PUNCT
+ Bu/NOUN yodgorlikni/NOUN ke/NOUN yingi/NOUN avlodlarga/NOUN beshikast/NOUN yetkazish/NOUN vazifasi/NOUN uning/NOUN zimmasiga/NOUN yuklangan/NOUN ./PUNCT
+ Muhojir/NOUN uchun/NOUN esa/NOUN bunday/NOUN qadriyatlarning/NOUN ahamiyati/NOUN yo‘q/MOD ./PUNCT
+ U/NOUN shunchaki/NOUN havasga/NOUN daraxt/NOUN o‘stirish/VERB uchun/NOUN unga/NOUN tig‘/NOUN urmoqchi/NOUN ./PUNCT
+ Shuning/NOUN uchun/NOUN ham/NOUN ota/NOUN xushlamay/NOUN jahl/NOUN bilan/NOUN gapirmoqda/NOUN ./PUNCT
+ Muhojir/NOUN esa/NOUN bilag‘onlik/NOUN bilan/NOUN gapiradi/NOUN ko‘zlarini/NOUN ayyorona/NOUN qisadi/NOUN ./PUNCT
+ Bu/NOUN so‘zlar/NOUN bizga/NOUN bolaning/NOUN Muhojirga/NOUN munosabatini/NOUN ham/NOUN tushunishga/NOUN yordam/NOUN beradi/NOUN ./PUNCT
+ Yerdan/NOUN qor/NOUN va/NOUN zax/NOUN ketib/NOUN o‘rniga/NOUN quyoshning/NOUN hovuri/NOUN endi/NOUN inayotgan/NOUN payt/NOUN borliqda/NOUN uzilish/NOUN o‘lik/ADJ davr/NOUN hukm/NOUN suradi/NOUN ./PUNCT
+ Chor-atrof/NOUN qipyalang‘och/ADJ sholday/NOUN ruhsiz/NOUN ./PUNCT
+ Bunday/NOUN paytda/NOUN odamda/NOUN beparvolik/NOUN lanjlik/NOUN paydo/NOUN bo‘ladi/VERB ./PUNCT
+ Ana/NOUN shunday/NOUN behalovat/NOUN kunlarda/NOUN otam/NOUN Bolalarim/NOUN yana/NOUN yigirma/NOUN kuncha/NOUN zerikasiz/NOUN so‘ng/ADJ daraxtimiz/NOUN barg/NOUN yozib/NOUN qoladi/NOUN deb/NOUN dalda/NOUN berardi/NOUN ./PUNCT
+ Otamning/NOUN hisobi/NOUN bo‘yicha/AUX shu/NOUN kunlarda/NOUN daraxt/NOUN kurtak/NOUN chiqarishi/NOUN kerak edi/VERB ./PUNCT
+ Lekin/NOUN uning/NOUN tanasida/NOUN biron/NOUN jonlanish/NOUN bo‘lganini/VERB ko‘rmadik/VERB u/NOUN qishda/NOUN qanday/NOUN yalang‘och/ADJ holda/NOUN bo‘lsa/VERB shundayligicha/NOUN qaqqayib/NOUN turardi/NOUN Bahor/NOUN yarimlay/NOUN deb/NOUN qolganda/NOUN ham/NOUN daraxtimizda/NOUN jonlanish/NOUN sezilmadi/NOUN Daraxt/NOUN tanasini/NOUN ozroq/NOUN til-chi/VERB !/PUNCT
+ dedi/NOUN otam/NOUN ./PUNCT
+ Daraxt/NOUN tanasidan/NOUN chamasi/NOUN bir/NOUN payraha/NOUN o‘rnicha/NOUN kesdim/NOUN ./PUNCT
+ Otam/NOUN o‘tkir/ADJ nigohini/NOUN daraxtning/NOUN kesilgan/NOUN joyiga/NOUN qadadi/NOUN Belkurakni/NOUN olib/NOUN kel/NOUN endi/NOUN daraxtning/NOUN ostini/NOUN kovla/NOUN !/PUNCT
+ dedi/NOUN u/NOUN shivirlab/NOUN ./PUNCT
+ Men/NOUN daraxt/NOUN ostidan/NOUN bir/NOUN belkurak/NOUN tuproq/NOUN kovlab/NOUN olgan/NOUN edim/NOUN dimog‘imga/NOUN qandaydir/NOUN badbo‘y/ADJ hid/NOUN urildi/NOUN engashib/NOUN tuproqqa/NOUN yaxshiroq/NOUN razm/NOUN tashladim/NOUN unga/NOUN qandaydir/NOUN sarg‘ish/ADJ narsa/NOUN singib/NOUN ketgan edi/VERB ./PUNCT
+ Otam/NOUN ming/NOUN azob/NOUN bilan/NOUN tipirchilay-tipirchilay/VERB o‘rnidan/NOUN qo‘zg‘aldi/VERB va/NOUN qaltiroq/NOUN qo‘llari/NOUN bilan/NOUN men/NOUN kovlagan/NOUN tuproqdan/NOUN bir/NOUN siqim/NOUN olib/NOUN ko‘ziga/NOUN yaqin/NOUN keltirdi-da/VERB Ostiga/NOUN dori/NOUN sepishgan ekan/VERB vahshiylar/NOUN !/PUNCT
+ dedi/NOUN ilonday/NOUN vishillab/NOUN va/NOUN daraxt/NOUN poyiga/NOUN sudralib/NOUN keldi-da/NOUN tuproqni/NOUN sidirib/NOUN tomirlarini/NOUN ushlab/NOUN ko‘rdi/VERB ./PUNCT
+ Tomirlarni/NOUN daraxtlarning/NOUN tiriklik/NOUN belgisi/NOUN namlik/NOUN butkul/NOUN tark/NOUN etmagan edi/VERB Otamning/NOUN yuzida/NOUN umid/NOUN shu‘lalandi/VERB Oz/NOUN bo‘lsa-da/VERB hali/NOUN vaqt/NOUN bor ekan/VERB ./PUNCT
+ Endi/NOUN oyoqqa/NOUN turishim/NOUN kerak/NOUN deb/NOUN pichirladi/NOUN u/NOUN daraxt/NOUN tomirlariga/NOUN qarab/NOUN Tovuq/NOUN patini/NOUN o‘ynashda/VERB davom/NOUN etdi/NOUN ./PUNCT
+ Patni/NOUN ertalab/NOUN topgan/NOUN nimaligiga/NOUN aqli/NOUN yetmay/NOUN boshi/NOUN garang edi/VERB ./PUNCT
+ In/NOUN yonidagi/NOUN chirik/NOUN xashaklar/NOUN ustida/NOUN cho‘zilib/VERB yotgan/NOUN ona/NOUN it/NOUN bezovta/NOUN g‘ingshiganidan/VERB so‘nggina/ADJ qadam/NOUN tovushlari/NOUN kelayotgan/NOUN tomonga/NOUN o‘girildi/null ./PUNCT
+ Besh/NOUN odimcha/NOUN narida/NOUN uy/NOUN egasi/NOUN Sodiq/NOUN aka/NOUN bilan/NOUN norg‘ul/NOUN bir/NOUN odam/NOUN Karim/NOUN podachi/NOUN egnida/NOUN yag‘iri/ADJ chiqqan/NOUN paxtalik/NOUN oyoqlarini/NOUN kerib/NOUN turardi/NOUN ./PUNCT
+ Undan/NOUN go‘ng/NOUN pichan/NOUN silos/NOUN va/NOUN yana/NOUN allambalolarning/NOUN hidi/NOUN anqirdi/NOUN ./PUNCT
+ Oqbo‘yin/NOUN bu/NOUN xil/NOUN tashrifl/NOUN arga/NOUN ko‘nikkan/VERB har/NOUN keldi-ketdidan/VERB so‘ng/ADJ og‘a-inilaridan/NOUN birortasi/NOUN g‘oyib/null bo‘ladi/VERB keyin/NOUN onasi/NOUN tuni/NOUN bilan/NOUN g‘ingshib/VERB chiqadi/NOUN ./PUNCT
+ Boshida/NOUN ular/NOUN o‘nta edi/VERB ./PUNCT
+ Uchtasini/NOUN urg‘ochi ekan/VERB birinchi/NOUN haftadayoq/NOUN gumdon/NOUN qilishdi/NOUN ./PUNCT
+ Bu/NOUN gal/NOUN navbat/NOUN qaysi/NOUN biriga ekan/VERB ?/PUNCT
+ Karim/NOUN podachi/NOUN oyoqlari/NOUN ostida/NOUN o‘ralashayotgan/VERB inisi/NOUN Oqto‘shni/ADJ qo‘liga/NOUN olib/NOUN obdan/NOUN paypaslab/NOUN ko‘rdi/VERB panjalarini/NOUN diqqat/NOUN bilan/NOUN ko‘zdan/NOUN kechirdi/NOUN ./PUNCT
+ Yoqtirmadi/NOUN ./PUNCT
+ Oqto‘sh/ADJ nari/NOUN ketishni/NOUN xayoliga/NOUN ham/NOUN keltirmay/NOUN tag‘in/ADV suykala/NOUN boshlagandi/NOUN Karim/NOUN podachi/NOUN etigi/NOUN uchi/NOUN bilan/NOUN turtib/NOUN yubordi/NOUN ./PUNCT
+ Joni/NOUN og‘rigan/VERB Oqto‘sh/ADJ angillaganicha/NOUN onasi/NOUN tomon/NOUN pildillab/NOUN qochdi/NOUN ./PUNCT
+ Inisi/NOUN Oqbo‘yinga/NOUN yoqmaydi/NOUN o‘lgudek/VERB yaltoq/NOUN ko‘ringan/VERB qoraga/NOUN suykaladi/NOUN ./PUNCT
+ Akasi/NOUN Malla/NOUN esa/NOUN tamomila/NOUN aksi/NOUN tajang/NOUN salga/NOUN zardasi/NOUN qaynab/NOUN darhol/NOUN yoqa/NOUN bo‘g‘ishadi/VERB ./PUNCT
+ Hozir/NOUN ham/NOUN u/NOUN in/NOUN to‘riga/NOUN biqinib/NOUN olib/NOUN Karim/NOUN podachiga/NOUN adovatli/NOUN tikilib/NOUN turardi/NOUN ./PUNCT
+ Sodiq/NOUN aka/NOUN Mallani/NOUN inidan/NOUN tortib/NOUN chiqardi-da/VERB unga/NOUN uzatdi/NOUN ./PUNCT
+ Karim/NOUN podachi/NOUN uni/NOUN uzoq/NOUN tutib/NOUN turmay/NOUN darrov/NOUN yerga/NOUN qo‘ydi/VERB ./PUNCT

@@ -1,0 +1,72 @@
+ Kinematografiya/NOUN agentligi/NOUN hamda/NOUN O‘zbekiston/NOUN milliy/NOUN kinematografiyani/NOUN rivojlantirish/NOUN markazi/NOUN va/NOUN Kinomaniya/NOUN kinostudiyasi/NOUN hamkorligida/NOUN suratga/NOUN olingan/NOUN rejissyor/NOUN Muhammadiso/NOUN Abdulxayirovning/NOUN Dada/NOUN degin/NOUN filmini/NOUN Kinochilar/NOUN uyi/NOUN kinoteatrida/NOUN yopiq/NOUN premerasi/NOUN o‘tkazildi/VERB ./PUNCT
+ Bu/NOUN haqda/NOUN Kinematografiya/NOUN agentligi/NOUN Axborot/NOUN xizmati/NOUN xabar/NOUN bermoqda/NOUN ./PUNCT
+ Drama/NOUN janrida/NOUN suratga/NOUN olingan/NOUN mazkur/NOUN kartinada/NOUN uzoq/NOUN yillardan/NOUN buyon/NOUN farzandsizlikdan/NOUN qiynalayotgan/NOUN oilada/NOUN kechgan/NOUN voqeliklar/NOUN to‘g‘risida/ADV hikoya/NOUN qilinadi/NOUN ./PUNCT
+ Bosh/NOUN qahramon/NOUN Botir/NOUN aka/NOUN o‘zi/VERB befarzand/NOUN ammo/NOUN beshik/NOUN yasovchi/NOUN usta/NOUN obrazida/NOUN gavdalanadi/NOUN ./PUNCT
+ Uning/NOUN hayotdan/NOUN yagona/NOUN ilinji/NOUN farzandli/NOUN bo‘lish/VERB yohud/NOUN bola/NOUN tilidan/NOUN chiqqan/NOUN dada/NOUN kalomini/NOUN eshitish edi/VERB ./PUNCT
+ Uning/NOUN farzandsizligi/NOUN tufayli/NOUN atrofidagilarning/NOUN unga/NOUN nisbatan/NOUN yomon/NOUN munosabati/NOUN filmda/NOUN yaqqol/NOUN ko‘zga/NOUN tashlanadi/NOUN ./PUNCT
+ Botir/NOUN akaning/NOUN rafiqasi/NOUN Gavhar/NOUN bolalar/NOUN uyida/NOUN tarbiyachi/NOUN bo‘lib/VERB ishlaydi/NOUN ./PUNCT
+ U/NOUN ishlaydigan/NOUN bolalar/NOUN uyida/NOUN Sardor/NOUN ismli/NOUN tarbiyalanuvchiga/NOUN er-xotinning/NOUN mehri/NOUN tushib/NOUN qolgan/NOUN va/NOUN oxir/NOUN oqibat/NOUN ular/NOUN bolani/NOUN asrab/NOUN olishga/NOUN qaror/NOUN qilishadi/NOUN ./PUNCT
+ Filmdagi/NOUN asosiy/NOUN konflikt/NOUN bola/NOUN asrab/NOUN olish/NOUN qaroridan/NOUN so‘ng/ADJ boshlanadi/NOUN ./PUNCT
+ Bundan/NOUN tashqari/NOUN beshik/NOUN yasash/NOUN sirlari/NOUN beshik/NOUN uchun/NOUN foydalaniladigan/NOUN turli/NOUN anjomlar/NOUN va/NOUN boshqa/NOUN qiziqarli/NOUN kadrlar/NOUN filmdan/NOUN joy/NOUN olgan/NOUN ./PUNCT
+ Kinematografiya/NOUN agentligi/NOUN buyurtmasiga/NOUN binoan/NOUN Hujjatli/NOUN va/NOUN xronikal/NOUN filmlar/NOUN kinostudiyasi/NOUN tomonidan/NOUN O‘zbekiston/NOUN Qahramoni/NOUN O‘zbekiston/NOUN xalq/NOUN shoiri/NOUN mamlakat/NOUN madhiyasi/NOUN muallifi/NOUN Abdulla/NOUN Oripov/NOUN haqida/NOUN badiiy/NOUN film/NOUN tasvirga/NOUN olinmoqda/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN Kinematografiya/NOUN agentligi/NOUN Axborot/NOUN xizmati/NOUN xabar/NOUN bermoqda/NOUN ./PUNCT
+ Badiiy/NOUN filmni/NOUN yaratish/NOUN g‘oyasi/null Prezident/NOUN Shavkat/NOUN Mirziyoev/NOUN tomonidan/NOUN ilgari/NOUN surilgan/NOUN bo‘lib/VERB hozirda/NOUN filmning/NOUN s‘yomka/NOUN jarayonlari/NOUN bo‘lib/VERB o‘tmoqda/VERB ./PUNCT
+ Ijodiy/NOUN guruh/NOUN O‘zbekistondagi/NOUN tasvirga/NOUN olish/NOUN ishlarini/NOUN yakunlab/NOUN AQShda/NOUN suratga/NOUN olish/NOUN ishlarini/NOUN davom/NOUN ettirishmoqda/NOUN ./PUNCT
+ Zamonaviy/NOUN texnikalar/NOUN bilan/NOUN xorijda/NOUN film/NOUN suratga/NOUN olish/NOUN imkoniyatini/NOUN yaratib/NOUN bergani/NOUN uchun/NOUN Prezidentimizga/NOUN o‘z/VERB minnatdorchiligimni/NOUN bildiraman/NOUN ./PUNCT
+ Bu/NOUN Davlatimiz/NOUN rahbarining/NOUN kino/NOUN sohasiga/NOUN kinoijodkorlarga/NOUN qaratayotgan/NOUN alohida/NOUN e‘tiboridan/NOUN dalolat/NOUN beradi/NOUN ./PUNCT
+ O‘zbek/NOUN kinoijodkorlarining/NOUN Gollivudda/NOUN o‘z/VERB qahramonlari/NOUN haqida/NOUN filmlar/NOUN yaratishini/NOUN tasavvur/NOUN qilish/NOUN qiyin edi/VERB endi/NOUN esa/NOUN bu/NOUN haqiqat/NOUN ./PUNCT
+ Shuningdek/NOUN ushbu/NOUN loyihani/NOUN amalga/NOUN oshirishda/NOUN yordam/NOUN va/NOUN ko‘mak/NOUN ko‘rsatayotgan/VERB O‘zbekiston/NOUN Kinematografiya/NOUN agentligiga/NOUN alohida/NOUN minnatdorchilik/NOUN bildiraman/NOUN dedi/NOUN Hujjatli/NOUN va/NOUN xronikal/NOUN filmlar/NOUN kinostudiyasi/NOUN DUK/NOUN rahbari/NOUN film/NOUN ssenariy/NOUN mualliflaridan/NOUN biri/NOUN Furqat/NOUN Usmonov/NOUN ./PUNCT
+ Film/NOUN rejissyori/NOUN Muzaffarxon/NOUN Erkinov/NOUN Gollivudda/NOUN filmning/NOUN qaysi/NOUN epizodlari/NOUN suratga/NOUN olinayotgani/NOUN haqida/NOUN batafsil/NOUN to‘xtalib/VERB o‘tdi/VERB Abdulla/NOUN Oripov/NOUN hayotining/NOUN so‘nggi/ADJ oylari/NOUN AQShda/NOUN o‘tgan/VERB ./PUNCT
+ U/NOUN Texas/NOUN shtatining/NOUN Xyuston/NOUN shahrida/NOUN yashagan/NOUN ./PUNCT
+ Shu/NOUN sabab/NOUN shoirning/NOUN qizi/NOUN Mavluda/NOUN Oripova/NOUN xonadonida/NOUN shuningdek/NOUN shoir/NOUN sayr/NOUN qilishni/NOUN juda/NOUN yaxshi/NOUN ko‘rgan/ADJ Tinch/NOUN okeani/NOUN sohillarida/NOUN epizodlar/NOUN suratga/NOUN olyapmiz/NOUN ./PUNCT
+ Biz/NOUN bu/NOUN epizodlarni/NOUN Gollivudda/NOUN suratga/NOUN oldik/NOUN ./PUNCT
+ Filmda/NOUN shoirning/NOUN nabirasi/NOUN ham/NOUN o‘z/VERB obrazini/NOUN o‘zi/VERB gavdalantirmoqda/NOUN deya/NOUN sharhlaydi/NOUN Muzaffarxon/NOUN Erkinov/NOUN ./PUNCT
+ Suratga/NOUN olish/NOUN ishlari/NOUN AQShning/NOUN Xyuston/NOUN Los-Anjeles/NOUN va/NOUN Nyu-York/NOUN shaharlarida/NOUN olib/NOUN borilmoqda/NOUN ./PUNCT
+ Filmda/NOUN Abdulla/NOUN Oripovning/NOUN keksalik/NOUN davrini/NOUN O‘zbekiston/NOUN Respublikasida/NOUN xizmat/NOUN ko‘rsatgan/VERB artist/NOUN Surxondaryo/NOUN teatri/NOUN aktyori/NOUN Qudratilla/NOUN Burxonov/NOUN shoirning/NOUN rafiqasi/NOUN Xanifa/NOUN Mustafoeva/NOUN rolini/NOUN esa/NOUN O‘zbekiston/NOUN xalq/NOUN artisti/NOUN Gulchehra/NOUN Jamilova/NOUN ijro/NOUN qilmoqda/NOUN ./PUNCT
+ Bundan/NOUN tashqari/NOUN kinokartinada/NOUN Do‘stlik/NOUN ordeni/NOUN sohibi/NOUN shoir/NOUN Shodmonqul/NOUN Salom/NOUN mahoratli/NOUN yosh/NOUN aktrisa/NOUN Rayhon/NOUN Asadova/NOUN va/NOUN boshqa/NOUN mahoratli/NOUN aktyorlarni/NOUN ham/NOUN ko‘rish/VERB mumkin/NOUN ./PUNCT
+ Film/NOUN bosh/NOUN prodyuseri/NOUN Firdavs/NOUN Abduxoliqov/NOUN ssenariy/NOUN mualliflari/NOUN Minhojiddin/NOUN Mirzo/NOUN Muqaddas/NOUN Usmonova/NOUN va/NOUN Furqat/NOUN Usmonov/NOUN postanovkachi/NOUN rejissyor/NOUN Muzaffarxon/NOUN Erkinov/NOUN postanovkachi/NOUN operator/NOUN Ravshan/NOUN Mirzakamolov/NOUN ./PUNCT
+ Film/NOUN premerasi/NOUN yil/NOUN yakuniga/NOUN rejalashtirilgan/NOUN ./PUNCT
+ Qo‘qon/NOUN shahrida/NOUN joylashgan/NOUN Buyuk/NOUN allomalar/NOUN muzeyida/NOUN O‘zbekiston/NOUN madaniy/NOUN merosini/NOUN o‘rganish/VERB saqlash/NOUN va/NOUN ommalashtirish/NOUN bo‘yicha/AUX Butunjahon/NOUN jamiyatining/NOUN Qo‘qon/NOUN davlat/NOUN muzey-qo‘riqxonasi/NOUN to‘plami/NOUN kitob-albomi/NOUN taqdimoti/NOUN bo‘lib/VERB o‘tdi/VERB ./PUNCT
+ Nashrda/NOUN Farg‘ona/NOUN vodiysidagi/NOUN eng/NOUN qadimiy/NOUN madaniyat/NOUN muassasalaridan/NOUN birida/NOUN saqlanayotgan/NOUN san‘at/NOUN asarlari/NOUN namunalari/NOUN taqdim/NOUN etilgan/NOUN ./PUNCT
+ Kitob-albom/NOUN sahifalarida/NOUN arxeologiya/NOUN fondi/NOUN yodgorliklari/NOUN numizmatika/NOUN namunalari/NOUN qo‘lyozma/NOUN asarlar/NOUN va/NOUN hujjatli/NOUN filmlar/NOUN fondi/NOUN haqida/NOUN hikoya/NOUN qilinadi/NOUN ./PUNCT
+ Saralab/NOUN olingan/NOUN namunalarda/NOUN yog‘och/NOUN o‘ymakorligi/NOUN va/NOUN ganch/NOUN san‘ati/NOUN zargarlik/NOUN kulolchilik/NOUN badiiy/NOUN to‘qimachilik/NOUN san‘ati/NOUN o‘z/VERB ifodasini/NOUN topgan/NOUN ./PUNCT
+ Tasviriy/NOUN san‘at/NOUN to‘plamiga/NOUN alohida/NOUN bo‘lim/NOUN bag‘ishlangan/VERB ./PUNCT
+ Muzey/NOUN rahbari/NOUN to‘plam/NOUN haqidagi/NOUN kitob/NOUN nashr/NOUN etishda/NOUN ko‘rsatgan/VERB yordami/NOUN uchun/NOUN Butunjahon/NOUN jamiyatiga/NOUN o‘z/VERB minnatdorchiligini/NOUN bildirdi/NOUN ./PUNCT
+ Biz/NOUN uzoq/NOUN vaqtdan/NOUN beri/NOUN Qo‘qon/NOUN davlat/NOUN muzey-qo‘riqxonasiga/NOUN bag‘ishlangan/VERB kitob/NOUN nashr/NOUN etish/NOUN imkoniyatini/NOUN izlayotgan/NOUN edik/NOUN ./PUNCT
+ Butunjahon/NOUN jamiyati/NOUN ko‘magi/NOUN natijasida/NOUN muzeyning/NOUN noyob/NOUN madaniy/NOUN merosiga/NOUN bag‘ishlangan/VERB jild/NOUN O‘zbekiston/NOUN madaniy/NOUN merosi/NOUN jahon/NOUN to‘plamlarida/NOUN turkumi/NOUN doirasida/NOUN nashrdan/NOUN chiqdi/NOUN ./PUNCT
+ Bugun/NOUN biz/NOUN o‘z/VERB mehnatimiz/NOUN natijasini/NOUN taqdim/NOUN etayotganimizdan/NOUN xursandmiz/NOUN dedi/NOUN Manzura/NOUN Mansurova/NOUN ./PUNCT
+ Kitob-albomni/NOUN O‘zbekiston/NOUN madaniy/NOUN merosi/NOUN jahon/NOUN to‘plamlarida/NOUN loyihasi/NOUN ilmiy/NOUN koordinatori/NOUN Elmira/NOUN Gyul/NOUN va/NOUN Qo‘qon/NOUN davlat/NOUN muzey-qo‘riqxonasi/NOUN to‘plami/NOUN loyiihasi/NOUN kuratori/NOUN Shahlo/NOUN Abdullaeva/NOUN taqdim/NOUN etdi/NOUN ./PUNCT
+ Tadbir/NOUN doirasida/NOUN mehmonlar/NOUN uchun/NOUN O‘zbekiston/NOUN madaniy/NOUN merosi/NOUN jahon/NOUN to‘plamlarida/NOUN turkumiga/NOUN oid/NOUN 50/NOUN ta/NOUN kitob-albomlardan/NOUN iborat/NOUN ko‘rgazma/VERB ham/NOUN tashkil/NOUN etildi/NOUN ./PUNCT
+ O‘zbek/NOUN estradasi/NOUN asoschisi/NOUN Botir/NOUN Zokirov/NOUN xotirasiga/NOUN bag‘ishlangan/VERB mazkur/NOUN ko‘rik-tanlovning/NOUN tuman-shahar/NOUN bosqichlarida/NOUN ishtirok/NOUN etganjami/NOUN 2/NOUN 000/NOUN nafar/NOUN ishtirokchilardan/NOUN tanlovning/NOUN hududiy/NOUN saralash/NOUN bosqichlarida/NOUN 420/NOUN nafar/NOUN iqtidorli/NOUN va/NOUN ijodkor/NOUN yoshlar/NOUN saralab/NOUN olingan/NOUN ./PUNCT
+ Yakuniy/NOUN saralash/NOUN bosqichiga/NOUN hakamlar/NOUN hay‘ati/NOUN tomonidan/NOUN tanlab/NOUN olingan/NOUN 45/NOUN nafar/NOUN eng/NOUN iqtidorli/NOUN yoshlar/NOUN Turkiston/NOUN san‘at/NOUN saroyida/NOUN o‘zlarining/VERB san‘atlarini/NOUN namoyish/NOUN etishdi/NOUN ./PUNCT
+ Ular/NOUN orasidan/NOUN esa/NOUN 3/NOUN nafar/NOUN ishtirokchi/NOUN g‘olib/ADJ sifatida/NOUN saralanib/NOUN bugungi/NOUN marosimda/NOUN taqdirlanishdi/NOUN ./PUNCT
+ Ko‘rik-tanlovning/NOUN yakuniy/NOUN xulosasiga/NOUN ko‘ra/AUX 1-o‘rin/null 30/NOUN mln/NOUN ./PUNCT
+ so‘m/NOUN diplom/NOUN va/NOUN maxsus/NOUN statuetka/NOUN sovrini/NOUN Qaytmasbek/NOUN Ahmedovga/NOUN 2-o‘rin/null 21/NOUN mln/NOUN ./PUNCT
+ so‘m/NOUN diplom/NOUN va/NOUN maxsus/NOUN statuetka/NOUN Sevara/NOUN To‘lanovaga/VERB 3-o‘rin/null 15/NOUN mln/NOUN ./PUNCT
+ so‘m/NOUN diplom/NOUN va/NOUN maxsus/NOUN statuetka/NOUN Jasurbek/NOUN G‘aybullaevga/NOUN nasib/NOUN etdi/NOUN ./PUNCT
+ Ammo/NOUN ko‘rik-tanlov/NOUN shartlarida/NOUN belgilangan/NOUN grand-pri/null sovrini/NOUN egasiz/NOUN qoldi/NOUN ./PUNCT
+ Nima/NOUN uchun/NOUN grand-pri/null sovrini/NOUN bo‘lmadi/VERB degan/NOUN savollarni/NOUN berishyapti/NOUN ./PUNCT
+ Bunga/NOUN sabab/NOUN ishtirokchilarga/NOUN qo‘yilgan/VERB talab/NOUN yuqori/NOUN ./PUNCT
+ Qatnashchilar/NOUN ijodiy/NOUN marralarni/NOUN juda/NOUN baland/NOUN olishlari/NOUN kerak/NOUN ./PUNCT
+ Biz/NOUN hakamlar/NOUN hay‘ati/NOUN a‘zolari/NOUN bilan/NOUN shu/NOUN to‘xtamga/NOUN keldikki/NOUN hali/NOUN grand-priga/null loyiq/NOUN ijrochilar/NOUN bo‘lmadi/VERB -/null dedi/NOUN O‘zbekiston/NOUN xalq/NOUN artisti/NOUN ko‘rik-tanlov/NOUN hakamlar/NOUN hay‘ati/NOUN raisi/NOUN Farrux/NOUN Zokirov/NOUN ./PUNCT
+ U/NOUN shuningdek/NOUN g‘oliblarning/ADJ ijrosiga/NOUN ham/NOUN umumiy/NOUN qilib/NOUN aytganda/NOUN 4/NOUN baho/NOUN qo‘yganini/VERB aytdi/NOUN hamda/NOUN Faqatgina/NOUN ovoz/NOUN bilan/NOUN bu/NOUN yutuqqa/NOUN erishib/NOUN bo‘lmaydi/VERB ./PUNCT
+ Ishtirokchilar/NOUN Botir/NOUN Zokirovning/NOUN hayoti/NOUN va/NOUN ijodi/NOUN sahnada/NOUN o‘zini/VERB tutish/NOUN madaniyati/NOUN bo‘yicha/AUX ham/NOUN bilimga/NOUN ega/NOUN bo‘lishlari/VERB talab/NOUN etiladi/NOUN ./PUNCT
+ Men/NOUN o‘ylaymanki/VERB O‘zbekistonimizda/NOUN iste‘dodlar/NOUN juda/NOUN ko‘p/ADV ./PUNCT
+ Keyingi/NOUN tanlovlarda/NOUN albatta/NOUN grand-pri/null sovrindorlari/NOUN ham/NOUN bo‘ladi/VERB ./PUNCT
+ Barcha/NOUN ijodkorlarga/NOUN ijodiy/NOUN zafarlar/NOUN tilayman/NOUN -/null deya/NOUN qo‘shimcha/ADJ qildi/NOUN ./PUNCT
+ Minskda/NOUN bo‘lib/VERB o‘tayotgan/VERB Listapad/NOUN kinofestivalida/NOUN kinoaktyor/NOUN Ulug‘bek/ADJ Qodirov/NOUN bilan/NOUN Kazbek/NOUN o‘zbek-belarus/NOUN filmida/NOUN ishtirok/NOUN etish/NOUN bo‘yicha/AUX shartnoma/NOUN imzolandi/NOUN ./PUNCT
+ Bu/NOUN haqda/NOUN Kinomotografiyani/NOUN rivojlantirish/NOUN agentligi/NOUN matbuot/NOUN xizmati/NOUN xabar/NOUN qilmoqda/NOUN ./PUNCT
+ Filmda/NOUN Mamadali/NOUN Topivoldiev-Kazbek/VERB obrazini/NOUN Qodirov/NOUN ijro/NOUN yetadi/NOUN ./PUNCT
+ Fashistlar/NOUN uni/NOUN Osiyo/NOUN arsloni/NOUN deb/NOUN atagan/NOUN ./PUNCT
+ Uch/NOUN tomonlama/NOUN shartnomani/NOUN O‘zbekfilm/NOUN kinokonserni/NOUN direktori/NOUN Bahodir/NOUN Odilov/NOUN aktyor/NOUN Ulug‘bek/ADJ Qodirov/NOUN hamda/NOUN Belarusfilm/NOUN kinostudiyasi/NOUN bosh/NOUN direktori/NOUN Vladimir/NOUN Karachevskiy/NOUN imzoladi/NOUN ./PUNCT
+ Kartinani/NOUN suratga/NOUN olish/NOUN ishlari/NOUN shu/NOUN yilning/NOUN dekabr/NOUN oyida/NOUN boshlanishi/NOUN rejalashtirilgan/NOUN ./PUNCT
+ Film/NOUN rejissyori/NOUN Muhamad/NOUN Ali/NOUN Iskandarov/NOUN ./PUNCT
+ Kinoaktyor/NOUN Ulug‘bek/ADJ Qodirov/NOUN o‘zining/VERB ushbu/NOUN loyihadagi/NOUN ishtiroki/NOUN haqida/NOUN shunday/NOUN deydi/NOUN Filmda/NOUN bosh/NOUN rolni/NOUN Vatanimiz/NOUN qahramoni/NOUN jasur/NOUN inson/NOUN Mamadali/NOUN Topivoldiev/NOUN rolini/NOUN o‘ynayotganimdan/VERB nihoyatda/NOUN faxrlanaman/NOUN ./PUNCT
+ Bu/NOUN men/NOUN uchun/NOUN katta/NOUN sharaf/NOUN va/NOUN mas‘uliyatdir/VERB ./PUNCT
+ Ushbu/NOUN rol/NOUN mening/NOUN II/NOUN jahon/NOUN urushi/NOUN haqia/NOUN olinayotgan/NOUN filmdagi/NOUN ilk/NOUN ishtirokim/NOUN birinchi/NOUN tajribam/NOUN ./PUNCT
+ Biroz/NOUN hayajondaman/NOUN ./PUNCT
+ Rolga/NOUN tayyorgarlikni/NOUN allaqachon/NOUN boshlaganman/NOUN cport/NOUN zaliga/NOUN tashrif/NOUN buyurib/NOUN jiddiy/NOUN shug‘ullanmoqda/VERB ./PUNCT
+ Chunki/NOUN millat/NOUN qahramoni/NOUN qiyofasini/NOUN ishonchli/NOUN yaratish/NOUN u/NOUN uchun/NOUN juda/NOUN muhim/NOUN ./PUNCT
+ Listopad/NOUN kinofestivalda/NOUN ishtirok/NOUN etayotgan/NOUN O‘zbekiston/NOUN Kinematografiya/NOUN agentligi/NOUN Bosh/NOUN direktori/NOUN Firdavs/NOUN Abduxoliqov/NOUN boshchiligidagi/NOUN O‘zbekiston/NOUN delegatsiyasi/NOUN va/NOUN Kazbek/NOUN filmi/NOUN ijodiy/NOUN jamoasi/NOUN suratga/NOUN olish/NOUN rejalashtirilgan/NOUN joylarda/NOUN bo‘ldi/VERB ./PUNCT
+ Film/NOUN qahramonlari/NOUN uchun/NOUN kerakli/NOUN kostyumlar/NOUN tanlash/NOUN ham/NOUN amalga/NOUN oshirildi/NOUN ./PUNCT
+ Agentlik/NOUN Bosh/NOUN direktori/NOUN Firdavs/NOUN Abduxoliqov/NOUN filmni/NOUN suratga/NOUN olish/NOUN tafsilotlari/NOUN haqida/NOUN quyidagi/NOUN aytib/NOUN o‘tdi/VERB :/PUNCT
